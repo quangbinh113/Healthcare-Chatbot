@@ -9,7 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-DEFAULT_OUTPUT = 'E:/Data_analysis/NLP_chatbot/Data/test'
+DEFAULT_OUTPUT = './NLP.2023.1.Generative-Based-Chatbot/data_crawler/data'
 DEFAULT_INTERVAL = 5.0  
 DEFAULT_ARTICLES_LIMIT = 1  
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'
