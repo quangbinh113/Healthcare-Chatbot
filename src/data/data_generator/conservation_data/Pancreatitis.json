@@ -1,0 +1,914 @@
+[
+    {
+        "context 0": "I've been having severe pain in my upper abdomen. Could it be pancreatitis?",
+        "context 1": "Yes, severe upper abdominal pain is one of the main symptoms of pancreatitis.",
+        "context 2": "What are the other symptoms of pancreatitis?",
+        "context 3": "Other symptoms include nausea, vomiting, and the pain often radiates to the back.",
+        "context 4": "Should I see a doctor if I suspect pancreatitis?",
+        "response": "Yes, it's important to see a doctor for a proper diagnosis and appropriate treatment."
+    },
+    {
+        "context 0": "Can you explain the difference between acute and chronic pancreatitis?",
+        "context 1": "Acute pancreatitis is a sudden inflammation of the pancreas, while chronic pancreatitis is a long-term inflammation.",
+        "context 2": "What are the causes of acute pancreatitis?",
+        "context 3": "The two most common causes are gallstone blockage and heavy alcohol use.",
+        "context 4": "Are there any common causes for chronic pancreatitis?",
+        "response": "Heavy alcohol use is also a common cause of chronic pancreatitis, along with certain genetic disorders."
+    },
+    {
+        "context 0": "What are the complications of pancreatitis?",
+        "context 1": "Complications can include infection, bleeding, diabetes mellitus, and problems with other organs.",
+        "context 2": "How is acute pancreatitis treated?",
+        "context 3": "Treatment may involve intravenous fluids, pain medication, and sometimes antibiotics.",
+        "context 4": "And what about chronic pancreatitis?",
+        "response": "In addition to the previous treatments, dietary changes and pancreatic enzyme replacement may be required for chronic pancreatitis."
+    },
+    {
+        "context 0": "Medi, I've been having severe pain in my upper abdomen. Could it be pancreatitis?",
+        "context 1": "Pancreatitis is a possible cause of upper abdominal pain. Other symptoms may include nausea and vomiting.",
+        "context 2": "What are the main types of pancreatitis and their symptoms?",
+        "context 3": "The two main types of pancreatitis are acute and chronic. Acute pancreatitis may have fever and resolves in a few days. Chronic pancreatitis may have weight loss and fatty stool.",
+        "context 4": "Thank you, Medi. I'll consult a healthcare professional for a proper diagnosis.",
+        "response": "You're welcome. It's important to seek medical advice for a proper diagnosis and treatment."
+    },
+    {
+        "context 0": "Hey, Medi. Can you tell me more about the causes of pancreatitis?",
+        "context 1": "The most common causes of acute pancreatitis are gallstone blockage and heavy alcohol use. Other causes include trauma, certain medications, infections, and tumors. Chronic pancreatitis may develop from acute pancreatitis or other causes.",
+        "context 2": "What are the risk factors for pancreatitis?",
+        "context 3": "Risk factors for pancreatitis include heavy alcohol use, high levels of blood fats, certain medications, infections, and genetic disorders. Smoking also increases the risk.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome. Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Hello, Medi. Can you explain how pancreatitis is diagnosed?",
+        "context 1": "The diagnosis of acute pancreatitis is made by a threefold increase in the blood of amylase or lipase. Medical imaging like ultrasound and CT scan can also be useful. In chronic pancreatitis, these tests may be normal.",
+        "context 2": "What are the treatment options for pancreatitis?",
+        "context 3": "Acute pancreatitis is treated with intravenous fluids, pain medication, and sometimes antibiotics. Eating and drinking are disallowed, and other interventions may be necessary. Chronic pancreatitis may require long-term dietary changes, enzyme replacement, and occasionally surgery.",
+        "context 4": "Thank you, Medi. This clarifies things for me.",
+        "response": "You're welcome. I'm here to help if you have any more questions."
+    },
+    {
+        "context 0": "Medi, I've been having severe pain in my upper abdomen. What could be causing it?",
+        "context 1": "Based on your symptoms, it is possible that you are experiencing pancreatitis. It is characterized by inflammation of the pancreas.",
+        "context 2": "What are the common signs and symptoms of pancreatitis?",
+        "context 3": "Common signs and symptoms of pancreatitis include pain in the upper abdomen, nausea, vomiting, and the pain often goes into the back.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Hi, Medi.",
+        "context 1": "Hello. How can I assist you today?",
+        "context 2": "I've been having weight loss, fatty stool, and diarrhea. Could it be pancreatitis?",
+        "context 3": "Yes, those symptoms are commonly associated with chronic pancreatitis. It is important to consult a healthcare professional for a proper diagnosis.",
+        "context 4": "If it is chronic pancreatitis, what are the treatment options available?",
+        "response": "Treatment for chronic pancreatitis may include dietary changes, pancreatic enzyme replacement, and in some cases, surgery."
+    },
+    {
+        "context 0": "Medi, I'm worried about the complications of pancreatitis. What are they?",
+        "context 1": "Complications of pancreatitis may include infection, bleeding, diabetes mellitus, or problems with other organs.",
+        "context 2": "What can I do to prevent pancreatitis?",
+        "context 3": "To prevent pancreatitis, it is important to maintain a healthy lifestyle, limit alcohol consumption, and avoid high levels of blood fats and calcium.",
+        "context 4": "Thank you for the advice, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "I've been having severe pain in my upper abdomen. Could it be pancreatitis?",
+        "context 1": "The symptoms you're describing, such as severe upper abdominal pain and nausea, could be indicative of pancreatitis.",
+        "context 2": "What causes pancreatitis?",
+        "context 3": "Pancreatitis can be caused by various factors, including alcohol abuse, gallstones blocking the bile duct, and certain medications.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome. If you're experiencing these symptoms, it's important to seek medical attention for an accurate diagnosis."
+    },
+    {
+        "context 0": "Medi, what are the signs and symptoms of chronic pancreatitis?",
+        "context 1": "The signs and symptoms of chronic pancreatitis may include weight loss, fatty stool, diarrhea, and abdominal pain.",
+        "context 2": "Can chronic pancreatitis be cured?",
+        "context 3": "While chronic pancreatitis cannot be fully cured, its symptoms can be managed with lifestyle changes, dietary modifications, and medication.",
+        "context 4": "Thank you for clarifying, Medi.",
+        "response": "You're welcome. If you suspect you have chronic pancreatitis, it's best to consult a healthcare professional for proper management."
+    },
+    {
+        "context 0": "Medi, how is acute pancreatitis diagnosed?",
+        "context 1": "Acute pancreatitis is typically diagnosed based on a significant increase in the blood levels of amylase or lipase. Medical imaging, such as ultrasound or CT scan, can also be useful in diagnosis.",
+        "context 2": "What are the treatment options for acute pancreatitis?",
+        "context 3": "The treatment for acute pancreatitis often involves intravenous fluids, pain medication, and sometimes antibiotics. Eating and drinking are usually restricted, and in severe cases, a nasogastric tube may be placed.",
+        "context 4": "Thank you for providing the information, Medi.",
+        "response": "You're welcome. It's important to consult a healthcare professional if you suspect you have acute pancreatitis for appropriate medical care."
+    },
+    {
+        "context 0": "I have been experiencing pain in my upper abdomen. Could it be pancreatitis?",
+        "context 1": "Pancreatitis is characterized by inflammation of the pancreas. It can cause upper abdominal pain.",
+        "context 2": "What are the other symptoms of pancreatitis?",
+        "context 3": "Other symptoms of pancreatitis may include nausea, vomiting, and pain that radiates to the back.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Medi, what are the main causes of acute pancreatitis?",
+        "context 1": "The two most common causes of acute pancreatitis are gallstone blockage and heavy alcohol use.",
+        "context 2": "Are there any other causes for acute pancreatitis?",
+        "context 3": "Other causes include trauma, certain medications, infections, and tumors.",
+        "context 4": "Thank you for the clarification, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Hi, Medi. Can you explain the difference between acute and chronic pancreatitis?",
+        "context 1": "Acute pancreatitis is a sudden inflammation of the pancreas that usually resolves within a few days. Chronic pancreatitis is a long-lasting inflammation that can lead to complications over time.",
+        "context 2": "What are the symptoms of chronic pancreatitis?",
+        "context 3": "Symptoms of chronic pancreatitis may include weight loss, fatty stool, and diarrhea.",
+        "context 4": "Thank you, Medi. That was helpful.",
+        "response": "You're welcome! Let me know if there's anything else you'd like to know."
+    },
+    {
+        "context 0": "I've been having severe pain in my upper abdomen. Could it be pancreatitis?",
+        "context 1": "Pancreatitis can indeed cause severe pain in the upper abdomen. I recommend consulting a healthcare professional for a proper diagnosis.",
+        "context 2": "I'm also feeling nauseous and vomiting. Are these symptoms of pancreatitis?",
+        "context 3": "Yes, nausea and vomiting are common symptoms of pancreatitis. It's important to get a medical evaluation to determine the cause of your symptoms.",
+        "context 4": "Thank you for the information. I will seek medical attention.",
+        "response": "You're welcome. It's important to address these symptoms as soon as possible for a proper diagnosis and treatment."
+    },
+    {
+        "context 0": "Medi, how is pancreatitis diagnosed?",
+        "context 1": "Diagnosis of pancreatitis is based on a threefold increase in the blood of either amylase or lipase. Medical imaging such as ultrasound and CT scan may also be useful.",
+        "context 2": "What are the common causes of acute pancreatitis?",
+        "context 3": "The two most common causes of acute pancreatitis are a gallstone blocking the common bile duct after the pancreatic duct has joined, and heavy alcohol use.",
+        "context 4": "Thank you, Medi. This information is helpful.",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "context 0": "Hi, Medi. What are the symptoms of chronic pancreatitis?",
+        "context 1": "Symptoms of chronic pancreatitis include weight loss, fatty stool, and diarrhea. It's important to consult a healthcare professional for a proper diagnosis and management.",
+        "context 2": "Can chronic pancreatitis be caused by something other than heavy alcohol use?",
+        "context 3": "Yes, other causes of chronic pancreatitis include high levels of blood fats, high blood calcium, certain medications, infections, and certain genetic disorders.",
+        "context 4": "Thank you, Medi. I appreciate the information.",
+        "response": "You're welcome. I'm here to provide information and support. Let me know if you have any further questions."
+    },
+    {
+        "context 0": "Medi, I've been having severe pain in my upper abdomen. What could be causing it?",
+        "context 1": "Based on your symptoms, it's possible that you have pancreatitis. It's inflammation of the pancreas.",
+        "context 2": "What are the signs and symptoms of pancreatitis?",
+        "context 3": "Signs and symptoms of pancreatitis include pain in the upper abdomen, nausea, vomiting, and the pain often goes into the back.",
+        "context 4": "Thank you, Medi. What are the treatment options for pancreatitis?",
+        "response": "Treatment for pancreatitis may include intravenous fluids, pain medication, and sometimes antibiotics. Eating and drinking are usually disallowed, and additional procedures may be required depending on the severity."
+    },
+    {
+        "context 0": "Medi, is pancreatitis a chronic condition or an acute condition?",
+        "context 1": "Pancreatitis can be either acute or chronic. Acute pancreatitis typically resolves in a few days, while chronic pancreatitis is long-term.",
+        "context 2": "What are the differences between acute and chronic pancreatitis?",
+        "context 3": "Acute pancreatitis has symptoms like fever, while chronic pancreatitis can cause weight loss, fatty stool, and diarrhea.",
+        "context 4": "Thank you, Medi. Does heavy alcohol use always cause pancreatitis?",
+        "response": "Heavy alcohol use is one of the most common causes of acute and chronic pancreatitis, but there are other causes like gallstone blockage or certain medications."
+    },
+    {
+        "context 0": "Hi, Medi. Can you explain the complications of pancreatitis?",
+        "context 1": "Complications of pancreatitis can include infection, bleeding, diabetes mellitus, or problems with other organs.",
+        "context 2": "Is there any way to prevent pancreatitis?",
+        "context 3": "There are ways to reduce the risk of pancreatitis, such as avoiding heavy alcohol use and maintaining a healthy lifestyle.",
+        "context 4": "Thank you, Medi. This information is very helpful.",
+        "response": "You're welcome! I'm glad I could help. Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Hi, Medi. I've been having severe pain in my upper abdomen. What could be causing it?",
+        "context 1": "Based on your symptoms, it's possible that you are experiencing pancreatitis. It is characterized by inflammation of the pancreas.",
+        "context 2": "What are the signs and symptoms of pancreatitis?",
+        "context 3": "Common signs and symptoms of pancreatitis include pain in the upper abdomen, nausea, vomiting, and the pain often goes into the back.",
+        "context 4": "Is there any treatment for pancreatitis?",
+        "response": "Yes, treatment for pancreatitis usually involves intravenous fluids, pain medication, and sometimes antibiotics."
+    },
+    {
+        "context 0": "Hello, Medi. Can you tell me the main types of pancreatitis?",
+        "context 1": "Certainly! There are two main types of pancreatitis: acute pancreatitis and chronic pancreatitis.",
+        "context 2": "What are the differences between acute and chronic pancreatitis?",
+        "context 3": "Acute pancreatitis typically has sudden onset and resolves within a few days. Chronic pancreatitis, on the other hand, is a long-term condition with symptoms such as weight loss, fatty stool, and diarrhea.",
+        "context 4": "Thank you for explaining that, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Medi, what are the common causes of pancreatitis?",
+        "context 1": "The two most common causes of acute pancreatitis are a gallstone blocking the common bile duct and heavy alcohol use. Other causes include trauma, certain medications, infections, and tumors. Chronic pancreatitis can be caused by heavy alcohol use, high blood fats, certain medications, and genetic disorders.",
+        "context 2": "Is there any way to prevent pancreatitis?",
+        "context 3": "To reduce the risk of pancreatitis, it is important to limit alcohol consumption and maintain a healthy lifestyle. Avoiding high levels of blood fats and certain medications can also help prevent it.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "I've been having severe upper abdominal pain and nausea. What could be causing it?",
+        "context 1": "Based on your symptoms, it's possible that you have pancreatitis, which is inflammation of the pancreas.",
+        "context 2": "What are the signs and symptoms of pancreatitis?",
+        "context 3": "Common signs and symptoms of pancreatitis include severe upper abdominal pain, nausea, vomiting, and pain that radiates to the back.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! If your symptoms persist, I recommend seeking medical attention for a proper diagnosis."
+    },
+    {
+        "context 0": "Medi, what are the main types of pancreatitis?",
+        "context 1": "There are two main types of pancreatitis: acute pancreatitis, which typically resolves in a few days, and chronic pancreatitis, which can last for a long time.",
+        "context 2": "What are the complications associated with pancreatitis?",
+        "context 3": "Complications of pancreatitis may include infection, bleeding, diabetes mellitus, or problems with other organs.",
+        "context 4": "Thank you, Medi. That helps me understand the condition better.",
+        "response": "You're welcome! I'm here to help if you have any more questions."
+    },
+    {
+        "context 0": "Medi, how is pancreatitis diagnosed?",
+        "context 1": "Diagnosis of pancreatitis is often based on a threefold increase in the blood levels of amylase or lipase. Medical imaging such as ultrasound and CT scan may also be used.",
+        "context 2": "What are the treatment options for pancreatitis?",
+        "context 3": "The treatment for pancreatitis may include intravenous fluids, pain medication, antibiotics, and dietary changes. In some cases, surgery may be necessary.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if there's anything else you'd like to know."
+    },
+    {
+        "context 0": "Medi, I have a severe pain in my upper abdomen. What could it be?",
+        "context 1": "Based on your symptoms, it's possible that you have pancreatitis. You should seek medical attention for further diagnosis and treatment.",
+        "context 2": "Is pancreatitis a serious condition? What are the complications?",
+        "context 3": "Pancreatitis can be serious and may lead to complications such as infection, bleeding, diabetes mellitus, or problems with other organs.",
+        "context 4": "Thank you for the information, Medi. I will see a doctor right away.",
+        "response": "You're welcome. It's important to get proper medical care. Take care!"
+    },
+    {
+        "context 0": "Hello, Medi. I've been experiencing weight loss and fatty stool. Could it be pancreatitis?",
+        "context 1": "Yes, weight loss and fatty stool can be symptoms of chronic pancreatitis. I recommend consulting a healthcare professional for a proper diagnosis.",
+        "context 2": "If I have chronic pancreatitis, what are the treatment options?",
+        "context 3": "The treatment for chronic pancreatitis may include dietary changes, pancreatic enzyme replacement, and in some cases, surgery to remove parts of the pancreas.",
+        "context 4": "Thank you for the information, Medi. I'll make sure to follow up with a doctor.",
+        "response": "You're welcome. It's important to get the right treatment. Take care!"
+    },
+    {
+        "context 0": "Medi, what are the common causes of acute pancreatitis?",
+        "context 1": "The two most common causes of acute pancreatitis are a gallstone blocking the common bile duct after the pancreatic duct has joined, and heavy alcohol use.",
+        "context 2": "Can other factors also cause acute pancreatitis?",
+        "context 3": "Yes, other causes include direct trauma, certain medications, infections such as mumps, and tumors.",
+        "context 4": "Thank you for the clarification, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "I have been experiencing severe pain in my upper abdomen. Could it be pancreatitis?",
+        "context 1": "Pancreatitis is characterized by inflammation of the pancreas and can cause upper abdominal pain. I recommend consulting a healthcare professional for a proper diagnosis.",
+        "context 2": "What are the common symptoms of pancreatitis?",
+        "context 3": "Common symptoms of pancreatitis include pain in the upper abdomen, nausea, and vomiting that may radiate to the back. It's important to seek medical attention for an accurate diagnosis and appropriate treatment.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Medi, what are the main causes of pancreatitis?",
+        "context 1": "The two main causes of pancreatitis are a gallstone blocking the common bile duct after the pancreatic duct has joined, and heavy alcohol use. Other causes include direct trauma, certain medications, infections such as mumps, and tumors. It's best to consult a healthcare professional for a thorough evaluation.",
+        "context 2": "Can pancreatitis be prevented?",
+        "context 3": "While you cannot completely prevent all cases of pancreatitis, you can reduce the risk by maintaining a healthy lifestyle and avoiding heavy alcohol consumption. For further guidance, it's advisable to consult with a healthcare professional.",
+        "context 4": "Thank you for the clarification, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Hi, Medi.",
+        "context 1": "Hello! How can I assist you today?",
+        "context 2": "I've been diagnosed with chronic pancreatitis. What are the possible complications?",
+        "context 3": "Complications of chronic pancreatitis may include infection, bleeding, diabetes mellitus, or problems with other organs. It's important to work closely with your healthcare team to manage your condition and prevent or address any potential complications.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Hi, Medi. Lately, I've been experiencing pain in my upper abdomen. What could be causing it?",
+        "context 1": "The pain in the upper abdomen could be a symptom of pancreatitis. It's an inflammation of the pancreas that can cause severe pain.",
+        "context 2": "Should I be worried about pancreatitis? What are the other symptoms?",
+        "context 3": "Pancreatitis can cause nausea, vomiting, and the pain may also radiate to your back. It's important to consult a doctor for a proper diagnosis.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! If you have any more questions or concerns, feel free to ask."
+    },
+    {
+        "context 0": "Hello, Medi. I have been having episodes of weight loss and fatty stool lately. What could be the cause?",
+        "context 1": "Weight loss and fatty stool can be symptoms of chronic pancreatitis. It's a condition where the pancreas doesn't function properly.",
+        "context 2": "Is chronic pancreatitis a serious condition? What are the long-term effects?",
+        "context 3": "Chronic pancreatitis can lead to complications like diabetes and problems with digestion. It's important to follow a proper treatment plan and lifestyle changes.",
+        "context 4": "Thank you for your advice, Medi.",
+        "response": "You're welcome! Don't hesitate to reach out if you have any more questions or concerns."
+    },
+    {
+        "context 0": "Hi, Medi. Can you tell me about the diagnosis and treatment options for pancreatitis?",
+        "context 1": "Diagnosis of pancreatitis is usually done through blood tests to measure the levels of amylase and lipase. Medical imaging like ultrasound or CT scan may also be used. Treatment usually involves intravenous fluids, pain medication, and sometimes antibiotics.",
+        "context 2": "Is surgery required for pancreatitis? What about long-term management?",
+        "context 3": "Surgery is not always required for pancreatitis, but in some cases, it may be necessary to remove parts of the pancreas. Long-term management may involve dietary changes and pancreatic enzyme replacement.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! If you have any more questions or concerns about pancreatitis, feel free to ask."
+    },
+    {
+        "context 0": "Hi, Medi. I've been having pain in the upper abdomen and nausea. What could be causing this?",
+        "context 1": "Based on your symptoms, it's possible that you might be experiencing pancreatitis. It is characterized by inflammation of the pancreas.",
+        "context 2": "What are the common causes of pancreatitis?",
+        "context 3": "The two most common causes of pancreatitis are gallstones blocking the common bile duct and heavy alcohol use.",
+        "context 4": "I see. What are the treatment options for pancreatitis?",
+        "response": "Treatment for pancreatitis may include intravenous fluids, pain medication, and sometimes antibiotics. In severe cases, surgery may be required."
+    },
+    {
+        "context 0": "Medi, what are the symptoms of pancreatitis?",
+        "context 1": "The common symptoms of pancreatitis include pain in the upper abdomen, nausea, vomiting, and pain that radiates to the back.",
+        "context 2": "Can pancreatitis lead to other complications?",
+        "context 3": "Yes, pancreatitis can lead to complications such as infection, bleeding, diabetes mellitus, or problems with other organs.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Medi, can you explain the difference between acute and chronic pancreatitis?",
+        "context 1": "Acute pancreatitis is a sudden inflammation of the pancreas that typically resolves in a few days. Chronic pancreatitis, on the other hand, is a long-term condition characterized by ongoing inflammation of the pancreas.",
+        "context 2": "What are the major differences in symptoms between acute and chronic pancreatitis?",
+        "context 3": "In acute pancreatitis, symptoms may include a fever, while chronic pancreatitis may present with weight loss, fatty stool, and diarrhea.",
+        "context 4": "I see. Thank you for the clarification.",
+        "response": "You're welcome! Let me know if there's anything else I can help with."
+    },
+    {
+        "context 0": "I've been experiencing severe abdominal pain lately. What could be the cause?",
+        "context 1": "Based on your symptoms, it's possible that you have acute pancreatitis. I recommend seeking medical attention for a proper diagnosis.",
+        "context 2": "What are the common causes of acute pancreatitis?",
+        "context 3": "The most common causes of acute pancreatitis include gallstones and alcohol consumption.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Medi, can acute pancreatitis lead to any complications?",
+        "context 1": "Yes, severe inflammation in the pancreas can lead to complications such as intra-abdominal hypertension and abdominal compartment syndrome.",
+        "context 2": "What are the late complications of pancreatitis?",
+        "context 3": "Late complications can include recurrent pancreatitis and the development of pancreatic pseudocysts.",
+        "context 4": "I see. Thank you for the explanation, Medi.",
+        "response": "You're welcome! Let me know if there's anything else I can help with."
+    },
+    {
+        "context 0": "Hi, Medi.",
+        "context 1": "Hello! How can I assist you today?",
+        "context 2": "I've been diagnosed with chronic pancreatitis. Is there anything I can do to manage the condition?",
+        "context 3": "Managing chronic pancreatitis includes making lifestyle changes such as avoiding alcohol and following a low-fat diet.",
+        "context 4": "Thank you for the advice, Medi.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "context 0": "Medi, I've been experiencing severe pain in my abdomen. What could be causing it?",
+        "context 1": "Based on your symptoms, it's possible that you're experiencing acute pancreatitis. I recommend seeking medical attention for a proper diagnosis.",
+        "context 2": "Is there anything I can do to relieve the pain temporarily?",
+        "context 3": "You can try applying a heating pad to the affected area and taking over-the-counter pain relievers, but it's important to see a doctor for a proper evaluation.",
+        "context 4": "Thank you for the advice, Medi.",
+        "response": "You're welcome. I hope you feel better soon. Don't hesitate to reach out if you have any more questions."
+    },
+    {
+        "context 0": "Medi, what are the risk factors for developing pancreatitis?",
+        "context 1": "Some of the risk factors for pancreatitis include gallstones, alcohol consumption, high triglyceride levels, and certain medications. It's important to consult with a healthcare professional for personalized advice.",
+        "context 2": "Can pancreatitis be prevented?",
+        "context 3": "While it's not always possible to prevent pancreatitis, you can reduce the risk by maintaining a healthy lifestyle, avoiding excessive alcohol consumption, and managing cholesterol levels.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome. If you have any more questions or concerns, feel free to ask."
+    },
+    {
+        "context 0": "Hi, Medi. I've heard about a condition called abdominal compartment syndrome. Can you explain what it is?",
+        "context 1": "Abdominal compartment syndrome refers to a condition where there is increased pressure within the abdomen, usually due to severe inflammation. This increased pressure can lead to impaired organ function and may require management with an open abdomen procedure.",
+        "context 2": "What are the symptoms of abdominal compartment syndrome?",
+        "context 3": "Symptoms of abdominal compartment syndrome can include abdominal pain, difficulty breathing, decreased urine output, and organ dysfunction. It's important to seek medical attention if you suspect you may have this condition.",
+        "context 4": "Thank you for the clarification, Medi.",
+        "response": "You're welcome. If there's anything else you'd like to know, feel free to ask."
+    },
+    {
+        "context 0": "Medi, what are the common causes of pancreatitis?",
+        "context 1": "The common causes of pancreatitis include gallstones, alcohol consumption, and certain medications.",
+        "context 2": "Are there any other less common causes of pancreatitis?",
+        "context 3": "Less common causes include pancreatic cancer, traumatic injury, autoimmune disease, and high blood calcium levels.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Medi, what are the symptoms of pancreatitis?",
+        "context 1": "Common symptoms of pancreatitis include abdominal pain, nausea, vomiting, and fever.",
+        "context 2": "Can pancreatitis lead to any complications?",
+        "context 3": "Yes, pancreatitis can lead to complications such as intra-abdominal hypertension, pancreatic pseudocysts, and pancreatic abscesses.",
+        "context 4": "Thank you for the clarification, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Hi, Medi.",
+        "context 1": "Hello! How can I assist you today?",
+        "context 2": "I have been diagnosed with acute pancreatitis. What could have caused it?",
+        "context 3": "The most common causes of acute pancreatitis are gallstones and alcohol consumption.",
+        "context 4": "What are the treatment options for acute pancreatitis?",
+        "response": "Treatment for acute pancreatitis may include pain medication, intravenous fluids, and avoiding food and drink for a period of time."
+    },
+    {
+        "context 0": "Medi, what are the symptoms of pancreatitis?",
+        "context 1": "The symptoms of pancreatitis can include abdominal pain, nausea, vomiting, and fever.",
+        "context 2": "Is pancreatitis a serious condition?",
+        "context 3": "Pancreatitis can be serious and requires medical attention. Severe cases can lead to complications.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Medi, how is pancreatitis diagnosed?",
+        "context 1": "Pancreatitis can be diagnosed by blood tests, imaging tests like abdominal ultrasound, and clinical evaluation.",
+        "context 2": "Are there any risk factors for pancreatitis?",
+        "context 3": "Risk factors for pancreatitis include gallstones, alcohol use, high triglyceride levels, and certain medications.",
+        "context 4": "Thank you for the clarification, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Hi, Medi.",
+        "context 1": "Hello. How can I assist you today?",
+        "context 2": "I have been experiencing abdominal pain, could it be related to pancreatitis?",
+        "context 3": "Abdominal pain can be a symptom of pancreatitis. It's important to consult a healthcare professional for a proper diagnosis.",
+        "context 4": "What are the treatment options for pancreatitis?",
+        "response": "Treatment for pancreatitis may include pain management, fluid replacement, and lifestyle changes. Severe cases may require hospitalization."
+    },
+    {
+        "context 0": "Medi, I have severe abdominal pain. What could be causing it?",
+        "context 1": "Severe abdominal pain could be a result of pancreatitis. It can have various causes such as gallstones, alcohol consumption, or medication use.",
+        "context 2": "What are the symptoms of pancreatitis?",
+        "context 3": "Symptoms of pancreatitis include abdominal pain that radiates to the back, nausea, vomiting, and fever.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! I recommend consulting a healthcare professional for a proper diagnosis and treatment."
+    },
+    {
+        "context 0": "Hi, Medi. I have been diagnosed with pancreatic pseudocysts. What does it mean?",
+        "context 1": "Pancreatic pseudocysts are collections of pancreatic secretions that have been walled off by scar tissue. They can cause pain, become infected, rupture, block the bile duct, or migrate around the abdomen.",
+        "context 2": "What are the treatment options for pancreatic pseudocysts?",
+        "context 3": "Treatment options for pancreatic pseudocysts include observation, drainage procedures, or surgical intervention depending on the size, symptoms, and complications.",
+        "context 4": "Thank you, Medi. I will discuss these options with my doctor.",
+        "response": "You're welcome. It's important to follow your doctor's advice and discuss the best treatment plan for your condition."
+    },
+    {
+        "context 0": "Medi, can HIV infection cause pancreatitis?",
+        "context 1": "Yes, HIV infection itself can increase the risk of pancreatitis. Additionally, certain antiretroviral drugs used in the treatment of HIV can also predispose to pancreatitis.",
+        "context 2": "What are the symptoms of pancreatitis in HIV-infected individuals?",
+        "context 3": "Symptoms of pancreatitis in HIV-infected individuals may include abdominal pain, nausea, vomiting, and abnormal laboratory findings such as elevated lipase levels.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! If you have any further questions or concerns, feel free to ask."
+    },
+    {
+        "context 0": "Medi, I've been experiencing severe abdominal pain. What could be causing it?",
+        "context 1": "Based on your symptoms, it's possible that you have pancreatitis. It can be caused by alcohol, gallstones, or certain medications.",
+        "context 2": "What are the symptoms of pancreatitis? Is it a serious condition?",
+        "context 3": "Symptoms of pancreatitis include abdominal pain, nausea, vomiting, and fever. It can be serious and may require medical management.",
+        "context 4": "Thank you for the information, Medi. I will seek medical help.",
+        "response": "You're welcome. It's important to get a proper diagnosis and treatment. Take care!"
+    },
+    {
+        "context 0": "Medi, what are the risk factors for pancreatitis?",
+        "context 1": "The risk factors for pancreatitis include gallstones, alcohol consumption, high triglyceride levels, and certain medications.",
+        "context 2": "Can certain infections cause pancreatitis as well?",
+        "context 3": "Yes, infections can be a cause of pancreatitis. Other less common causes include trauma, autoimmune disease, and high blood calcium levels.",
+        "context 4": "I see. It's good to know the different causes. Thank you, Medi.",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "context 0": "Hi, Medi. I've been diagnosed with pancreatic pseudocysts. What are they?",
+        "context 1": "Pancreatic pseudocysts are collections of pancreatic secretions that have been walled off by scar tissue. They can cause pain, infection, and other complications.",
+        "context 2": "How are pancreatic pseudocysts usually treated?",
+        "context 3": "Treatment options for pancreatic pseudocysts depend on their size and symptoms. They may require drainage or surgical intervention.",
+        "context 4": "Thank you for explaining, Medi. I appreciate your help.",
+        "response": "You're welcome. If you have any more questions or concerns, don't hesitate to reach out."
+    },
+    {
+        "context 0": "Medi, I've been having severe abdominal pain. What could be causing it?",
+        "context 1": "Severe abdominal pain could be a symptom of pancreatitis. It is often caused by alcohol or gallstones.",
+        "context 2": "Is pancreatitis a serious condition? What are the complications?",
+        "context 3": "Pancreatitis can be serious and may lead to complications such as pancreas pseudocysts, pancreatic abscess, and infection. It requires medical attention.",
+        "context 4": "Thank you for the information, Medi. I will seek medical help.",
+        "response": "You're welcome. It's important to get proper medical care for your abdominal pain."
+    },
+    {
+        "context 0": "Hi, Medi. I've heard that certain medications can cause pancreatitis. Is that true?",
+        "context 1": "Yes, certain medications can be associated with acute pancreatitis, such as statins, ACE inhibitors, oral contraceptives, diuretics, and antiretroviral therapy.",
+        "context 2": "How do these medications cause pancreatitis?",
+        "context 3": "The exact mechanisms of how these medications cause pancreatitis are not known, but they may have direct toxic effects on the pancreas or cause metabolic disturbances.",
+        "context 4": "Thank you, Medi. I'll be careful with these medications.",
+        "response": "You're welcome. It's important to discuss any concerns or potential side effects with your healthcare provider."
+    },
+    {
+        "context 0": "Medi, what are the common causes of pancreatitis?",
+        "context 1": "The common causes of pancreatitis include gallstones, alcohol consumption, trauma, steroids, mumps, autoimmune pancreatitis, and certain drugs.",
+        "context 2": "Are there any less common causes of pancreatitis?",
+        "context 3": "Less common causes include pancreatic cancer, pancreatic duct stones, vasculitis, and certain inherited conditions related to trypsinogen activation.",
+        "context 4": "Thank you for clarifying, Medi.",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "context 0": "Medi, I have severe abdominal pain. What could be causing it?",
+        "context 1": "Severe abdominal pain can be caused by various factors, including inflammation of the pancreas, gallstones, or trauma.",
+        "context 2": "Is there any way to relieve the pain at home?",
+        "context 3": "It's important to seek medical attention for severe abdominal pain. Home remedies may not be effective in treating the underlying cause.",
+        "context 4": "Thank you for the advice, Medi.",
+        "response": "You're welcome. Remember to consult a healthcare professional for proper evaluation and treatment."
+    },
+    {
+        "context 0": "Medi, what are the symptoms of pancreatic pseudocysts?",
+        "context 1": "Pancreatic pseudocysts can cause pain, infection, bleeding, jaundice, or migration within the abdomen.",
+        "context 2": "Are there any risk factors for developing pancreatic pseudocysts?",
+        "context 3": "Risk factors for pancreatic pseudocysts include severe inflammation, recurring pancreatitis, or the presence of multiple pseudocysts and gas in the pancreas.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome. Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Hi, Medi. What are the common causes of acute pancreatitis?",
+        "context 1": "The most common causes of acute pancreatitis are alcohol consumption and gallstones. High triglyceride levels can also contribute to the condition.",
+        "context 2": "Are there any medications that can cause pancreatitis?",
+        "context 3": "Certain medications such as statins, ACE inhibitors, and oral contraceptives can be associated with acute pancreatitis. The exact mechanisms are not fully understood.",
+        "context 4": "Thank you for the clarification, Medi.",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "context 0": "I have severe abdominal pain and my abdomen feels tight. What could be causing this?",
+        "context 1": "Severe inflammation can lead to intra-abdominal hypertension and abdominal compartment syndrome. It's important to get medical attention for a proper diagnosis.",
+        "context 2": "Should I be concerned about my renal and respiratory function with these symptoms?",
+        "context 3": "Intra-abdominal hypertension and abdominal compartment syndrome can impair renal and respiratory function. It's best to seek medical advice to address these concerns.",
+        "context 4": "Thank you for your guidance, Medi.",
+        "response": "You're welcome! Please seek immediate medical attention for a thorough evaluation."
+    },
+    {
+        "context 0": "Medi, what are pancreatic pseudocysts and what complications can they cause?",
+        "context 1": "Pancreatic pseudocysts are collections of pancreatic secretions walled off by scar tissue. They can cause pain, infection, rupture, bleeding, jaundice, or migration in the abdomen.",
+        "context 2": "Are there any symptoms I should be aware of if I have pancreatic pseudocysts?",
+        "context 3": "Symptoms may include abdominal pain, fever, nausea, vomiting, yellowing of the skin, and changes in bowel movements. It's best to consult a healthcare professional for an accurate diagnosis.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Medi, how common is acute necrotizing pancreatitis?",
+        "context 1": "Acute necrotizing pancreatitis occurs in approximately 3% of cases or almost 60% of cases involving more than two pseudocysts and gas in the pancreas.",
+        "context 2": "What are the main causes of pancreatitis?",
+        "context 3": "Eighty percent of cases are caused by alcohol or gallstones. Triglyceride levels greater than 1000 mg/dL are also a cause. There are other medications and medical conditions that can contribute as well.",
+        "context 4": "Thank you for the clarification, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "My stomach hurts a lot, Medi. What could be causing it?",
+        "context 1": "Severe inflammation can lead to intra-abdominal hypertension and abdominal compartment syndrome, which can cause abdominal pain.",
+        "context 2": "Does it require any specific treatment, Medi?",
+        "context 3": "Depending on the cause of the inflammation, treatment may involve relieving the pressure through an open abdomen or managing any related complications.",
+        "context 4": "Thank you for explaining, Medi.",
+        "response": "You're welcome! If you have any more questions or concerns, feel free to ask."
+    },
+    {
+        "context 0": "Medi, what is a pancreatic pseudocyst?",
+        "context 1": "A pancreatic pseudocyst is a collection of pancreatic secretions that have been walled off by scar tissue. It can cause pain and other complications.",
+        "context 2": "How are pancreatic pseudocysts typically treated, Medi?",
+        "context 3": "The treatment of pancreatic pseudocysts depends on their size and symptoms. Some may resolve on their own, while others may require drainage or surgical intervention.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if there's anything else I can help with."
+    },
+    {
+        "context 0": "Medi, what are the common causes of pancreatitis?",
+        "context 1": "The common causes of pancreatitis include alcohol consumption, gallstones, and high triglyceride levels, among others.",
+        "context 2": "Is there anything I can do to prevent pancreatitis, Medi?",
+        "context 3": "To help prevent pancreatitis, it's important to maintain a healthy lifestyle, avoid excessive alcohol consumption, and manage conditions such as gallstones and high triglyceride levels.",
+        "context 4": "Thank you for your advice, Medi.",
+        "response": "You're welcome! I'm here to help if you have any more questions."
+    },
+    {
+        "context 0": "Medi, what are the symptoms of pancreatitis?",
+        "context 1": "Symptoms of pancreatitis may include abdominal pain, nausea, vomiting, and fever.",
+        "context 2": "Is pancreatitis a serious condition? Can it be cured?",
+        "context 3": "Pancreatitis can be a serious condition. The treatment depends on the cause and severity, but it can often be managed with medications and lifestyle changes.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Medi, what are the risk factors for pancreatitis?",
+        "context 1": "Risk factors for pancreatitis include alcohol use, gallstones, high triglyceride levels, and certain medications.",
+        "context 2": "Can pancreatitis be prevented? How can I lower my risk?",
+        "context 3": "Pancreatitis can be prevented by avoiding excessive alcohol consumption, maintaining a healthy weight, and treating underlying conditions like gallstones or high triglyceride levels.",
+        "context 4": "Thank you, Medi. I will keep that in mind.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Hi, Medi.",
+        "context 1": "Hello. How can I assist you today?",
+        "context 2": "I've been experiencing severe abdominal pain. Could it be pancreatitis?",
+        "context 3": "Severe abdominal pain can be a symptom of pancreatitis. It's important to consult a healthcare professional for a proper diagnosis.",
+        "context 4": "If it is pancreatitis, what are the treatment options available?",
+        "response": "Treatment for pancreatitis depends on the cause and severity, but it may include pain management, IV fluids, and addressing underlying factors like alcohol use or gallstones."
+    },
+    {
+        "context 0": "Medi, I have severe abdominal pain. What could be causing it?",
+        "context 1": "Severe abdominal pain can be a symptom of pancreatitis. It can be caused by alcohol, gallstones, or certain medications.",
+        "context 2": "Should I be concerned about pancreatitis? What are the treatment options?",
+        "context 3": "Pancreatitis can be serious and may require hospitalization. Treatment typically involves pain management, fluid replacement, and addressing the underlying cause.",
+        "context 4": "Thank you for the information, Medi. I will consult a healthcare professional.",
+        "response": "You're welcome. It's important to seek medical attention as soon as possible. Take care!"
+    },
+    {
+        "context 0": "Medi, what are the symptoms of abdominal compartment syndrome?",
+        "context 1": "Abdominal compartment syndrome can cause symptoms such as severe abdominal pain, bloating, difficulty breathing, and changes in urine output.",
+        "context 2": "If I suspect abdominal compartment syndrome, what should I do?",
+        "context 3": "Abdominal compartment syndrome is a medical emergency. You should seek immediate medical attention for proper diagnosis and treatment.",
+        "context 4": "Thank you, Medi. I will seek medical help right away.",
+        "response": "You're welcome. Please don't delay in seeking medical assistance. Take care!"
+    },
+    {
+        "context 0": "Hi, Medi. Can you explain what pancreatic pseudocysts are?",
+        "context 1": "Pancreatic pseudocysts are collections of pancreatic secretions that are walled off by scar tissue. They can cause pain, infection, and other complications.",
+        "context 2": "Are there any treatment options for pancreatic pseudocysts?",
+        "context 3": "Treatment options for pancreatic pseudocysts depend on their size and severity. They may include monitoring, drainage, or surgery.",
+        "context 4": "Thank you for clarifying, Medi.",
+        "response": "You're welcome. If you have any further questions, feel free to ask. Take care!"
+    },
+    {
+        "context 0": "Medi, I'm experiencing severe abdominal pain. Could it be pancreatitis?",
+        "context 1": "Severe abdominal pain can be a symptom of pancreatitis. It's important to consult a healthcare professional for a proper diagnosis.",
+        "context 2": "What are the diagnostic tests for pancreatitis?",
+        "context 3": "A contrast-enhanced CT scan is commonly used to evaluate pancreatitis. ERCP or an endoscopic ultrasound may also be done if a biliary cause is suspected.",
+        "context 4": "Thank you, Medi. I will see a doctor as soon as possible.",
+        "response": "You're welcome. It's important to seek medical attention for proper diagnosis and treatment."
+    },
+    {
+        "context 0": "Hi, Medi. I have been diagnosed with acute pancreatitis. What is the treatment?",
+        "context 1": "The treatment for acute pancreatitis depends on its severity. In mild cases, admission to a general hospital ward is sufficient. Early feeding is now recommended for better outcomes.",
+        "context 2": "Can pancreatitis affect other organs?",
+        "context 3": "Pancreatitis can manifest as ARDS, causing lung injury. It can also lead to organ failure, necrosis, pseudocyst, and abscess in severe cases.",
+        "context 4": "That sounds serious. What treatments are available for severe pancreatitis?",
+        "response": "Severe pancreatitis may require admission to a high-dependency unit or intensive care unit. Fluids, oxygen, ventilation, and feeding tubes may be used, and the underlying cause will be treated."
+    },
+    {
+        "context 0": "Hello, Medi. Can you explain how dehydration can occur during pancreatitis?",
+        "context 1": "Dehydration can occur due to fluid loss during an episode of acute pancreatitis. Intravenous fluids are provided to maintain hydration.",
+        "context 2": "Is there a specific diet I should follow during pancreatitis?",
+        "context 3": "Oral intake, especially fats, is generally restricted initially. However, early enteral feeding within 48 hours has been shown to improve outcomes.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "context 0": "Medi, I have severe abdominal pain. Could it be pancreatitis?",
+        "context 1": "Pancreatitis can cause severe abdominal pain. It's important to consult a healthcare professional for a proper diagnosis.",
+        "context 2": "What are the symptoms of pancreatitis?",
+        "context 3": "Symptoms of pancreatitis include abdominal pain, nausea, vomiting, and fever.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! If you have any more questions or concerns, feel free to ask."
+    },
+    {
+        "context 0": "Hey Medi, what are the imaging modalities used for diagnosing pancreatitis?",
+        "context 1": "Imaging modalities such as CT scan, endoscopic ultrasound, and ERCP can be used to diagnose pancreatitis.",
+        "context 2": "Are there any challenges in evaluating pancreas using CT scan?",
+        "context 3": "In some cases, bowel gas can obstruct the view of the pancreas, making it difficult to evaluate using CT scan.",
+        "context 4": "Thank you for clarifying, Medi.",
+        "response": "You're welcome! Let me know if there's anything else I can help with."
+    },
+    {
+        "context 0": "Medi, can morphine aggravate or cause pancreatitis?",
+        "context 1": "There are no clinical studies suggesting that morphine can aggravate or cause pancreatitis.",
+        "context 2": "What is the treatment for acute pancreatitis?",
+        "context 3": "The treatment for acute pancreatitis depends on its severity, but it's mainly supportive care with pain control and fluid replacement.",
+        "context 4": "Thank you for the clarification, Medi.",
+        "response": "You're welcome! If you have any more questions or concerns, feel free to ask."
+    },
+    {
+        "context 0": "Medi, I've been experiencing severe abdominal pain. Could it be pancreatitis?",
+        "context 1": "Pancreatitis can cause abdominal pain. Other symptoms include nausea, vomiting, and fever.",
+        "context 2": "What tests can diagnose pancreatitis?",
+        "context 3": "A contrast-enhanced CT scan is usually performed to evaluate pancreatitis. ERCP or an endoscopic ultrasound can also be used.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! If you have any more questions or concerns, feel free to ask."
+    },
+    {
+        "context 0": "Hello, Medi. I have been diagnosed with mild acute pancreatitis. What is the treatment?",
+        "context 1": "Treatment for mild acute pancreatitis usually involves supportive care and admission to a general hospital ward. Early feeding has shown to be safe and beneficial.",
+        "context 2": "Are there any complications I should be aware of?",
+        "context 3": "Severe acute pancreatitis can cause serious complications such as organ failure, necrosis, and pseudocysts. It may require admission to a high-dependency unit or intensive care unit.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Take care and follow your doctor's advice for a full recovery."
+    },
+    {
+        "context 0": "Hi, Medi. I have been experiencing shortness of breath along with my pancreatitis. Should I be concerned?",
+        "context 1": "Shortness of breath can be a sign of lung injury associated with pancreatitis. It's best to consult a healthcare professional for further evaluation.",
+        "context 2": "Can you explain why this happens?",
+        "context 3": "Inflammation occurring in pancreatitis can lead to proinflammatory cytokines causing lung inflammation. Oxygen supplementation may be necessary.",
+        "context 4": "Thank you for the clarification, Medi.",
+        "response": "You're welcome! If you have any more questions or need further assistance, feel free to ask."
+    },
+    {
+        "context 0": "Medi, what is pancreatitis? Can you explain its symptoms?",
+        "context 1": "Pancreatitis is the inflammation of the pancreas. Symptoms include abdominal pain, nausea, vomiting, and fever.",
+        "context 2": "How is pancreatitis diagnosed? Are there any specific tests?",
+        "context 3": "A contrast-enhanced CT scan is usually performed to evaluate the severity of the disease. ERCP or endoscopic ultrasound can be used if a biliary cause is suspected.",
+        "context 4": "Thank you for the information, Medi. It's helpful.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Hi, Medi. I have been diagnosed with pancreatitis. What is the treatment?",
+        "context 1": "The treatment for pancreatitis depends on the severity. Supportive care, pain control with morphine, and fluids given intravenously are common treatments.",
+        "context 2": "Can morphine worsen or cause pancreatitis?",
+        "context 3": "There are no clinical studies suggesting that morphine can aggravate or cause pancreatitis. It is generally suitable for pain control.",
+        "context 4": "That's good to know. Thank you, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Medi, I have severe pancreatitis. What should I expect in terms of treatment?",
+        "context 1": "Severe pancreatitis may require admission to a high-dependency unit or intensive care unit. Fluids, oxygen, and feeding tubes may be used to provide support and nutrients.",
+        "context 2": "How long does it take to recover from severe pancreatitis?",
+        "context 3": "Recovery time varies depending on the individual, but it can take several weeks to months. It's important to treat the underlying cause, such as gallstones or alcohol consumption.",
+        "context 4": "Thank you for the information, Medi. I appreciate it.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Medi, what are the symptoms of pancreatitis?",
+        "context 1": "The symptoms of pancreatitis include abdominal pain, nausea, vomiting, and fever.",
+        "context 2": "Is pancreatitis a serious condition?",
+        "context 3": "Pancreatitis can be a serious condition, especially if it is severe or if complications arise.",
+        "context 4": "What are the treatment options for pancreatitis?",
+        "response": "The treatment for pancreatitis depends on the severity. It may include supportive care, pain management, and addressing the underlying cause."
+    },
+    {
+        "context 0": "Hi Medi, how is pancreatitis diagnosed?",
+        "context 1": "Pancreatitis can be diagnosed through imaging tests such as a contrast-enhanced CT scan or an endoscopic ultrasound.",
+        "context 2": "What causes pancreatitis?",
+        "context 3": "Pancreatitis can have various causes including gallstones, alcohol consumption, certain medications, and infections.",
+        "context 4": "Can pancreatitis be prevented?",
+        "response": "Some cases of pancreatitis can be prevented by avoiding risk factors such as excessive alcohol consumption and maintaining a healthy lifestyle."
+    },
+    {
+        "context 0": "Medi, what are the complications of severe pancreatitis?",
+        "context 1": "Severe pancreatitis can lead to complications such as organ failure, necrosis, infected necrosis, pseudocysts, and abscesses.",
+        "context 2": "How is severe pancreatitis treated?",
+        "context 3": "Severe pancreatitis may require admission to a high-dependency unit or intensive care unit. Treatment may involve intravenous fluids, oxygen therapy, and surgical interventions if necessary.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "context 0": "Medi, I've been having severe abdominal pain. Could it be pancreatitis?",
+        "context 1": "Pancreatitis is one possible cause of abdominal pain. It's important to get a proper diagnosis from a healthcare professional.",
+        "context 2": "What are the other symptoms of pancreatitis?",
+        "context 3": "Common symptoms of pancreatitis include nausea, vomiting, fever, and tenderness in the abdomen.",
+        "context 4": "Thank you, Medi. I will schedule an appointment with my doctor.",
+        "response": "You're welcome. It's always a good idea to consult a healthcare professional for an accurate diagnosis."
+    },
+    {
+        "context 0": "Medi, can gallstones lead to pancreatitis?",
+        "context 1": "Yes, gallstones can be a cause of pancreatitis. If you suspect this, it's important to seek medical attention for proper evaluation.",
+        "context 2": "What are the treatment options for pancreatitis caused by gallstones?",
+        "context 3": "Treatment options may include medications for pain control, gallbladder removal, or an ERCP procedure to address the underlying issue.",
+        "context 4": "Thank you, Medi. I will discuss these options with my doctor.",
+        "response": "You're welcome. It's important to work with your healthcare provider to determine the best course of treatment for your specific situation."
+    },
+    {
+        "context 0": "Hi, Medi. Can you explain the role of CT scans in diagnosing pancreatitis?",
+        "context 1": "CT scans can be helpful in assessing pancreatitis. They provide a detailed view of the pancreas and can determine the severity of the disease.",
+        "context 2": "Are CT scans always accurate for diagnosing pancreatitis?",
+        "context 3": "While CT scans are generally reliable, there can be limitations. In some cases, bowel gas can obstruct the view of the pancreas, making it challenging to evaluate.",
+        "context 4": "Thank you for clarifying, Medi.",
+        "response": "You're welcome. Do you have any other questions?"
+    },
+    {
+        "context 0": "Medi, what are the imaging modalities used to diagnose pancreatitis?",
+        "context 1": "A contrast-enhanced CT scan is usually performed to evaluate pancreatitis. ERCP or an endoscopic ultrasound can also be used if a biliary cause is suspected.",
+        "context 2": "What can obstruct the view of the pancreas during a CT scan?",
+        "context 3": "Bowel gas can obstruct the view of the pancreas during a CT scan, making it difficult to evaluate.",
+        "context 4": "Thank you, Medi. That clarifies things for me.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "context 0": "Hi, Medi.",
+        "context 1": "Hello! How can I assist you today?",
+        "context 2": "What is the treatment for acute pancreatitis?",
+        "context 3": "The treatment for acute pancreatitis depends on the severity. Supportive care and pain control with morphine are usually provided. Early feeding is also recommended.",
+        "context 4": "Thank you for the information, Medi. I appreciate it.",
+        "response": "You're welcome! Let me know if there's anything else I can help with."
+    },
+    {
+        "context 0": "Medi, what are the possible complications of severe pancreatitis?",
+        "context 1": "Severe pancreatitis can cause organ failure, necrosis, infected necrosis, pseudocyst, and abscess.",
+        "context 2": "How is severe acute pancreatitis treated?",
+        "context 3": "If diagnosed with severe acute pancreatitis, it may require admission to a high-dependency unit or intensive care unit. Fluids, oxygen, and feeding tubes may be administered.",
+        "context 4": "Thank you for explaining, Medi. I'm grateful for your help.",
+        "response": "You're welcome! Don't hesitate to reach out if you have any more questions."
+    },
+    {
+        "context 0": "Medi, what is pancreatitis and how is it diagnosed?",
+        "context 1": "Pancreatitis is inflammation of the pancreas. It can be diagnosed through imaging modalities like a contrast-enhanced CT scan or an endoscopic ultrasound.",
+        "context 2": "What are the treatment options for pancreatitis?",
+        "context 3": "The treatment for pancreatitis is supportive and depends on the severity. Pain control with medications like morphine is common.",
+        "context 4": "Thank you for the information, Medi. I will consult a doctor for further guidance.",
+        "response": "You're welcome. It's always a good idea to consult a healthcare professional for personalized advice."
+    },
+    {
+        "context 0": "Hey, Medi. Can you explain the difference between mild and severe pancreatitis?",
+        "context 1": "Mild pancreatitis causes no complications while severe pancreatitis can lead to serious complications like organ failure and necrosis.",
+        "context 2": "What is the recommended treatment for mild pancreatitis?",
+        "context 3": "Mild pancreatitis can be treated by admission to a general hospital ward. Recent evidence suggests early feeding is safe and improves outcomes.",
+        "context 4": "Thank you, Medi. I appreciate your help.",
+        "response": "You're welcome. I'm here to assist you with any questions you have."
+    },
+    {
+        "context 0": "Hello, Medi. Can pancreatitis cause lung problems?",
+        "context 1": "Yes, pancreatitis can cause lung injury and affect normal lung function, leading to conditions like ARDS. Supplemental oxygen may be required.",
+        "context 2": "How is dehydration managed during an episode of acute pancreatitis?",
+        "context 3": "During an episode of acute pancreatitis, fluids will be provided intravenously to prevent dehydration.",
+        "context 4": "Thank you for the information, Medi. I will keep that in mind.",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "context 0": "Medi, what are the symptoms of pancreatitis?",
+        "context 1": "The symptoms of pancreatitis can include abdominal pain, nausea, vomiting, and fever.",
+        "context 2": "What can cause pancreatitis?",
+        "context 3": "Pancreatitis can be caused by factors such as gallstones, alcohol consumption, and certain medications.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Medi, what is the treatment for pancreatitis?",
+        "context 1": "The treatment for pancreatitis is supportive and depends on the severity. It may include pain control, fluids, and sometimes surgery.",
+        "context 2": "Can pancreatitis be cured completely?",
+        "context 3": "It depends on the underlying cause and the severity. In some cases, pancreatitis can be managed and controlled but complete cure may not be possible.",
+        "context 4": "Thank you for clarifying, Medi.",
+        "response": "You're welcome. Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Hi, Medi.",
+        "context 1": "Hello! How can I assist you today?",
+        "context 2": "I have been diagnosed with pancreatitis. What should I do?",
+        "context 3": "If you have been diagnosed with pancreatitis, it's important to follow your doctor's recommendations. This may involve pain management, dietary changes, and other treatments.",
+        "context 4": "Is surgery always required for pancreatitis?",
+        "response": "Surgery is not always required for pancreatitis. It depends on the severity and underlying cause. Your doctor will determine the best course of action."
+    },
+    {
+        "context 0": "Hi, Medi. I've been having severe pain in my abdomen. What could be causing it?",
+        "context 1": "Based on your symptoms, it's possible that you are experiencing pancreatitis. It is inflammation of the pancreas.",
+        "context 2": "That sounds serious. How is pancreatitis diagnosed?",
+        "context 3": "Pancreatitis can be diagnosed through a contrast-enhanced CT scan or an endoscopic ultrasound.",
+        "context 4": "What is the treatment for pancreatitis?",
+        "response": "The treatment for pancreatitis depends on the severity. It usually involves supportive care, pain control, and in some cases, gallbladder removal."
+    },
+    {
+        "context 0": "Hello, Medi. Can you tell me more about acute pancreatitis?",
+        "context 1": "Acute pancreatitis is a condition characterized by sudden inflammation of the pancreas. It can range from mild to severe and requires medical attention.",
+        "context 2": "What are the symptoms of acute pancreatitis?",
+        "context 3": "Symptoms of acute pancreatitis may include severe abdominal pain, nausea, vomiting, and fever.",
+        "context 4": "Is there any risk of complications with acute pancreatitis?",
+        "response": "Yes, severe pancreatitis can lead to organ failure, necrosis, pseudocyst, and abscess. It requires intensive care and treatment for underlying causes."
+    },
+    {
+        "context 0": "Hey, Medi. I've heard that pancreatitis can cause lung complications. Is that true?",
+        "context 1": "Yes, that's correct. Pancreatitis can cause inflammation throughout the body, including the lungs, leading to ARDS (Acute Respiratory Distress Syndrome).",
+        "context 2": "How are lung complications treated in pancreatitis patients?",
+        "context 3": "In cases of lung injury, supplemental oxygen may be provided through breathing tubes or a mask. Feeding tubes and appropriate analgesia may also be used.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "context 0": "Medi, I have severe pain in my abdomen. Could it be pancreatitis?",
+        "context 1": "Pancreatitis can cause severe abdominal pain. It's best to consult a healthcare professional for a proper diagnosis.",
+        "context 2": "What are the common symptoms of pancreatitis?",
+        "context 3": "Common symptoms of pancreatitis include abdominal pain, nausea, vomiting, and fever.",
+        "context 4": "Thank you for the information, Medi. I will schedule an appointment with my doctor.",
+        "response": "You're welcome. I hope you feel better soon. Take care!"
+    },
+    {
+        "context 0": "Hi, Medi. I'm curious about the imaging tests for pancreatitis. Which one is more specific?",
+        "context 1": "For pancreatitis caused by gallstones, a contrast-enhanced CT scan is more sensitive and specific than other imaging modalities.",
+        "context 2": "When is a CT scan usually performed in pancreatitis cases?",
+        "context 3": "A CT scan is usually performed more than 48 hours after the onset of pain to evaluate pancreatic necrosis and predict the severity of the disease.",
+        "context 4": "Thank you for the information, Medi. It's good to know about the diagnostic process.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "context 0": "Hey Medi, can morphine aggravate pancreatitis?",
+        "context 1": "There are no clinical studies to suggest that morphine can aggravate or cause pancreatitis or cholecystitis.",
+        "context 2": "What is the usual treatment for pancreatitis?",
+        "context 3": "The treatment of pancreatitis is supportive and depends on the severity. Morphine is generally used for pain control.",
+        "context 4": "Thank you for clarifying, Medi. I appreciate the information.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "context 0": "I've been experiencing severe abdominal pain. Could it be pancreatitis?",
+        "context 1": "Pancreatitis can cause abdominal pain. It's important to consult a healthcare professional for a proper diagnosis and treatment.",
+        "context 2": "What are the common causes of pancreatitis?",
+        "context 3": "Pancreatitis can be caused by gallstones, alcohol abuse, certain medications, and high levels of triglycerides in the blood.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Hi, Medi. Can pancreatitis lead to complications?",
+        "context 1": "Yes, pancreatitis can lead to various complications such as organ failure, infected necrosis, pseudocysts, and abscesses.",
+        "context 2": "How is pancreatitis treated?",
+        "context 3": "Treatment for pancreatitis depends on the severity. It may include supportive care, pain management, fluids, and treatment of the underlying cause.",
+        "context 4": "Thank you for the clarification, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Medi, can pancreatitis affect other parts of the body?",
+        "context 1": "Yes, pancreatitis can cause inflammation throughout the body, including the lungs, leading to lung injury or acute respiratory distress syndrome (ARDS).",
+        "context 2": "What are the treatment options for severe pancreatitis?",
+        "context 3": "Severe pancreatitis may require admission to a high-dependency unit or intensive care unit. Treatment involves fluids, oxygen, ventilation support, and addressing the underlying cause.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "context 0": "Medi, I've been having severe abdominal pain. Could it be pancreatitis?",
+        "context 1": "Severe abdominal pain can be a symptom of pancreatitis. It's best to consult a doctor for a proper diagnosis.",
+        "context 2": "What are the other symptoms of pancreatitis?",
+        "context 3": "Other symptoms of pancreatitis include nausea, vomiting, fever, and a swollen or tender abdomen.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "context 0": "Hi, Medi. Can you explain what complications can arise from pancreatitis?",
+        "context 1": "Pancreatitis can lead to complications such as organ failure, infected necrosis, pseudocysts, and abscesses.",
+        "context 2": "How is organ failure treated in severe pancreatitis?",
+        "context 3": "In severe pancreatitis with organ failure, patients may be admitted to a high-dependency unit or intensive care unit and receive intravenous fluids, oxygen, and ventilation support.",
+        "context 4": "Thank you for the information, Medi.",
+        "response": "You're welcome! Let me know if there's anything else you'd like to know."
+    },
+    {
+        "context 0": "Medi, what is the treatment for mild acute pancreatitis?",
+        "context 1": "Mild acute pancreatitis is usually treated by admission to a general hospital ward. Early feeding is now recommended as it has shown to be safe and improve outcomes.",
+        "context 2": "Is gallbladder removal necessary if the pancreatitis is caused by gallstones?",
+        "context 3": "Yes, if gallstones are the cause of pancreatitis, gallbladder removal is often recommended to prevent recurrent pancreatitis.",
+        "context 4": "Thank you for the clarification, Medi.",
+        "response": "You're welcome! Feel free to ask if you have any more questions."
+    }
+]
