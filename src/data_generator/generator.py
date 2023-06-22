@@ -103,20 +103,18 @@ def generate_conversation(context, disease, save_path):
     update_data(conversations, path)
 
         
-def run():
+def run(base_path, save_path):
     print("Start generating conversation")
     print("\n")
-    base_path = '../data_crawler/raw_data'
-    diseases = os.listdir(base_path) 
-
-    # The path to folder store the generated conversation data
-    save_path = './conservation_data'
+    
+    # get the list of diseases
+    diseases = os.listdir(base_path)
     if not os.path.exists(save_path):
         os.mkdir(save_path)
-    ignore = ['Arrhythmia', 'Arthritis', 'Asthma', 'Back_pain', 'Cancer', 'Cardiovascular_disease', 'Cervicitis', 'Common_cold', 'Diabetes', 'Encephalitis', 'Gastritis', 'Hepatitis', 'Hepatitis_B', 'Hepatitis_C', 'Hepatitis_E', 'Hypertension', 'Infectious_diseases', 'Inflammatory_bowel_disease', 'Influenza', 'Kidney_disease', 'Meningitis', 'Mental_illness', 'Migraine', 'Obesity']
+    # ignore = ['Arrhythmia', 'Arthritis', 'Asthma', 'Back_pain', 'Cancer', 'Cardiovascular_disease', 'Cervicitis', 'Common_cold', 'Diabetes', 'Encephalitis', 'Gastritis', 'Hepatitis', 'Hepatitis_B', 'Hepatitis_C', 'Hepatitis_E', 'Hypertension', 'Infectious_diseases', 'Inflammatory_bowel_disease', 'Influenza', 'Kidney_disease', 'Meningitis', 'Mental_illness', 'Migraine', 'Obesity']
     for i, disease in enumerate(diseases):
-        if disease in ignore:
-            continue
+        # if disease in ignore:
+        #     continue
         print(f"* The topic {i+1}/{len(diseases)}: {disease}")
         # the path to the file store the knowledge about the disease
         text_path = os.path.join(base_path, disease, f"{disease}.txt")
@@ -126,9 +124,13 @@ def run():
             print(f"    - Finished {j+1}/{len(contexts)}")
 
             
-    # format json file to make it more readable
+    # format json file stored in the directory to make it more readable
     format_json(save_path)
             
             
 if __name__ == "__main__":
-    run()
+    # The path to folder store the raw data
+    base_path = '../data_crawler/raw_data'
+    # The path to folder store the generated conversation data
+    save_path = '../../data/conservation_data'
+    run(base_path, save_path)

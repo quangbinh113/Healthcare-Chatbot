@@ -65,22 +65,23 @@ def count_conversations(source):
         sum += len(data)
     return sum
 if __name__ == '__main__':
-    # total_contexts = []
-    # base_path = '../data_crawler/raw_data'
-    # diseases = os.listdir(base_path) 
-    # for d in diseases:
-    #     file_path = os.path.join(base_path, d, f'{d}.txt')
-    #     contexts = split_to_contexts(file_path)
-    #     if len(contexts) >= 10:
-    #         contexts = contexts[:10]
-    #     total_contexts += contexts
-    #     print(f"{d} has {len(contexts)} contexts")
-    # print("Number of contexts", len(total_contexts))
+    print("***Information about data***")
+    total_contexts = []
+    base_path = '../../data/raw_data'
+    diseases = os.listdir(base_path) 
+    for d in diseases:
+        file_path = os.path.join(base_path, d, f'{d}.txt')
+        contexts = split_to_contexts(file_path)
+        if len(contexts) >= 10:
+            contexts = contexts[:10]
+        total_contexts += contexts
+        # print(f"{d} has {len(contexts)} contexts")
+    print("The number of contexts from raw data", len(total_contexts))
     # print("A random sample: \n", total_contexts[np.random.randint(len(total_contexts))])
-    print("The number of generated conversations: ", count_conversations('./conservation_data'))
-    with open('./conservation_data/Gastritis.json', 'r') as f:
-        data = json.load(f)
-        print(len(data))
+    print("The number of generated conversations from raw_data: ", count_conversations('../../data/conservation_data'))
+    # with open('../../data/conservation_data/Gastritis.json', 'r') as f:
+    #     data = json.load(f)
+    #     print(len(data))
     
     
         
