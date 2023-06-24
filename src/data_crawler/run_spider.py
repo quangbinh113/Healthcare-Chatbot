@@ -1,7 +1,7 @@
 import os
 
-ARTICLES = 1 # number of articles related to the link to be crawled
-INTERVAL = 1.2
+ARTICLES = 1 # number of related articles 
+INTERVAL = 1.2 # time interval to access new URLs 
 OUTPUT = '../raw_data'
 file_path = './context_url.txt'
 disease_path = './disease.txt'
