@@ -4,7 +4,6 @@ import argparse
 import re
 from urllib.parse import urlparse
 import os
-
 import requests
 from bs4 import BeautifulSoup
 
@@ -131,8 +130,5 @@ if __name__ == '__main__':
     parser.add_argument("-i", "--interval", nargs='?', default=DEFAULT_INTERVAL, type=float, help="Interval between requests")
     parser.add_argument("-o", "--output", nargs='?', default=DEFAULT_OUTPUT, help="Folder output")
     args = parser.parse_args()
-
-    # Assign the URL directly
-    # initial_url = 'https://en.wikipedia.org/wiki/Health_care'
 
     request(args.initial_url, args.articles, args.interval, args.output)
