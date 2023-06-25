@@ -41,7 +41,12 @@ def extract_json(text):
   for i in range(len(text)):
     if text[i] == ']':
       e = i
-  return eval(text[s:e+1])
+  data = []
+  for da in eval(text[s:e+1]):
+    da['dialog'] = da['dialog'][:9]
+    data.append(da)
+  return data
+  
 def collect_data(prompt,datasize = 30000):
   count = 0
   result = []
@@ -58,7 +63,7 @@ def collect_data(prompt,datasize = 30000):
       if str(e) == "OpenAI: {\"detail\":\"You've reached our limit of messages per hour. Please try again later.\"} (code: 429)": 
         time.sleep(720)
       else:
-        continue
+        time.sleep(10)
   return result
 
 def create_prompt(context):  
