@@ -3,6 +3,7 @@ import argparse
 import logging
 import os
 import torch
+import pandas as pd
 
 from transformers import (
     MODEL_WITH_LM_HEAD_MAPPING,
@@ -66,8 +67,10 @@ class Args():
 
 
 
-def main(df_trn, df_val):
+def main(df_trn_path, df_val_path):
     args = Args()
+    df_trn = pd.read_csv(df_trn_path)
+    df_val = pd.read_csv(df_val_path)
     
     if args.should_continue:
         sorted_checkpoints = _sorted_checkpoints(args)
