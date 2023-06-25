@@ -157,13 +157,13 @@ if __name__ =="__main__":
         if question.lower() == "quit":
             break
         dialog.append(question)
-        relevant_doc = document_search(question, document_list,num = args["num"], thres = args["thres"],type= args["type"])
+        relevant_doc = document_search(question, document_list,num = args.num, thres = args.thres,type= args.type)
         print("Document: "+ str(relevant_doc[0][1]))
-        if args["strategy"] == "combine":
+        if args.strategy == "combine":
            knowledge = " ".join([i[1] for i in relevant_doc])
-        if args["strategy"] == "best-fit":
+        if args.strategy == "best-fit":
            knowledge = relevant_doc[0][1]
-        if args['strategy'] == "random":
+        if args.strategy == "random":
            knowledge = random.choice(relevant_doc)[1]
         answer = generate(knowledge, dialog)
         print("Medi: "+ str(answer))
