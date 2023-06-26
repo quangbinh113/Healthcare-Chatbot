@@ -70,7 +70,9 @@ class Args():
 def main(df_trn_path, df_val_path):
     args = Args()
     df_trn = pd.read_csv(df_trn_path)
+    df_trn = df_trn.drop(columns='Unnamed: 0')
     df_val = pd.read_csv(df_val_path)
+    df_val = df_val.drop(columns='Unnamed: 0')
     
     if args.should_continue:
         sorted_checkpoints = _sorted_checkpoints(args)
