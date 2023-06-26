@@ -3,7 +3,7 @@ import os
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
-PATH = r'NLP.2023.1.Generative-Based-Chatbot\data\conservation_data'
+PATH = r'E:\Data_analysis\NLP_2023.1\NLP.2023.1.Generative-Based-Chatbot\data\conservation_data'
 
 
 def create_dataframe(path):
@@ -21,11 +21,11 @@ def create_dataframe(path):
                                                   "context 2", 
                                                   "context 1", 
                                                   "context 0"])
-            df['disease'] = name
+            df['disease'] = name.replace('_', ' ')
             dataframes.append(df)
 
     result_df = pd.concat(dataframes, ignore_index=True)
-    result_df.to_csv(r'NLP.2023.1.Generative-Based-Chatbot\data\df.csv')
+    result_df.to_csv(r'E:\Data_analysis\NLP_2023.1\NLP.2023.1.Generative-Based-Chatbot\data\df.csv')
     return result_df
 
                     
@@ -39,8 +39,8 @@ def train_val_split():
     val_df = pd.concat([val_df, y_val], axis=1)    # Add y_test to x_test
     # trn_df = pd.DataFrame(x_train)
     # val_df = pd.DataFrame(x_val)
-    trn_df.to_csv(r'NLP.2023.1.Generative-Based-Chatbot\data\train.csv')
-    val_df.to_csv(r'NLP.2023.1.Generative-Based-Chatbot\data\val.csv')
+    trn_df.to_csv(r'E:\Data_analysis\NLP_2023.1\NLP.2023.1.Generative-Based-Chatbot\data\train.csv')
+    val_df.to_csv(r'E:\Data_analysis\NLP_2023.1\NLP.2023.1.Generative-Based-Chatbot\data\val.csv')
 
 
 if __name__ == "__main__":
