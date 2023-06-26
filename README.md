@@ -11,3 +11,6 @@ Next, go to run_spider.py and run. It will access the topic url and retrieve all
 We aim to use ChatGPT-API to generate Questions and Answering from the contexts scrapted from the webs.
 
 Our dataset will contain several features (Question, Answer, Context, Dialog, intent_tag, action_tag).
+
+# Demo
+! [Chatbot GUI](./images/demo.jpg)
