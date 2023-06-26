@@ -13,4 +13,4 @@ We aim to use ChatGPT-API to generate Questions and Answering from the contexts 
 Our dataset will contain several features (Question, Answer, Context, Dialog, intent_tag, action_tag).
 
 # Demo
-! [Chatbot GUI](./images/demo.jpg)
+! [Chatbot GUI](https://github.com/quangbinh113/NLP.2022.2.Generative-Based-Chatbot/blob/GUI/images/demo.jpg)
