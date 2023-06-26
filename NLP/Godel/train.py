@@ -1,3 +1,4 @@
+from datasets.features.features import pa
 import numpy as np
 import os
 import nltk
@@ -25,6 +26,32 @@ def tokenize_function(examples):
     model_inputs["labels"] = labels["input_ids"]
     return model_inputs
 
+class f1:
+  def compute(self,pred, ref, type = 'marco'):
+    f1s =[]
+    precisions = []
+    recalls = []
+    for i in range(len(pred)):
+      precision = 0
+      recall = 0
+      for j in pred[i].split():
+        if j in ref[i].split():
+          precision += 1
+      for j in ref[i].split():
+        if j in pred[i].split():
+          recall += 1
+      p = precision/len(pred[i])
+      r = recall/len(ref[i])
+      precisions.append(p)
+      recalls.append(r)
+      f1s.append(2*p*r/(p+r))
+    if type == 'micro':
+      return {'f1': sum(f1s)/len(f1s)}
+    if type == 'marco':
+      p_a = sum(precisions)/len(precisions)
+      r_a = sum(recalls)/len(recalls)
+      return {'f1': 2*p_a*r_a/(p_a+r_a)}
+
 
 
 def compute_metrics(eval_pred):
@@ -42,28 +69,34 @@ def compute_metrics(eval_pred):
 
     # Metric
     #rouge
-    result = metric2.compute(predictions=decoded_preds, references=decoded_labels, use_stemmer=True)
+    result2 = metric2.compute(predictions=decoded_preds, references=decoded_labels, use_stemmer=True)
     #bleu
     result1 = metric1.compute(predictions=decoded_preds, references=decoded_labels)
-    result["bleu"] = result1["score"]
+    result2["bleu"] = result1["score"]
+    #meteor
+    result3 = metric3.compute(predictions=decoded_preds, references=decoded_labels)
+    result2["meteor"] = result3["meteor"]
+    #perplexity
+    result4 = metric4.compute(predictions=predictions, model_id='gpt2')
+    result2["perplexity"] = result4['mean_perplexity']
+    #f1
+    result5 = metric5.compute(predictions=decoded_preds, references=decoded_labels)
+    result2['f1'] = result5['f1']
 
     # Add mean generated length
     prediction_lens = [np.count_nonzero(pred != tokenizer.pad_token_id) for pred in predictions]
-    result["gen_len"] = np.mean(prediction_lens)
-    return {k: round(v, 4) for k, v in result.items()}
+    result2["gen_len"] = np.mean(prediction_lens)
+    return {k: round(v, 4) for k, v in result2.items()}
 
 
 if __name__  == "__main__":
     root = os.getcwd()
-    dataset = load_dataset("json", data_files={"train":"train.json", "validation":"validation.json","test":"test.json"})
+    dataset = load_dataset("json", data_files={"train":root+"/Godel/processed_data/train.json", "validation":root+"/Godel/processed_data/validation.json","test":root+"/Godel/processed_data/test.json"})
     metric1 = load_metric("sacrebleu")
     metric2 = evaluate.load("rouge")
-    #metric3 = meteor
-    #metric4 = perplexity
-    #metric5 = f1
-    #metric6 = CiDr
-    #metric7 = Hits@1
-    #metric8 = Consistency score
+    metric3 = evaluate.load("meteor")
+    metric4 = evaluate.load("perplexity", module_type="metric")
+    metric5 = f1()
 
     tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size = 512)
 
@@ -93,4 +126,5 @@ if __name__  == "__main__":
         compute_metrics=compute_metrics
     )
     trainer.train()
-    trainer.save_model(root + "/Godel/official_model/model-v1.0.0")
+    trainer.save_model(root + "/Godel/official_model"+"/model-v1.0.0")
+    trainer.evaluate(tokenized_datasets["test"])

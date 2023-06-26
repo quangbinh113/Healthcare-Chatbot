@@ -10,7 +10,7 @@ parser.add_argument('--save_file', type=str,default="transformed_medical_train.j
 args = parser.parse_args()
 
 if __name__ == "__main__":
-    filepath = args.filepath
+    filepath = args["filepath"]
     with open(filepath,"rb") as f:
         data =json.load(f)
     transformed_train = []
@@ -20,6 +20,6 @@ if __name__ == "__main__":
             data_point["context" +str(i)] =context
         data_point['response'] = da['response']
         transformed_train.append(data_point)
-    with open(args.save_file,"w") as f:
+    with open(args['save_file'],"w") as f:
         data =json.dump(transformed_train,f)
     
