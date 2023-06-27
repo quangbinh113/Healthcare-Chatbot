@@ -1,0 +1,402 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling sick. I have a fever, cough and sneezing.",
+            "Hello, based on your symptoms, you may have a common cold. Don't worry, it will go away on its own.",
+            "What should I do to feel better?",
+            "Stay hydrated, rest, and take over-the-counter cold medicine to relieve your symptoms.",
+            "Should I see a doctor?",
+            "Normally, you don't need to see a doctor for a common cold. But if your symptoms persist or get worse, please see a doctor.",
+            "Thank you for your help, Medi.",
+            "You're welcome. Take care and get well soon."
+        ],
+        "knowledge": "Common cold Common cold The common cold is a viral infection of the upper respiratory tract.  Symptoms include coughing, sore throat, runny nose, sneezing, headache, and fever.  These symptoms usually resolve in 7\u201310 days, but some can last up to three weeks.  It is the most frequent infectious disease in humans, with the average adult getting two to three colds a year and the average child getting six to eight colds a year.  The common cold is caused by over 200 different viruses, but rhinoviruses are the most common cause. Common cold Common cold",
+        "response": "You're welcome. Take care and get well soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling a bit worried. My child has petechiae on his skin.",
+            "Hello, petechiae can be concerning. Did your child have a fever, cough, or other symptoms?",
+            "No, he seems to be fine except for the petechiae.",
+            "I see. Petechiae can be a sign of a serious bacterial infection, such as meningococcemia. You should take him to see a doctor immediately.",
+            "Thank you for your advice, Medi.",
+            "You're welcome. I hope your child will be okay."
+        ],
+        "knowledge": "Petechiae Petechiae Petechiae are pinpoint round spots that appear on the skin as a result of bleeding.  The bleeding causes the petechiae to appear red, brown, or purple.  Petechiae can be a sign of several serious conditions, such as meningococcemia, leukemia, and sepsis.   It is important to see a doctor if you or your child has petechiae, especially if it is accompanied by fever, cough, or other symptoms. Petechiae Petechiae",
+        "response": "You're welcome. I hope your child will be okay."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just got diagnosed with strep throat. What should I do?",
+            "Hello, strep throat can be very uncomfortable. The good news is that it can be treated with antibiotics.",
+            "How long does the treatment last?",
+            "Usually, the treatment lasts for 10 days. It's important to take all the antibiotics as prescribed, even if you start feeling better before the end of the treatment.",
+            "What else can I do to help relieve the symptoms?",
+            "You can take over-the-counter pain relievers such as acetaminophen or ibuprofen, and also gargle with warm salt water to relieve the sore throat.",
+            "Thank you for your help, Medi.",
+            "You're welcome. Get well soon."
+        ],
+        "knowledge": "Strep throat Strep throat Strep throat is a bacterial infection that causes inflammation and pain in the throat.  The most common symptom is a sore throat, accompanied by fevers, swollen lymph nodes in the neck, and difficulty swallowing.  The infection is spread through contact with an infected person's saliva, and it is important to take precautions to avoid spreading the infection.  Treatment usually involves antibiotics, rest, and over-the-counter pain relievers. Strep throat Strep throat",
+        "response": "You're welcome. Get well soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling sick. Can you help me?",
+            "Sure. What are your symptoms?",
+            "I have a fever and a cough. My throat hurts too.",
+            "Okay. It could be an infectious disease. I suggest you see a doctor.",
+            "What if I can't see a doctor right away?",
+            "You can take some over-the-counter medication to relieve your symptoms. Get plenty of rest and drink fluids.",
+            "What kind of medication?",
+            "Acetaminophen for the fever and cough syrup for the cough.",
+            "Thanks for your help, Medi. What else can I do to feel better?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The diagnosis is aided by the presenting symptoms in any individual with an infectious disease, yet it usually needs additional diagnostic techniques to confirm the suspicion.  Some signs are specifically characteristic and indicative of a disease and are called pathognomonic signs; but these are rare.  Not all infections are symptomatic. In children the presence of cyanosis, rapid breathing, poor peripheral perfusion, or a petechial rash increases the risk of a serious infection by greater than 5 fold.  Other important indicators include parental concern, clinical instinct, and temperature greater than 40\u00b0C. Many diagnostic approaches depend on microbiological culture to isolate a pathogen from the appropriate clinical specimen.  In a microbial culture, a growth medium is provided for a specific agent Infectious diseases Infectious diseases",
+        "response": "You're welcome. Besides medication, make sure to get plenty of rest, drink fluids, and monitor your symptoms."
+    },
+    {
+        "dialog": [
+            "Hello Medi. I'm curious about infectious diseases.",
+            "Sure, I can help you with that. What do you want to know?",
+            "How are infectious diseases diagnosed?",
+            "The diagnosis is based on the presenting symptoms, but additional diagnostic techniques are usually needed to confirm the suspicion.",
+            "What are some common symptoms of infectious diseases?",
+            "Fever, coughing, sneezing, fatigue, and body aches are common symptoms. However, not all infections are symptomatic.",
+            "What are some ways to prevent infectious diseases?",
+            "Wash your hands frequently, avoid close contact with sick people, cover your mouth and nose when you cough or sneeze, and get vaccinated.",
+            "Thanks, Medi. One more question - are all infectious diseases treatable?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The diagnosis is aided by the presenting symptoms in any individual with an infectious disease, yet it usually needs additional diagnostic techniques to confirm the suspicion.  Some signs are specifically characteristic and indicative of a disease and are called pathognomonic signs; but these are rare.  Not all infections are symptomatic. In children the presence of cyanosis, rapid breathing, poor peripheral perfusion, or a petechial rash increases the risk of a serious infection by greater than 5 fold.  Other important indicators include parental concern, clinical instinct, and temperature greater than 40\u00b0C. Many diagnostic approaches depend on microbiological culture to isolate a pathogen from the appropriate clinical specimen.  In a microbial culture, a growth medium is provided for a specific agent Infectious diseases Infectious diseases",
+        "response": "You're welcome. Unfortunately, not all infectious diseases are treatable. Some can only be managed with medication or supportive care."
+    },
+    {
+        "dialog": [
+            "Hello Medi. I recently had surgery and am wondering how to take care of myself.",
+            "Sure. What kind of surgery did you have?",
+            "I had a gallbladder removal.",
+            "After surgery, make sure to get plenty of rest and avoid strenuous activity. Follow your doctor's instructions for pain management and wound care. You should also slowly resume your normal diet.",
+            "Are there any foods I should avoid?",
+            "Avoid fatty or greasy foods for a few weeks after surgery, as they can be hard to digest. Stick to low-fat, bland foods like rice, chicken, and fish.",
+            "What about exercise?",
+            "It's important to gradually increase your activity level after surgery. Start with short walks and light stretching, and gradually increase the intensity and duration of your exercise.",
+            "Thanks for your help, Medi. One more question - how long will it take to recover from surgery?"
+        ],
+        "knowledge": "Gallbladder removal Gallbladder removal The gallbladder is a pear-shaped organ located under the liver that stores and concentrates bile to help digest fats.  It is often removed when it becomes diseased or inflamed.  The surgery is usually done laparoscopically, which is a minimally invasive surgical technique.   After surgery, the patient may experience some nausea, gas, and discomfort.  The patient should avoid strenuous exercise and activities for a period of time.  They should also avoid fatty foods and slowly resume their normal diet.  The recovery time varies, but most people are able to return to their normal activities within a few weeks.",
+        "response": "The recovery time after gallbladder surgery varies, but most people are able to return to their normal activities within a few weeks."
+    },
+    {
+        "dialog": [
+            "Hi Medi. I feel really sick and I need your help.",
+            "Of course, I'm here to help. Can you describe your symptoms?",
+            "I have a fever, chills, and a cough. I also feel really tired.",
+            "Based on your symptoms, it's possible that you have an infectious disease. Have you traveled recently?",
+            "No, I haven't gone anywhere recently.",
+            "Okay, do you have any pets or have you been in contact with someone who is sick?",
+            "No, I haven't been around anyone who is sick and I don't have any pets.",
+            "I recommend that you rest and drink plenty of fluids. If your symptoms get worse, please visit a doctor.",
+            "Thanks, Medi. What kind of infectious disease could it be?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The diagnosis is aided by the presenting symptoms in any individual with an infectious disease, yet it usually needs additional diagnostic techniques to confirm the suspicion.  Some signs are specifically characteristic and indicative of a disease and are called pathognomonic signs; but these are rare.  Not all infections are symptomatic. In children the presence of cyanosis, rapid breathing, poor peripheral perfusion, or a petechial rash increases the risk of a serious infection by greater than 5 fold.  Other important indicators include parental concern, clinical instinct, and temperature greater than 40\u00a0\u00b0C. Many diagnostic approaches depend on microbiological culture to isolate a pathogen from the appropriate clinical specimen.  In a microbial culture, a growth medium is provided for a specific agent Infectious diseases Infectious diseases",
+        "response": "It's hard to say without more information, but it could be the flu or a respiratory infection."
+    },
+    {
+        "dialog": [
+            "Hi Medi. I have some questions about infectious diseases.",
+            "Of course, I'm happy to help. What do you want to know?",
+            "How are infectious diseases spread from person to person?",
+            "Infectious diseases can be spread through contact with contaminated surfaces, through the air, or through bodily fluids.",
+            "What are some ways to prevent getting an infectious disease?",
+            "Washing your hands frequently, avoiding close contact with sick people, and getting vaccinated are all good ways to prevent infectious diseases.",
+            "Are there any infectious diseases that are more common in children?",
+            "Yes, there are many infectious diseases that are more common in children, such as chickenpox, hand-foot-and-mouth disease, and strep throat.",
+            "Thanks, Medi. One more question. What are some common symptoms of infectious diseases?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The diagnosis is aided by the presenting symptoms in any individual with an infectious disease, yet it usually needs additional diagnostic techniques to confirm the suspicion.  Some signs are specifically characteristic and indicative of a disease and are called pathognomonic signs; but these are rare.  Not all infections are symptomatic. In children the presence of cyanosis, rapid breathing, poor peripheral perfusion, or a petechial rash increases the risk of a serious infection by greater than 5 fold.  Other important indicators include parental concern, clinical instinct, and temperature greater than 40\u00a0\u00b0C. Many diagnostic approaches depend on microbiological culture to isolate a pathogen from the appropriate clinical specimen.  In a microbial culture, a growth medium is provided for a specific agent Infectious diseases Infectious diseases",
+        "response": "Common symptoms of infectious diseases include fever, cough, sore throat, fatigue, and body aches."
+    },
+    {
+        "dialog": [
+            "Hi Medi. I recently had surgery and I'm not sure what I should be doing to recover.",
+            "I'm here to help. What kind of surgery did you have?",
+            "I had knee surgery.",
+            "After knee surgery, it's important to rest and do physical therapy exercises to help with the healing process.",
+            "What kind of exercises should I be doing?",
+            "Your doctor will give you specific exercises to do, but they will likely focus on strengthening the muscles around your knee and improving your range of motion.",
+            "What about my diet? Is there anything I should be eating or avoiding?",
+            "A healthy, balanced diet with plenty of protein and nutrients is important for the healing process. Your doctor may also recommend that you take supplements like calcium and vitamin D to help with bone healing.",
+            "Thanks, Medi. One more thing. How soon can I go back to work after knee surgery?"
+        ],
+        "knowledge": "Surgery Surgery Surgery is typically performed to provide an accurate diagnosis, remove damaged tissue or foreign objects, repair or remove tissue, or to treat an underlying condition.  It may be performed by a variety of healthcare professionals.  The risks of surgery depend on the type of surgery and the health of the patient.  General anesthesia carries risks, and the risk of infection and other complications is present with any surgical procedure.  Recovery time can vary depending on the type of surgery and the patient's overall health. Surgery Surgery",
+        "response": "It depends on the type of work you do and how physically demanding it is. Your doctor will be able to give you more information on when it's safe for you to return to work."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am not feeling well, and I have a headache",
+            "I'm sorry to hear that. Can you tell me more about your symptoms?",
+            "Yes, I feel really tired, and I have a high fever",
+            "I see. Based on your symptoms, it may be an infectious disease.",
+            "What should I do now?",
+            "You might need to see a doctor. But, in the meantime, you can take some rest and drink plenty of fluids.",
+            "Okay, I'll try that. But, how can I prevent getting an infectious disease?",
+            "You can prevent it by washing your hands frequently, avoiding close contact with sick people, and covering your mouth and nose when coughing or sneezing",
+            "That's very helpful. Thank you, Medi."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The diagnosis is aided by the presenting symptoms in any individual with an infectious disease, yet it usually needs additional diagnostic techniques to confirm the suspicion.  Some signs are specifically characteristic and indicative of a disease and are called pathognomonic signs; but these are rare.  Not all infections are symptomatic. In children the presence of cyanosis, rapid breathing, poor peripheral perfusion, or a petechial rash increases the risk of a serious infection by greater than 5 fold.  Other important indicators include parental concern, clinical instinct, and temperature greater than 40\u00a0\u00b0C. Many diagnostic approaches depend on microbiological culture to isolate a pathogen from the appropriate clinical specimen.  In a microbial culture, a growth medium is provided for a specific agent Infectious diseases Infectious diseases",
+        "response": "You're welcome. I'm glad that I could help you. Do you have any other questions?"
+    },
+    {
+        "dialog": [
+            "Hey Medi, can you tell me about different types of infectious diseases?",
+            "Of course, there are many types of infectious diseases, such as flu, pneumonia, and tuberculosis",
+            "How can I know if I have a specific type of infectious disease?",
+            "The diagnosis is aided by the presenting symptoms in any individual with an infectious disease, yet it usually needs additional diagnostic techniques to confirm the suspicion. Not all infections are symptomatic.",
+            "Okay, thanks for the information. Can you tell me how to prevent infectious diseases?",
+            "To prevent infectious diseases, you can wash your hands frequently, avoid close contact with sick people, and cover your mouth and nose when coughing or sneezing.",
+            "That sounds simple enough. Can you give me an example of how to wash my hands properly?",
+            "Sure, you should wet your hands with clean water, then apply soap and rub your hands together for at least 20 seconds. Rinse and dry your hands with a clean towel",
+            "Okay, got it. Thanks, Medi!"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The diagnosis is aided by the presenting symptoms in any individual with an infectious disease, yet it usually needs additional diagnostic techniques to confirm the suspicion.  Some signs are specifically characteristic and indicative of a disease and are called pathognomonic signs; but these are rare.  Not all infections are symptomatic. In children the presence of cyanosis, rapid breathing, poor peripheral perfusion, or a petechial rash increases the risk of a serious infection by greater than 5 fold.  Other important indicators include parental concern, clinical instinct, and temperature greater than 40\u00a0\u00b0C. Many diagnostic approaches depend on microbiological culture to isolate a pathogen from the appropriate clinical specimen.  In a microbial culture, a growth medium is provided for a specific agent Infectious diseases Infectious diseases",
+        "response": "You're welcome. I'm glad that I could help you. Do you have any other questions?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure done. Can you give me some advice on my diet?",
+            "Of course! What kind of medical procedure did you have?",
+            "I had my gallbladder removed",
+            "Okay, after having your gallbladder removed, you should avoid eating too much fat, especially saturated and trans fats. You should also eat smaller, more frequent meals throughout the day",
+            "What about protein?",
+            "You can eat protein, but it's best to choose lean sources of protein such as skinless chicken, fish, and beans",
+            "What about fruits and vegetables?",
+            "Fruits and vegetables are an important part of a healthy diet. You should aim to eat at least five servings of fruits and vegetables a day",
+            "Okay, thanks for the advice. Do I need to do any physical exercise?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The diagnosis is aided by the presenting symptoms in any individual with an infectious disease, yet it usually needs additional diagnostic techniques to confirm the suspicion.  Some signs are specifically characteristic and indicative of a disease and are called pathognomonic signs; but these are rare.  Not all infections are symptomatic. In children the presence of cyanosis, rapid breathing, poor peripheral perfusion, or a petechial rash increases the risk of a serious infection by greater than 5 fold.  Other important indicators include parental concern, clinical instinct, and temperature greater than 40\u00a0\u00b0C. Many diagnostic approaches depend on microbiological culture to isolate a pathogen from the appropriate clinical specimen.  In a microbial culture, a growth medium is provided for a specific agent Infectious diseases Infectious diseases",
+        "response": "You're welcome. I'm glad that I could help you. Do you have any other questions?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a rash and I'm not sure what it is.",
+            "Okay, can you tell me more about the rash?",
+            "It's red and itchy, and it's on my arms and legs.",
+            "Have you been in contact with anything unusual?",
+            "No, not that I can think of.",
+            "Okay, it sounds like you may have a skin infection or an allergic reaction. You should see a doctor to get a proper diagnosis and treatment.",
+            "Thanks, Medi. Do you have any suggestions for home remedies?",
+            "You can try applying a cool compress or taking an antihistamine to relieve itching, but it's important to see a doctor if the rash doesn't go away.",
+            "Okay, I'll make an appointment with my doctor. Thanks for your help, Medi."
+        ],
+        "knowledge": "Skin infections Skin infections Skin infections are common and can be caused by a variety of bacteria, fungi, or viruses.  Symptoms can include redness, swelling, pain, and warmth at the site of the infection.  In some cases, blisters or pus-filled bumps may also be present.  Treatment usually involves antibiotics or antifungal medication, depending on the type of infection. Allergic reactions Allergic reactions An allergic reaction occurs when the immune system overreacts to a substance that is normally harmless.  Symptoms can include hives, itching, swelling, and difficulty breathing.  Treatment usually involves antihistamines and avoiding the allergen if possible. Home remedies Home remedies Some home remedies for skin rashes include applying a cool compress, taking an antihistamine to relieve itching, or using topical products like aloe vera or oatmeal.  However, it's important to see a doctor if the rash doesn't go away or if symptoms worsen.",
+        "response": "You're welcome! It's best to see a doctor to get a proper diagnosis and treatment for your rash."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and I'm not sure what's causing it.",
+            "Okay, can you tell me more about your symptoms?",
+            "I have a headache, body aches, and a fever of 101 degrees Fahrenheit.",
+            "Have you been in contact with anyone who has been sick?",
+            "Yes, my coworker was sick last week.",
+            "Okay, it sounds like you may have a viral infection like the flu. You should get plenty of rest and stay hydrated.",
+            "Thanks, Medi. What about medication?",
+            "You can take over-the-counter pain relievers like acetaminophen or ibuprofen to relieve symptoms, but it's important to see a doctor if your symptoms worsen or don't go away.",
+            "Okay, I'll try to rest and drink plenty of fluids. Thanks for your help, Medi."
+        ],
+        "knowledge": "Viral infections Viral infections Viral infections can cause a variety of symptoms, including fever, headache, body aches, coughing, and congestion.  Treatment usually involves getting plenty of rest, drinking fluids, and taking over-the-counter pain relievers to relieve symptoms.  In some cases, antiviral medication may be prescribed. Over-the-counter medication Over-the-counter medication Over-the-counter pain relievers like acetaminophen or ibuprofen can be used to relieve symptoms like fever, headache, and body aches.  However, it's important to follow the recommended dosage and to see a doctor if symptoms worsen or don't go away.",
+        "response": "You're welcome! Remember to get plenty of rest and stay hydrated. If your symptoms worsen or don't go away, it's important to see a doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery and I'm not sure what to expect during my recovery.",
+            "Okay, what kind of surgery did you have?",
+            "I had a procedure to remove my gallbladder.",
+            "Okay, after gallbladder surgery, you may experience pain and discomfort for a few days. You should avoid strenuous activity and heavy lifting for at least a week.",
+            "Thanks, Medi. What about my diet?",
+            "You should start with a light diet of clear liquids and then gradually add solid foods as tolerated. Avoid fatty or spicy foods for the first few weeks after surgery.",
+            "Okay, that makes sense. What about pain management?",
+            "Your doctor may prescribe pain medication to manage any discomfort you experience.",
+            "Thanks, Medi. I appreciate your help."
+        ],
+        "knowledge": "Surgery recovery Surgery recovery After surgery, it's important to follow your doctor's instructions for recovery.  Depending on the type of surgery, you may experience pain and discomfort for several days or weeks.  You should avoid strenuous activity and heavy lifting for a period of time.  Your doctor may also recommend a specific diet or medication to manage pain and discomfort. Gallbladder surgery Gallbladder surgery After gallbladder surgery, you may experience pain and discomfort for a few days.  You should avoid strenuous activity and heavy lifting for at least a week.  Your doctor may also recommend a specific diet or medication to manage pain and discomfort.",
+        "response": "You're welcome! Remember to follow your doctor's instructions for recovery and to take any prescribed medication for pain management."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms that I am concerned about",
+            "Hi, I am here to help. What are your symptoms?",
+            "I have a fever and a sore throat.",
+            "Any other symptoms you have?",
+            "Yes. I have a headache and a runny nose.",
+            "Okay. Based on your symptoms, it could be a cold or flu.",
+            "What should I do now?",
+            "You should take rest, drink plenty of fluids and take over-the-counter medication for fever and pain.",
+            "Thank you, Medi. What over-the-counter medicine do you recommend?"
+        ],
+        "knowledge": "Common cold and flu  Common cold and flu are viral infections that affect the respiratory system. They are both contagious and present with similar symptoms, such as fever, cough, sore throat, headache, and runny or stuffy nose. The two diseases have different viruses that cause them - cold is caused by the rhinovirus, while the flu is caused by influenza. There are various over-the-counter medications that can alleviate the symptoms of cold or flu, but it is recommended to consult a physician before taking any medication.",
+        "response": "You can take acetaminophen or ibuprofen for fever and pain relief. Please follow the recommended dosage on the package and consult with a doctor if you have any concerns."
+    },
+    {
+        "dialog": [
+            "Hello Medi, my child has a fever and a rash on her body.",
+            "I am here to assist. How high is her fever?",
+            "Her temperature is 39 degrees Celsius.",
+            "Does she have any other symptoms?",
+            "She is also complaining about abdominal pain and headache.",
+            "Based on her symptoms, it could be a viral infection or a bacterial infection.",
+            "What should I do now?",
+            "You should take her to the doctor for a thorough examination and diagnosis. It's important to monitor her fever and keep her hydrated.",
+            "Can you recommend any home remedies to alleviate her symptoms?"
+        ],
+        "knowledge": "Fever and rash in children   A fever accompanied by a rash can be a sign of many different viral or bacterial infections, such as measles, rubella, scarlet fever, or meningitis. It's important to keep the child hydrated and to monitor their fever. Any fever above 39 degrees Celsius should be treated with medication, and if it persists for more than 24-48 hours, it's recommended to see a doctor. Home remedies such as cold compresses or oatmeal baths can help alleviate the discomfort associated with a rash.",
+        "response": "I would recommend giving her a sponge bath with lukewarm water to reduce her fever. You can also try giving her plenty of fluids and keeping her in a cool room to prevent overheating. However, please consult with your doctor before trying any home remedies."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery and I'm wondering what kind of physical activity I can do.",
+            "Hi, I'm here to help. What type of surgery did you have?",
+            "I had a knee surgery.",
+            "It's important to take it easy and avoid any activities that might put strain on your knee. You should follow your doctor's instructions for physical therapy and gradually increase your activity levels.",
+            "Is there any type of exercise that I can do?",
+            "You can try low-impact activities such as swimming, cycling, or yoga. These exercises can help improve your range of motion and strengthen your muscles without putting too much stress on your knee.",
+            "What kind of diet should I follow to aid my recovery?",
+            "It's important to follow a balanced diet that includes plenty of protein, fiber, and nutrients. You should also avoid foods that are high in sugar, salt, and saturated fats. Your doctor or a registered dietician can provide more detailed information about a diet plan that's right for you.",
+            "Thank you, Medi. I appreciate your advice."
+        ],
+        "knowledge": "Post-surgery recovery  After surgery, it's important to give your body time to recover and to follow your doctor's instructions for physical activity. Low-impact exercises such as swimming, cycling, or yoga can help improve your range of motion and strengthen your muscles without putting too much stress on your body. It's also important to follow a balanced diet that includes plenty of protein, fiber, and nutrients. You should avoid foods that are high in sugar, salt, and saturated fats, which can slow down your recovery.",
+        "response": "You're welcome. Remember to take it slow and follow your doctor's instructions for a speedy recovery. If you have any concerns or questions, don't hesitate to contact your doctor."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a fever and sore throat. What should I do?",
+            "Based on your symptoms, it seems like you might have an infection. You should rest and drink plenty of fluids.",
+            "Do I need to take any medication?",
+            "If your fever is high, you can take acetaminophen or ibuprofen. But if your symptoms get worse, you should see a doctor.",
+            "Okay, I will rest and drink more fluids. Thanks.",
+            "You're welcome. Take care of yourself.",
+            "What causes a sore throat?",
+            "A sore throat can be caused by a viral or bacterial infection or by allergies or irritants like smoke or pollution.",
+            "What are some ways to prevent getting an infection?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The diagnosis is aided by the presenting symptoms in any individual with an infectious disease, yet it usually needs additional diagnostic techniques to confirm the suspicion.  Some signs are specifically characteristic and indicative of a disease and are called pathognomonic signs; but these are rare.  Not all infections are symptomatic. In children the presence of cyanosis, rapid breathing, poor peripheral perfusion, or a petechial rash increases the risk of a serious infection by greater than 5 fold.  Other important indicators include parental concern, clinical instinct, and temperature greater than 40\u00a0\u00b0C. Many diagnostic approaches depend on microbiological culture to isolate a pathogen from the appropriate clinical specimen.  In a microbial culture, a growth medium is provided for a specific agent Infectious diseases Infectious diseases",
+        "response": "Washing your hands regularly, avoiding contact with sick people, and keeping your immune system strong through healthy habits like exercise and a balanced diet can help prevent infections."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had a cold last week and now I'm feeling better. Can I still spread the virus?",
+            "The common cold is highly contagious, and you can continue to spread the virus for up to two weeks after you've recovered from your symptoms.",
+            "What can I do to prevent spreading the virus?",
+            "You can cover your mouth and nose when you cough or sneeze, wash your hands frequently, and avoid close contact with other people.",
+            "What are some common symptoms of a cold?",
+            "The common cold can cause a runny or stuffy nose, cough, sore throat, body aches, fatigue, and sometimes a fever.",
+            "How can I treat a cold?",
+            "There is no cure for the common cold, but you can treat your symptoms with over-the-counter medications like decongestants, pain relievers, and cough suppressants.",
+            "Thanks for the help, Medi. I'll make sure to take care of myself."
+        ],
+        "knowledge": "Common cold Common cold The common cold is a viral infection that affects the upper respiratory tract, including the nose, sinuses, throat, and larynx.  It is one of the most common illnesses and is usually self-limiting, meaning it gets better on its own without medical treatment.  The common cold is highly contagious and can be spread through the air or by touching contaminated surfaces.  There is no cure for the common cold, but symptoms can be treated with over-the-counter medications. Common cold Common cold",
+        "response": "You're welcome. Don't hesitate to contact me if you have any more questions!"
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just had a routine checkup and my doctor said my cholesterol levels are high. What does this mean?",
+            "High cholesterol levels can increase your risk of heart disease and stroke.",
+            "What can I do to lower my cholesterol?",
+            "You can lower your cholesterol by making lifestyle changes like eating a healthy diet, exercising regularly, and quitting smoking. Your doctor may also prescribe medication if necessary.",
+            "What foods should I avoid?",
+            "You should avoid foods high in saturated and trans fats like red meat, fried foods, and processed snacks.",
+            "What foods should I eat more of?",
+            "You should eat more foods high in fiber like fruits, vegetables, and whole grains, as well as foods high in omega-3 fatty acids like fish and nuts.",
+            "Thanks for the advice, Medi. I'll make sure to follow it."
+        ],
+        "knowledge": "Heart disease Heart disease Heart disease refers to a variety of conditions that affect the heart, including coronary artery disease, arrhythmias, and heart failure.  Risk factors for heart disease include high blood pressure, high cholesterol, smoking, diabetes, and a family history of heart disease.  To prevent heart disease, you should make lifestyle changes like quitting smoking, eating a healthy diet, exercising regularly, and managing stress.  Your doctor may also prescribe medication if necessary Heart disease Heart disease",
+        "response": "Other ways to prevent heart disease include managing stress and getting enough sleep, as well as regular check-ups with your doctor to monitor your blood pressure and cholesterol levels."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I have fever",
+            "I'm sorry to hear that, can you tell me about your symptoms?",
+            "I feel a headache and my body temperature is 38.5 degrees Celsius",
+            "Okay, you may have a fever. You should rest and drink plenty of fluids.",
+            "What else can I do?",
+            "You can also take over-the-counter fever reducers, such as acetaminophen or ibuprofen",
+            "Thank you, Medi. How long will it take for me to get better?",
+            "It depends on the cause of the fever. If it's a viral infection, it may take a few days.",
+            "What should I do if my symptoms get worse or don't improve?"
+        ],
+        "knowledge": "Fever Fever A fever is a symptom of an underlying condition, such as an infection or inflammation.  It is defined as a body temperature above the normal range of 36.5 to 37.5 degrees Celsius (97.7 to 99.5 degrees Fahrenheit).  A fever is usually a sign that the body is fighting an infection.  Other symptoms may include sweating, chills, headache, muscle aches, and fatigue.  Treatment depends on the underlying cause of the fever.  Most fevers are harmless and will go away on their own.  Over-the-counter fever reducers, such as acetaminophen or ibuprofen, can help relieve symptoms.  If a fever is high or lasts for more than a few days, a doctor should be consulted. Fever Fever",
+        "response": "You should rest, drink plenty of fluids and take over-the-counter fever reducers. If your symptoms get worse or don't improve after a few days, you should see a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I want to know more about infectious diseases",
+            "Sure, what specifically do you want to know?",
+            "What are the types of infectious diseases?",
+            "There are many types of infectious diseases, including bacterial, viral, fungal, and parasitic.",
+            "How are infectious diseases spread?",
+            "Infectious diseases can be spread through direct contact, such as touching or kissing, or indirect contact, such as through the air or contaminated surfaces.",
+            "What are the symptoms of infectious diseases?",
+            "The symptoms of infectious diseases vary depending on the type of disease, but may include fever, fatigue, cough, diarrhea, and vomiting.",
+            "How can we prevent infectious diseases?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The diagnosis is aided by the presenting symptoms in any individual with an infectious disease, yet it usually needs additional diagnostic techniques to confirm the suspicion.  Some signs are specifically characteristic and indicative of a disease and are called pathognomonic signs; but these are rare.  Not all infections are symptomatic. In children the presence of cyanosis, rapid breathing, poor peripheral perfusion, or a petechial rash increases the risk of a serious infection by greater than 5 fold.  Other important indicators include parental concern, clinical instinct, and temperature greater than 40\u00a0\u00b0C. Many diagnostic approaches depend on microbiological culture to isolate a pathogen from the appropriate clinical specimen.  In a microbial culture, a growth medium is provided for a specific agent Infectious diseases Infectious diseases",
+        "response": "Infectious diseases can be bacterial, viral, fungal, or parasitic and can be spread through direct or indirect contact. The symptoms vary depending on the type of disease and good hygiene is important to prevent them."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure, what should I do now?",
+            "What kind of medical procedure did you have?",
+            "I had a surgery on my knee",
+            "You should follow your doctor's instructions for post-operative care, including rest, ice, compression, and elevation of the injured area.",
+            "What about medication?",
+            "Your doctor may prescribe pain relievers and anti-inflammatory medications to help manage pain and reduce inflammation.",
+            "What about physical therapy?",
+            "Your doctor may also recommend physical therapy to help you regain strength and range of motion in the affected area.",
+            "How should I modify my diet?"
+        ],
+        "knowledge": "Medical procedures Medical procedures After a medical procedure, it is important to follow your doctor's instructions for post-operative care.  This may include rest, ice, compression, and elevation of the injured area.  Your doctor may also prescribe pain relievers and anti-inflammatory medications to help manage pain and reduce inflammation.  In some cases, physical therapy may be recommended to help you regain strength and range of motion in the affected area.  Diet modification may also be necessary depending on the type of surgery you had. Medical procedures Medical procedures",
+        "response": "You should follow your doctor's instructions for post-operative care, including rest, ice, compression, and elevation of the injured area. Your doctor may prescribe pain relievers and anti-inflammatory medications and physical therapy may be recommended. Diet modification may be necessary depending on the type of surgery you had."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I might have an infectious disease",
+            "Hello, can you please tell me what symptoms you have?",
+            "I feel very weak, I have a fever, and my nose is congested",
+            "Based on your symptoms, it is possible that you have an upper respiratory infection. You should get plenty of rest and drink fluids",
+            "What else can I do to feel better?",
+            "You can take over-the-counter medications such as acetaminophen or ibuprofen to reduce your fever and pain",
+            "Thank you, Medi. How long do you think it will take to recover?",
+            "Recovery time can vary, but typically most people begin to feel better within 7-10 days",
+            "Okay, thanks for your help"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The diagnosis is aided by the presenting symptoms in any individual with an infectious disease, yet it usually needs additional diagnostic techniques to confirm the suspicion.  Some signs are specifically characteristic and indicative of a disease and are called pathognomonic signs; but these are rare.  Not all infections are symptomatic. In children the presence of cyanosis, rapid breathing, poor peripheral perfusion, or a petechial rash increases the risk of a serious infection by greater than 5 fold.  Other important indicators include parental concern, clinical instinct, and temperature greater than 40\u00a0\u00b0C. Many diagnostic approaches depend on microbiological culture to isolate a pathogen from the appropriate clinical specimen.  In a microbial culture, a growth medium is provided for a specific agent Infectious diseases Infectious diseases",
+        "response": "You're welcome. If you continue to experience symptoms or they become worse, you should see a doctor for further evaluation."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain what are infectious diseases exactly?",
+            "Certainly. Infectious diseases are caused by pathogens such as bacteria, viruses, fungi, and parasites",
+            "How do you get these diseases?",
+            "You can get these diseases by coming into contact with an infected person, animal, or contaminated surface",
+            "What are some examples of infectious diseases?",
+            "Infectious diseases include the flu, pneumonia, tuberculosis, and sexually transmitted infections such as chlamydia and gonorrhea",
+            "Can these diseases be treated?",
+            "Many infectious diseases can be treated with medications such as antibiotics or antivirals, but some require supportive care while your body fights off the infection",
+            "Thanks for the explanation, Medi. How can I prevent getting an infectious disease?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The diagnosis is aided by the presenting symptoms in any individual with an infectious disease, yet it usually needs additional diagnostic techniques to confirm the suspicion.  Some signs are specifically characteristic and indicative of a disease and are called pathognomonic signs; but these are rare.  Not all infections are symptomatic. In children the presence of cyanosis, rapid breathing, poor peripheral perfusion, or a petechial rash increases the risk of a serious infection by greater than 5 fold.  Other important indicators include parental concern, clinical instinct, and temperature greater than 40\u00a0\u00b0C. Many diagnostic approaches depend on microbiological culture to isolate a pathogen from the appropriate clinical specimen.  In a microbial culture, a growth medium is provided for a specific agent Infectious diseases Infectious diseases",
+        "response": "You can reduce your risk of getting an infectious disease by practicing good hygiene such as washing your hands regularly, avoiding close contact with sick people, and keeping your vaccinations up to date."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what I can do to ensure a healthy recovery",
+            "Hi, congratulations on your surgery. It is important to follow your doctor's instructions for a healthy recovery. Can you tell me what kind of surgery you had?",
+            "I had a knee replacement",
+            "After a knee replacement, it is important to rest and elevate your leg, as well as do physical therapy exercises to strengthen the muscles around your knee. Your doctor may also prescribe pain medications",
+            "What about my diet?",
+            "A healthy diet is important for a successful recovery. You should try to eat plenty of fruits, vegetables, and lean protein and avoid processed foods and sugary drinks",
+            "Thanks for the advice, Medi. Is there anything else I should know?",
+            "Yes, it is important to avoid smoking and alcohol during your recovery period as they can impede the healing process",
+            "Okay, I'll keep that in mind. Thanks, Medi"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The diagnosis is aided by the presenting symptoms in any individual with an infectious disease, yet it usually needs additional diagnostic techniques to confirm the suspicion.  Some signs are specifically characteristic and indicative of a disease and are called pathognomonic signs; but these are rare.  Not all infections are symptomatic. In children the presence of cyanosis, rapid breathing, poor peripheral perfusion, or a petechial rash increases the risk of a serious infection by greater than 5 fold.  Other important indicators include parental concern, clinical instinct, and temperature greater than 40\u00a0\u00b0C. Many diagnostic approaches depend on microbiological culture to isolate a pathogen from the appropriate clinical specimen.  In a microbial culture, a growth medium is provided for a specific agent Infectious diseases Infectious diseases",
+        "response": "You're welcome. Remember to always follow your doctor's instructions and attend all follow-up appointments to ensure a smooth recovery."
+    }
+]

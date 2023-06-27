@@ -1,0 +1,450 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I have a headache and runny nose",
+            "Hello! Sorry to hear that. Do you have a fever or cough?",
+            "No, only headache and runny nose. Can you help me?",
+            "Based on your symptoms, you might have the flu. Get a lot of rest, drink fluids, and take over-the-counter pain relievers",
+            "Is there anything else I can do to feel better?",
+            "Yes, you can stay home and avoid contact with others to avoid spreading the flu",
+            "Thanks for your help, Medi",
+            "You're welcome. Take care of yourself.",
+            "How long will it take for me to feel better?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It usually takes about a week to recover from the flu, but it depends on the individual. Make sure to rest and stay hydrated."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I'm curious about how influenza viruses replicate",
+            "Hello! The virus enters a host cell and hijacks its machinery to reproduce itself. It then spreads to other cells and repeats the process",
+            "Can you explain how the virus reproduces?",
+            "The virus uses its RNA to take over the host cell's machinery and produce more copies of itself. The new viruses then break out of the host cell and infect more cells",
+            "What happens to the host cell?",
+            "The host cell is destroyed when the new viruses break out of it. This can cause tissue damage and inflammation",
+            "That's interesting. How does the immune system respond?",
+            "The immune system produces antibodies that can neutralize the virus and protect against future infections",
+            "Thanks for the information, Medi"
+        ],
+        "knowledge": "Influenza Influenza RNPs are then imported into the nucleus with the help of viral localization signals.  There, the viral RNA polymerase transcribes mRNA using the genomic negative-sense strand as a template.  The polymerase snatches 5' caps for viral mRNA from cellular RNA to prime mRNA synthesis and the 3'-end of mRNA is polyadenylated at the end of transcription.  Once viral mRNA is transcribed, it is exported out of the nucleus and translated by host ribosomes in a cap-dependent manner to synthesize viral proteins.  RdRp also synthesizes complementary positive-sense strands of the viral genome in a complementary RNP complex which are then used as templates by viral polymerases to synthesize copies of the negative-sense genome.  During these processes, RdRps of avian influenza viruses  function optimally at a higher temperature than mammalian influenza viruses. Newly synthesized viral polymerase subunits and NP proteins are imported to the nucleus to further increase the rate of viral replication and form RNPs Influenza Influenza",
+        "response": "Yes, the flu virus can mutate and create new strains that vaccines may not be effective against. Researchers work to develop new vaccines each year to target the most common strains."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a flu vaccine. What should I do to stay healthy?",
+            "Hello! Congratulations on getting your flu vaccine. You should continue to practice good hygiene to stay healthy",
+            "What hygiene practices should I follow?",
+            "Wash your hands often, avoid close contact with sick people, cover your mouth and nose when you cough or sneeze, and avoid touching your face",
+            "What about my diet?",
+            "Eating a balanced diet with plenty of fruits and vegetables can help support your immune system",
+            "What about physical activity?",
+            "Regular physical activity can also support your immune system and help you stay healthy. Aim for at least 30 minutes of moderate exercise per day",
+            "Thanks for the advice, Medi"
+        ],
+        "knowledge": "Influenza Influenza  The influenza vaccine is formulated each year to protect against the most common strains of the virus. The effectiveness of the vaccine varies from year to year and depends on the match between the vaccine and the circulating strains. In general, the vaccine is more effective in healthy adults and less effective in older adults and people with weakened immune systems. However, even if the vaccine is not a perfect match, it can still provide some protection and reduce the severity of the illness",
+        "response": "The effectiveness of the flu vaccine varies, but it can provide some protection and reduce the severity of the illness even if it is not a perfect match for the circulating strains."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a running nose, sore throat and fever.",
+            "I see. Based on your symptoms, you might have caught a flu.",
+            "What should I do then?",
+            "You can take some rest, drink plenty of water and take over-the-counter medications to relieve your symptoms.",
+            "What about antibiotics?",
+            "Antibiotics are not effective against viruses, which cause flu. They only work against bacterial infections.",
+            "Alright. How long does it usually take to recover from flu?",
+            "It can take up to two weeks to fully recover from flu. But most people feel better within a week.",
+            "Thank you for the information, Medi. "
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Do you have any other questions for me?"
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I just had a flu shot. What should I expect after getting the vaccine?",
+            "Hi. After getting the vaccine, you may experience some mild side effects such as pain or redness at the injection site, low-grade fever or body aches.",
+            "Is it normal to feel sick after getting the flu shot?",
+            "No, it's not common to feel sick after getting the flu shot. However, some people may experience mild symptoms similar to flu after getting the vaccine.",
+            "How long does it take for the vaccine to start working?",
+            "It takes about two weeks for the vaccine to start working and to provide protection against flu.",
+            "Can the flu shot give me the flu?",
+            "No, the flu shot cannot give you flu. The vaccine contains killed or weakened viruses that cannot cause the disease.",
+            "That's good to know. Thank you, Medi."
+        ],
+        "knowledge": "Vaccination Vaccination  Flu vaccines are designed to protect against the influenza viruses that research indicates will be most common during the upcoming season.  The vaccine is made from inactivated or weakened viruses that cannot cause influenza.  The vaccine stimulates the body\u2019s immune system, which then creates the necessary antibodies to protect against influenza viruses.  It takes about two weeks after vaccination to produce antibodies against the flu.  Flu vaccines are generally well tolerated and usually cause no serious side effects.  The side effects that do occur are generally mild, and may include pain or redness at the injection site, headache, fever, or body aches. Vaccination Vaccination",
+        "response": "You're welcome. Do you have any other questions for me?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just recovered from flu. What should I do to prevent it from happening again?",
+            "Hi. To prevent flu from happening again, you should get vaccinated every year and practice good hand hygiene.",
+            "What else can I do to prevent flu?",
+            "You can also avoid close contact with sick people and cover your mouth and nose with a tissue when you cough or sneeze.",
+            "How effective is the flu vaccine?",
+            "The effectiveness of the flu vaccine varies from year to year but it can reduce your risk of getting flu by up to 60%.",
+            "What if I still get flu after getting the vaccine?",
+            "Even if you still get flu after getting the vaccine, the symptoms are usually milder and the illness is less likely to lead to complications.",
+            "Thank you for the information, Medi."
+        ],
+        "knowledge": "Influenza Influenza  Influenza is a contagious respiratory illness caused by influenza viruses that infect the nose, throat, and sometimes the lungs.  It can cause mild to severe illness, and can lead to hospitalization and death.  Flu viruses are spread mainly by droplets made when people with flu cough, sneeze or talk.  The flu vaccine is the best way to prevent flu and its complications.  However, the vaccine's effectiveness varies from person to person and from season to season.  Other preventive measures include washing your hands often with soap and water, avoiding close contact with sick people, covering your mouth and nose when you cough or sneeze, and staying home when you are sick.   Influenza Influenza",
+        "response": "You're welcome. Do you have any other questions for me?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling unwell and I'm not sure what's wrong.",
+            "Hello, sorry to hear that. Can you tell me what symptoms you are experiencing?",
+            "I have a fever and a cough, and I feel really tired.",
+            "Based on those symptoms, it's possible that you have the flu. It's important to get plenty of rest and stay hydrated.",
+            "What can I do to feel better?",
+            "You can take over-the-counter medications for fever and pain, and drink plenty of fluids. If the symptoms continue, it's best to see a doctor.",
+            "Thanks for your help Medi. Should I be worried about spreading the flu to others?",
+            "Yes, it's important to take precautions to prevent the spread of the flu such as washing your hands regularly and covering your mouth when you cough or sneeze.",
+            "Okay, I'll be sure to do that. Thank you Medi!"
+        ],
+        "knowledge": "Influenza Influenza RNPs are then imported into the nucleus with the help of viral localization signals. There, the viral RNA polymerase transcribes mRNA using the genomic negative-sense strand as a template. The polymerase snatches 5' caps for viral mRNA from cellular RNA to prime mRNA synthesis and the 3'-end of mRNA is polyadenylated at the end of transcription. Once viral mRNA is transcribed, it is exported out of the nucleus and translated by host ribosomes in a cap-dependent manner to synthesize viral proteins. RdRp also synthesizes complementary positive-sense strands of the viral genome in a complementary RNP complex which are then used as templates by viral polymerases to synthesize copies of the negative-sense genome. During these processes, RdRps of avian influenza viruses function optimally at a higher temperature than mammalian influenza viruses. Newly synthesized viral polymerase subunits and NP proteins are imported to the nucleus to further increase the rate of viral replication and form RNPs Influenza Influenza",
+        "response": "You're welcome. Remember to take extra precautions to prevent the spread of the flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about the flu.",
+            "Of course, what would you like to know?",
+            "How is the flu different from a cold? They seem similar to me.",
+            "The flu and the common cold are both respiratory illnesses, but they are caused by different viruses and have different symptoms. The flu tends to be more severe and can lead to more serious complications.",
+            "What are some of the complications of the flu?",
+            "Complications of the flu can include pneumonia, bronchitis, sinus infections, and ear infections. In severe cases, the flu can even lead to hospitalization or death.",
+            "That sounds serious. Is there a way to prevent the flu?",
+            "The best way to prevent the flu is to get vaccinated each year. It's also important to practice good hygiene, such as washing your hands regularly and covering your mouth when you cough or sneeze.",
+            "Thank you for the information Medi."
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Don't forget to take precautions to prevent the flu, especially getting vaccinated each year."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a medical procedure and I'm not sure what I should be doing now.",
+            "I'd be happy to help. Can you tell me more about the procedure?",
+            "It was a minor surgery on my knee. I'm not sure what exercises or activities are safe for me to do now.",
+            "After a minor surgery like that, it's important to rest and allow your body time to heal. You should avoid any strenuous activity or exercise for several days.",
+            "How long should I wait before I can start exercising again?",
+            "It depends on the type of surgery and your individual condition, but you should generally wait until your doctor gives you the okay to start exercising again. They will be able to provide more specific guidance.",
+            "Are there any exercises or activities that are safe for me to do now?",
+            "Your doctor may recommend gentle exercises or physical therapy to help with your recovery. It's important to follow their guidance and avoid any activities that could cause further injury.",
+            "Thanks for your help Medi. I'll make sure to follow my doctor's advice."
+        ],
+        "knowledge": "Influenza Influenza RNPs are then imported into the nucleus with the help of viral localization signals. There, the viral RNA polymerase transcribes mRNA using the genomic negative-sense strand as a template. The polymerase snatches 5' caps for viral mRNA from cellular RNA to prime mRNA synthesis and the 3'-end of mRNA is polyadenylated at the end of transcription. Once viral mRNA is transcribed, it is exported out of the nucleus and translated by host ribosomes in a cap-dependent manner to synthesize viral proteins. RdRp also synthesizes complementary positive-sense strands of the viral genome in a complementary RNP complex which are then used as templates by viral polymerases to synthesize copies of the negative-sense genome. During these processes, RdRps of avian influenza viruses function optimally at a higher temperature than mammalian influenza viruses. Newly synthesized viral polymerase subunits and NP proteins are imported to the nucleus to further increase the rate of viral replication and form RNPs Influenza Influenza",
+        "response": "You're welcome. Remember to follow your doctor's guidance and take it easy while you're recovering."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm experiencing flu-like symptoms.",
+            "I'm sorry to hear that. Can you describe your symptoms?",
+            "I have high fever, body aches, sore throat, and runny nose.",
+            "Sounds like you may have influenza. Have you taken your temperature?",
+            "Yes, I have a temperature of 102\u00b0F.",
+            "You should rest and take plenty of fluids. Do you need a prescription?",
+            "No, I prefer to use over-the-counter remedies. What do you suggest?",
+            "You can take paracetamol for fever and pain, and decongestants for your runny nose.",
+            "Thanks, how long will it take to recover?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It usually takes 1 to 2 weeks to recover from influenza. Make sure to stay hydrated and get plenty of rest."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm curious about the influenza virus.",
+            "I'd be happy to answer your questions. What do you want to know?",
+            "How does the influenza virus replicate inside a host cell?",
+            "The virus enters the cell and uses its RNA polymerase to create copies of its RNA genome.",
+            "What happens after the RNA genome is created?",
+            "The RNA genome is used to create viral proteins, which are assembled into new virus particles.",
+            "How does the virus exit the host cell?",
+            "The virus buds off from the host cell, taking a layer of cell membrane with it.",
+            "Interesting. How does the virus spread from person to person?"
+        ],
+        "knowledge": "Influenza Influenza RNPs are then imported into the nucleus with the help of viral localization signals.  There, the viral RNA polymerase transcribes mRNA using the genomic negative-sense strand as a template.  The polymerase snatches 5' caps for viral mRNA from cellular RNA to prime mRNA synthesis and the 3'-end of mRNA is polyadenylated at the end of transcription.  Once viral mRNA is transcribed, it is exported out of the nucleus and translated by host ribosomes in a cap-dependent manner to synthesize viral proteins.  RdRp also synthesizes complementary positive-sense strands of the viral genome in a complementary RNP complex which are then used as templates by viral polymerases to synthesize copies of the negative-sense genome.  During these processes, RdRps of avian influenza viruses  function optimally at a higher temperature than mammalian influenza viruses. Newly synthesized viral polymerase subunits and NP proteins are imported to the nucleus to further increase the rate of viral replication and form RNPs Influenza Influenza",
+        "response": "You're welcome. Do you have any other questions about influenza?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just recovered from influenza. What should I do to prevent another infection?",
+            "I'm glad to hear that you're feeling better. You can prevent another infection by getting vaccinated.",
+            "What is the influenza vaccine and how does it work?",
+            "The influenza vaccine contains inactivated virus particles that stimulate your immune system to create antibodies against the virus.",
+            "When should I get vaccinated?",
+            "You should get vaccinated every year before the start of the flu season, which is usually in October or November.",
+            "What are some other ways to prevent getting infected with influenza?",
+            "You can also prevent influenza by washing your hands frequently, avoiding close contact with sick people, and avoiding touching your mouth and nose.",
+            "Thanks for the advice. Is there anything else I should know?"
+        ],
+        "knowledge": "Influenza Influenza Vaccination is the most effective way to prevent influenza. The influenza vaccine contains inactivated virus particles that stimulate your immune system to create antibodies against the virus.  The antibodies can recognize and destroy the virus if you are exposed to it in the future.  It is recommended that everyone over the age of 6 months get vaccinated against influenza every year.  The vaccine is especially important for people with weakened immune systems, people with chronic health conditions, and people over the age of 65 who are at greater risk of complications from influenza.  Other ways to prevent getting infected with influenza include washing your hands frequently, avoiding close contact with sick people, and avoiding touching your mouth and nose Influenza Influenza",
+        "response": "You're welcome. Do you have any other questions or concerns?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a cough and a runny nose",
+            "Hello, based on your symptoms, you might have a common cold",
+            "Do I need to take medicine for this condition",
+            "You can try remedies such as resting, drinking fluids, and using over-the-counter medications to relieve symptoms. If symptoms persist or worsen, it's best to consult a doctor.",
+            "Thanks for your advice, Medi. By the way, how long does it take for the common cold to go away?",
+            "Common cold symptoms usually last 7-10 days, but can last up to two weeks.",
+            "Ok, I'll follow your advice. What should I do to prevent it from spreading to others?",
+            "To help prevent the spread of the common cold, cover your mouth when you cough or sneeze, wash your hands often, and avoid close contact with others.",
+            "Got it, thanks. One last question, how can I tell if my cold is turning into a bacterial infection?"
+        ],
+        "knowledge": "Common Cold Common Cold The common cold is a viral respiratory infection that affects the upper respiratory tract.  Symptoms include coughing, runny nose, sneezing, sore throat, and fever.  The symptoms are usually mild and self-limiting.  Treatment is aimed at relieving symptoms, and there is no cure.  Antibiotics are not effective in treating the common cold because it is a viral infection.  The common cold is highly contagious and is spread through respiratory secretions from infected individuals.  Prevention includes frequent hand washing, avoiding close contact with infected individuals, and keeping surfaces clean and disinfected. Common Cold Common Cold",
+        "response": "If symptoms persist for more than two weeks, or if your cold symptoms worsen or you develop a high fever, it's best to consult a doctor to determine if a bacterial infection is present."
+    },
+    {
+        "dialog": [
+            "Medi, I just had surgery and I'm not sure what I should be doing to take care of myself",
+            "Hi there, after surgery it's important to follow the doctor's post-operative instructions, rest, and eat a balanced diet",
+            "What should I eat to help with my recovery?",
+            "You should focus on eating high-protein foods, like lean meats and legumes, as well as plenty of fruits and vegetables. It's also important to stay hydrated.",
+            "What about physical activity? Should I be exercising?",
+            "It's important to rest and not overexert yourself, but light exercise and physical therapy may be recommended by your doctor to help with recovery",
+            "Got it, thanks for the advice. What are some warning signs I should look out for after surgery?",
+            "You should contact your doctor immediately if you experience fever, severe pain, bleeding, or swelling at the surgical site, or any difficulty breathing or feeling faint.",
+            "Okay, I'll keep that in mind. Last question, how long will it take for me to fully recover from the surgery?"
+        ],
+        "knowledge": "Surgery Surgery Recovery time after surgery can vary widely depending on the type of surgery and the individual patient.  It can take anywhere from a few days to several weeks or even months for a full recovery.  It's important to follow post-operative instructions from the doctor carefully to promote healing and prevent complications.  Patients should also eat a balanced diet, rest, and avoid overexerting themselves.  Physical therapy or light exercise may be recommended by the doctor to help recovery. Surgery Surgery",
+        "response": "Recovery time after surgery can vary widely, but following doctor's post-operative instructions, resting, and eating a balanced diet can help promote healing."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm feeling very anxious and stressed lately",
+            "Hello, I'm sorry to hear that. It's important to take care of your mental health. Have you tried any relaxation techniques?",
+            "No, I haven't. What do you recommend?",
+            "Some relaxation techniques that may help include deep breathing exercises, meditation, yoga, or even just taking a walk outside. It's important to find what works best for you",
+            "Okay, I'll try that. Can you recommend any supplements or medications that might help with anxiety?",
+            "While some supplements and medications may be helpful for anxiety, it's important to consult a doctor before taking anything. They can help determine the best course of treatment for you.",
+            "I understand. What are some other lifestyle changes I can make to help with my anxiety?",
+            "Other lifestyle changes that may help include regular exercise, getting enough sleep, and reducing caffeine and alcohol intake. It's also important to seek support from loved ones or a mental health professional.",
+            "Thanks for the advice. One last question, how can I tell if my anxiety is becoming too severe?"
+        ],
+        "knowledge": "Anxiety Anxiety Anxiety is a normal and often healthy emotion. However, when a person regularly feels disproportionate levels of anxiety, it might become a medical disorder.  Anxiety disorders form a category of mental health diagnoses led by the presence of excessive fear, anxiety, worry, and related behavioral disturbances.  Anxiety disorders are the most common mental health disorders.  There are several types of anxiety disorders, including generalized anxiety disorder, social anxiety disorder, and panic disorder.  Symptoms can vary depending on the type of anxiety disorder, but may include restlessness, fatigue, irritability, difficulty concentrating, and sleep disturbances.  Treatment may include medication, therapy, or a combination of both. Anxiety Anxiety",
+        "response": "If you experience severe anxiety symptoms such as difficulty breathing, chest pain, or feeling like you are going to pass out, it's important to seek medical attention immediately. Otherwise, it's best to consult a mental health professional to determine the severity of your anxiety and the best course of treatment."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm not feeling well, can you help me please?",
+            "Of course, what are your symptoms?",
+            "I have a fever and cough, and feel really tired",
+            "Okay, it seems like you may have the flu. Have you been in contact with anyone who has the flu?",
+            "No, I don't think so. How can I treat it?",
+            "Drink plenty of fluids and rest as much as possible. You can also take over-the-counter medication to help with your symptoms.",
+            "Thanks, Medi. Is there anything else I should know?",
+            "Just make sure to wash your hands frequently and cover your mouth and nose when you cough or sneeze to prevent spreading the virus.",
+            "Got it. Thank you for your help, Medi!"
+        ],
+        "knowledge": "Influenza Influenza RNPs are then imported into the nucleus with the help of viral localization signals.  There, the viral RNA polymerase transcribes mRNA using the genomic negative-sense strand as a template.  The polymerase snatches 5' caps for viral mRNA from cellular RNA to prime mRNA synthesis and the 3'-end of mRNA is polyadenylated at the end of transcription.  Once viral mRNA is transcribed, it is exported out of the nucleus and translated by host ribosomes in a cap-dependent manner to synthesize viral proteins.  RdRp also synthesizes complementary positive-sense strands of the viral genome in a complementary RNP complex which are then used as templates by viral polymerases to synthesize copies of the negative-sense genome.  During these processes, RdRps of avian influenza viruses  function optimally at a higher temperature than mammalian influenza viruses. Newly synthesized viral polymerase subunits and NP proteins are imported to the nucleus to further increase the rate of viral replication and form RNPs Influenza Influenza",
+        "response": "You're welcome! Make sure to rest and take over-the-counter medication for your symptoms. Remember to wash your hands frequently and cover your mouth and nose when you cough or sneeze to prevent spreading the virus."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about the flu",
+            "Sure, what would you like to know?",
+            "What causes the flu?",
+            "The flu is caused by the influenza virus. It spreads from person to person through respiratory droplets when someone with the flu coughs or sneezes.",
+            "How can I prevent getting the flu?",
+            "The best way to prevent getting the flu is to get vaccinated every year. You can also wash your hands frequently and avoid close contact with people who are sick.",
+            "Can the flu be treated?",
+            "There is no cure for the flu, but over-the-counter medication can help relieve symptoms and make you feel more comfortable. It's important to rest and stay hydrated as well.",
+            "Thank you, Medi. That helps a lot!"
+        ],
+        "knowledge": "Influenza Influenza RNPs are then imported into the nucleus with the help of viral localization signals.  There, the viral RNA polymerase transcribes mRNA using the genomic negative-sense strand as a template.  The polymerase snatches 5' caps for viral mRNA from cellular RNA to prime mRNA synthesis and the 3'-end of mRNA is polyadenylated at the end of transcription.  Once viral mRNA is transcribed, it is exported out of the nucleus and translated by host ribosomes in a cap-dependent manner to synthesize viral proteins.  RdRp also synthesizes complementary positive-sense strands of the viral genome in a complementary RNP complex which are then used as templates by viral polymerases to synthesize copies of the negative-sense genome.  During these processes, RdRps of avian influenza viruses  function optimally at a higher temperature than mammalian influenza viruses. Newly synthesized viral polymerase subunits and NP proteins are imported to the nucleus to further increase the rate of viral replication and form RNPs Influenza Influenza",
+        "response": "You're welcome! Remember to get vaccinated, wash your hands frequently, and avoid close contact with people who are sick to prevent getting the flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from the flu. What should I do now?",
+            "Congratulations on recovering! It's important to continue taking care of yourself to prevent getting sick again. What would you like advice on?",
+            "What should I eat to help my body recover?",
+            "Try to eat a balanced diet with plenty of fruits and vegetables to help your immune system. You should also prioritize lean proteins and complex carbohydrates.",
+            "Can I exercise?",
+            "It's best to wait until you're fully recovered before engaging in strenuous exercise. Start with light exercise, such as going for a walk, and gradually increase your intensity as you feel more comfortable.",
+            "Thanks, Medi. Is there anything else I should know?",
+            "Make sure to get plenty of rest and continue to hydrate yourself. It's important to listen to your body and not push yourself too hard too soon.",
+            "Sounds good. Thank you, Medi!"
+        ],
+        "knowledge": "Influenza Influenza RNPs are then imported into the nucleus with the help of viral localization signals.  There, the viral RNA polymerase transcribes mRNA using the genomic negative-sense strand as a template.  The polymerase snatches 5' caps for viral mRNA from cellular RNA to prime mRNA synthesis and the 3'-end of mRNA is polyadenylated at the end of transcription.  Once viral mRNA is transcribed, it is exported out of the nucleus and translated by host ribosomes in a cap-dependent manner to synthesize viral proteins.  RdRp also synthesizes complementary positive-sense strands of the viral genome in a complementary RNP complex which are then used as templates by viral polymerases to synthesize copies of the negative-sense genome.  During these processes, RdRps of avian influenza viruses  function optimally at a higher temperature than mammalian influenza viruses. Newly synthesized viral polymerase subunits and NP proteins are imported to the nucleus to further increase the rate of viral replication and form RNPs Influenza Influenza",
+        "response": "You're welcome! Remember to eat a balanced diet, get plenty of rest, and listen to your body as you continue to recover from the flu."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am feeling unwell.",
+            "Hi there, what symptoms are you experiencing?",
+            "I have a high fever, cough, and body aches.",
+            "It sounds like you might have influenza. Have you been vaccinated?",
+            "No, I haven't.",
+            "I recommend that you rest, stay hydrated and take over-the-counter medication to relieve your symptoms. If your condition worsens or does not improve in a few days, please see a doctor.",
+            "Thank you for your advice. What are some home remedies I can try?",
+            "You can try drinking warm fluids like soup or tea, taking a warm bath or using a humidifier to relieve congestion.",
+            "Okay, I'll try those. Thank you!"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms of high fever, cough, and body aches, it's possible that you have influenza. I suggest you take some rest, stay hydrated and take over-the-counter medication to relieve your symptoms. If your condition worsens or does not improve in a few days, please see a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about influenza.",
+            "Hi there, what would you like to know?",
+            "What is influenza?",
+            "Influenza is a viral infection that affects the respiratory system. It is highly contagious and can lead to serious complications.",
+            "How is it transmitted?",
+            "Influenza is mainly transmitted through respiratory droplets when an infected person talks, coughs or sneezes. It can also be spread by touching contaminated surfaces.",
+            "What are the symptoms?",
+            "The symptoms of influenza include fever, cough, sore throat, body aches, headache, fatigue, and sometimes vomiting and diarrhea.",
+            "How can I prevent it?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Influenza is a viral infection that affects the respiratory system and is mainly transmitted through respiratory droplets when an infected person talks, coughs or sneezes. Symptoms include fever, cough, sore throat, body aches, headache, fatigue, and sometimes vomiting and diarrhea. You can prevent it by getting vaccinated, washing your hands frequently, avoiding close contact with sick people, and covering your mouth and nose when you cough or sneeze."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from an influenza infection.",
+            "That's great to hear. How are you feeling now?",
+            "I'm feeling much better, but I'm worried about getting it again.",
+            "It's possible to get influenza more than once, but it's less likely if you have been vaccinated. It's also important to maintain good hygiene and avoid close contact with sick people.",
+            "What should I eat to boost my immune system?",
+            "Foods that are high in vitamin C, such as oranges and bell peppers, and vitamin D, such as fatty fish and eggs, can help boost your immune system. It's also important to eat a balanced diet with plenty of fruits, vegetables, whole grains, and lean protein.",
+            "What kind of exercise is safe to do?",
+            "Gentle exercises such as walking, yoga or swimming can help maintain your fitness while you recover. It's important to listen to your body and not overexert yourself.",
+            "Okay, thank you for your advice."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It's possible to get influenza more than once, but it's less likely if you have been vaccinated. Foods that are high in vitamin C and vitamin D can help boost your immune system. Gentle exercises such as walking, yoga or swimming can help maintain your fitness while you recover. It's important to listen to your body and not overexert yourself."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a cough and a sore throat.",
+            "Hi, let's talk about your symptoms. How long have you had them?",
+            "I've had them for two days now, and I also feel tired.",
+            "I think you may have a viral infection, so you should rest a lot and drink plenty of fluids.",
+            "Will that be enough to make me feel better?",
+            "It should be enough to help your body fight the infection, but if your cough or sore throat gets worse or if you have a fever, you should see a doctor.",
+            "Okay, thanks for your advice.",
+            "You're welcome. Take care of yourself!"
+        ],
+        "knowledge": "Influenza Influenza RNPs are then imported into the nucleus with the help of viral localization signals.  There, the viral RNA polymerase transcribes mRNA using the genomic negative-sense strand as a template.  The polymerase snatches 5' caps for viral mRNA from cellular RNA to prime mRNA synthesis and the 3'-end of mRNA is polyadenylated at the end of transcription.  Once viral mRNA is transcribed, it is exported out of the nucleus and translated by host ribosomes in a cap-dependent manner to synthesize viral proteins.  RdRp also synthesizes complementary positive-sense strands of the viral genome in a complementary RNP complex which are then used as templates by viral polymerases to synthesize copies of the negative-sense genome.  During these processes, RdRps of avian influenza viruses  function optimally at a higher temperature than mammalian influenza viruses. Newly synthesized viral polymerase subunits and NP proteins are imported to the nucleus to further increase the rate of viral replication and form RNPs Influenza Influenza",
+        "response": "You're welcome. If your symptoms get worse or you develop a fever, you should see a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me about the flu?",
+            "Sure, the flu is a viral infection that affects your respiratory system.",
+            "What are the symptoms?",
+            "The symptoms of the flu include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.",
+            "How can I prevent the flu?",
+            "You can prevent the flu by getting vaccinated, washing your hands often, avoiding close contact with sick people, and avoiding touching your face.",
+            "Thanks for the information.",
+            "You're welcome. Do you have any more questions?",
+            "No, that's all for now. Thanks."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Let me know if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a surgery and I want to know how to take care of myself.",
+            "Hi, after surgery, it's important to rest and avoid strenuous activities. Follow your doctor's instructions and take any medication as prescribed.",
+            "What about my diet?",
+            "After surgery, you may need to eat a light diet and avoid foods that could cause constipation or other digestive problems. Drink plenty of fluids to stay hydrated.",
+            "What kind of physical activity can I do?",
+            "Your doctor will tell you when it's safe to start doing physical activity again. Start with light activities like walking and gradually increase the intensity as you feel more comfortable.",
+            "Thanks for your advice.",
+            "You're welcome. Take care of yourself and follow your doctor's instructions."
+        ],
+        "knowledge": "Influenza Influenza RNPs are then imported into the nucleus with the help of viral localization signals.  There, the viral RNA polymerase transcribes mRNA using the genomic negative-sense strand as a template.  The polymerase snatches 5' caps for viral mRNA from cellular RNA to prime mRNA synthesis and the 3'-end of mRNA is polyadenylated at the end of transcription.  Once viral mRNA is transcribed, it is exported out of the nucleus and translated by host ribosomes in a cap-dependent manner to synthesize viral proteins.  RdRp also synthesizes complementary positive-sense strands of the viral genome in a complementary RNP complex which are then used as templates by viral polymerases to synthesize copies of the negative-sense genome.  During these processes, RdRps of avian influenza viruses  function optimally at a higher temperature than mammalian influenza viruses. Newly synthesized viral polymerase subunits and NP proteins are imported to the nucleus to further increase the rate of viral replication and form RNPs Influenza Influenza",
+        "response": "You're welcome. Remember to follow your doctor's instructions and take it easy while you recover."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling unwell.",
+            "Hello there, sorry to hear that. What are your symptoms?",
+            "I have a fever, sore throat, and runny nose.",
+            "It sounds like you might have the flu. You should rest and stay hydrated.",
+            "What else can I do to feel better soon?",
+            "You can take over-the-counter medication for your symptoms and eat soup or drink tea with honey.",
+            "Okay, I'll try that. How long does the flu usually last?",
+            "Symptoms can last up to a week or more, but most people start feeling better after a few days.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Influenza Influenza RNPs are then imported into the nucleus with the help of viral localization signals.  There, the viral RNA polymerase transcribes mRNA using the genomic negative-sense strand as a template.  The polymerase snatches 5' caps for viral mRNA from cellular RNA to prime mRNA synthesis and the 3'-end of mRNA is polyadenylated at the end of transcription.  Once viral mRNA is transcribed, it is exported out of the nucleus and translated by host ribosomes in a cap-dependent manner to synthesize viral proteins.  RdRp also synthesizes complementary positive-sense strands of the viral genome in a complementary RNP complex which are then used as templates by viral polymerases to synthesize copies of the negative-sense genome.  During these processes, RdRps of avian influenza viruses  function optimally at a higher temperature than mammalian influenza viruses. Newly synthesized viral polymerase subunits and NP proteins are imported to the nucleus to further increase the rate of viral replication and form RNPs Influenza Influenza",
+        "response": "You're welcome! I hope you feel better soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about influenza.",
+            "Of course, what would you like to know?",
+            "What are the symptoms of the flu?",
+            "The flu can cause fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.",
+            "How is the flu spread?",
+            "The flu is spread through droplets when someone with the flu coughs, sneezes, or talks. You can also catch the flu by touching an object contaminated with the virus and then touching your mouth, nose, or eyes.",
+            "Thanks for explaining that. Is there a way to prevent getting the flu?",
+            "Yes, getting a flu vaccine is the best way to prevent the flu. You can also wash your hands often and avoid close contact with people who are sick.",
+            "Good to know. Thanks, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome! Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure done. Can you give me some advice on recovery?",
+            "Of course, what kind of procedure did you have?",
+            "I had a gallbladder removal surgery.",
+            "After surgery, it's important to get plenty of rest and follow your doctor's instructions for pain management. You should also avoid heavy lifting and strenuous activity for a few weeks.",
+            "Is there anything I can do to help with the healing process?",
+            "Eating a healthy diet with plenty of protein, vitamins, and minerals can help your body heal faster. You should also avoid smoking and limit alcohol consumption.",
+            "Thanks for the tips, Medi. Can I exercise during my recovery?",
+            "It's best to wait until your doctor gives you the okay to start exercising again. They will let you know when it's safe to start.",
+            "Okay, that makes sense. Thanks for your help."
+        ],
+        "knowledge": "Gallbladder removal surgery is typically done to treat gallstones or gallbladder disease. Recovery time can vary depending on the individual and the type of surgery performed. It's important to follow your doctor's instructions for pain management, rest, and physical activity. Eating a healthy diet and avoiding smoking and alcohol can also aid in the healing process.",
+        "response": "You're welcome! I'm glad I could help."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I think I might have influenza. Can you help me out?",
+            "Sure! What symptoms are you experiencing?",
+            "I have a fever, cough, and sore throat.",
+            "Sounds like you might have the flu. Make sure to stay hydrated and rest.",
+            "Should I take any medication?",
+            "Over-the-counter medications like acetaminophen can help with your fever and body aches.",
+            "What about antiviral medications?",
+            "Antiviral medications can help shorten the duration of your illness, but they work best if taken within 48 hours of symptom onset.",
+            "Thanks, Medi. How long should I expect to feel sick?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common",
+        "response": "Most people recover from the flu within a few days to a week, but cough and fatigue can linger for several weeks."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. Can you explain how influenza spreads?",
+            "Sure! Influenza can spread through respiratory droplets from coughing or sneezing.",
+            "What can I do to prevent getting the flu?",
+            "The best way to prevent getting the flu is to get an annual flu vaccine and practice good hand hygiene.",
+            "What if I've already been exposed to the flu?",
+            "If you've been exposed to the flu, you can take antiviral medications to help prevent getting sick, or you can practice social distancing and wear a mask to reduce your risk of exposure.",
+            "Thanks, Medi. What should I do if I start experiencing flu symptoms?",
+            "If you start experiencing flu symptoms, make sure to stay home and contact your healthcare provider for advice on how to manage your symptoms.",
+            "Got it. Thanks, Medi."
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common",
+        "response": "You're welcome! Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I recently had the flu and I'm feeling better now. What can I do to prevent getting sick again?",
+            "Great to hear you're feeling better! One thing you can do is make sure to get an annual flu vaccine.",
+            "What else can I do?",
+            "You can also practice good hand hygiene, avoid touching your face, and avoid close contact with people who are sick.",
+            "What about exercise?",
+            "Regular exercise can boost your immune system and help prevent you from getting sick.",
+            "What kind of exercise is best?",
+            "A mix of cardio and strength training is best for overall health and immune system function.",
+            "Thanks, Medi. Anything else I should keep in mind?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common",
+        "response": "You're welcome! Take care and stay healthy."
+    }
+]

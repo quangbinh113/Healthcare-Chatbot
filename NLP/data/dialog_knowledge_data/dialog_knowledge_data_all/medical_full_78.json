@@ -1,0 +1,452 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have trouble breathing these days.",
+            "Understand, can you describe your breathing difficulties?",
+            "I feel shortness of breath, and could not take a deep breath.",
+            "I see, have you been diagnosed with asthma before?",
+            "Yes, I have asthma",
+            "Based on your breathing problem and previous diagnosis, I suspect it is asthma exacerbation.",
+            "What should I do now?",
+            "You should use your rescue inhaler, if the symptoms are severe, you should get medical attention immediately.",
+            "Is there anything I can do to prevent this from happening again?"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "Generally, avoiding triggers, taking your medication as prescribed and leading a healthy lifestyle will help to prevent asthma exacerbations."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about asthma",
+            "Sure thing, what is your question?",
+            "Is it possible for me to have asthma and not know it?",
+            "Yes, it is possible",
+            "What kind of symptoms should I look for?",
+            "Wheezing, cough, shortness of breath, and chest tightness are common symptoms of asthma",
+            "Do you have any advice for me?",
+            "If symptoms occur often, or if you have difficulty breathing, you should see a doctor for diagnosis and treatment.",
+            "What is the best treatment for asthma?"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "The best treatment for asthma is a combination of medication and avoiding triggers, but the treatment will depend on the severity of the asthma."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I had a medical procedure for my asthma, what should I do next?",
+            "After the procedure, it is important to follow the instructions of your doctor",
+            "What lifestyle changes can I make to manage my asthma?",
+            "Avoiding triggers such as second-hand smoke, pet dander, and dust mites, eating a healthy diet, and getting regular exercise can help in managing asthma",
+            "Are there any dietary supplements that can help with asthma?",
+            "There is tentative support for use of vitamin C in exercise-induced bronchospasm, and some studies suggest vitamin D supplementation may reduce the risk of asthma exacerbations.",
+            "What about acupuncture?",
+            "Acupuncture is not recommended for the treatment of asthma",
+            "Thank you, Medi. One last question, are there any foods I should avoid?"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate. However, it is recommended to avoid any foods or drinks that may trigger asthma symptoms"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing shortness of breath lately.",
+            "Hello! Sorry to hear that. Can you describe it more?",
+            "It feels like I can't take a deep breath and it gets worse when I exercise.",
+            "I see. Based on your symptoms, it's possible that you have exercise-induced bronchospasm.",
+            "What can I do to feel better?",
+            "There is tentative support for use of vitamin C in exercise induced bronchospasm. Would you like more information?",
+            "Yes, please.",
+            "Vitamin C can help reduce bronchoconstriction and improve lung function. You can also use an inhaler before exercise or talk to your doctor for more options.",
+            "Thank you, Medi. Can I take vitamin D supplements to help with my asthma?"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "Vitamin D supplements may reduce the risk of asthma exacerbations, but it is not clear if it helps with day-to-day symptoms or lung function."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I was diagnosed with asthma and I have some questions.",
+            "Hello! I'm here to help. What do you want to know?",
+            "Can I still take fish oil supplements even though I have asthma?",
+            "Studies show that fish oil supplements don't help improve asthma control.",
+            "What about MSG? Should I avoid it?",
+            "There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate. However, there haven't been enough studies to determine if children with asthma should avoid it.",
+            "Thanks, Medi. I'm also wondering about acupuncture.",
+            "Acupuncture is not recommended for the treatment of asthma as there is insufficient evidence to support its use.",
+            "I see. Can you recommend any physical exercises that I can do to improve my asthma?"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "Regular physical activity can improve lung function and overall health. Low-impact exercises like walking or swimming are good options for people with asthma."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure done and I want to know what I can do to recover faster.",
+            "Hello! What procedure did you have?",
+            "I had an asthma test where they measured my lung function.",
+            "It's important to rest and avoid any strenuous physical activity for the first few days. You should also continue taking any medications prescribed by your doctor.",
+            "What about my diet? Is there anything I should avoid?",
+            "You don't need to make any major changes to your diet, but it's a good idea to eat a balanced diet with plenty of fruits and vegetables and to stay hydrated.",
+            "Got it. What about lifestyle changes?",
+            "If you smoke, it's important to quit. You should also try to avoid triggers that can worsen your asthma symptoms, like dust or pollen.",
+            "Thanks, Medi. What kind of medication should I take for my asthma?"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "It depends on the severity of your asthma and your symptoms. Your doctor can prescribe medications like bronchodilators or corticosteroids to help manage your asthma."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been experiencing shortness of breath lately.",
+            "I am sorry to hear that, can you tell me more about your condition?",
+            "I feel like I have to work harder to breathe, especially during physical activity.",
+            "Based on your symptoms, it is possible that you have exercise-induced bronchospasm.",
+            "What can I do to manage this condition?",
+            "There is tentative support for the use of vitamin C in exercise-induced bronchospasm.",
+            "How about fish oil and reducing dietary sodium?",
+            "They do not appear to help improve asthma control.",
+            "Thank you for your advice, Medi. What else should I know about managing my symptoms?"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "You should also try to avoid triggers that can cause your symptoms and always carry your inhaler with you."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about asthma.",
+            "I am here to help, what do you want to know?",
+            "What causes asthma?",
+            "Asthma is a chronic respiratory disease that is caused by inflammation and narrowing of the airways.",
+            "Is there anything I can do to prevent asthma attacks?",
+            "Avoiding triggers like pollen, dust, and pet dander can help reduce the risk of asthma attacks.",
+            "Does vitamin D have any benefits for people with asthma?",
+            "In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations.",
+            "Thanks for your help, Medi. One more question, does acupuncture help with asthma?"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "No, acupuncture is not recommended for the treatment of asthma as there is insufficient evidence to support its use."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure and I am not sure what I should do next.",
+            "What kind of procedure did you have?",
+            "I had surgery to remove my gallbladder.",
+            "After surgery, it is important to take it easy for a while and follow your doctor's instructions.",
+            "What kind of lifestyle changes should I make after surgery?",
+            "You should try to eat a healthy, balanced diet, get regular exercise, and avoid alcohol and cigarettes.",
+            "Are there any specific foods I should avoid?",
+            "There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate.",
+            "Thank you for your advice, Medi. How long should I expect to take to recover?"
+        ],
+        "knowledge": "Surgery Surgery  Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological condition such as a disease or injury, to help improve bodily function, appearance, or to repair unwanted ruptured areas.  An act of performing surgery may be called a surgical procedure, operation, or simply surgery.  In this context, the verb operate means to perform surgery.  The patient or subject on which the surgery is performed can be a person or an animal.  A surgeon is a person who practices surgery. Surgery Surgery",
+        "response": "Recovery time after gallbladder surgery can vary, but most people are able to return to their normal activities within a week or two."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been experiencing difficulty breathing and wheezing lately.",
+            "I'm here to help. How long have you been experiencing these symptoms?",
+            "It's been a week now and it's getting worse.",
+            "Based on your symptoms, you may be experiencing an asthma exacerbation. Have you been diagnosed with asthma before?",
+            "Yes, I was diagnosed with mild asthma. What should I do to manage this exacerbation?",
+            "It's important to use your inhaler as prescribed. I also recommend avoiding triggers such as smoke and pollen. If your symptoms persist, please seek medical attention.",
+            "Thank you for the advice. Can I continue my exercise routine?",
+            "You should still exercise, but modify it according to your symptoms. Consult with your doctor about what exercises are best for you.",
+            "Okay, I will. Thank you for the help."
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "You're welcome. It's important to manage your symptoms and avoid triggers. Remember to consult with your doctor if your symptoms persist."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about asthma. Can asthma be cured?",
+            "Asthma is a chronic disease, which means it can't be cured. However, it can be managed with proper treatment and lifestyle changes.",
+            "What are some lifestyle changes that can help manage asthma?",
+            "Avoiding triggers such as smoke and pollen is important. Maintaining a healthy weight, exercising regularly, and avoiding stress can also help manage symptoms.",
+            "Thank you for the information. Can asthma be inherited?",
+            "There is evidence that asthma can be inherited. If one or both parents have asthma, the child is more likely to develop it as well.",
+            "What are some common triggers for asthma?",
+            "Common triggers include smoke, pollen, dust mites, and pet dander. It's important to identify and avoid your triggers to manage your symptoms.",
+            "Thank you for the advice. Is it safe to take herbal remedies for asthma?"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "You're welcome. Remember to talk to your doctor before trying any alternative treatments."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a medical procedure done. What should I do in terms of diet and exercise?",
+            "It's important to follow your doctor's specific instructions, but in general, a healthy diet and exercise are important for recovery.",
+            "Are there any foods I should avoid after the procedure?",
+            "It depends on the type of procedure you had. Your doctor will give you specific instructions, but in general, it's important to avoid foods that are high in fat and sugar.",
+            "What type of exercise should I do?",
+            "Again, it depends on the type of procedure you had. Your doctor may recommend light exercise such as walking, but it's important to avoid strenuous exercise until you have fully recovered.",
+            "Is it safe to take supplements after the procedure?",
+            "It's important to talk to your doctor before taking any supplements, as some may interfere with your recovery. Your doctor may advise you to avoid certain supplements until you have fully recovered.",
+            "Thank you for the advice. Is there anything else I should keep in mind?"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "You're welcome. Remember to follow your doctor's specific instructions for post-procedure care to ensure a smooth recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been experiencing shortness of breath lately.",
+            "I see. Can you describe it more in detail?",
+            "It feels like I can't take a deep breath and I feel tightness in my chest.",
+            "Based on your symptoms, it is possible that you have asthma.",
+            "What should I do?",
+            "You should avoid triggers like smoke or pollen and take medication if necessary.",
+            "Okay. Is there anything else I can do to manage my asthma?",
+            "Yes, regular exercise and a healthy diet can help control your asthma symptoms.",
+            "Thank you. Can you tell me more about asthma?"
+        ],
+        "knowledge": "Asthma Asthma There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements and reducing dietary sodium do not appear to help improve asthma control. In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with. There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function. There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate. There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "Asthma is a condition where the airways in your lungs become inflamed and narrow, making it hard to breathe. It can be triggered by various factors like allergies or exercise."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm scheduled for a lung biopsy. What should I expect after the procedure?",
+            "After the procedure, you will need to rest for a few hours.",
+            "What about after I get home?",
+            "You should avoid any strenuous physical activity for a few days and follow your doctor's instructions for wound care.",
+            "I see. Are there any dietary restrictions I should follow?",
+            "Not necessarily, but you should drink plenty of fluids to help flush out the anesthesia from your body.",
+            "Okay. How long will it take for me to get the biopsy results?",
+            "It typically takes a few days to a week for the results to come back.",
+            "Thank you. Can you tell me more about lung biopsies?"
+        ],
+        "knowledge": "Lung biopsy Lung biopsy A lung biopsy is a medical procedure where a small piece of lung tissue is removed for examination. The biopsy can be done using a needle or through a small incision in the chest. Lung biopsies are usually done to diagnose conditions like lung cancer or pulmonary fibrosis. There are two main types of lung biopsy: bronchoscopy biopsy and open lung biopsy. A bronchoscopy biopsy is less invasive and is done using a small camera and tools passed through the mouth and into the lungs. An open lung biopsy requires a small incision in the chest to access the lung tissue. Open lung biopsies are done under general anesthesia. Lung biopsies have some risks, including bleeding, infection, or a collapsed lung. Your doctor will discuss the benefits and risks of the procedure with you before the biopsy is done Lung biopsy Lung biopsy",
+        "response": "A lung biopsy is a medical procedure where a small piece of lung tissue is removed for examination to diagnose conditions like lung cancer or pulmonary fibrosis. There are two main types of lung biopsy: bronchoscopy biopsy and open lung biopsy."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I was just diagnosed with mild-to-moderate asthma.",
+            "I'm sorry to hear that. Let's talk about how we can manage your condition.",
+            "What are some lifestyle changes I can make to manage my asthma?",
+            "You should avoid triggers like smoke or pollen, exercise regularly, and maintain a healthy weight.",
+            "What medications can I take for my asthma?",
+            "There are several types of medications like inhalers and oral medications that can help control your asthma symptoms.",
+            "What are some common side effects of asthma medications?",
+            "Some common side effects include shaking or tremors, rapid heartbeat, and headaches.",
+            "Thank you. Is asthma a lifelong condition?"
+        ],
+        "knowledge": "Asthma Asthma There is tentative support for use of vitamin C in exercise induced bronchospasm. Fish oil dietary supplements and reducing dietary sodium do not appear to help improve asthma control. In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with. There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function. There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate. There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "Asthma is a chronic condition, but with proper management, most people with asthma can lead normal lives."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing some difficulty breathing lately.",
+            "I'm here to help. Can you provide more information about your symptoms?",
+            "I have been feeling tightness in my chest and shortness of breath.",
+            "Based on your symptoms, it's possible that you may have asthma. Have you been diagnosed before?",
+            "No, I haven't. What can I do now?",
+            "It's important to consult a doctor for a proper diagnosis. In the meantime, try to avoid triggers like smoke and dust.",
+            "I understand. Are there any natural remedies that can help alleviate my symptoms?",
+            "There is tentative support for the use of vitamin C in exercise-induced bronchospasm. However, it's best to consult with a doctor first.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "It's best to consult a doctor for a proper diagnosis. In the meantime, try to avoid triggers like smoke and dust."
+    },
+    {
+        "dialog": [
+            "Hey Medi, can you explain what asthma is?",
+            "Of course. Asthma is a condition that affects the airways in your lungs, making it difficult to breathe.",
+            "What causes asthma?",
+            "Asthma is caused by a combination of environmental and genetic factors. Common triggers include air pollution, pollen, and dust mites.",
+            "How is asthma treated?",
+            "There are several ways to manage asthma, including medication, avoiding triggers, and making lifestyle changes like exercising regularly and eating a healthy diet.",
+            "Is there a cure for asthma?",
+            "Unfortunately, there is no cure for asthma. However, with proper management, most people with asthma can lead normal, active lives.",
+            "Thanks for the information, Medi."
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "Most people with asthma can lead normal, active lives with proper management, including medication, avoiding triggers, and making lifestyle changes like exercising regularly and eating a healthy diet."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a medical procedure. What kind of lifestyle changes should I make to aid in my recovery?",
+            "It depends on the type of procedure you had. Can you provide more information?",
+            "I had surgery on my lungs.",
+            "After lung surgery, it is important to avoid smoking and to engage in regular physical activity to help with lung function.",
+            "What kind of diet should I follow?",
+            "A healthy, balanced diet with plenty of fruits and vegetables can help with recovery. You may also need to avoid certain foods if you experience any digestive issues.",
+            "Should I avoid exercise?",
+            "You should avoid any vigorous activity or heavy lifting for a certain period of time after surgery, as recommended by your doctor. However, light exercise like walking can be beneficial.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "After lung surgery, it is important to follow a healthy, balanced diet with plenty of fruits and vegetables and to engage in light exercise like walking to aid in recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing shortness of breath lately.",
+            "Okay, I am here to help. Do you have any other symptoms?",
+            "I have been coughing a lot lately and my chest feels tight.",
+            "Based on your symptoms, you may be experiencing asthma. Have you been diagnosed before?",
+            "Yes, I have. What can I do to manage it better?",
+            "There are certain triggers that may worsen your asthma symptoms such as smoke, dust, and pollen. It's important to avoid them. You can also take medication to manage it.",
+            "I see. Are there any vitamins I can take to help my asthma?",
+            "There is tentative support for use of vitamin C in exercise-induced bronchospasm, but other than that, there is no strong evidence to suggest that vitamins can help with asthma.",
+            "That's good to know. Thank you, Medi!"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "You're welcome! Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about asthma.",
+            "Sure, I'm happy to help. What would you like to know?",
+            "What is asthma and what causes it?",
+            "Asthma is a condition where the airways narrow and swell, causing difficulty in breathing. It can be caused by a combination of genetic and environmental factors.",
+            "How can asthma be treated?",
+            "Asthma can be treated with medication such as inhalers and oral medications. It's important to also avoid triggers that may worsen your symptoms.",
+            "What are some common triggers for asthma?",
+            "Common triggers for asthma include pollen, smoke, dust, and exercise.",
+            "I see. Thanks for your help, Medi!"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "You're welcome! Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a medical procedure relating to my asthma. Can you give me advice on how to manage it?",
+            "Of course, I am here to help. What kind of procedure did you have?",
+            "I had a bronchoscopy done.",
+            "After a bronchoscopy, it's important to rest and avoid any strenuous activity for a few days. You may also experience some coughing and a sore throat, so it's important to drink fluids and take medication as prescribed.",
+            "What about after a few days?",
+            "After a few days, you can slowly start to increase your physical activity. It's important to continue taking medication as prescribed to manage your asthma.",
+            "Are there any specific foods or diets that can help with my asthma?",
+            "There is no strong evidence to suggest that any specific foods or diets can help with asthma. It's important to have a balanced diet and avoid any triggers that may worsen your symptoms.",
+            "Thank you for your help, Medi!"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "You're welcome! Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing wheezing and shortness of breath lately.",
+            "I see. Based on your symptoms, it's possible that you have asthma.",
+            "What should I do about it?",
+            "You should see a doctor for a proper diagnosis and to discuss treatment options like inhalers.",
+            "Are there any lifestyle changes I can make to help manage it?",
+            "Yes, regular exercise and maintaining a healthy diet can help improve asthma control.",
+            "Okay, thank you for your help.",
+            "You're welcome. Don't hesitate to reach out if you have any other questions.",
+            "Can vitamin D supplementation help reduce the risk of asthma exacerbations?"
+        ],
+        "knowledge": "Asthma Asthma There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "Yes, there is tentative support for the use of vitamin D supplementation to reduce the risk of asthma exacerbations."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a question about asthma.",
+            "Of course, I'm here to help. What's your question?",
+            "What is the difference between asthma and COPD?",
+            "Asthma and COPD both involve difficulty breathing, but they are different conditions.",
+            "Can you explain the difference in a little more detail?",
+            "Asthma is a chronic condition that involves inflammation and narrowing of the airways, while COPD is the result of long-term exposure to irritants like cigarette smoke or air pollution.",
+            "I see. Is it possible for someone to have both asthma and COPD?",
+            "Yes, it is possible to have both conditions. This is referred to as asthma-COPD overlap syndrome (ACOS).",
+            "Thank you for the information. That's all I wanted to know."
+        ],
+        "knowledge": "Asthma Asthma There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "The treatment for ACOS may involve a combination of medications and lifestyle changes, including inhalers, bronchodilators, and pulmonary rehabilitation therapy."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a flare-up of my asthma and I'm wondering if there are any dietary changes I can make to help manage it.",
+            "There are some foods that may help improve asthma control.",
+            "Like what?",
+            "Foods rich in vitamin C, like citrus fruits and dark leafy greens, may help reduce inflammation in the airways and improve lung function.",
+            "Are there any foods I should avoid?",
+            "There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate (MSG). However, reducing dietary sodium may help improve asthma control.",
+            "What about supplements?",
+            "Fish oil dietary supplements do not appear to help improve asthma control, but treatment with vitamin D supplementation may reduce the risk of asthma exacerbations in people with low vitamin D levels.",
+            "Thanks for the advice. I'll try to incorporate more vitamin C-rich foods into my diet."
+        ],
+        "knowledge": "Asthma Asthma There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "No, acupuncture is not recommended for the treatment of asthma as there is insufficient evidence to support its use."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have difficulty breathing and some wheezing",
+            "Hello, I understand your concern. It looks like you may have asthma",
+            "What should I do then?",
+            "You can try using an inhaler or see a doctor for proper treatment",
+            "What about my diet?",
+            "Reducing dietary sodium does not help improve asthma control. You may also try taking vitamin C in exercise induced bronchospasm",
+            "I see. What other lifestyle changes can I make?",
+            "Regular exercise can also help improve your symptoms",
+            "Thank you, Medi"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "You're welcome. Take care of your symptoms and make an appointment with a doctor if they don't improve."
+    },
+    {
+        "dialog": [
+            "Hi Medi, what is asthma and how is it caused?",
+            "Asthma is a chronic respiratory disease that causes airway inflammation and constriction",
+            "Does it have any causes or risk factors?",
+            "Asthma can be caused by genetics, environmental factors, and lifestyle choices. Risk factors include allergies, obesity, and smoking",
+            "Is there any cure for it?",
+            "Currently, there is no cure for asthma, but it can be managed with proper treatment and lifestyle modifications",
+            "What kind of treatment is available?",
+            "Treatment options include inhalers, oral medications, and lifestyle changes such as regular exercise and avoiding triggers",
+            "Thanks Medi, that's helpful"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "You're welcome. Let me know if you have any other questions about asthma."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure done. What should I do now?",
+            "Hello, it's important to take care of yourself after the procedure",
+            "What kind of care do I need?",
+            "You should follow any instructions given by your doctor, take any medications prescribed, and rest as needed",
+            "What about my diet?",
+            "You should eat a balanced diet with plenty of fruits and vegetables, and avoid any foods that may interfere with your medication",
+            "Is there anything else I can do to help with my recovery?",
+            "You can do light exercise and physical activity as advised by your doctor, and avoid any strenuous activity",
+            "Thanks for your advice, Medi"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "You're welcome. I hope you have a speedy recovery from your procedure."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about asthma",
+            "Of course, I'm here to help. What would you like to know?",
+            "Can taking vitamin C help with exercise-induced bronchospasm?",
+            "Yes, there is tentative support for that. Vitamin C has been shown to have some bronchodilator effects.",
+            "What about fish oil supplements and reducing dietary sodium?",
+            "There is no evidence to suggest that they help improve asthma control.",
+            "What about vitamin D supplementation?",
+            "In people with mild to moderate asthma, it may reduce the risk of asthma exacerbations. However, it's not clear if it's helpful for everyone.",
+            "Is acupuncture recommended for the treatment of asthma?"
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "I hope that answers your questions about asthma and its treatments."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've just undergone a medical procedure for my asthma. Is there any lifestyle advice you can give me?",
+            "Certainly, I can provide some general advice based on your condition. What kind of procedure did you undergo?",
+            "I just had a bronchial thermoplasty.",
+            "It's important to avoid triggers such as smoke, dust, and pollen. You may also want to consider doing regular exercise to help strengthen your lungs.",
+            "What kind of exercise do you recommend?",
+            "There are a variety of exercises that can be helpful for people with asthma, such as swimming, walking, and cycling. It's important to start slowly and gradually increase the intensity of your workouts over time.",
+            "What about my diet?",
+            "A diet rich in fruits and vegetables can be helpful, as can staying hydrated. You may also want to consider cutting back on processed foods and foods high in saturated fat.",
+            "Okay, thanks for the advice, Medi."
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "I hope that helps you manage your asthma and stay healthy after your procedure."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am experiencing some asthma symptoms and I am not sure what to do.",
+            "I'm here to help, what are your symptoms?",
+            "I am having trouble breathing and my chest feels tight.",
+            "It's important to use your rescue inhaler if you have one, and to seek medical attention if your symptoms do not improve.",
+            "What else can I do to manage my symptoms?",
+            "One important thing is to avoid triggers that can make your symptoms worse, such as smoke, dust, and pet dander. You may also want to consider doing breathing exercises or using a nebulizer to help relieve your symptoms.",
+            "What about my diet?",
+            "A healthy diet can help improve your overall health and may also help manage your symptoms. Try to eat a diet rich in fruits and vegetables and low in processed foods and saturated fat.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Asthma Asthma  There is tentative support for use of vitamin C in exercise induced bronchospasm.  Fish oil dietary supplements  and reducing dietary sodium do not appear to help improve asthma control.  In people with mild to moderate asthma, treatment with vitamin D supplementation may reduce the risk of asthma exacerbations, however, it is not clear if this is only helpful for people who have low vitamin D levels to begin with .  There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.  There is no strong evidence to suggest that adults with asthma should avoid foods that contain monosodium glutamate .  There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG. Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use Asthma Asthma",
+        "response": "I hope you feel better soon and don't hesitate to reach out if you need further assistance."
+    }
+]

@@ -1,0 +1,451 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I am feeling sick.",
+            "Hi there, can you tell me your symptoms?",
+            "I have a fever, cough, and feel very tired.",
+            "Okay, based on your symptoms, it may be possible that you have the flu.",
+            "Is there anything I can do to feel better?",
+            "You should rest and drink plenty of fluids. I also recommend taking over-the-counter medication to help with your symptoms.",
+            "Thanks for your help, Medi.",
+            "You're welcome! Remember to stay hydrated.",
+            "What are some ways to prevent getting the flu?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The best way to prevent getting the flu is to get a flu shot and practice good hygiene, such as washing your hands frequently and avoiding close contact with sick people."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about influenza.",
+            "Hi, what would you like to know?",
+            "What animals can get the flu?",
+            "Influenza viruses have been found in many animals, including pigs, birds, horses, dogs, cats, and marine mammals. However, spillover events from humans to pigs appear to be more common than from pigs to humans.",
+            "Interesting. Can bats get the flu?",
+            "Yes, bat influenza-like viruses have been identified with subtypes H17, H18, N10, and N11. While they cannot reassort with other influenza viruses, they can still replicate in other mammals.",
+            "That's fascinating. Thanks for the information, Medi.",
+            "You're welcome! Do you have any other questions about the flu?",
+            "No, that's all for now."
+        ],
+        "knowledge": "Influenza Influenza Spillover events from humans to pigs, however, appear to be more common than from pigs to humans. Influenza viruses have been found in many other animals, including cattle, horses, dogs, cats, and marine mammals. Nearly all IAVs are apparently descended from ancestral viruses in birds. The exception are bat influenza-like viruses, which have an uncertain origin. These bat viruses have HA and NA subtypes H17, H18, N10, and N11. H17N10 and H18N11 are unable to reassort with other IAVs, but they are still able to replicate in other mammals. AIVs sometimes crossover into mammals Influenza Influenza",
+        "response": "No, I don't have any other questions at the moment. Thank you for the information!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a flu shot yesterday.",
+            "That's great! Did you experience any side effects?",
+            "Yes, my arm hurts a little bit and I feel a bit tired.",
+            "It's common to experience some mild side effects after getting a flu shot, such as soreness, redness, or swelling at the injection site, as well as fever, body aches, and fatigue. These side effects usually go away on their own after a few days.",
+            "Okay, that's good to know. Is there anything else I should do after getting a flu shot?",
+            "It's important to continue practicing good hygiene, such as washing your hands frequently and covering your mouth and nose when you cough or sneeze.",
+            "Got it. Thank you for your help, Medi.",
+            "You're welcome! Stay healthy!",
+            "What should I do if I experience severe side effects after getting a flu shot?"
+        ],
+        "knowledge": "Influenza Influenza The flu shot is a vaccine that helps protect against the flu. It is typically recommended for everyone over the age of 6 months. The flu shot can cause mild side effects, such as soreness, redness, or swelling at the injection site, as well as fever, body aches, and fatigue. These side effects usually go away on their own after a few days. More severe side effects are rare, but if you experience them, you should contact your doctor right away. In rare cases, the flu shot can cause a severe allergic reaction or Guillain-Barr\u00e9 syndrome Influenza Influenza",
+        "response": "If you experience severe side effects after getting a flu shot, you should contact your doctor right away."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I might have the flu.",
+            "I am sorry to hear that, please tell me what symptoms you are experiencing.",
+            "I have a fever and chills, my head hurts and my throat is sore.",
+            "I see. Based on your symptoms, it is possible that you have the flu.",
+            "What should I do?",
+            "You should get plenty of rest, drink lots of fluids, and take over-the-counter pain relievers.",
+            "Okay. Is there anything else I should know?",
+            "It's important to avoid contact with others to prevent the spread of the virus.",
+            "Thanks for your help, Medi. How long will it take for me to feel better?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It usually takes about 2 weeks for the flu to run its course, but you should start feeling better in a few days if you get plenty of rest and drink lots of fluids."
+    },
+    {
+        "dialog": [
+            "Hi Medi, my doctor told me that I have the flu.",
+            "I am sorry to hear that. Are you experiencing any symptoms?",
+            "Yes, I have a fever, cough, and congestion.",
+            "I see. Based on your symptoms, it is likely that you have the flu.",
+            "What should I do?",
+            "You should get plenty of rest, drink lots of fluids, and take over-the-counter pain relievers to relieve your symptoms.",
+            "Okay. Is there anything else I should know?",
+            "It's important to avoid contact with others to prevent the spread of the virus and to cover your mouth and nose when you cough or sneeze.",
+            "Thanks for your help, Medi. How long will it take for me to feel better?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It usually takes about 2 weeks for the flu to run its course, but you should start feeling better in a few days if you get plenty of rest and drink lots of fluids."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had the flu and I'm wondering how I can prevent getting it again.",
+            "Good question. The best way to prevent the flu is to get a flu vaccine every year.",
+            "What else can I do?",
+            "You should also wash your hands frequently, avoid contact with people who are sick, and avoid touching your face.",
+            "Okay. What about if someone in my household gets the flu?",
+            "You should try to avoid close contact with them and encourage them to follow the same preventative measures.",
+            "Got it. Thanks for your help, Medi.",
+            "You're welcome. Remember to stay hydrated and get plenty of rest, especially if you start feeling sick again.",
+            "Will do. Thanks again, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Stay healthy and take care!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been sneezing a lot lately and I feel a little bit dizzy.",
+            "Alright, can you tell me more about your symptoms?",
+            "I have a runny nose and I feel like my throat is sore as well.",
+            "I see. Based on your symptoms, you might be having a cold. Have you had any fever?",
+            "No, I haven't had any fever.",
+            "That's good. I would recommend that you take enough rest, drink more water, and take some over-the-counter cold medicine to ease your symptoms.",
+            "Thank you for your advice, Medi. By the way, why is it called a cold?",
+            "Well, it's called a cold because it's often associated with cold weather. However, it's actually caused by a virus that infects your respiratory system, not by the temperature.",
+            "Oh, I see. Thank you for explaining that to me, Medi."
+        ],
+        "knowledge": "Common Cold Common Cold The common cold is a viral infectious disease that infects the upper respiratory system. It is primarily caused by coronaviruses or rhinoviruses. Symptoms include coughing, sore throat, runny nose, and fever. There is no cure for the common cold, but the symptoms can be relieved with over-the-counter medications and home remedies. The common cold is often spread through contact with infected individuals or touching surfaces contaminated with the virus. Common Cold Common Cold",
+        "response": "You might be having a cold. My advice is to take enough rest, drink more water, and take some over-the-counter cold medicine to ease your symptoms."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about influenza.",
+            "Sure, what do you want to know?",
+            "What are the symptoms of influenza?",
+            "The symptoms of influenza include fever, cough, sore throat, body aches, and fatigue.",
+            "Is there any treatment for influenza?",
+            "Yes, antiviral medications can help reduce the severity and duration of influenza symptoms if taken early enough. In addition, getting vaccinated every year can also help prevent influenza.",
+            "Thank you for your explanation, Medi. By the way, can you tell me more about the origin of influenza?",
+            "Of course. Influenza viruses have been found in many animals, including birds, pigs, horses, dogs, cats, and marine mammals. Nearly all influenza A viruses are apparently descended from ancestral viruses in birds. The exception are bat influenza-like viruses, which have an uncertain origin.",
+            "I see. Thank you for your explanation, Medi."
+        ],
+        "knowledge": "Influenza Influenza The symptoms of influenza include fever, cough, sore throat, body aches, and fatigue. Antiviral medications can help reduce the severity and duration of influenza symptoms if taken early enough. Getting vaccinated every year can also help prevent influenza. Influenza viruses have been found in many animals, including birds, pigs, horses, dogs, cats, and marine mammals. Nearly all influenza A viruses are apparently descended from ancestral viruses in birds. The exception are bat influenza-like viruses, which have an uncertain origin.",
+        "response": "The symptoms of influenza include fever, cough, sore throat, body aches, and fatigue. Antiviral medications can help reduce the severity and duration of influenza symptoms if taken early enough. Getting vaccinated every year can also help prevent influenza."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a flu shot and I want to know if there's anything else I can do to prevent influenza.",
+            "Sure. In addition to getting vaccinated, there are some other things you can do to prevent influenza. For example, washing your hands frequently with soap and water can help prevent the spread of influenza virus.",
+            "Okay, that's good to know. What else can I do?",
+            "You can also avoid close contact with people who are sick, cover your mouth and nose when you cough or sneeze, and avoid touching your eyes, nose, and mouth.",
+            "Thank you for your advice, Medi. By the way, can you tell me more about the origin of influenza?",
+            "Influenza viruses have been found in many animals, including birds, pigs, horses, dogs, cats, and marine mammals. Nearly all influenza A viruses are apparently descended from ancestral viruses in birds. The exception are bat influenza-like viruses, which have an uncertain origin.",
+            "I see. Thank you for your explanation, Medi.",
+            "You're welcome. Do you have any other questions?",
+            "No, that's all. Thank you, Medi."
+        ],
+        "knowledge": "Influenza Influenza In addition to getting vaccinated, washing your hands frequently with soap and water, avoiding close contact with people who are sick, covering your mouth and nose when you cough or sneeze, and avoiding touching your eyes, nose, and mouth can help prevent the spread of influenza virus. Influenza viruses have been found in many animals, including birds, pigs, horses, dogs, cats, and marine mammals. Nearly all influenza A viruses are apparently descended from ancestral viruses in birds. The exception are bat influenza-like viruses, which have an uncertain origin.",
+        "response": "Influenza viruses have been found in many animals, including birds, pigs, horses, dogs, cats, and marine mammals. Nearly all influenza A viruses are apparently descended from ancestral viruses in birds. The exception are bat influenza-like viruses, which have an uncertain origin."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm not feeling well today",
+            "Hi there. Can you tell me about your symptoms?",
+            "I feel really tired, I have a headache and my throat is sore",
+            "Those symptoms could be caused by a variety of illnesses. How long have you been feeling this way?",
+            "I've been feeling this way for a few days now",
+            "Have you been around anyone who is sick lately?",
+            "Yes, a few of my coworkers have been sick",
+            "Based on your symptoms and recent exposure to illness, it's possible that you have the flu.",
+            "What should I do if I have the flu?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "If you have flu, you should stay at home and rest, drink plenty of fluids, and take over-the-counter medications for your symptoms. If your symptoms worsen or persist, you should seek medical attention."
+    },
+    {
+        "dialog": [
+            "Hi there, Medi. I have some questions about the flu",
+            "Sure, I'm happy to help. What would you like to know?",
+            "How is the flu transmitted?",
+            "The flu is spread from person to person through respiratory droplets when someone with the flu coughs, sneezes, or talks",
+            "Are there any ways to prevent getting the flu?",
+            "Yes, getting a flu vaccine each year is the best way to prevent the flu. You should also wash your hands frequently and avoid close contact with people who are sick.",
+            "What are the symptoms of the flu?",
+            "The most common symptoms are fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue",
+            "Are there any treatments for the flu?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "There are antiviral medications that can be prescribed to help reduce the severity and duration of symptoms, but these medications work best when taken within the first 48 hours of illness."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had the flu and I want to make sure I don't get sick again",
+            "I understand. It's important to take steps to prevent getting sick again. What would you like to know?",
+            "What can I do to prevent getting the flu again?",
+            "Getting a flu vaccine each year is the best way to prevent the flu. You should also wash your hands frequently and avoid close contact with people who are sick.",
+            "Are there any other lifestyle changes I can make to reduce my risk of getting the flu?",
+            "Yes, getting enough sleep, eating a healthy diet, and exercising regularly can all help boost your immune system and reduce your risk of getting sick.",
+            "What should I do if I start experiencing flu-like symptoms again?",
+            "If you start experiencing flu-like symptoms again, you should stay at home and rest, drink plenty of fluids, and take over-the-counter medications for your symptoms. If your symptoms worsen or persist, you should seek medical attention.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. I hope the information was helpful. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been coughing and feeling tired lately",
+            "Hi, sorry to hear that. Can you tell me more about the symptoms?",
+            "I have been coughing for a week, have a runny nose and feel very tired",
+            "Based on your symptoms, you might have caught a cold. Have you been taking any medication?",
+            "No, I haven't taken anything yet",
+            "Okay, you can take over-the-counter cold medication and drink plenty of fluids to help with the symptoms",
+            "Is there anything I can do to prevent getting a cold again?",
+            "Wash your hands frequently and avoid close contact with people who are sick",
+            "Okay, thanks for the advice. I'll do that. "
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, you might have caught a cold. Have you been taking any medication?"
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a question about the flu virus",
+            "Hello, feel free to ask me anything about the flu virus",
+            "I heard that the flu virus can be transmitted from pigs to humans. Is that true?",
+            "Yes, that is true. However, it is more common for the virus to be transmitted from humans to pigs",
+            "I see. Can the virus be transmitted from other animals?",
+            "Yes, the flu virus has been found in many other animals such as cattle, horses, dogs, cats, and marine mammals.",
+            "Interesting. Where did the flu virus originate?",
+            "Nearly all influenza viruses are descended from ancestral viruses in birds, with the exception of bat influenza-like viruses, which have an uncertain origin.",
+            "I see. Thank you for answering my questions"
+        ],
+        "knowledge": "Influenza Influenza  Spillover events from humans to pigs, however, appear to be more common than from pigs to humans. Influenza viruses have been found in many other animals, including cattle, horses, dogs, cats, and marine mammals.  Nearly all IAVs are apparently descended from ancestral viruses in birds.  The exception are bat influenza-like viruses, which have an uncertain origin.  These bat viruses have HA and NA subtypes H17, H18, N10, and N11.  H17N10 and H18N11 are unable to reassort with other IAVs, but they are still able to replicate in other mammals.  AIVs sometimes crossover into mammals Influenza Influenza",
+        "response": "Nearly all influenza viruses are descended from ancestral viruses in birds, with the exception of bat influenza-like viruses, which have an uncertain origin."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just had a flu shot, what should I do to stay healthy?",
+            "Great, getting the flu shot is the first step to staying healthy. You can also take other preventative measures",
+            "What other preventative measures can I take?",
+            "Wash your hands frequently, avoid close contact with people who are sick, and cover your mouth and nose when you cough or sneeze.",
+            "Can my diet help me stay healthy?",
+            "Yes, eating a balanced diet with plenty of fruits and vegetables can help boost your immune system.",
+            "What about exercise?",
+            "Physical activity can also help boost your immune system",
+            "Got it. Thanks for the advice"
+        ],
+        "knowledge": "Influenza Influenza  The best way to prevent infection with influenza viruses is vaccination with the flu vaccine.  This vaccine can be administered as an injection or as a nasal spray.  Other preventive measures include washing hands frequently, avoiding close contact with people who are sick, covering your mouth and nose when you cough or sneeze, and avoiding touching your eyes, nose, and mouth.  Eating a balanced diet with plenty of fruits and vegetables can help boost your immune system as well as physical activity.  Flu antiviral drugs can be used to treat influenza illness, but they must be used early in the infection Influenza Influenza",
+        "response": "What preventative measures can I take to stay healthy besides getting the flu shot?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I have the flu",
+            "Hi there, what are your symptoms?",
+            "I have a fever, cough, and muscle aches",
+            "Based on your symptoms, it's possible that you have the flu",
+            "What should I do?",
+            "It's important to rest, drink plenty of fluids, and take over-the-counter medications to relieve your symptoms. You may also want to see a doctor if your symptoms get worse.",
+            "Thank you, Medi. Can the flu be prevented?",
+            "Yes, getting an annual flu vaccine is the best way to prevent the flu",
+            "Oh, I see. Thanks for the information"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common. ",
+        "response": "Yes, getting an annual flu vaccine is the best way to prevent the flu"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm curious about the types of animals that can get the flu",
+            "Hi there. The flu can infect a variety of animals, including pigs, birds, dogs, and cats",
+            "Can humans get the flu from animals?",
+            "Yes, humans can get the flu from animals, but it's more common for the flu to spread from humans to animals",
+            "Interesting. Are there any animals that are immune to the flu?",
+            "As far as we know, there are no animals that are completely immune to the flu",
+            "That's good to know. Thanks for the information, Medi",
+            "You're welcome. Do you have any other questions?",
+            "No, that's all for now. Thanks again!"
+        ],
+        "knowledge": "Influenza Influenza  Spillover events from humans to pigs, however, appear to be more common than from pigs to humans. Influenza viruses have been found in many other animals, including cattle, horses, dogs, cats, and marine mammals. Nearly all IAVs are apparently descended from ancestral viruses in birds. The exception are bat influenza-like viruses, which have an uncertain origin. These bat viruses have HA and NA subtypes H17, H18, N10, and N11. H17N10 and H18N11 are unable to reassort with other IAVs, but they are still able to replicate in other mammals. AIVs sometimes crossover into mammals Influenza Influenza",
+        "response": "It's more common for the flu to spread from humans to animals, and as far as we know, there are no animals that are completely immune to the flu"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had the flu and I'm wondering what I can do to prevent getting sick again",
+            "Hi there. One of the best ways to prevent getting the flu again is to get an annual flu vaccine",
+            "Does the flu vaccine always prevent the flu?",
+            "No, the flu vaccine is not 100% effective, but it can significantly reduce your risk of getting the flu",
+            "What else can I do to prevent getting sick?",
+            "You can also practice good hygiene by washing your hands frequently, avoiding close contact with sick people, and covering your nose and mouth when you cough or sneeze",
+            "Okay, thank you for the advice. Is there anything else I should know?",
+            "You're welcome. It's also a good idea to maintain a healthy lifestyle by getting enough sleep, eating a balanced diet, and exercising regularly",
+            "Great, thanks for the information, Medi"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common. ",
+        "response": "You can significantly reduce your risk of getting the flu by getting an annual flu vaccine, practicing good hygiene, and maintaining a healthy lifestyle"
+    },
+    {
+        "dialog": [
+            "Hello, Medi. My throat is sore and I feel feverish.",
+            "Hi there. Sorry to hear that. Is there anything else that you are experiencing?",
+            "Well, I feel tired and I have a runny nose.",
+            "Based on your symptoms, you may have contracted the flu. You should rest and drink plenty of fluids.",
+            "Thanks for the advice, Medi. Are there any medications you suggest?",
+            "You can take over-the-counter medications such as acetaminophen and ibuprofen, but make sure to consult with a doctor first.",
+            "Okay, I will do that. How long will it take for me to recover?",
+            "Most people recover from the flu within a week or two. If your symptoms persist or worsen, seek medical attention.",
+            "Alright. Thank you, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, you may have contracted the flu. You should rest and drink plenty of fluids."
+    },
+    {
+        "dialog": [
+            "Medi, I have some concerns regarding influenza.",
+            "I'm here to help. What would you like to know?",
+            "Can you tell me how influenza is spread?",
+            "Influenza is spread through respiratory droplets when an infected person coughs or sneezes. The virus can also spread by touching a surface with the virus on it and then touching one's face.",
+            "I see. What are the common symptoms of influenza?",
+            "The common symptoms of influenza include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.",
+            "Thank you for the information, Medi. Is there any way to prevent contracting influenza?",
+            "Yes, getting the flu vaccine is the best way to prevent getting the flu. You can also practice good hygiene, such as washing your hands frequently and avoiding close contact with sick individuals.",
+            "That's helpful. Thanks, Medi."
+        ],
+        "knowledge": "Influenza Influenza  Influenza is spread through respiratory droplets when an infected person coughs or sneezes.  The virus can also spread by touching a surface with the virus on it and then touching one's face.  The common symptoms of influenza include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.  The best way to prevent getting the flu is by getting the flu vaccine.  Other ways to prevent getting the flu include practicing good hygiene, such as washing your hands frequently and avoiding close contact with sick individuals. Influenza Influenza",
+        "response": "Influenza is spread through respiratory droplets when an infected person coughs or sneezes. The virus can also spread by touching a surface with the virus on it and then touching one's face. The common symptoms of influenza include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I had the flu last week and I'm feeling better now. What should I do to prevent getting it again?",
+            "Hey there. It's good to hear that you're feeling better. The best way to prevent getting the flu again is by getting the flu vaccine.",
+            "I'm a bit skeptical about getting the vaccine. Are there any other ways to prevent getting the flu?",
+            "Yes, you can practice good hygiene such as washing your hands frequently and covering your mouth and nose when you cough or sneeze. You can also avoid close contact with sick individuals.",
+            "Okay. I'll try to do that. Can you tell me more about the flu vaccine?",
+            "The flu vaccine is a vaccine that protects against the flu. It is recommended for everyone over the age of six months, especially those who are at high risk of complications from the flu.",
+            "Thank you for the information, Medi. Is there anything else I should know?",
+            "Make sure to consult with your doctor if you have any concerns or questions about the flu vaccine.",
+            "Alright. Thanks, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The best way to prevent getting the flu is by getting the flu vaccine.  Other ways to prevent getting the flu include practicing good hygiene, such as washing your hands frequently and covering your mouth and nose when you cough or sneeze, and avoiding close contact with sick individuals.  The flu vaccine is a vaccine that protects against the flu.  It is recommended for everyone over the age of six months, especially those who are at high risk of complications from the flu. Influenza Influenza",
+        "response": "The best way to prevent getting the flu is by getting the flu vaccine. The flu vaccine is a vaccine that protects against the flu and is recommended for everyone over the age of six months, especially those who are at high risk of complications from the flu."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about influenza.",
+            "Of course, I am here to help you. What do you want to know?",
+            "What kinds of animals can get influenza?",
+            "Influenza viruses have been found in many animals, such as pigs, birds, cattle, horses, dogs, cats, and marine mammals.",
+            "How does the virus spread from animals to humans?",
+            "Spillover events from humans to pigs appear to be more common than from pigs to humans. So, people who work with pigs are at higher risk of getting infected with swine flu. Also, people can get infected by coming into close contact with infected birds or contaminated environments. ",
+            "What are the symptoms of influenza?",
+            "Influenza symptoms include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.",
+            "How can I prevent getting infected with influenza?"
+        ],
+        "knowledge": "Influenza Influenza  Spillover events from humans to pigs, however, appear to be more common than from pigs to humans. Influenza viruses have been found in many other animals, including cattle, horses, dogs, cats, and marine mammals.  Nearly all IAVs are apparently descended from ancestral viruses in birds.  The exception are bat influenza-like viruses, which have an uncertain origin.  These bat viruses have HA and NA subtypes H17, H18, N10, and N11.  H17N10 and H18N11 are unable to reassort with other IAVs, but they are still able to replicate in other mammals.  AIVs sometimes crossover into mammals Influenza Influenza",
+        "response": "To prevent getting infected with influenza, you should wash your hands frequently, avoid close contact with sick people, cover your nose and mouth when coughing or sneezing, and get vaccinated every year."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had the flu vaccine, what should I expect?",
+            "The flu vaccine helps your body recognize and fight the influenza virus if you are exposed to it. What side effects are you experiencing?",
+            "I have a slight fever and my arm hurts where I got the shot.",
+            "A low-grade fever and mild muscle aches are common side effects of the flu vaccine. You can apply a clean, cool, wet washcloth over the area of the shot to reduce pain and discomfort.",
+            "How long will these symptoms last?",
+            "The fever and muscle aches usually last one or two days. If you experience any severe symptoms, such as difficulty breathing, you should seek medical attention right away.",
+            "Okay, thank you for your advice, Medi.",
+            "You're welcome. Stay healthy!",
+            "Bye!"
+        ],
+        "knowledge": "Influenza Influenza  Spillover events from humans to pigs, however, appear to be more common than from pigs to humans. Influenza viruses have been found in many other animals, including cattle, horses, dogs, cats, and marine mammals.  Nearly all IAVs are apparently descended from ancestral viruses in birds.  The exception are bat influenza-like viruses, which have an uncertain origin.  These bat viruses have HA and NA subtypes H17, H18, N10, and N11.  H17N10 and H18N11 are unable to reassort with other IAVs, but they are still able to replicate in other mammals.  AIVs sometimes crossover into mammals Influenza Influenza",
+        "response": "You're welcome. Stay healthy!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had the flu. What should I do?",
+            "I'm sorry to hear that. What symptoms are you experiencing?",
+            "I have a fever, cough, sore throat, headache, runny or stuffy nose, body aches, and fatigue.",
+            "You should stay home and rest, drink plenty of fluids, and take over-the-counter medications such as acetaminophen or ibuprofen to reduce fever and relieve aches and pains.",
+            "How long will these symptoms last?",
+            "Symptoms usually go away after one or two weeks, but you should seek medical attention if you experience any severe symptoms, such as difficulty breathing.",
+            "Okay, thank you for your advice, Medi.",
+            "You're welcome. Get well soon!",
+            "Bye!"
+        ],
+        "knowledge": "Influenza Influenza  Spillover events from humans to pigs, however, appear to be more common than from pigs to humans. Influenza viruses have been found in many other animals, including cattle, horses, dogs, cats, and marine mammals.  Nearly all IAVs are apparently descended from ancestral viruses in birds.  The exception are bat influenza-like viruses, which have an uncertain origin.  These bat viruses have HA and NA subtypes H17, H18, N10, and N11.  H17N10 and H18N11 are unable to reassort with other IAVs, but they are still able to replicate in other mammals.  AIVs sometimes crossover into mammals Influenza Influenza",
+        "response": "You're welcome. Get well soon!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling sick, can you help me?",
+            "Of course, what seems to be the problem?",
+            "I have a fever and a cough, and I'm feeling very weak.",
+            "Alright, based on those symptoms, it sounds like you might have the flu.",
+            "What should I do to get better?",
+            "Make sure to rest and drink plenty of fluids, and consider taking over-the-counter medication to manage your symptoms.",
+            "Is there anything else I should know about the flu?",
+            "It's highly contagious, so make sure to stay home and avoid contact with others to prevent spreading the virus.",
+            "Okay, thank you for your help."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it sounds like you might have the flu. Make sure to rest and drink plenty of fluids, and consider taking over-the-counter medication to manage your symptoms. It's highly contagious, so make sure to stay home and avoid contact with others to prevent spreading the virus."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about the flu.",
+            "Sure, what do you want to know?",
+            "How does the flu spread?",
+            "The flu typically spreads from person to person through respiratory droplets produced when someone with the flu coughs, sneezes, or talks.",
+            "Is there anything I can do to prevent getting the flu?",
+            "Yes, getting vaccinated is the best way to prevent getting the flu. You can also practice good hygiene by washing your hands frequently and avoiding close contact with people who are sick.",
+            "What are the symptoms of the flu?",
+            "The symptoms of the flu include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.",
+            "Thank you for explaining that to me."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The flu typically spreads from person to person through respiratory droplets produced when someone with the flu coughs, sneezes, or talks. The best way to prevent getting the flu is by getting vaccinated, practicing good hygiene, and avoiding close contact with people who are sick. The symptoms of the flu include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had the flu and I'm starting to feel better. What should I do to prevent getting sick again?",
+            "Great to hear you're feeling better! One thing you can do is make sure to get plenty of rest and stay hydrated.",
+            "Is there anything else I should do to prevent getting sick again?",
+            "Yes, you can also take steps to boost your immune system, such as eating a balanced diet with plenty of fruits and vegetables and getting regular exercise.",
+            "Are there any foods that are particularly good for boosting the immune system?",
+            "Yes, foods that are high in vitamins and antioxidants, such as citrus fruits, berries, leafy greens, and nuts, are great for boosting the immune system.",
+            "Thank you for the advice, Medi.",
+            "You're welcome, take care!"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "To prevent getting sick again, make sure to get plenty of rest and stay hydrated, and take steps to boost your immune system, such as eating a balanced diet with plenty of fruits and vegetables and getting regular exercise. Foods that are high in vitamins and antioxidants, such as citrus fruits, berries, leafy greens, and nuts, are particularly good for boosting the immune system."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a sore throat and fever.",
+            "Hello. I'm here to help. Do you have any other symptoms?",
+            "I feel a bit tired and I have a headache.",
+            "Based on the symptoms you've described, it could be a viral infection. I recommend you to rest and drink plenty of fluids.",
+            "Is there anything else I can do?",
+            "You can also gargle with warm salt water and take over-the-counter pain relievers. If you experience difficulty breathing or chest pain, please seek medical attention immediately.",
+            "Thank you for your help, Medi",
+            "You're welcome. Take care of yourself.",
+            "What could have caused my sore throat and fever? "
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it could be a viral infection such as influenza."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about influenza.",
+            "Sure, I'm happy to help. What's your question?",
+            "What makes influenza different from other viral infections?",
+            "Influenza is a highly contagious respiratory illness caused by influenza viruses. It can cause mild to severe illness and can lead to hospitalization and even death.",
+            "What are the symptoms of influenza?",
+            "The symptoms of influenza include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.",
+            "How can I prevent getting influenza?",
+            "The best way to prevent influenza is to get vaccinated every year. You can also practice good hygiene, such as washing your hands frequently and avoiding close contact with people who are sick.",
+            "Thank you for the information, Medi"
+        ],
+        "knowledge": "Influenza Influenza  Spillover events from humans to pigs, however, appear to be more common than from pigs to humans. Influenza viruses have been found in many other animals, including cattle, horses, dogs, cats, and marine mammals.  Nearly all IAVs are apparently descended from ancestral viruses in birds.  The exception are bat influenza-like viruses, which have an uncertain origin.  These bat viruses have HA and NA subtypes H17, H18, N10, and N11.  H17N10 and H18N11 are unable to reassort with other IAVs, but they are still able to replicate in other mammals.  AIVs sometimes crossover into mammals Influenza Influenza",
+        "response": "Influenza viruses can be found in many animals, including birds, pigs, cattle, horses, dogs, cats, and marine mammals. Nearly all influenza viruses in humans are believed to have descended from viruses found in birds. However, bat influenza viruses have an uncertain origin and can replicate in other mammals."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a flu shot. What should I do next?",
+            "Hello. After getting a flu shot, it is important to continue practicing good hygiene, such as washing your hands frequently and avoiding close contact with people who are sick.",
+            "Is there anything else I should know?",
+            "You may experience some mild side effects, such as soreness, redness, or swelling at the injection site, fever, muscle aches, and headaches. These side effects are usually mild and go away on their own within a few days.",
+            "How long does it take for the flu shot to start working?",
+            "It takes about two weeks for the flu shot to start working. During this time, your body is building up immunity to the influenza virus.",
+            "Can I still get the flu even if I got the flu shot?",
+            "Yes, it is possible to still get the flu even if you got the flu shot. However, if you do get the flu, your symptoms will likely be milder and you will be less likely to experience serious complications.",
+            "Thank you for the information, Medi"
+        ],
+        "knowledge": "Influenza Influenza  The flu vaccine is the best way to prevent influenza. It is recommended for everyone 6 months of age and older. The vaccine helps your body build up immunity to the influenza virus. However, it is still possible to get the flu even if you got vaccinated. The vaccine is not 100% effective, but it can still reduce your risk of getting the flu and help reduce the severity of your symptoms if you do get sick. The effectiveness of the vaccine varies from year to year and depends on how well it matches the circulating strains of the influenza virus. According to the Centers for Disease Control and Prevention (CDC), the vaccine can reduce the risk of getting the flu by 40-60% in most seasons. Influenza Influenza",
+        "response": "It is possible to still get the flu even if you got the flu shot, but the vaccine can reduce your risk of getting the flu and help reduce the severity of your symptoms if you do get sick. According to the Centers for Disease Control and Prevention (CDC), the vaccine can reduce the risk of getting the flu by 40-60% in most seasons."
+    }
+]

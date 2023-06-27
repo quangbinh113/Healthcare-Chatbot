@@ -1,0 +1,407 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I'm not feeling well. I have fever and cough.",
+            "I'm sorry to hear that. How long have you been experiencing these symptoms?",
+            "It's been four days now. My body temperature is 38.5 degrees Celsius.",
+            "Based on your symptoms, it's possible that you have contracted a respiratory infection. I suggest you get tested for COVID-19 to be sure.",
+            "Oh no, I hope it's not COVID-19. What should I do in the meantime?",
+            "Rest, drink plenty of fluids, and take over-the-counter medication to help relieve your symptoms.",
+            "Thank you, Medi. I will do that. How can I get tested for COVID-19?",
+            "You can check with your local health department or your doctor to see where you can get tested.",
+            "Okay, thank you for your help."
+        ],
+        "knowledge": "Respiratory Infections Respiratory Infections Respiratory infections can be caused by a variety of viruses and bacteria. Symptoms include fever, cough, sore throat, and difficulty breathing. COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus. It spreads through respiratory droplets when an infected person talks, coughs, or sneezes, or by touching a surface contaminated with the virus. Testing for COVID-19 involves a nasal or throat swab to detect the presence of the virus. ",
+        "response": "You can check with your local health department or your doctor to see where you can get tested."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about the flu.",
+            "Sure, what would you like to know?",
+            "I'm wondering why we need to get a flu shot every year.",
+            "The influenza virus mutates very quickly, which means that the strains of the virus that are circulating in a given year may be different from those that were circulating the previous year. That's why the vaccine needs to be updated every year to protect against the most common strains of the virus.",
+            "I see, that makes sense. But does the vaccine work for everyone?",
+            "The flu vaccine is not 100% effective, but it does reduce the risk of getting the flu and can also reduce the severity of the illness if you do get infected. It's especially important for people who are at higher risk of complications from the flu, such as the elderly and people with underlying health conditions.",
+            "Okay, thank you for the information, Medi.",
+            "You're welcome. Is there anything else you would like to know?",
+            "No, that's all for now. Thanks again."
+        ],
+        "knowledge": "Influenza Influenza The influenza virus mutates very quickly, which means that the strains of the virus that are circulating in a given year may be different from those that were circulating the previous year. The influenza vaccine is updated every year to protect against the most common strains of the virus. The vaccine is not 100% effective, but it does reduce the risk of getting the flu and can also reduce the severity of the illness if you do get infected. It's especially important for people who are at higher risk of complications from the flu, such as the elderly and people with underlying health conditions.",
+        "response": "No problem. Take care."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what I should be eating.",
+            "Congratulations on your surgery. What kind of surgery did you have?",
+            "I had my gallbladder removed.",
+            "After gallbladder surgery, it's important to eat a low-fat diet to avoid putting extra strain on your liver. You should also avoid foods that are high in cholesterol and saturated fat.",
+            "Okay, that makes sense. Can you give me some examples of low-fat foods?",
+            "Sure, some good options include fruits, vegetables, lean protein sources like chicken or fish, whole grains, and low-fat dairy products.",
+            "Great, thanks for the advice. What about physical activity?",
+            "You should avoid strenuous physical activity for a few weeks after surgery. Light exercise like walking is okay, but be sure to check with your doctor before starting any new exercise program.",
+            "Okay, thanks for the information, Medi."
+        ],
+        "knowledge": "Gallbladder Surgery Gallbladder Surgery After gallbladder surgery, it's important to eat a low-fat diet to avoid putting extra strain on your liver. You should also avoid foods that are high in cholesterol and saturated fat. Good options include fruits, vegetables, lean protein sources like chicken or fish, whole grains, and low-fat dairy products. Strenuous physical activity should be avoided for a few weeks after surgery, but light exercise like walking is okay with your doctor's approval.",
+        "response": "You're welcome. Take care and don't hesitate to contact me if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am not feeling well",
+            "Oh, I am sorry to hear that. What are your symptoms?",
+            "I have a very high fever, and my body feels very weak and tired",
+            "I see. How long have you been experiencing these symptoms?",
+            "It's been two days now since I started feeling sick",
+            "Alright, I think you should visit a doctor as soon as possible",
+            "But why do I need to see a doctor?",
+            "Based on your symptoms, you might have an infection that needs immediate medical attention",
+            "Thanks Medi, I will visit a doctor soon"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases Third, the essential tools for directing PCR, primers, are derived from the genomes of infectious agents, and with time those genomes will be known, if they are not already. Thus, the technological ability to detect any infectious agent rapidly and specifically are currently available.  The only remaining blockades to the use of PCR as a standard tool of diagnosis are in its cost and application, neither of which is insurmountable.  The diagnosis of a few diseases will not benefit from the development of PCR methods, such as some of the clostridial diseases .  These diseases are fundamentally biological poisonings by relatively small numbers of infectious bacteria that produce extremely potent neurotoxins.  A significant proliferation of the infectious agent does not occur, this limits the ability of PCR to detect the presence of any bacteria. Given the wide range of bacterial, viral, fungal, protozoal, and helminthic pathogens that cause debilitating and life-threatening illnesses, the ability to quickly identify the cause of infection is important yet often challenging Infectious diseases Infectious diseases",
+        "response": "I suggest you should visit a doctor as soon as possible as you might have an infection that needs immediate medical attention"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about the flu vaccine",
+            "Sure, I'd be happy to help. What's your question?",
+            "Do I need to get a flu vaccine every year?",
+            "Yes, it is recommended that you get a flu vaccine every year",
+            "Why is that? Isn't one vaccine enough?",
+            "The influenza virus mutates frequently, and new strains emerge every year. So, a new vaccine is developed every year that is tailored to the specific strains of the virus that are expected to be prevalent that season",
+            "I see. That makes sense. When is the best time to get vaccinated?",
+            "It is recommended to get vaccinated before the start of the flu season which is typically in the fall",
+            "Thank you, Medi. I will make sure to get vaccinated before the start of the flu season"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It is recommended to get vaccinated before the start of the flu season which is typically in the fall"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a surgery and I'm not sure how to take care of myself now",
+            "I'd be happy to help. What kind of surgery did you have?",
+            "I had a knee surgery",
+            "In that case, it's important to keep moving your knee as much as possible to prevent stiffness. You should also avoid standing or walking for long periods of time, and keep your leg elevated to reduce swelling",
+            "Are there any exercises I can do to help my knee recover faster?",
+            "Yes, there are some exercises you can do to help strengthen your knee. You can start with simple exercises like leg lifts or heel slides and gradually increase the difficulty as you feel comfortable",
+            "What about my diet? Should I eat anything specific?",
+            "A healthy and balanced diet is important for your overall recovery. You should eat foods that are high in protein to help with healing and avoid foods that are high in sugar and fat",
+            "Thank you for your help, Medi"
+        ],
+        "knowledge": "Surgery Surgery After surgery, it is important to follow your doctor's instructions for recovery. This may include getting plenty of rest, taking any prescribed medications, and avoiding certain activities until you are fully healed. In some cases, physical therapy may be necessary to help you regain strength and mobility. A healthy and balanced diet is also important for recovery, with a focus on protein to help with healing. Surgery Surgery",
+        "response": "You're welcome, and I hope you have a speedy recovery!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I need a diagnosis.",
+            "Sure, I will help you. Can you explain your symptoms?",
+            "I feel very tired and have a headache. I also have a fever and a cough.",
+            "Okay, based on your symptoms, it's likely that you have the flu.",
+            "What should I do now?",
+            "You should rest and drink plenty of fluids. I also suggest taking ibuprofen or acetaminophen for your fever and headache.",
+            "Thank you, Medi. Can you tell me more about the flu?",
+            "Sure, the flu is a contagious respiratory illness caused by influenza viruses",
+            "How can I prevent the flu in the future?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You can prevent the flu by getting vaccinated every year and practicing good hygiene, such as washing your hands regularly and avoiding close contact with sick people."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain to me what is PCR?",
+            "Sure, PCR stands for polymerase chain reaction and it's a technique used to amplify DNA.",
+            "What is the purpose of PCR?",
+            "PCR is used to detect and amplify specific DNA sequences for various applications, such as disease diagnosis and forensic analysis.",
+            "How does PCR work?",
+            "PCR involves a series of temperature changes that cause DNA to denature and then anneal with primers. These primers then initiate DNA replication, amplifying the target sequence exponentially.",
+            "Thanks, Medi. Can PCR be used to diagnose any disease?",
+            "PCR can detect the presence of DNA from various pathogens, including bacteria, viruses, fungi, and parasites. However, PCR may not be effective for some diseases, such as those caused by bacteria that produce neurotoxins like clostridial diseases.",
+            "I see. How long does it take to get a PCR test result?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases Third, the essential tools for directing PCR, primers, are derived from the genomes of infectious agents, and with time those genomes will be known, if they are not already. Thus, the technological ability to detect any infectious agent rapidly and specifically are currently available.  The only remaining blockades to the use of PCR as a standard tool of diagnosis are in its cost and application, neither of which is insurmountable.  The diagnosis of a few diseases will not benefit from the development of PCR methods, such as some of the clostridial diseases .  These diseases are fundamentally biological poisonings by relatively small numbers of infectious bacteria that produce extremely potent neurotoxins.  A significant proliferation of the infectious agent does not occur, this limits the ability of PCR to detect the presence of any bacteria. Given the wide range of bacterial, viral, fungal, protozoal, and helminthic pathogens that cause debilitating and life-threatening illnesses, the ability to quickly identify the cause of infection is important yet often challenging Infectious diseases Infectious diseases",
+        "response": "The time to get a PCR test result depends on the specific lab and test used, but it can range from a few hours to a few days."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a medical procedure done. Can you give me advice on my post-procedure care?",
+            "Of course, I am happy to help. What procedure did you have?",
+            "I had a surgical procedure done on my knee.",
+            "After the surgery, it is important to rest and keep your knee elevated to reduce swelling. You should also ice your knee for 20 minutes at a time, several times a day.",
+            "What about physical therapy and exercise?",
+            "Your doctor will likely recommend physical therapy to help you regain strength and range of motion in your knee. You should also start with light exercises, such as walking and stretches, as recommended by your doctor or physical therapist.",
+            "What about my diet?",
+            "After surgery, it is important to eat a healthy diet that includes plenty of protein, fruits, and vegetables to aid in healing.",
+            "Thank you, Medi. How long will it take for me to recover from the surgery?"
+        ],
+        "knowledge": "Surgery Surgery After surgery, it is important to rest and allow your body time to heal. You should avoid strenuous activities and follow your doctor's instructions for post-operative care. This may include taking medication, using ice or heat therapy, and attending physical therapy. It is also important to eat a healthy diet to aid in healing. The length of recovery time will depend on the type of surgery and individual factors such as age and overall health.",
+        "response": "The length of recovery time will depend on the type of surgery you had and your individual factors. Your doctor can give you a more specific estimate based on your case."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I feel sick and cough a lot. Can you help me?",
+            "Of course, please tell me more about your symptoms.",
+            "I have a dry cough, fever, and feel tired all day long.",
+            "Based on your symptoms, you may have a respiratory infection. Please take care of your health and rest more.",
+            "What should I do next?",
+            "Take some medicine to relieve your symptoms. If your condition worsens, go to the hospital immediately.",
+            "Okay. I'll take a rest. Thank you, Medi.",
+            "You're welcome, keep monitoring your condition and take care of yourself.",
+            "What kind of medicine do you recommend?"
+        ],
+        "knowledge": "Respiratory Infections Respiratory Infections Respiratory infections are infections that occur in the respiratory tract. Respiratory infections infect the nose, throat, sinuses, bronchi and lungs. Common respiratory infections include the flu, the common cold, bronchitis and pneumonia. Symptoms may include coughing, shortness of breath, chest pain, and wheezing. Many treatments can help relieve symptoms. For example, taking painkillers for fever and acetaminophen or ibuprofen can help relieve pain or discomfort caused by respiratory infections. Antibiotics may be used if a bacterial infection is present, but they are not effective against viral infections. Respiratory Infections Respiratory Infections",
+        "response": "I suggest that you take over-the-counter cough medicine and painkillers, such as acetaminophen or ibuprofen."
+    },
+    {
+        "dialog": [
+            "Hi Medi, what are the most common infectious diseases?",
+            "Good question! Do you want to know about bacterial, viral, or fungal infectious diseases? There are many types.",
+            "Tell me about the bacterial ones.",
+            "Some common bacterial infections are pneumonia, tuberculosis, strep throat, and urinary tract infections.",
+            "How about viral ones?",
+            "Examples of viral infections are the flu, hepatitis, HIV, and herpes.",
+            "And fungal ones?",
+            "Fungal infections include athlete's foot, ringworm, and thrush.",
+            "Thanks, Medi. Now I know more about infectious diseases."
+        ],
+        "knowledge": "Infectious Diseases Infectious Diseases Given the wide range of bacterial, viral, fungal, protozoal, and helminthic pathogens that cause debilitating and life-threatening illnesses, the ability to quickly identify the cause of infection is important yet often challenging. The most effective way to avoid infectious diseases is to prevent them from occurring in the first place. Some basic prevention methods include washing hands regularly, avoiding close contact with sick people, covering your mouth and nose when sneezing or coughing, avoiding touching your face and eyes, and staying home when you are sick. Vaccines are also a powerful tool in preventing infectious diseases, such as the flu vaccine or HPV vaccine. Infectious Diseases Infectious Diseases",
+        "response": "You can prevent infectious diseases by washing your hands regularly, avoiding close contact with sick people, and staying home when you are sick. Vaccines are also an effective way to prevent infectious diseases."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery. What should I do next?",
+            "Congratulations on your successful surgery! It's important to take care of yourself after surgery.",
+            "What should I do to speed up my recovery?",
+            "Rest is the most important thing you can do right now. Avoid strenuous activities and get plenty of sleep.",
+            "Anything else?",
+            "Eat a healthy and balanced diet, and drink plenty of fluids to stay hydrated.",
+            "How about exercise?",
+            "Light exercises, such as walking, can help with recovery, but be sure to talk to your doctor about what is safe for you.",
+            "Thanks for your advice, Medi."
+        ],
+        "knowledge": "Postoperative Care Postoperative Care After surgery, it's important to take care of yourself to speed up your recovery. Get plenty of rest, eat a healthy and balanced diet, and drink plenty of fluids to stay hydrated. Avoid strenuous activities and exercise only under the guidance of your doctor. Eat foods that are high in protein, such as meat, fish, and beans, to help your body heal. Also, avoid foods that are high in fat, sugar, or salt, because they can slow down your recovery. Postoperative Care Postoperative Care",
+        "response": "You should follow a healthy and balanced diet with foods that are high in protein, such as meat, fish, and beans, and avoid foods that are high in fat, sugar, or salt, because they can slow down your recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am experiencing some symptoms that concern me.",
+            "Sure, what are your symptoms?",
+            "I have been having a fever, headache and fatigue for the past few days.",
+            "I see. Have you noticed any other symptoms?",
+            "Yes, I have also been experiencing a cough and shortness of breath.",
+            "Based on those symptoms, it's possible you have contracted a respiratory infection. ",
+            "What can I do about it, Medi?",
+            "I recommend you stay home and rest, hydrate, and monitor your symptoms. If they worsen, seek medical attention.",
+            "Thank you, Medi. One last question- what should I look out for ?"
+        ],
+        "knowledge": "Respiratory Infections Respiratory Infections Respiratory tract infections are infections that occur in the respiratory tract.  They are common and can be caused by a variety of pathogens, including viruses, bacteria, and fungi.  Respiratory infections can range from mild colds to severe pneumonia, and can sometimes be fatal.  Symptoms of respiratory infections can vary depending on the type of infection and the age and health of the individual.  Common symptoms include cough, sore throat, runny or stuffy nose, fever, headache, fatigue, and shortness of breath.  Treatments for respiratory infections depend on the type of infection and the severity of symptoms. Respiratory Infections Respiratory Infections",
+        "response": "Keep an eye out for any worsening of your symptoms, such as increased shortness of breath or persistent fever. If you experience these symptoms, seek medical attention immediately."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just had a medical procedure and I'm not sure what to do now.",
+            "What medical procedure did you have?",
+            "I had surgery on my leg, and I'm not sure what steps I should take to make a full recovery.",
+            "After surgery, it's important to rest and avoid putting too much pressure on the affected limb. Make sure to keep the wound clean and dry.",
+            "Is there anything in particular I should avoid, Medi?",
+            "Yes, you should avoid smoking and drinking alcohol, as they can interfere with the healing process. You should also avoid strenuous activities for a few weeks.",
+            "Thanks, Medi. What can I do to speed up the healing process?",
+            "You can promote healing by eating a healthy diet, getting enough sleep, and following any physical therapy or exercise routines recommended by your doctor.",
+            "Great. One more question- what kind of physical exercises are good for me?"
+        ],
+        "knowledge": "Post-Operative Care Post-Operative Care After surgery, it is important to follow the doctor's orders, get plenty of rest, and avoid strenuous activities. Physical therapy and exercise routines can help speed up the healing process and prevent complications. Eating a healthy diet and getting enough sleep can also help promote healing. Smoking and drinking alcohol should be avoided as they can interfere with the healing process. Post-Operative Care Post-Operative Care",
+        "response": "Your doctor will be able to recommend specific exercises based on your individual needs and the type of surgery you had."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about infectious diseases.",
+            "Sure, I'd be happy to help. What's on your mind?",
+            "I'm curious about how infectious diseases are diagnosed.",
+            "There are a variety of diagnostic tools available, including PCR testing and antibody testing. The specific tool used depends on the type of infectious agent and the patient's symptoms.",
+            "That's interesting. Are there any limitations to these diagnostic tools?",
+            "Yes, there are some diseases, such as clostridial diseases, that are difficult to diagnose using PCR testing due to the limited proliferation of bacteria. ",
+            "I see. What are some ways to prevent infectious diseases, Medi?",
+            "Prevention methods include practicing good hygiene (such as washing your hands regularly), avoiding close contact with sick individuals, and getting vaccinated when possible.",
+            "Thanks, Medi. One more question- how dangerous are infectious diseases?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases Infectious diseases can be diagnosed using a variety of tools, including PCR testing and antibody testing. Some diseases, such as clostridial diseases, are difficult to diagnose using PCR testing due to the limited proliferation of bacteria. Prevention methods include practicing good hygiene, avoiding close contact with sick individuals, and getting vaccinated when possible. Infectious diseases can range from mild to severe and can be life-threatening, and can cause significant morbidity and mortality. Infectious diseases Infectious diseases",
+        "response": "Infectious diseases can range in severity from mild to life-threatening, so it's important to take steps to prevent them whenever possible."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and cough for two days",
+            "I see. Do you have any other symptoms?",
+            "I also feel very tired and have a headache",
+            "Based on your symptoms, you may have a respiratory infection. I suggest you rest and drink plenty of fluids",
+            "What else can I do to feel better?",
+            "You can take acetaminophen to reduce your fever and relieve your headache. Also, avoid contact with others to prevent the spread of the infection",
+            "Thank you, Medi. Should I see a doctor?",
+            "If your symptoms persist or worsen, you should consider seeing a doctor. Keep me updated on your condition",
+            "Okay, I will. Thanks again Medi."
+        ],
+        "knowledge": "Respiratory infections Respiratory infections Respiratory infections are caused by a variety of bacteria and viruses. The most common symptoms are a cough, fever, headache, and fatigue. Respiratory infections can be spread through contact with an infected person or by touching a contaminated surface. Treatment usually involves rest, hydration, and over-the-counter medication to relieve symptoms. Severe cases may require prescription medication or hospitalization. It's important to prevent the spread of respiratory infections through proper hand hygiene and avoiding close contact with others",
+        "response": "You're welcome. I hope you feel better soon. Keep me updated on your condition."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a colonoscopy and I would like some advice on how to take care of myself afterwards",
+            "Of course. After a colonoscopy, it's important to rest for a few hours and avoid driving or operating heavy machinery",
+            "What should I eat?",
+            "For the first few days, it's best to stick to a soft, low-fiber diet and avoid spicy or greasy foods. You should also drink plenty of fluids",
+            "Can I exercise?",
+            "You should avoid strenuous exercise for a few days after the procedure, but light exercise such as walking is fine",
+            "Is there anything else I should know?",
+            "You may experience some mild cramping or bloating, and there may be some blood in your stool for a few days. If you experience severe pain or bleeding, contact your doctor immediately",
+            "Thanks for the advice, Medi. I appreciate it"
+        ],
+        "knowledge": "Colonoscopy Colonoscopy A colonoscopy is a medical procedure used to examine the colon and rectum for abnormalities such as polyps or cancer. During the procedure, a flexible tube with a camera on the end is inserted into the anus and guided through the colon. The procedure usually takes about 30 minutes to an hour and is performed under sedation. After the procedure, it's important to rest and avoid driving or operating heavy machinery. You should also stick to a soft, low-fiber diet for a few days and avoid strenuous exercise. Mild cramping and bloating are common, but severe pain or bleeding should be reported to your doctor",
+        "response": "You're welcome. I'm glad I could help. Let me know if you have any other questions"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have recently been diagnosed with a viral infection and I would like some advice on how to manage my symptoms",
+            "Sure thing. What are your symptoms?",
+            "I have a fever, sore throat, and a cough. I also feel very tired",
+            "Based on your symptoms, it's likely that you have a respiratory viral infection. Rest and hydration are key to managing your symptoms",
+            "Is there anything else I can do to feel better?",
+            "You can take over-the-counter medication such as acetaminophen to reduce your fever and relieve your sore throat. Gargling salt water may also help with your sore throat",
+            "What about my cough?",
+            "Honey is a natural cough suppressant, so you can try drinking warm tea with honey. You can also try over-the-counter cough medicine",
+            "Thanks for the advice, Medi. How long will it take to recover?"
+        ],
+        "knowledge": "Viral infections Viral infections Viral infections are caused by a variety of viruses and can affect different parts of the body. The symptoms of a viral infection depend on the type of virus and can include fever, sore throat, cough, fatigue, and body aches. Treatment usually involves rest, hydration, and over-the-counter medication to relieve symptoms. Antibiotics are not effective against viral infections. Most viral infections resolve within a few days to a week, but some can last longer. If your symptoms persist or worsen, contact your doctor",
+        "response": "You're welcome. I hope you feel better soon. Let me know if you have any other questions or concerns"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a cough and a runny nose.",
+            "Sorry to hear that. Do you have a fever?",
+            "No, I don't have a fever.",
+            "Do you feel tired or weak?",
+            "Yes, I feel weak.",
+            "Okay. Based on your symptoms, it seems like you have a common cold.",
+            "What should I do now?",
+            "Get plenty of rest, drink fluids, and take over-the-counter cold medication. If it gets worse, see a doctor.",
+            "Thank you, Medi!"
+        ],
+        "knowledge": "Common cold Common cold The common cold is a viral infection of the upper respiratory tract, caused primarily by rhinoviruses and coronaviruses. Symptoms include cough, sore throat, runny nose, nasal congestion, headache, and fatigue. Symptoms usually last for about seven to ten days. Treatment is supportive with rest, hydration, and over-the-counter medication. If symptoms persist or worsen, it is best to see a doctor. Common cold Common cold",
+        "response": "You're welcome. Get some rest and drink plenty of fluids. If it gets worse, see a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a sore throat and a fever.",
+            "Sorry to hear that. How high is your fever?",
+            "It's around 101 degrees Fahrenheit.",
+            "Okay. Based on your symptoms, it seems like you have a bacterial infection.",
+            "What should I do now?",
+            "You should see a doctor as soon as possible for proper diagnosis and treatment with antibiotics.",
+            "What if I don't want to take antibiotics?",
+            "It's important to treat bacterial infections with antibiotics to avoid complications. However, there are other treatments available that your doctor can discuss with you.",
+            "Okay, thank you for your help!"
+        ],
+        "knowledge": "Bacterial infections Bacterial infections Bacterial infections occur when harmful bacteria enter the body and multiply. Symptoms vary depending on the type of infection but may include fever, chills, cough, sore throat, and diarrhea. Bacterial infections are usually treated with antibiotics, which kill the bacteria. It's important to take antibiotics as prescribed to avoid complications. However, there are other treatments available that your doctor can discuss with you. Bacterial infections Bacterial infections",
+        "response": "You're welcome. Remember to see a doctor for proper diagnosis and treatment with antibiotics."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery and I'm not sure what to do now.",
+            "I can help you with that. What type of surgery did you have?",
+            "I had a knee replacement surgery.",
+            "Okay, you should follow your doctor's instructions for postoperative care.",
+            "Can you give me some examples?",
+            "Sure. You should take your medication as prescribed, keep your incision clean and dry, perform physical therapy exercises, and avoid strenuous activities.",
+            "What about my diet?",
+            "You should follow your doctor's instructions on what to eat and avoid. It's important to eat a balanced diet to promote healing.",
+            "Thank you, Medi!"
+        ],
+        "knowledge": "Postoperative care Postoperative care Postoperative care involves the management of a patient after surgery. The goals of postoperative care include promoting healing, preventing complications, and managing pain. Patients should follow their doctor's instructions for postoperative care, which may include taking medication, keeping the incision clean and dry, performing physical therapy exercises, and avoiding strenuous activities. It's also important to eat a balanced diet to promote healing. Postoperative care Postoperative care",
+        "response": "You're welcome. Remember to follow your doctor's instructions for postoperative care, including medication, physical therapy, and a balanced diet."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a high fever and headache",
+            "Sorry to hear that, may I know since when you have these symptoms?",
+            "It started yesterday and my temperature is 38.9\u00b0C",
+            "You might be having a fever, have you taken any medication?",
+            "Yes, I took paracetamol but it didn't work",
+            "If the medicine doesn't work, try to rest and hydrate yourself",
+            "Any other suggestion, Medi?",
+            "You should monitor your body temperature and if it remains high for more than 3 days you should see a doctor",
+            "Okay, thank you Medi!"
+        ],
+        "knowledge": "Fever Fever is a common symptom of many diseases. The fever is an indication of the body's response to infection or inflammation. A fever is said to be present when the body temperature is 100.4\u00b0F (38\u00b0C) or higher. It is often accompanied by other symptoms, such as chills, headache, muscle aches, fatigue, and weakness.",
+        "response": "You might be having fever, try to rest and hydrate yourself. Monitor your body temperature and if it remains high for more than 3 days you should see a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm curious about the flu vaccine",
+            "Hi, happy to help. What do you want to know?",
+            "Is it effective? And how does it work?",
+            "The flu vaccine is effective in reducing the risk of flu illness. It works by triggering the body's immune system to produce antibodies that fight the flu virus.",
+            "How about the side effects of the vaccine?",
+            "Common side effects include soreness, redness, or swelling at the injection site. The vaccine may also cause fever, headache, or muscle aches, but these side effects are usually mild and go away after a few days",
+            "When is the best time to get vaccinated?",
+            "The best time to get vaccinated is before the flu season starts, which is usually from October to March. But it's never too late to get vaccinated, even if the flu season has already started",
+            "Thank you for your explanation Medi, I will consider getting the flu vaccine"
+        ],
+        "knowledge": "Flu vaccine Flu vaccine The flu vaccine is effective in reducing the risk of flu illness. It works by triggering the body's immune system to produce antibodies that fight the flu virus. Common side effects include soreness, redness, or swelling at the injection site. The vaccine may also cause fever, headache, or muscle aches, but these side effects are usually mild and go away after a few days. The best time to get vaccinated is before the flu season starts, which is usually from October to March. But it's never too late to get vaccinated, even if the flu season has already started.",
+        "response": "The flu vaccine is effective in reducing the risk of flu illness. Side effects are usually mild and go away after a few days. The best time to get vaccinated is before the flu season starts, but it's never too late to get vaccinated."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery on my knee. What should I do after the surgery?",
+            "Hello, after surgery, it is important to follow the doctor's instructions carefully",
+            "Can you give me some tips?",
+            "Sure. Rest and elevate your leg as much as possible. You should also apply ice to the surgical area for 20 minutes at a time, four to eight times a day, for the first few days after surgery. And it's important not to put weight on your knee, so you might need to use crutches or a walker",
+            "How long should I do that?",
+            "You should continue following these tips until your doctor gives you the green light to return to your normal activities.",
+            "What about physical activities?",
+            "Physical therapy can be helpful in improving knee strength and mobility. Your doctor may recommend exercises to help you recover and regain strength in your knee.",
+            "Thanks for your advice, Medi. I will be careful and follow the instructions"
+        ],
+        "knowledge": "Knee Surgery Knee Surgery After knee surgery, it is important to follow the doctor's instructions carefully. Rest and elevate your leg as much as possible. You should also apply ice to the surgical area for 20 minutes at a time, four to eight times a day, for the first few days after surgery. And it's important not to put weight on your knee, so you might need to use crutches or a walker. Physical therapy can be helpful in improving knee strength and mobility. Your doctor may recommend exercises to help you recover and regain strength in your knee.",
+        "response": "After surgery, it is important to rest and elevate your leg as much as possible. You should also apply ice to the surgical area for 20 minutes at a time, four to eight times a day, for the first few days after surgery. And it's important not to put weight on your knee, so you might need to use crutches or a walker. Physical therapy can also be helpful in improving knee strength and mobility."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and sore throat",
+            "I see. How long have you had these symptoms?",
+            "It started yesterday. I also have a headache and body aches.",
+            "Based on your symptoms, you might be suffering from a viral infection. Get plenty of rest and drink lots of fluids.",
+            "Is there any medication that I can take?",
+            "You can take over-the-counter pain relievers, but make sure to follow the instructions and consult with a doctor if your symptoms persist.",
+            "Thanks for the advice. Should I get tested for COVID-19?",
+            "It's better to get tested to be sure. Contact your local health department or clinic to arrange a test.",
+            "Okay, I'll do that. Thank you!"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Third, the essential tools for directing PCR, primers, are derived from the genomes of infectious agents, and with time those genomes will be known, if they are not already. Thus, the technological ability to detect any infectious agent rapidly and specifically are currently available.  The only remaining blockades to the use of PCR as a standard tool of diagnosis are in its cost and application, neither of which is insurmountable.  The diagnosis of a few diseases will not benefit from the development of PCR methods, such as some of the clostridial diseases .  These diseases are fundamentally biological poisonings by relatively small numbers of infectious bacteria that produce extremely potent neurotoxins.  A significant proliferation of the infectious agent does not occur, this limits the ability of PCR to detect the presence of any bacteria. Given the wide range of bacterial, viral, fungal, protozoal, and helminthic pathogens that cause debilitating and life-threatening illnesses, the ability to quickly identify the cause of infection is important yet often challenging Infectious diseases Infectious diseases",
+        "response": "You should contact your local health department or clinic to arrange a COVID-19 test if you're experiencing symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about the flu.",
+            "Sure, I'm here to help. What do you want to know?",
+            "What is the flu?",
+            "The flu is a highly contagious respiratory illness caused by the influenza virus. It spreads easily from person to person.",
+            "What are the symptoms of the flu?",
+            "The symptoms of the flu include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills and fatigue.",
+            "Is there a cure for the flu?",
+            "There is no cure for the flu, but antiviral drugs can help to reduce the severity and duration of symptoms.",
+            "How can I prevent getting the flu?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You can prevent getting the flu by getting vaccinated every year, practicing good hygiene, avoiding close contact with sick people, and staying home if you're sick."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a surgery. Can you give me some advice for recovery?",
+            "Of course, I'd be happy to help. What type of surgery did you have?",
+            "I had a knee replacement surgery.",
+            "Okay, after your surgery, you should rest and try to elevate your leg to reduce swelling. Make sure to take any medication as prescribed by your doctor.",
+            "How long will it take to recover?",
+            "The recovery time varies for everyone, but it can take several weeks to several months. You should follow your doctor's instructions and attend any physical therapy sessions as recommended.",
+            "Are there any exercises that I can do?",
+            "Yes, there are some exercises you can do to help with your recovery, such as range of motion exercises and strengthening exercises. But make sure to consult with your doctor or physical therapist before starting any exercise program.",
+            "Thanks for the advice. Is there anything else I should know?"
+        ],
+        "knowledge": "Surgery Surgery  Surgery is a medical specialty that uses operative manual and instrumental techniques on a patient to investigate or treat a pathological condition such as a disease or injury, to help improve bodily function, appearance, or to repair unwanted ruptured areas.  Surgeons use a variety of techniques, including traditional open surgery, laparoscopic surgery, and robotic surgery.  Surgery has many sub-specialties, including general surgery, neurosurgery, orthopedic surgery, cardiovascular surgery, and plastic surgery. Surgery Surgery",
+        "response": "You should also try to eat a healthy diet, get plenty of rest, and avoid activities that can put stress on your knee, like running or jumping."
+    }
+]

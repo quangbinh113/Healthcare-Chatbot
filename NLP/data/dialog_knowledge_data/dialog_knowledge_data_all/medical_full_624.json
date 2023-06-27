@@ -1,0 +1,407 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I feel very sick. Can you help me?",
+            "Yes, I can help you. Please describe your symptoms.",
+            "I have a fever, a headache, and a terrible cough. My throat is sore too.",
+            "I see, based on your symptoms, it\u2019s possible you have the flu.",
+            "What should I do now?",
+            "You need to take anti-fever medication, drink plenty of fluids, rest, and avoid alcohol and tobacco products.",
+            "What if I have a secondary bacterial infection?",
+            "If you have a secondary bacterial infection, you may need to be treated with antibiotics.",
+            "Okay, thank you. How long will it take for me to recover from the flu?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "Recovery time for the flu usually takes about one to two weeks, but it may take longer if you have a secondary bacterial infection. Rest and proper treatment will help you recover faster."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me what is influenza?",
+            "Sure, influenza is a viral infection that attacks your respiratory system.",
+            "What are the symptoms of influenza?",
+            "The symptoms of influenza include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.",
+            "How can I prevent influenza?",
+            "You can prevent influenza by getting vaccinated every year, washing your hands frequently, avoiding close contact with people who are sick, and covering your mouth and nose with a tissue when you cough or sneeze.",
+            "Is there any treatment for influenza?",
+            "Yes, treatment for influenza includes rest, drinking plenty of fluids, and taking anti-fever medication. Antiviral medication may also be prescribed for severe cases.",
+            "Thanks, Medi. Can I still get the flu if I have been vaccinated?"
+        ],
+        "knowledge": "Influenza Influenza Influenza is a viral infection that attacks your respiratory system.  The symptoms of influenza include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.  You can prevent influenza by getting vaccinated every year, washing your hands frequently, avoiding close contact with people who are sick, and covering your mouth and nose with a tissue when you cough or sneeze.  Treatment for influenza includes rest, drinking plenty of fluids, and taking anti-fever medication.  Antiviral medication may also be prescribed for severe cases. Influenza Influenza",
+        "response": "Yes, you can still get the flu if you have been vaccinated, but the vaccine can reduce the severity of your illness and prevent complications."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently recovered from the flu. What can I do to prevent it in the future?",
+            "The best way to prevent influenza is to get vaccinated every year and practice good hygiene habits, such as washing your hands frequently and covering your mouth and nose when you cough or sneeze.",
+            "Are there any natural remedies to boost my immune system?",
+            "Yes, there are many natural remedies that can boost your immune system, such as getting enough sleep, eating a healthy diet, exercising regularly, reducing stress, and taking supplements like vitamin C, zinc, and echinacea.",
+            "What foods should I eat to boost my immune system?",
+            "Foods like citrus fruits, berries, broccoli, spinach, garlic, ginger, and yogurt are all great for boosting your immune system.",
+            "Can I still get the flu if I have a strong immune system?",
+            "Yes, even if you have a strong immune system, you can still get the flu. However, having a strong immune system can help reduce the severity of the illness.",
+            "Thank you, Medi. What should I do if I think I have the flu again?"
+        ],
+        "knowledge": "Influenza Influenza The best way to prevent influenza is to get vaccinated every year and practice good hygiene habits, such as washing your hands frequently and covering your mouth and nose when you cough or sneeze.  There are many natural remedies that can boost your immune system, such as getting enough sleep, eating a healthy diet, exercising regularly, reducing stress, and taking supplements like vitamin C, zinc, and echinacea.  Foods like citrus fruits, berries, broccoli, spinach, garlic, ginger, and yogurt are all great for boosting your immune system. Even if you have a strong immune system, you can still get the flu.  However, having a strong immune system can help reduce the severity of the illness. Influenza Influenza",
+        "response": "If you think you have the flu again, you should rest, drink plenty of fluids, and take anti-fever medication. If your symptoms worsen or you have difficulty breathing, you should seek medical attention."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing flu-like symptoms for a few days now.",
+            "Hello! Sorry to hear that. Can you tell me what symptoms you have?",
+            "I have a fever, cough, and body aches.",
+            "Based on your symptoms, it's possible that you have the flu. Have you been taking any medication?",
+            "No, I haven't.",
+            "You should take anti-fever medications like acetaminophen or ibuprofen, drink plenty of fluids, and rest at home. Cough drops and throat sprays may also be helpful. Avoid alcohol and tobacco use while you are sick. If you have a bacterial infection, antibiotics may be necessary.",
+            "Okay, I'll try that. Thanks, Medi!",
+            "You're welcome. Take care!",
+            "Medi, can the flu be prevented?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "Yes, the flu can be prevented. The best way to do so is to get a yearly flu vaccine. You should also wash your hands frequently and avoid close contact with people who have the flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from the flu. Do you have any advice for me to get back to my normal routine?",
+            "Hello! I'm glad to hear you've recovered. It's important to gradually return to your normal routine. Start with light activities such as stretching or walking. ",
+            "What about my diet? Can I eat anything I want?",
+            "It's important to eat a healthy and balanced diet. Eat foods that are rich in nutrients such as fruits and vegetables. Avoid sugary and fatty foods and drinks.",
+            "Can I go back to work immediately?",
+            "It's best to wait until you feel better and your symptoms have completely gone away. ",
+            "How can I strengthen my immune system?",
+            "You can strengthen your immune system by getting enough sleep, exercising regularly, eating a healthy diet, reducing stress, and avoiding smoking and alcohol.",
+            "Thanks, Medi. That's helpful advice!"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "Yes, the flu is contagious. It spreads through respiratory droplets when someone who is infected coughs or sneezes. You can also get the flu by touching a surface that has the virus on it and then touching your mouth, nose, or eyes."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have recovered from the flu. Are there any lifestyle changes I can make to prevent getting sick in the future?",
+            "Hello! That's great to hear. There are several lifestyle changes you can make to prevent getting sick. ",
+            "What are some of these changes?",
+            "You should get a yearly flu vaccine, wash your hands frequently, and avoid contact with people who are sick. It's also important to eat a healthy diet, get enough sleep, and exercise regularly to keep your immune system strong.",
+            "Can you recommend any exercises?",
+            "You can try walking, jogging, swimming, or cycling. These exercises can help you stay healthy and reduce your risk of getting sick.",
+            "Can I take any supplements?",
+            "It's best to get your nutrients from a balanced diet. However, vitamin C and zinc supplements may help boost your immune system. Consult with your doctor before taking any supplements.",
+            "Thanks, Medi. That's good advice!"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "The standard flu symptoms typically last for 2-8 days. It may take up to two weeks to fully recover from the flu. However, in some cases, it may take longer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a sore throat and fever.",
+            "Hello! Have you taken any medication so far?",
+            "Yes, I took some over-the-counter medications, but they didn't help.",
+            "Based on your symptoms, you may have the flu. I recommend a rest and adequate fluid intake.",
+            "Should I take any medication?",
+            "You can take anti-fever medications like acetaminophen or ibuprofen.",
+            "Thanks, Medi. Can I have some cough drops?",
+            "Yes, cough drops and throat sprays may be beneficial for a sore throat. But avoid alcohol and tobacco use while sick with the flu.",
+            "Understood. Thank you for your help, Medi."
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "You're welcome! Take care of yourself, and if your symptoms persist, please consult a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I want to know more about the flu",
+            "Sure, what would you like to know?",
+            "What causes the flu?",
+            "It's caused by the influenza virus. There are several different strains of the virus, and they can mutate quickly, making it difficult to develop a vaccine that can protect against all strains.",
+            "How is the flu transmitted?",
+            "It's highly contagious and spreads through droplets from the nose and mouth of an infected person when they cough, sneeze or talk. You can also get the flu by touching a surface or object that has the virus on it and then touching your nose or mouth.",
+            "Can you prevent the flu?",
+            "Yes, you can prevent the flu by getting a flu shot every year, washing your hands frequently, and avoiding close contact with people who are sick.",
+            "Thanks for the information, Medi. Is there anything else I should know?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome! If you have any other questions, feel free to ask me."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently recovered from the flu. What precautions should I take to prevent getting sick again?",
+            "Hello! I'm glad to hear that you've recovered. It's important to practice good hand hygiene and avoid close contact with people who are sick.",
+            "Are there any foods I should eat to boost my immune system?",
+            "Yes, eating a healthy diet rich in fruits, vegetables, and whole grains can help boost your immune system. You should also make sure to stay hydrated by drinking plenty of fluids.",
+            "What about exercise?",
+            "Regular exercise can also help boost your immune system and keep you healthy.",
+            "Are there any supplements I should take?",
+            "It's always best to get your nutrients from food, but if you're unable to get enough vitamins and minerals from your diet, you can take supplements. However, you should talk to your doctor before taking any supplements.",
+            "Thanks for the advice, Medi."
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "If you start to feel sick again, make sure to get plenty of rest and stay hydrated. You can take over-the-counter medications to help relieve your symptoms, but if your symptoms persist or get worse, please consult a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some flu symptoms and need some advice.",
+            "Okay, I am here to help. Can you describe your symptoms?",
+            "I have a fever and headache. My throat is sore and I feel fatigued.",
+            "Based on your symptoms, it sounds like you have the flu.",
+            "What should I do next?",
+            "Rest is important to recover from the flu. Drink plenty of fluids and take anti-fever medications like acetaminophen or ibuprofen. Avoid alcohol and tobacco. Cough drops or throat sprays might help with your sore throat",
+            "Okay, I will do that. Thank you, Medi.",
+            "You're welcome. Take care and rest well.",
+            "How long does it usually take to recover from the flu?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "The duration of the flu symptoms can vary, but it usually takes about a week or two to recover. However, if your symptoms worsen or persist, you should see a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain to me what the flu is?",
+            "Sure, the flu is a viral illness that affects the respiratory system.",
+            "What are the symptoms?",
+            "The symptoms of the flu include a fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.",
+            "How is it spread?",
+            "The flu is spread through droplets when an infected person talks, coughs, or sneezes. You can also get the flu by touching a surface that has the virus on it and then touching your mouth, nose, or eyes.",
+            "Is there a way to prevent the flu?",
+            "Yes, the best way to prevent the flu is to get vaccinated every year. You should also wash your hands frequently, avoid close contact with sick people, cover your mouth and nose when coughing or sneezing, and stay home when you are sick.",
+            "I see. Thanks, Medi."
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Yes, the flu can lead to complications such as pneumonia, bronchitis, or sinus and ear infections. These complications are more likely to occur in people with weakened immune systems, children, and older adults."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from the flu. Do you have any advice for me?",
+            "Hello, it's great to hear that you are feeling better now. It's important to continue resting and taking care of yourself.",
+            "Is there anything else I should do?",
+            "Yes, you should slowly return to your normal routine. Avoid strenuous physical activity until you feel completely recovered. You should also eat a balanced and nutritious diet and drink plenty of fluids.",
+            "Are there any long-term effects from having the flu?",
+            "Most people recover from the flu without any complications. However, some people may experience post-viral fatigue or weakness for a few weeks after they recover. You should see a doctor if your symptoms persist or worsen.",
+            "Okay, I will keep that in mind. Thank you, Medi.",
+            "You're welcome. Take care and stay healthy!",
+            "How can I avoid getting the flu again?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "You can avoid getting the flu again by getting vaccinated every year, washing your hands frequently, avoiding close contact with sick people, covering your mouth and nose when coughing or sneezing, and staying home when you are sick."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a terrible headache and a sore throat.",
+            "I'm sorry to hear that, can you tell me more about how you're feeling?",
+            "I've been feeling fatigued and have a fever.",
+            "Based on your symptoms, it sounds like you might have the flu.",
+            "Is there anything I can do to alleviate my symptoms?",
+            "You should rest and take acetaminophen or ibuprofen for your fever and headache. Make sure to stay hydrated as well.",
+            "Will I need to take antibiotics?",
+            "Antibiotics are not effective against the flu, since it is caused by a virus. You should simply rest and take medication to alleviate your symptoms.",
+            "Thank you for your help, Medi. What should I do if my symptoms persist?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "If your symptoms persist or worsen, you should schedule an appointment with your doctor to see if further treatment is necessary."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about the flu.",
+            "Of course, I'm here to help. What's your question?",
+            "What is the difference between the flu and a cold?",
+            "The flu and a cold are both respiratory illnesses, but they are caused by different viruses. The flu is typically more severe and can cause more serious complications like pneumonia.",
+            "How is the flu treated?",
+            "Treatment for the flu is typically supportive and includes taking anti-fever medications like acetaminophen or ibuprofen, resting, and staying hydrated. Antiviral drugs can be used for more severe cases.",
+            "Can the flu be prevented?",
+            "The flu can be prevented by getting an annual flu vaccine, washing your hands regularly, and avoiding close contact with sick people.",
+            "Thank you for your help, Medi. I think I understand more about the flu now."
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome! If you have any more questions, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently recovered from the flu and was wondering what I can do to prevent getting sick again.",
+            "I'm glad to hear you're feeling better! One way to prevent getting sick again is to practice good hygiene, like washing your hands regularly.",
+            "Are there any specific foods that can help boost my immune system?",
+            "Foods that are high in vitamin C, like citrus fruits and leafy greens, can help boost your immune system.",
+            "What about exercise? Can that help prevent me from getting sick again?",
+            "Exercise can help strengthen your immune system and make you less susceptible to getting sick.",
+            "Thank you for the advice, Medi. I'll be sure to take it to heart.",
+            "You're welcome! Remember to stay healthy and take care of yourself.",
+            "One more question - is there anything I should avoid doing to prevent getting sick again?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "To prevent getting sick again, you should avoid close contact with sick people and avoid touching your face, especially your nose and mouth."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am feeling unwell. I have a runny nose and a sore throat.",
+            "Hello, I am here to help. Based on your symptoms, you may have Influenza.",
+            "What should I do? Should I take any medication?",
+            "Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.",
+            "Can I take cough drops for my sore throat?",
+            "Yes, cough drops and throat sprays may be beneficial for sore throat.",
+            "What should I avoid while I am sick with the flu?",
+            "It is recommended to avoid alcohol and tobacco use while sick with the flu.",
+            "Thanks for your help. Do I need to see a doctor?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "If your symptoms persist or worsen, then you should see a doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about the flu.",
+            "Of course, I am here to answer your question.",
+            "Can you tell me about the symptoms of the flu?",
+            "The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common.",
+            "Is it recommended to take aspirin for the flu?",
+            "Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.",
+            "What about corticosteroids?",
+            "Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.",
+            "Thanks for the information. Can the flu lead to a bacterial infection?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "You're welcome, if you have any further questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just recovered from the flu. What should I do to stay healthy?",
+            "Glad to hear that you have recovered. To stay healthy, you should continue to get enough rest, eat a balanced diet, and exercise regularly.",
+            "Are there any foods I should avoid?",
+            "It is recommended to avoid foods high in sugar and saturated fats.",
+            "What about alcohol and tobacco?",
+            "It's best to avoid alcohol and tobacco use to maintain good health.",
+            "Thanks for your advice, Medi.",
+            "You're welcome, have a great day!",
+            "One more thing, should I get a flu shot?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "Yes, it is recommended to get a flu shot to prevent getting the flu again next season."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm experiencing flu-like symptoms.",
+            "I'm here to help. Please describe your symptoms.",
+            "I have a fever, body aches, and a runny nose.",
+            "Based on your symptoms, it's possible that you have influenza.",
+            "What should I do now?",
+            "You should rest at home, drink plenty of fluids, and avoid alcohol and tobacco use.",
+            "Can I take any medication for my symptoms?",
+            "You can take anti-fever medications like acetaminophen or ibuprofen. Cough drops and throat sprays may also be beneficial.",
+            "Thank you, Medi. How long will it take for me to feel better?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "It typically takes 2-8 days for symptoms to subside, but it's important to rest and take care of yourself in the meantime."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just recovered from the flu. What should I do now?",
+            "I'm glad to hear that. It's important to take care of yourself as you regain your strength.",
+            "What kind of diet should I follow?",
+            "You should focus on eating a balanced diet with plenty of fruits and vegetables. Avoid processed foods and sugary drinks.",
+            "What about exercise?",
+            "Exercise can be beneficial for your recovery, but it's important to start slowly and gradually increase your activity level as you feel better.",
+            "Can I drink alcohol now?",
+            "You should continue to avoid alcohol and tobacco use as it can prolong your recovery and weaken your immune system.",
+            "Thanks, Medi. Is there anything else I should do?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "Make sure to get plenty of rest and continue to take care of yourself as your body continues to recover."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently recovered from the flu and I want to prevent getting sick again. Any advice?",
+            "Of course, prevention is key. What would you like to know?",
+            "What kind of foods should I eat to boost my immune system?",
+            "Eating a balanced diet with plenty of fruits and vegetables can help boost your immune system. Foods high in vitamin C like oranges and berries can also be beneficial.",
+            "What about exercise?",
+            "Regular exercise can also boost your immune system. Aim for at least 30 minutes of physical activity per day.",
+            "Should I get a flu shot?",
+            "Yes, getting a flu shot every year is the best way to prevent getting the flu.",
+            "Thanks for your advice, Medi. Anything else I should know?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "Make sure to wash your hands frequently and avoid close contact with sick individuals to reduce your risk of getting sick."
+    },
+    {
+        "dialog": [
+            "Hi there Medi. I think I might have the flu.",
+            "What are your symptoms?",
+            "I have a fever, headache, and a sore throat.",
+            "Based on your symptoms, you might have the flu. You should rest and drink plenty of fluids.",
+            "Do I need medication for it?",
+            "Not necessarily. Over-the-counter drugs like acetaminophen and ibuprofen can help with the fever and headache. Throat drops and sprays can help with the sore throat.",
+            "Got it. Should I avoid anything?",
+            "You should avoid alcohol and tobacco use while you're sick with the flu.",
+            "Thanks, Medi. How long will it take to get better?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "It usually takes around a week to recover from the flu, but it can take longer if you have a severe case."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from the flu.",
+            "That's great to hear! Do you have any questions about post-flu care?",
+            "Yes, what should I do to avoid getting sick again?",
+            "You should continue to rest and drink plenty of fluids. You can also eat foods that boost your immune system like fruits and vegetables.",
+            "Are there any foods I should avoid?",
+            "It's best to avoid sugary and processed foods, as well as alcohol and caffeine, which can dehydrate you.",
+            "Thanks for the advice. How long until I can go back to my normal routine?",
+            "It's best to wait until you have fully recovered and your symptoms have disappeared before returning to your normal routine.",
+            "Got it. Thanks for your help, Medi."
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "You're welcome! It's best to wait until your symptoms have disappeared before returning to your normal routine."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had the flu a few weeks ago and I'm concerned about getting sick again.",
+            "It's understandable to be worried. What would you like to know?",
+            "Can you give me some tips for preventing the flu?",
+            "Of course. You should wash your hands regularly, avoid touching your face, and stay away from people who are sick.",
+            "Are there any foods I can eat to boost my immune system?",
+            "Yes, foods high in vitamin C like citrus fruits and leafy green vegetables are great for boosting your immune system.",
+            "Are there any supplements I can take?",
+            "You can take supplements like Vitamin C and Zinc, but it's best to get these nutrients from food sources if possible.",
+            "Thanks, Medi. What should I do if I start feeling sick again?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "You're welcome. Remember to rest, drink plenty of fluids, and see a doctor if your symptoms get worse."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a sore throat and a fever.",
+            "I'm sorry to hear that. How long have you had these symptoms?",
+            "Just started today. Do you have any suggestions to make me feel better?",
+            "Based on your symptoms, it's possible that you have the flu. Resting and taking anti-fever medications like acetaminophen or ibuprofen may help.",
+            "Is there anything else I can do to feel better?",
+            "Drinking lots of fluids and staying hydrated can help. Cough drops and throat sprays may also provide some relief for your sore throat.",
+            "Thank you, Medi. Are there any foods that I should avoid while I have the flu?",
+            "It's recommended to avoid alcohol and tobacco use while sick with the flu.",
+            "Okay, thanks for your help. Is there anything else I should know?"
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "No problem. If you have any questions or concerns, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. Can you explain to me what is the flu?",
+            "Of course. The flu is a viral infection that attacks your respiratory system, including your nose, throat, and lungs.",
+            "What are some common symptoms of the flu?",
+            "Symptoms usually include fever, chills, cough, sore throat, body aches, and fatigue.",
+            "How long does the flu last usually?",
+            "The standard influenza symptoms typically last for 2 - 8 days.",
+            "Can you tell me more about the treatment for the flu?",
+            "Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home. If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems.",
+            "Thank you, Medi. Is there anything I can do to prevent getting the flu?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. If you have any other questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from the flu. Do you have any advice for me?",
+            "Glad to hear you're feeling better. After the flu, it's important to get plenty of rest and maintain a healthy diet.",
+            "What kind of diet should I be following?",
+            "Eating a balanced diet with plenty of vitamins and vegetables can help you recover. Avoiding sugary foods and drinks can also help your body recover faster.",
+            "What about exercise?",
+            "It's important to start exercising again slowly and gradually. Start with light exercises like walking and stretching before moving onto more intense workouts.",
+            "Thank you, Medi. Are there any medications I should avoid?",
+            "Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome. Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.",
+            "Okay, thank you for all the information, Medi. I really appreciate it."
+        ],
+        "knowledge": "Influenza Influenza Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such as acetaminophen and ibuprofen, adequate fluid intake to avoid dehydration, and resting at home.  Cough drops and throat sprays may be beneficial for sore throat.  It is recommended to avoid alcohol and tobacco use while sick with the flu.  Aspirin is not recommended to treat influenza in children due to an elevated risk of developing Reye syndrome.  Corticosteroids likewise are not recommended except when treating septic shock or an underlying medical condition, such as chronic obstructive pulmonary disease or asthma exacerbation, since they are associated with increased mortality.  If a secondary bacterial infection occurs, then treatment with antibiotics may be necessary. Antiviral drugs are primarily used to treat severely ill patients, especially those with compromised immune systems Influenza Influenza",
+        "response": "No problem, have a good day."
+    }
+]

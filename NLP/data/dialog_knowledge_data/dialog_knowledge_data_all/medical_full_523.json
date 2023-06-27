@@ -1,0 +1,451 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling sick. I have a fever and cough.",
+            "Hello, I am here to help. Based on your symptoms, it seems like you may have a respiratory infection.",
+            "What should I do now?",
+            "I suggest you rest and drink plenty of fluids. If you experience difficulty breathing or your symptoms worsen, you should seek medical attention.",
+            "Thank you, Medi. Is there any way to prevent this from happening again?",
+            "Yes, practicing good hygiene like washing your hands frequently can help prevent respiratory infections.",
+            "I see. Thank you for your help, Medi.",
+            "You're welcome. Do you have any other questions or concerns?"
+        ],
+        "knowledge": "Respiratory Infections Respiratory infections are infections that affect the respiratory system, which includes the airways, lungs, and the respiratory muscles. Respiratory infections can be caused by a virus, bacteria, or fungi. The common symptoms of respiratory infections include coughing, sneezing, fever, and shortness of breath. Good hygiene practices like washing your hands frequently can help prevent respiratory infections.",
+        "response": "No, that's all. Thank you for your help, Medi."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just had surgery. What should I do now?",
+            "Hello, congratulations on getting through surgery. Based on the type of surgery you had, you may need to make some lifestyle changes.",
+            "What kind of lifestyle changes?",
+            "You may need to change your diet or exercise routine. It's important to follow your doctor's instructions carefully.",
+            "Can you give me some examples?",
+            "Sure, depending on the type of surgery you had, you may need to eat a specific type of food or avoid certain foods. You may also need to start a physical therapy program.",
+            "I see. How long will it take for me to recover?",
+            "Recovery time varies depending on the type of surgery and your overall health. Your doctor can give you a better estimate.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Surgery After undergoing surgery, lifestyle changes may need to be made. Depending on the type of surgery you had, you may need to change your diet or exercise routine. Physical therapy may also be necessary. Recovery time varies depending on the type of surgery and your overall health.",
+        "response": "No, thank you for your help, Medi."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I want to live a healthier lifestyle. What should I do?",
+            "Hello, that's great to hear. Making small changes to your lifestyle can have a big impact on your health.",
+            "What kind of changes should I make?",
+            "You can start by making healthier food choices, getting regular exercise, and getting enough sleep.",
+            "Can you give me some examples?",
+            "Sure, you can try incorporating more fruits and vegetables into your diet, going for a walk every day, and turning off electronic devices an hour before bed.",
+            "That's helpful. Will these changes make a big difference?",
+            "Yes, making these changes can decrease your risk of developing certain diseases and improve your overall health.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Healthy Lifestyle Making small changes to your lifestyle can have a big impact on your health. You can start by making healthier food choices, getting regular exercise, and getting enough sleep. Examples of healthy food choices include incorporating more fruits and vegetables into your diet. Exercise can be as simple as going for a walk every day. Turning off electronic devices an hour before bed can help improve your sleep quality.",
+        "response": "No, thank you for your help, Medi."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and a sore throat.",
+            "I'm sorry to hear that. Please tell me more about your symptoms.",
+            "I also feel tired and have a cough. My body aches as well.",
+            "Based on your symptoms, you may have a viral infection. I suggest you rest and take some over-the-counter medications to relieve your symptoms.",
+            "Do I need to take antibiotics?",
+            "Antibiotics are not effective against viruses, so I don't recommend them. However, if your symptoms persist or worsen, please consult a doctor.",
+            "Thank you for your advice. I'll follow it.",
+            "You're welcome. Please take care of yourself.",
+            "Can you tell me more about viral infections?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Viral infections are caused by viruses and can affect any part of the body. Common symptoms include fever, headache, muscle aches, sore throat, and cough. Antibiotics are not effective against viruses, so treatment usually involves rest and over-the-counter medications to relieve symptoms. Some viral infections can be prevented with vaccines, such as the flu vaccine. It is important to practice good hygiene, such as washing your hands frequently, to prevent the spread of viral infections. Infectious diseases Infectious diseases",
+        "response": "Viral infections are caused by viruses and can affect any part of the body. Symptoms include fever, headache, muscle aches, sore throat, and cough."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I want to know more about bacterial infections.",
+            "Sure, I'm here to help. What would you like to know?",
+            "What are the common symptoms of bacterial infections?",
+            "Symptoms of bacterial infections depend on the type of infection but can include fever, cough, shortness of breath, nausea, vomiting, and diarrhea.",
+            "Can bacterial infections be treated with antibiotics?",
+            "Yes, antibiotics are effective against bacterial infections. However, it is important to take antibiotics as prescribed and to complete the full course of treatment to prevent the development of antibiotic-resistant bacteria.",
+            "Thanks for the information.",
+            "You're welcome. Is there anything else you would like to know?",
+            "Yes, how can bacterial infections be prevented?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Bacterial infections are caused by bacteria and can affect any part of the body. Common bacterial infections include strep throat, urinary tract infections, and pneumonia. Antibiotics are effective against bacterial infections, but it is important to take them as prescribed and to complete the full course of treatment to prevent the development of antibiotic-resistant bacteria. Bacterial infections can be prevented by practicing good hygiene, such as washing your hands frequently, avoiding close contact with sick people, and getting vaccinated when possible. Infectious diseases Infectious diseases",
+        "response": "Bacterial infections can be prevented by practicing good hygiene, such as washing your hands frequently, avoiding close contact with sick people, and getting vaccinated when possible."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery and I'm not sure how to take care of myself at home.",
+            "I'm sorry to hear that. What type of surgery did you have?",
+            "I had my appendix removed.",
+            "Okay, after surgery, it is important to rest and avoid strenuous activity for several weeks. You may experience pain or discomfort, but your doctor can prescribe pain medication to help. It is also important to keep the surgical site clean and dry and to follow your doctor's instructions for wound care.",
+            "Do I need to follow a special diet?",
+            "Your doctor may recommend a special diet or restrictions on your diet after surgery. It is important to follow these instructions to promote healing and prevent complications.",
+            "Thanks for your help.",
+            "You're welcome. Please take care and follow your doctor's instructions for a speedy recovery.",
+            "Can you tell me more about appendicitis and its treatment?"
+        ],
+        "knowledge": "Appendicitis Appendicitis  Appendicitis is inflammation of the appendix, a small pouch attached to the large intestine. Symptoms include abdominal pain, fever, nausea, and vomiting. Treatment usually involves surgery to remove the appendix, called an appendectomy. After surgery, it is important to rest and avoid strenuous activity, keep the surgical site clean and dry, and follow your doctor's instructions for wound care and diet. Complications of appendicitis can include infection and rupture of the appendix, which can be life-threatening. Appendicitis Appendicitis",
+        "response": "Appendicitis is inflammation of the appendix, a small pouch attached to the large intestine. Symptoms include abdominal pain, fever, nausea, and vomiting. Treatment usually involves surgery to remove the appendix, called an appendectomy."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just came back from a trip and I'm feeling sick.",
+            "I'm sorry to hear that. Can you describe your symptoms to me?",
+            "I have a fever and a cough, and I feel very tired.",
+            "Okay, it sounds like you might have contracted an infectious disease. Have you been around anyone who was sick recently?",
+            "Yes, I was on a plane with a lot of people, some of whom were coughing.",
+            "That could be the source of your illness. I recommend that you stay home and rest, and drink plenty of fluids.",
+            "Okay, thank you for your advice. How long do you think it will take for me to recover?",
+            "It's different for everyone, but usually it takes about a week to ten days to recover from an infectious disease. If your symptoms get worse or don't improve, you should see a doctor.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Microbial culture may also be used in the identification of viruses: the medium, in this case, being cells grown in culture that the virus can infect, and then alter or kill.  In the case of viral identification, a region of dead cells results from viral growth, and is called a 'plaque'.  Eukaryotic parasites may also be grown in culture as a means of identifying a particular agent. In the absence of suitable plate culture techniques, some microbes require culture within live animals.  Bacteria such as Mycobacterium leprae and Treponema pallidum can be grown in animals, although serological and microscopic techniques make the use of live animals unnecessary.  Viruses are also usually identified using alternatives to growth in culture or animals.  Some viruses may be grown in embryonated eggs Infectious diseases Infectious diseases",
+        "response": "You're welcome. If you have any other questions or concerns, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just got diagnosed with an infectious disease.",
+            "I'm sorry to hear that. What kind of disease do you have?",
+            "The doctor said it's a viral infection, but I'm not sure what that means.",
+            "A viral infection is caused by a virus, which is a tiny organism that can enter your body and cause illness. There are many different types of viruses that can cause infections.",
+            "How do I know if it's a serious infection?",
+            "Most viral infections are not serious and will go away on their own with rest and plenty of fluids. However, some viral infections can be more severe and require medical attention. If your symptoms get worse or don't improve, you should see a doctor.",
+            "Okay, that makes sense. What can I do to feel better?",
+            "Rest and drink plenty of fluids. You can also take over-the-counter medications like acetaminophen or ibuprofen to help relieve your symptoms. If you have a fever, it's important to reduce it with medication and cool compresses.",
+            "Thank you, Medi. I'll try those things."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Microbial culture may also be used in the identification of viruses: the medium, in this case, being cells grown in culture that the virus can infect, and then alter or kill.  In the case of viral identification, a region of dead cells results from viral growth, and is called a 'plaque'.  Eukaryotic parasites may also be grown in culture as a means of identifying a particular agent. In the absence of suitable plate culture techniques, some microbes require culture within live animals.  Bacteria such as Mycobacterium leprae and Treponema pallidum can be grown in animals, although serological and microscopic techniques make the use of live animals unnecessary.  Viruses are also usually identified using alternatives to growth in culture or animals.  Some viruses may be grown in embryonated eggs Infectious diseases Infectious diseases",
+        "response": "Take care of yourself and don't hesitate to contact a doctor if you're feeling worse or not getting better."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure and I'm not sure what I can do to help my recovery.",
+            "I'm here to help. What kind of procedure did you have?",
+            "I had surgery to remove a tumor.",
+            "I see. After surgery, it's important to take it easy and follow your doctor's instructions for recovery. You'll need to rest and avoid strenuous activity for a while.",
+            "How long do I need to rest?",
+            "It depends on the type of surgery and how you're feeling, but most people need to rest for at least a few days and avoid heavy lifting or intense activity for several weeks.",
+            "What can I do to help my recovery?",
+            "You should eat a healthy diet with plenty of protein and vitamins to help your body heal. You should also follow any instructions from your doctor about wound care or medications.",
+            "Okay, that sounds good. What about physical therapy?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Microbial culture may also be used in the identification of viruses: the medium, in this case, being cells grown in culture that the virus can infect, and then alter or kill.  In the case of viral identification, a region of dead cells results from viral growth, and is called a 'plaque'.  Eukaryotic parasites may also be grown in culture as a means of identifying a particular agent. In the absence of suitable plate culture techniques, some microbes require culture within live animals.  Bacteria such as Mycobacterium leprae and Treponema pallidum can be grown in animals, although serological and microscopic techniques make the use of live animals unnecessary.  Viruses are also usually identified using alternatives to growth in culture or animals.  Some viruses may be grown in embryonated eggs Infectious diseases Infectious diseases",
+        "response": "Take care of yourself and follow your doctor's instructions for a successful recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and headache.",
+            "Hello! Sorry to hear that. How long have you been feeling this way?",
+            "About two days now and I also have a runny nose.",
+            "Based on your symptoms, it's possible you have a viral infection like the common cold.",
+            "Is there anything I can do to feel better?",
+            "You can take over-the-counter medication for fever and drink plenty of fluids. Resting is also important.",
+            "Okay, thank you for your help.",
+            "You're welcome! If your symptoms get worse or persist, please contact your doctor.",
+            "Okay, I will. Thank you."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Microbial culture may also be used in the identification of viruses: the medium, in this case, being cells grown in culture that the virus can infect, and then alter or kill.  In the case of viral identification, a region of dead cells results from viral growth, and is called a 'plaque'.  Eukaryotic parasites may also be grown in culture as a means of identifying a particular agent. In the absence of suitable plate culture techniques, some microbes require culture within live animals.  Bacteria such as Mycobacterium leprae and Treponema pallidum can be grown in animals, although serological and microscopic techniques make the use of live animals unnecessary.  Viruses are also usually identified using alternatives to growth in culture or animals.  Some viruses may be grown in embryonated eggs Infectious diseases Infectious diseases",
+        "response": "You may have a viral infection like the common cold. Drink plenty of fluids and get rest. Contact your doctor if symptoms persist."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had a procedure done and I'm not sure what I can and can't do.",
+            "Hello! What procedure did you have done?",
+            "I had a colonoscopy.",
+            "After a colonoscopy, you should avoid heavy lifting, driving, and operating machinery for the remainder of the day. You may also experience some cramping or bloating.",
+            "Is there anything I should eat or avoid?",
+            "You should avoid solid foods for a few hours after the procedure and then start with light foods like soup or crackers. Avoid heavy or greasy foods for at least a day.",
+            "Okay, thank you for your help.",
+            "You're welcome! Make sure to follow any additional instructions or recommendations given by your doctor.",
+            "Okay, I will. Thank you."
+        ],
+        "knowledge": "Colonoscopy Colonoscopy  After a colonoscopy, patients are monitored until most of the effects of the sedatives have worn off.  Some patients experience cramping or bloating, and an analgesic may be prescribed to relieve the discomfort.  Patients will not be allowed to eat until they have passed the gas that was instilled during the procedure.  Afterwards, patients are instructed to drink plenty of fluids to replace those lost from preparation for the procedure.  Patients may resume their normal activities after the procedure, but they should avoid heavy lifting, driving, or operating machinery for the remainder of the day.  Any additional instructions or recommendations given by the physician should be followed Colonoscopy Colonoscopy",
+        "response": "After a colonoscopy, avoid heavy lifting, driving, and operating machinery for the rest of the day. Avoid solid foods for a few hours and then start with light foods like soup or crackers. Avoid heavy or greasy foods for at least a day."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm not sure what a plaque is in regards to viral identification.",
+            "Hello! A plaque is a region of dead cells that results from viral growth in a culture of cells.",
+            "How does this help identify the virus?",
+            "The virus infects the cells in the culture and alters or kills them, which results in the formation of a plaque. The plaque can then be used to identify the virus.",
+            "Can all viruses be identified this way?",
+            "Not all viruses can be identified using this method. Some viruses require alternative methods for identification.",
+            "What are some of the alternative methods for viral identification?",
+            "Some alternative methods include serological and microscopic techniques, as well as embryonated eggs for some viruses.",
+            "Okay, thank you for your help."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Microbial culture may also be used in the identification of viruses: the medium, in this case, being cells grown in culture that the virus can infect, and then alter or kill.  In the case of viral identification, a region of dead cells results from viral growth, and is called a 'plaque'.  Eukaryotic parasites may also be grown in culture as a means of identifying a particular agent. In the absence of suitable plate culture techniques, some microbes require culture within live animals.  Bacteria such as Mycobacterium leprae and Treponema pallidum can be grown in animals, although serological and microscopic techniques make the use of live animals unnecessary.  Viruses are also usually identified using alternatives to growth in culture or animals.  Some viruses may be grown in embryonated eggs Infectious diseases Infectious diseases",
+        "response": "A plaque results from viral growth in a culture of cells and can be used to identify the virus. Alternative methods include serological and microscopic techniques, as well as embryonated eggs for some viruses."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a persistent cough and sore throat.",
+            "I see. How long have you had these symptoms?",
+            "For about a week now. It's really bothering me.",
+            "Have you had a fever or shortness of breath?",
+            "No, just the cough and sore throat.",
+            "Based on your symptoms, it's possible that you have a viral infection.",
+            "Is there anything I can do to feel better?",
+            "You can try drinking warm liquids, such as tea with honey, and getting plenty of rest.",
+            "Thank you, Medi. How long should it take for me to feel better?"
+        ],
+        "knowledge": "Viral infections Viral infections  Symptoms of a viral infection can include sore throat, cough, fever, body aches, and fatigue.  Some viruses can also cause diarrhea and vomiting.  Treatment is generally supportive, with rest, hydration, and pain relief.  Antibiotics are not effective against viral infections and should not be used unless there is a secondary bacterial infection.  Most viral infections resolve on their own within a few days to a week, but some can last for several weeks.  Complications can include dehydration, pneumonia, or other secondary infections. Viral infections Viral infections",
+        "response": "Most viral infections resolve on their own within a few days to a week, but some can last for several weeks."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm wondering how to prevent getting the flu.",
+            "That's a great question. One way to prevent the flu is by getting the flu vaccine.",
+            "Is the flu vaccine effective?",
+            "Yes, the flu vaccine is the most effective way to prevent the flu.",
+            "What else can I do to prevent the flu?",
+            "You can also wash your hands frequently, avoid close contact with people who are sick, and practice good respiratory hygiene.",
+            "What do you mean by good respiratory hygiene?",
+            "Good respiratory hygiene means covering your mouth and nose when you cough or sneeze and disposing of used tissues properly.",
+            "Thanks for the advice, Medi. How long does the flu season usually last?"
+        ],
+        "knowledge": "Influenza Influenza  The flu vaccine is the most effective way to prevent the flu, with an effectiveness rate of 40-60% in any given year.  In addition to getting vaccinated, you can also prevent the spread of the flu by washing your hands frequently, avoiding close contact with people who are sick, and practicing good respiratory hygiene.  Flu season typically starts in the fall and can last until the spring.  The peak of flu season is usually in January or February. Influenza Influenza",
+        "response": "Flu season typically starts in the fall and can last until the spring. The peak of flu season is usually in January or February."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery and I'm not sure what I should be eating.",
+            "After surgery, it's important to eat a balanced diet that includes plenty of protein.",
+            "Why is protein important?",
+            "Protein is important for wound healing and rebuilding tissue.",
+            "What are some good sources of protein?",
+            "Good sources of protein include lean meat, poultry, fish, eggs, beans, and tofu.",
+            "Are there any foods I should avoid?",
+            "You should avoid sugary and processed foods, which can interfere with wound healing.",
+            "Thank you, Medi. When can I start eating normally again?"
+        ],
+        "knowledge": "Post-surgery recovery Post-surgery recovery  After surgery, it's important to eat a balanced diet that includes plenty of protein, which is important for wound healing and rebuilding tissue.  Good sources of protein include lean meat, poultry, fish, eggs, beans, and tofu.  You should also avoid sugary and processed foods, which can interfere with wound healing.  Your doctor will let you know when you can start eating normally again. Post-surgery recovery Post-surgery recovery",
+        "response": "Your doctor will let you know when you can start eating normally again."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm not feeling well. I have a fever and a sore throat.",
+            "I'm sorry to hear that. Based on your symptoms, you may have a viral infection.",
+            "What should I do to feel better?",
+            "You can rest, drink fluids, and take over-the-counter medication for symptoms. If your symptoms persist or worsen, you should see a doctor.",
+            "Can I take antibiotics for this?",
+            "Antibiotics are not effective against viral infections. They only work against bacterial infections.",
+            "Thank you for letting me know. How can I prevent getting sick in the future?",
+            "Wash your hands frequently, avoid contact with sick people, and keep your immune system strong with a healthy diet and exercise.",
+            "Got it, thanks. What are some common viral infections?"
+        ],
+        "knowledge": "Viral infections Viral infections  Common viral infections include the common cold, flu, gastroenteritis, and viral hepatitis.  They are spread through contact with infected people or surfaces, and can cause a variety of symptoms such as fever, sore throat, cough, and diarrhea.  Treatment typically involves managing symptoms and allowing the body's immune system to fight off the infection.  Prevention methods include vaccination, hand hygiene, and avoiding contact with sick people or surfaces.  Antibiotics are not effective against viral infections. Viral infections Viral infections",
+        "response": "Common viral infections include the common cold, flu, gastroenteritis, and viral hepatitis."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm curious about how infectious diseases are identified.",
+            "Great question! Infectious diseases can be identified through microbial culture.",
+            "What is microbial culture?",
+            "It's a technique where cells are grown in culture that the virus can infect, and then alter or kill. In the case of viral identification, a region of dead cells results from viral growth, and is called a \"plaque\". Eukaryotic parasites may also be grown in culture as a means of identifying a particular agent.",
+            "Are there any other ways to identify infectious diseases?",
+            "Yes, some microbes require culture within live animals. Bacteria such as Mycobacterium leprae and Treponema pallidum can be grown in animals, although serological and microscopic techniques make the use of live animals unnecessary. Viruses are also usually identified using alternatives to growth in culture or animals. Some viruses may be grown in embryonated eggs.",
+            "Wow, that's really interesting. Thanks for explaining!",
+            "You're welcome! Do you have any other questions?",
+            "No, that's all for now. Thank you again."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Microbial culture may also be used in the identification of viruses: the medium, in this case, being cells grown in culture that the virus can infect, and then alter or kill.  In the case of viral identification, a region of dead cells results from viral growth, and is called a \"plaque\". Eukaryotic parasites may also be grown in culture as a means of identifying a particular agent. In the absence of suitable plate culture techniques, some microbes require culture within live animals.  Bacteria such as Mycobacterium leprae and Treponema pallidum can be grown in animals, although serological and microscopic techniques make the use of live animals unnecessary.  Viruses are also usually identified using alternatives to growth in culture or animals.  Some viruses may be grown in embryonated eggs Infectious diseases Infectious diseases",
+        "response": "You're welcome! Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery and I'm not sure what to do now.",
+            "I'm here to help! What kind of surgery did you have?",
+            "I had a knee replacement.",
+            "After surgery, it's important to rest and gradually increase your activity level as you heal.",
+            "What kind of physical activity should I do?",
+            "Your doctor or physical therapist will give you exercises to do to help you regain strength and mobility. You should also avoid high-impact activities that may put stress on your knee.",
+            "What kind of diet should I follow?",
+            "A healthy and balanced diet that includes plenty of fruits and vegetables, whole grains, and lean protein is important for overall health and can also aid in healing.",
+            "Thank you for the advice! How long will it take to recover from knee replacement surgery?"
+        ],
+        "knowledge": "Knee replacement surgery Knee replacement surgery  After knee replacement surgery, it's important to rest and gradually increase your activity level as you heal. Your doctor or physical therapist will give you exercises to do to help you regain strength and mobility. You should also avoid high-impact activities that may put stress on your knee. A healthy and balanced diet that includes plenty of fruits and vegetables, whole grains, and lean protein is important for overall health and can also aid in healing. Recovery time can vary, but it usually takes several weeks to a few months to fully recover and regain your mobility. Knee replacement surgery Knee replacement surgery",
+        "response": "You're welcome, happy to help!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I don't know what's wrong.",
+            "Hi there, I'll do my best to help. What are your symptoms?",
+            "I have a cough and a sore throat.",
+            "How long have you had these symptoms?",
+            "It's been about three days now.",
+            "Have you been around anyone who's been sick?",
+            "Yes, my coworker has been coughing a lot.",
+            "Based on your symptoms and exposure history, it's possible that you have a cold or flu.",
+            "What should I do about it?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It's possible that you have a cold or flu. My advice is to rest, drink plenty of fluids, and take over-the-counter medication for your symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about bacterial infections.",
+            "Of course, I'm here to help. What would you like to know?",
+            "How do you diagnose a bacterial infection?",
+            "Usually, a sample of the infected tissue or fluid is taken and grown in a lab to identify the type of bacteria causing the infection.",
+            "What kind of samples can be taken?",
+            "Samples can be taken from blood, urine, sputum, or wounds.",
+            "Can you treat bacterial infections with antibiotics?",
+            "Yes, antibiotics are often used to treat bacterial infections. However, it's important to use them properly and only when necessary to prevent antibiotic resistance.",
+            "What are some other ways to prevent bacterial infections?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Microbial culture may also be used in the identification of viruses: the medium, in this case, being cells grown in culture that the virus can infect, and then alter or kill.  In the case of viral identification, a region of dead cells results from viral growth, and is called a 'plaque'.  Eukaryotic parasites may also be grown in culture as a means of identifying a particular agent. In the absence of suitable plate culture techniques, some microbes require culture within live animals.  Bacteria such as Mycobacterium leprae and Treponema pallidum can be grown in animals, although serological and microscopic techniques make the use of live animals unnecessary.  Viruses are also usually identified using alternatives to growth in culture or animals.  Some viruses may be grown in embryonated eggs Infectious diseases Infectious diseases",
+        "response": "Ways to prevent bacterial infections include practicing good hygiene such as washing your hands frequently, avoiding close contact with sick people, and keeping your vaccinations up to date."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what I should do now.",
+            "Hello, congratulations on making it through the surgery. What kind of surgery did you have?",
+            "I had a knee replacement.",
+            "You should follow your doctor's instructions on how to care for your knee, such as keeping it elevated and icing it regularly.",
+            "What kind of exercises can I do to help my recovery?",
+            "Your doctor will likely recommend physical therapy exercises to help improve your range of motion and strength in your knee.",
+            "What kind of diet should I follow?",
+            "A nutrient-dense diet with plenty of protein, vitamins, and minerals can help with healing. Your doctor or a dietitian can provide more specific recommendations.",
+            "When can I return to normal activities?"
+        ],
+        "knowledge": "Surgery Surgery  After surgery, it's important to follow your doctor's instructions for recovery. This may include taking medication, resting, and following a specific diet. Physical therapy exercises may also be recommended to help improve strength and range of motion. It's important to avoid strenuous activities and follow any restrictions on movement as instructed by your doctor. Recovery time varies based on the type of surgery and individual factors Surgery Surgery",
+        "response": "You're welcome. Remember to follow your doctor's instructions closely and take care of yourself during the recovery process."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been feeling unwell lately.",
+            "I'm sorry to hear that. What symptoms are you experiencing?",
+            "I have a fever and a cough. I also feel very tired.",
+            "Based on your symptoms, it seems like you might have a viral infection. I recommend getting rest and drinking lots of fluids.",
+            "Is there anything else I should do?",
+            "Make sure to monitor your symptoms and take your temperature regularly. If your condition worsens or you experience difficulty breathing, seek medical attention immediately.",
+            "Okay, thank you for your advice.",
+            "You're welcome. Take care of yourself.",
+            "Can you tell me more about viral infections?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Viral infections can cause a range of symptoms, including fever, coughing, and fatigue. They are spread through contact with infected individuals or exposure to contaminated surfaces. The best ways to prevent viral infections are to practice good hygiene, such as washing your hands often and avoiding touching your face, and to get vaccinated against common viruses like the flu. If you do get sick, rest and stay hydrated to help your body fight off the infection. In severe cases, antiviral medications may be prescribed to help manage symptoms.",
+        "response": "Viral infections are caused by contact with infected individuals or contaminated surfaces. The best prevention methods are good hygiene and vaccinations. Rest and hydration can help manage symptoms."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am concerned about a recent diagnosis of tuberculosis.",
+            "I understand. What questions do you have about your diagnosis?",
+            "How did I contract the disease?",
+            "Tuberculosis is caused by bacteria that spread through the air when an infected person coughs or sneezes. You may have contracted the disease from someone who was infected.",
+            "What are the symptoms of tuberculosis?",
+            "Symptoms of tuberculosis can include a persistent cough, fever, night sweats, and weight loss. However, some people with the disease may not experience any symptoms at all.",
+            "How is tuberculosis treated?",
+            "Tuberculosis is usually treated with a combination of antibiotics taken over a period of several months. It is important to take all of your medications as prescribed to ensure the infection is completely eliminated.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Tuberculosis Tuberculosis Tuberculosis is a bacterial infection that primarily affects the lungs, but can also affect other parts of the body. It is spread through the air when an infected person coughs or sneezes. Symptoms can include a persistent cough, fever, night sweats, and weight loss. Tuberculosis is usually treated with a combination of antibiotics taken over several months. To prevent the spread of tuberculosis, infected individuals should cover their mouth when coughing or sneezing, avoid close contact with others, and take all of their medications as prescribed. Others can protect themselves by avoiding close contact with infected individuals and getting vaccinated if possible.",
+        "response": "Tuberculosis is spread through the air when an infected person coughs or sneezes. To prevent the spread of the disease, infected individuals should cover their mouth when coughing or sneezing, avoid close contact with others, and take all of their medications as prescribed. Others can protect themselves by avoiding close contact with infected individuals and getting vaccinated if possible."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a skin biopsy and I am wondering what I can do to take care of the wound.",
+            "I can help with that. What type of skin biopsy did you have?",
+            "It was a punch biopsy.",
+            "For a punch biopsy, it is important to keep the wound clean and dry. You may need to change the dressing several times a day to prevent infection.",
+            "How long will it take to heal?",
+            "The healing time will depend on the size and location of the wound, but it usually takes about 1-2 weeks for the wound to fully heal.",
+            "Is there anything else I should do to help with the healing process?",
+            "You can apply a warm compress to the wound to promote healing and reduce pain and swelling. It is also important to avoid sun exposure to the wound while it is healing.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Skin Biopsy Skin Biopsy A skin biopsy is a procedure in which a sample of skin is removed and examined under a microscope to diagnose a skin condition or disease. There are several types of skin biopsies, including punch biopsies, shave biopsies, and excisional biopsies. After a punch biopsy, it is important to keep the wound clean and dry to prevent infection. The healing time will depend on the size and location of the wound, but it usually takes about 1-2 weeks for the wound to fully heal.",
+        "response": "A skin biopsy is a procedure in which a sample of skin is removed and examined under a microscope to diagnose a skin condition or disease. There are several types of skin biopsies, including punch biopsies, shave biopsies, and excisional biopsies. After a punch biopsy, it is important to keep the wound clean and dry to prevent infection. The healing time will depend on the size and location of the wound, but it usually takes about 1-2 weeks for the wound to fully heal."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and cough.",
+            "Hello, sorry to hear that. How long have you had those symptoms?",
+            "It's been three days.",
+            "Do you have any other symptoms?",
+            "I feel very tired and have a headache.",
+            "Based on your symptoms, it could be a respiratory infection. I suggest you take a COVID-19 test.",
+            "Okay, I will do that. Thank you, Medi.",
+            "You're welcome. Take care of yourself and stay safe.",
+            "What should I do while waiting for my test results?"
+        ],
+        "knowledge": "COVID-19 COVID-19  The most common symptoms of COVID-19 are fever, dry cough, and tiredness.  Other symptoms that are less common and may affect some patients include aches and pains, nasal congestion, headache, conjunctivitis, sore throat, diarrhea, loss of taste or smell or a rash on skin or discoloration of fingers or toes.  These symptoms are usually mild and begin gradually.  Most people (about 80%) recover from the disease without needing special treatment, and for the majority \u2013 especially for children and young adults \u2013 illness due to COVID-19 is generally minor. However, some people become seriously ill and require medical attention.  Who is at risk? COVID-19 COVID-19",
+        "response": "You should isolate yourself at home, rest, drink a lot of fluids, and take over-the-counter medicines like acetaminophen to reduce fever and ease your symptoms."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a stomach ache.",
+            "Hi, sorry to hear that. Where exactly do you feel the pain?",
+            "It's in the middle of my stomach.",
+            "Do you have any other symptoms?",
+            "I feel bloated and nauseous.",
+            "When did the pain start?",
+            "It started after I ate lunch today.",
+            "Based on your symptoms, it could be indigestion or acid reflux. Avoid spicy and fatty foods and eat smaller meals more frequently.",
+            "Okay, Thanks for your advice, Medi."
+        ],
+        "knowledge": "Indigestion Indigestion  Indigestion, also known as dyspepsia, is a condition of impaired digestion. Symptoms may include upper abdominal fullness, heartburn, nausea, belching, or upper abdominal pain. People may also experience feeling full earlier than expected when eating. Dyspepsia is a common problem and is frequently caused by gastroesophageal reflux disease (GERD) or gastritis. In a small minority of cases it may be the first symptom of peptic ulcer disease (an ulcer of the stomach or duodenum) and, occasionally, cancer. Hence, unexplained newly onset dyspepsia in people over 55 or the presence of other alarming symptoms may require further investigations Gastroesophageal reflux disease Gastroesophageal reflux disease",
+        "response": "Yes, you can take antacids to relieve the pain. But if the pain persists, see a doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have just had a surgery. Can you advise me on recovery?",
+            "Hi, congratulation on completing your surgery. What kind of surgery did you have?",
+            "I had gallbladder removal surgery.",
+            "When did you have the surgery?",
+            "Yesterday.",
+            "You should rest and avoid any strenuous activity for the next week. Also, eat a low-fat diet and avoid heavy lifting.",
+            "How long will it take for me to fully recover?",
+            "It usually takes around 4-6 weeks to fully recover from gallbladder removal surgery. Follow your doctor's advice and attend your follow-up appointments to ensure a smooth recovery.",
+            "Thank you, Medi. I appreciate your advice."
+        ],
+        "knowledge": "Gallbladder removal surgery Gallbladder removal surgery Gallbladder removal surgery, also known as cholecystectomy, is the surgical removal of the gallbladder. It is a common treatment for symptomatic gallstones and other gallbladder conditions. The procedure is usually performed laparoscopically, which means small incisions are made in the abdomen and a laparoscope is used to remove the gallbladder. Recovery time after gallbladder removal surgery varies depending on the individual and the type of surgery. However, most people can return to their normal activities within a week or two.",
+        "response": "You should avoid driving for at least a week after the surgery or until your incisions have healed completely. However, you should consult with your doctor for further advice."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a rash on my arm and it's itchy.",
+            "Okay, can you describe the rash to me?",
+            "It's red and bumpy, and it's spreading to other areas.",
+            "Based on your description, it might be an allergic reaction or an infection.",
+            "Oh no, what should I do?",
+            "I suggest you see a doctor to get a proper diagnosis and treatment. In the meantime, you can use an over-the-counter anti-itch cream.",
+            "Alright, thank you for your advice.",
+            "You're welcome. I hope you feel better soon.",
+            "One more question, what kind of infection could it be?"
+        ],
+        "knowledge": "Skin Infections Skin Infections  Skin infections can be caused by a variety of microorganisms, including bacteria, viruses, fungi, and parasites.  They can range from mild to severe, and some can be life-threatening.  Common types of skin infections include impetigo, cellulitis, and fungal infections such as ringworm.  Symptoms of skin infections can include redness, swelling, pain, itching, and the presence of pus or other discharge.  Treatment depends on the type and severity of the infection, and may include antibiotics, antifungal medication, or other treatments. Some skin infections can be prevented by maintaining good hygiene practices and avoiding contact with infected individuals.",
+        "response": "It could be an impetigo or a fungal infection according to the symptoms you mentioned."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had my appendix removed. What should I do next?",
+            "Hi! You should follow your doctor's post-operative instructions carefully.",
+            "Okay, can you elaborate on that?",
+            "Sure, your doctor may tell you to avoid certain activities for a while, and to take pain medication as needed. You should also keep the incision area clean and dry, and watch for signs of infection such as fever or redness.",
+            "Is there anything else I can do to help my recovery?",
+            "Yes, you can eat a healthy diet, stay hydrated, and get enough rest. You may also need to do some light exercise as recommended by your doctor to help prevent blood clots.",
+            "Alright, thank you for your advice.",
+            "You're welcome. Don't hesitate to contact your doctor if you have any concerns or questions.",
+            "One last question, how long will it take for me to fully recover?"
+        ],
+        "knowledge": "Appendectomy Appendectomy  An appendectomy is a surgical procedure to remove the appendix, a small pouch-like organ attached to the large intestine.  The most common reason for an appendectomy is acute appendicitis, which is an inflammation of the appendix.  After an appendectomy, patients typically need to rest for a few days, and may experience some pain and discomfort.  Recovery time varies depending on the individual and the procedure used, but most people can resume normal activities within a few weeks.  It's important to follow the doctor's instructions and attend follow-up appointments to ensure proper healing and prevent complications.",
+        "response": "Recovery time varies depending on the individual and the procedure used, but most people can resume normal activities within a few weeks."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just found out that I have high blood pressure.",
+            "Hi! I'm sorry to hear that. Do you have any other health conditions?",
+            "No, I don't have any other health issues.",
+            "That's good. High blood pressure can increase your risk of heart disease or stroke, so it's important to manage it.",
+            "How can I manage it?",
+            "You can start by making some lifestyle changes such as eating a healthy diet that's low in sodium, reducing your alcohol intake, and exercising regularly. You may also need to take medication as prescribed by your doctor.",
+            "Okay, I can do that. Is there anything else I should be aware of?",
+            "Yes, you should monitor your blood pressure regularly at home and keep track of any changes. You should also attend regular check-ups with your doctor to manage your condition.",
+            "One more thing, can high blood pressure be cured?"
+        ],
+        "knowledge": "Blood Pressure Blood Pressure  Blood pressure is the force of blood against the walls of arteries.  High blood pressure, or hypertension, is a common condition in which the force of blood against the walls of arteries is consistently too high.  It is a major risk factor for heart disease and stroke, and can also increase the risk of other health problems such as kidney disease and vision loss.  Treatment for high blood pressure typically involves lifestyle changes such as diet and exercise, as well as medication if needed.  While there is no known cure for high blood pressure, it can be managed with proper treatment and control.",
+        "response": "High blood pressure cannot be cured, but it can be managed with proper treatment and control."
+    }
+]

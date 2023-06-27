@@ -1,0 +1,452 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms and I am not feeling well",
+            "Sure. Can you please describe your symptoms to me?",
+            "I have been feeling very tired and weak, and I have lost my appetite",
+            "I see. Have you recently experienced any pain or discomfort?",
+            "Yes, I have been experiencing some abdominal pain and discomfort",
+            "Based on your symptoms, it is possible that you have some issues with your digestive system. You should consult with a doctor as soon as possible.",
+            "What kind of conditions could be related to these symptoms?",
+            "There are many conditions that could be related to your symptoms, including liver disease or gallbladder problems.",
+            "What are the treatments for these conditions, Medi?"
+        ],
+        "knowledge": "Digestive System Digestive System The digestive system is responsible for breaking down food into its component molecules. The digestive tract is a long tube that goes from the mouth to the anus. Along the way, there are several organs involved in digestion, including the stomach, liver, and pancreas. The digestive system is responsible for extracting nutrients from food and transferring them to the body. When the digestive system is not working properly, it can cause a range of symptoms, including abdominal pain, bloating, and diarrhea. There are many conditions that can affect the digestive system, including liver disease and gallbladder problems.",
+        "response": "The treatment for these conditions depends on the specific diagnosis, but could include lifestyle changes, medication, or surgery. It is best to consult with a doctor for a proper diagnosis and treatment plan."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about colon cancer",
+            "Of course. What would you like to know?",
+            "What are the causes of colon cancer?",
+            "There are many factors that can increase your risk of developing colon cancer, including age, family history, and lifestyle factors such as diet and exercise.",
+            "What are the symptoms of colon cancer?",
+            "Some common symptoms of colon cancer include changes in bowel habits, rectal bleeding, and abdominal pain.",
+            "How is colon cancer diagnosed?",
+            "There are several tests that can be used to diagnose colon cancer, including colonoscopy and fecal occult blood tests.",
+            "What are the treatments for colon cancer, Medi?"
+        ],
+        "knowledge": "Colon Cancer Colon Cancer Colon cancer is a type of cancer that begins in the large intestine. Colon cancer is often asymptomatic in its early stages, which is why screening is so important. Some common symptoms of colon cancer include changes in bowel habits, rectal bleeding, and abdominal pain. If colon cancer is suspected, tests such as colonoscopy and fecal occult blood tests can be used to diagnose the condition. Treatment for colon cancer often involves surgery to remove the affected portion of the colon, and may also include chemotherapy or radiation therapy.",
+        "response": "The treatment for colon cancer depends on the stage of the cancer and can include surgery to remove the affected portion of the colon, chemotherapy, and radiation therapy."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and I am wondering what I can do to promote healing and recovery",
+            "Of course. What kind of surgery did you have?",
+            "I had knee surgery",
+            "In order to promote healing and recovery, it is important to follow your doctor's instructions carefully, including any weight-bearing restrictions or physical therapy exercises. You should also eat a healthy diet that is high in protein and other nutrients that promote healing.",
+            "Are there any specific foods that can help with healing?",
+            "Yes, there are several foods that are known to promote healing, including lean proteins like chicken and fish, as well as fruits and vegetables that are high in antioxidants.",
+            "What about physical activity, Medi?",
+            "Physical activity is important for promoting healing, but you should follow your doctor's instructions carefully and avoid any activities that could cause further injury or delay the healing process.",
+            "Thank you for your advice, Medi"
+        ],
+        "knowledge": "Surgery Recovery Surgery Recovery After surgery, it is important to promote healing and recovery by following your doctor's instructions carefully. This may include taking medications as prescribed, eating a healthy diet that is high in protein and other nutrients that promote healing, and engaging in physical activity as directed by your doctor. It is also important to avoid any activities that could cause further injury or delay the healing process.",
+        "response": "You're welcome. I hope you have a speedy recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am feeling pain in my stomach.",
+            "I am sorry to hear that, can you please tell me more about your symptoms?",
+            "Yes, I feel nauseous and have been vomiting. I also have a sharp pain in my abdomen.",
+            "Based on your symptoms, it could be gastritis or an ulcer. You should see a doctor immediately.",
+            "Okay, thanks for your advice. Should I avoid any specific foods?",
+            "Yes, you should avoid spicy or acidic foods. Stick to a bland diet to avoid further irritation of your stomach.",
+            "Got it, thank you so much. What else can I do to relieve my symptoms?",
+            "You can take antacids to neutralize the acid in your stomach and reduce the pain. But again, it's best to seek medical attention.",
+            "Thank you so much for your help Medi. I will go see a doctor."
+        ],
+        "knowledge": "Gastritis Ulcer Gastritis and ulcers are conditions that affect the stomach lining. Gastritis is an inflammation of the stomach lining, while ulcers are sores that develop on the stomach lining. Both conditions can cause pain and discomfort in the abdomen, and are often caused by excessive acid production in the stomach. Common symptoms include nausea, vomiting, and abdominal pain. Treatment options include medication to reduce stomach acid, antibiotics to treat infections, and lifestyle changes such as avoiding certain foods.",
+        "response": "You're welcome. I hope you feel better soon. It's best to see a doctor to determine the exact cause of your symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about cancer?",
+            "Of course. Cancer is a disease caused by an uncontrolled growth of abnormal cells in the body.",
+            "What causes cancer?",
+            "The exact causes of cancer are not fully understood, but it is believed that genetic mutations and environmental factors such as smoking, exposure to radiation, and certain chemicals can increase the risk of developing cancer.",
+            "What are some common types of cancer?",
+            "Some common types of cancer include lung cancer, breast cancer, prostate cancer, and colon cancer.",
+            "Is cancer treatable?",
+            "Yes, cancer is treatable, but the treatment options depend on the type and stage of cancer.",
+            "What are some common treatments for cancer?"
+        ],
+        "knowledge": "Cancer Cancer is a disease caused by the uncontrolled growth of abnormal cells in the body. The exact causes of cancer are not fully understood, but it is believed that genetic mutations and environmental factors such as smoking, exposure to radiation, and certain chemicals can increase the risk of developing cancer. Some common types of cancer include lung cancer, breast cancer, prostate cancer, and colon cancer. Cancer is treatable, but the treatment options depend on the type and stage of cancer. Common treatments include chemotherapy, radiation therapy, surgery, and immunotherapy. There is no surefire way to prevent cancer, but maintaining a healthy lifestyle and avoiding risk factors such as smoking and excessive alcohol consumption can reduce the risk of developing cancer.",
+        "response": "You're welcome. Let me know if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and am wondering what I can do to speed up the healing process.",
+            "Congratulations on your successful surgery. In terms of speeding up the healing process, the most important thing you can do is eat a healthy diet that is rich in nutrients such as protein, vitamin C, and zinc.",
+            "What are some foods that are rich in these nutrients?",
+            "Foods that are rich in protein include chicken, fish, lean meat, and eggs. Foods that are high in vitamin C include citrus fruits, berries, and leafy greens. Foods that are high in zinc include oysters, beef, pork, and beans.",
+            "What else can I do to help with the healing process?",
+            "You should also make sure to get plenty of rest and avoid stress as much as possible. Additionally, light exercise such as walking can help improve blood flow and promote healing.",
+            "Are there any foods I should avoid?",
+            "Yes, you should avoid foods that are high in sugar and saturated fat, as well as alcohol and tobacco products, as they can slow down the healing process.",
+            "Thank you for the advice. What about pain management?"
+        ],
+        "knowledge": "Post-surgery After a surgery, it's important to take good care of yourself to speed up the healing process. Eating a healthy diet that is rich in nutrients such as protein, vitamin C, and zinc can help promote healing. Foods that are rich in protein include chicken, fish, lean meat, and eggs. Foods that are high in vitamin C include citrus fruits, berries, and leafy greens. Foods that are high in zinc include oysters, beef, pork, and beans. Additionally, getting plenty of rest and avoiding stress as much as possible is important. Light exercise such as walking can also help improve blood flow and promote healing. It's important to avoid foods that are high in sugar and saturated fat, as well as alcohol and tobacco products, as they can slow down the healing process. Your doctor will prescribe pain medication if necessary, but you can also try using ice packs or heat pads to reduce pain and swelling.",
+        "response": "You're welcome. Feel free to ask me anything else if you have more questions in the future."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm feeling a pain in my stomach and it's getting worse.",
+            "I'm here to help. Can you describe the pain? Is it sharp, dull or aching?",
+            "It's a dull pain, and it's been going on for a few hours now.",
+            "Based on your symptoms, it could be gastritis or a peptic ulcer. Have you eaten anything spicy or acidic recently?",
+            "Yes, actually, I had some spicy food last night.",
+            "That could be the cause of the pain. You should try eating bland food and avoiding anything spicy or acidic for a few days.",
+            "What about medication? Should I take something for the pain?",
+            "You can take an antacid to relieve the pain, but if it doesn't go away after a day or two, you should see a doctor.",
+            "Thank you, Medi. I will try your advice."
+        ],
+        "knowledge": "Gastritis Gastritis is an inflammation of the stomach lining. It can be caused by an infection, excessive alcohol consumption, stress or the use of nonsteroidal anti-inflammatory drugs (NSAIDs). The most common symptoms of gastritis include nausea, vomiting, abdominal pain, bloating, and loss of appetite. Treatment for gastritis includes avoiding foods that irritate your stomach, taking antacids to relieve the pain, and taking antibiotics if the cause is bacterial. Gastritis can be acute or chronic.",
+        "response": "Thank you, Medi. I will try your advice."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I'm curious about cancer. Can you tell me what it is?",
+            "Sure. Cancer is a disease caused by the uncontrolled growth of abnormal cells in the body. These cells can form tumors and spread to other parts of the body.",
+            "That sounds serious. What causes cancer?",
+            "There are many factors that can increase the risk of developing cancer, including smoking, exposure to radiation, certain infections, and genetics.",
+            "Is there a way to prevent cancer?",
+            "Some cancers can be prevented by avoiding risk factors like smoking and excessive sun exposure. Eating a healthy diet rich in fruits and vegetables and getting regular exercise can also reduce the risk of developing cancer.",
+            "How do you treat cancer?",
+            "The treatment for cancer depends on the type and stage of the cancer, as well as the patient's overall health. Treatments can include surgery, radiation therapy, chemotherapy, immunotherapy, and targeted therapy.",
+            "Thank you, Medi. That was really helpful."
+        ],
+        "knowledge": "Cancer Cancer is a disease caused by the uncontrolled growth of abnormal cells in the body. These cells can form tumors and spread to other parts of the body. There are many factors that can increase the risk of developing cancer, including smoking, exposure to radiation, certain infections, and genetics. Some cancers can be prevented by avoiding risk factors like smoking and excessive sun exposure. Eating a healthy diet rich in fruits and vegetables and getting regular exercise can also reduce the risk of developing cancer. The treatment for cancer depends on the type and stage of the cancer, as well as the patient's overall health. Treatments can include surgery, radiation therapy, chemotherapy, immunotherapy, and targeted therapy.",
+        "response": "You're welcome. Let me know if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a procedure done. Can you give me advice on how to recover?",
+            "Of course. What kind of procedure did you have?",
+            "I had a minor surgery to remove a small growth on my leg.",
+            "After a procedure like that, it's important to rest and avoid strenuous activity for a few days. Make sure to keep the wound clean and dry, and follow any instructions your doctor gave you.",
+            "What about pain? What should I take for it?",
+            "Your doctor may have prescribed pain medication for you. Make sure to take it as directed. You can also use ice to help reduce swelling and pain.",
+            "What about my diet? Should I be eating anything specific?",
+            "It's important to eat a balanced diet with plenty of protein, fruits, and vegetables to help your body heal. Avoid alcohol, caffeine, and spicy or acidic foods for a few days.",
+            "Thank you, Medi. That's really helpful."
+        ],
+        "knowledge": "Post-Procedure Recovery After a procedure, it's important to rest and avoid strenuous activity for a few days. Make sure to keep the wound clean and dry, and follow any instructions your doctor gave you. Your doctor may have prescribed pain medication for you. Make sure to take it as directed. You can also use ice to help reduce swelling and pain. It's important to eat a balanced diet with plenty of protein, fruits, and vegetables to help your body heal. Avoid alcohol, caffeine, and spicy or acidic foods for a few days.",
+        "response": "You're welcome. I hope you have a speedy recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a serious concern about colon cancer.",
+            "Alright, I am here with you. What do you want to know about colon cancer?",
+            "I am curious about the symptoms of colon cancer.",
+            "The symptoms of colon cancer include blood in the stool, stomach cramps or pain, unexplained weight loss, and changes in bowel habits",
+            "How can we prevent colon cancer?",
+            "You can prevent colon cancer by increasing your dietary fiber intake, doing regular physical activity, avoiding alcohol, quitting smoking, and getting routine screenings after the age of 50",
+            "When will I need to start getting screened?",
+            "If you have a family history of colon cancer or are experiencing symptoms, you should start getting screenings earlier than age 50. Otherwise, age 50 is the recommended time to start routine screenings",
+            "What kind of screenings do you recommend for colon cancer?"
+        ],
+        "knowledge": "Colon Cancer Colon Cancer  The symptoms of colon cancer include blood in the stool, stomach cramps or pain, unexplained weight loss, and changes in bowel habits.  Colon cancer is largely preventable through lifestyle changes such as increasing dietary fiber intake, doing regular physical activity, avoiding alcohol, quitting smoking, and getting routine screenings after the age of 50.  Early detection is key to successful treatment.  Screening for colon cancer involves a variety of tests including fecal occult blood tests, stool DNA tests, flexible sigmoidoscopy, and colonoscopy.  If a polyp is found during any of these tests, it can be removed before it turns cancerous. Colon Cancer Colon Cancer",
+        "response": "There are various tests including fecal occult blood tests, stool DNA tests, flexible sigmoidoscopy, and colonoscopy. These are the tests recommended for colon cancer screening."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am recovering from a medical procedure. Can you give me some advice?",
+            "Of course, what kind of advice do you need?",
+            "I am wondering what foods I should eat and avoid after my procedure",
+            "You should eat foods that are easy to digest, such as lean proteins, cooked vegetables, and whole grains. Avoid processed foods, spicy foods, and foods high in fat or sugar",
+            "What about physical activity?",
+            "You should start with light activities such as walking and gradually increase the intensity over time. Consult with your doctor before starting any exercise program",
+            "How about my medications?",
+            "Follow your doctor's instructions on taking your medications, and make sure to take them at the recommended times",
+            "When can I go back to work?"
+        ],
+        "knowledge": "Medical Procedure Medical Procedure  After a medical procedure, it is important to eat foods that are easy to digest, such as lean proteins, cooked vegetables, and whole grains.  Avoid processed foods, spicy foods, and foods high in fat or sugar.  Physical activity should be gradually increased over time, starting with light activities such as walking.  Consult with your doctor before starting any exercise program or returning to work.  Follow your doctor's instructions on taking your medications, and make sure to take them at the recommended times. Medical Procedure Medical Procedure",
+        "response": "You're welcome. Do you have any other questions?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you tell me more about epigenetic alterations in cancer?",
+            "Certainly, epigenetic alterations refer to changes in gene expression without altering the underlying DNA sequence. These changes can remain through cell divisions and can be considered as equivalent to mutations.",
+            "What are the common epigenetic alterations found in cancer?",
+            "Epigenetic alterations occur frequently in cancers, and one study found protein coding genes that were frequently altered in their methylation in association with colon cancer. Of the hypermethylated genes, 10 were hypermethylated in 100% of colon cancers and many others were hypermethylated in more than 50% of colon cancers.",
+            "What is the significance of epigenetic alterations in DNA repair genes?",
+            "The epigenetic alterations in DNA repair genes can cause reduced expression of DNA repair proteins, which may be of particular importance in cancer development and therapy",
+            "Is there anything we can do to prevent epigenetic alterations?",
+            "Epigenetic alterations are largely influenced by environmental factors such as diet, lifestyle, and exposure to toxins. Therefore, making healthy lifestyle choices and avoiding harmful toxins may help prevent epigenetic alterations",
+            "Thank you for the information, Medi"
+        ],
+        "knowledge": "Cancer Cancer  Epigenetic alterations refer to changes in gene expression without altering the underlying DNA sequence. These changes can remain through cell divisions and can be considered as equivalent to mutations. Epigenetic alterations occur frequently in cancers, and one study found protein coding genes that were frequently altered in their methylation in association with colon cancer. Of the hypermethylated genes, 10 were hypermethylated in 100% of colon cancers and many others were hypermethylated in more than 50% of colon cancers. The epigenetic alterations in DNA repair genes can cause reduced expression of DNA repair proteins, which may be of particular importance in cancer development and therapy. Epigenetic alterations are largely influenced by environmental factors such as diet, lifestyle, and exposure to toxins. Cancer Cancer",
+        "response": "You're welcome. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I have some symptoms, can you help me?",
+            "Of course, what are your symptoms?",
+            "I have stomach pain and diarrhea, and I'm feeling very weak.",
+            "I see. How long have you had these symptoms?",
+            "It's been two days now.",
+            "Have you eaten anything abnormal or outside of your normal diet?",
+            "No, I haven't. I just ate some leftovers.",
+            "Based on your symptoms, you may have food poisoning.",
+            "What should I do next, Medi?"
+        ],
+        "knowledge": "Food Poisoning Food Poisoning  Symptoms include nausea, vomiting, abdominal cramping, and diarrhea.  Symptoms begin typically within an hour or two of ingesting contaminated food and can last several hours to several days.  Severe cases of food poisoning can lead to dehydration and even death.  Common causes of food poisoning include bacteria such as E. coli, Salmonella, and Campylobacter, as well as viruses and parasites.  Food can become contaminated when it is not cooked or stored properly or when food handlers do not wash their hands properly.  Food poisoning can be prevented by properly cooking, storing, and handling food. Food Poisoning Food Poisoning",
+        "response": "What should I do next to recover from food poisoning?"
+    },
+    {
+        "dialog": [
+            "Hi, Medi. Can you tell me about colon cancer?",
+            "Certainly. What would you like to know?",
+            "What are the symptoms?",
+            "Symptoms can include blood in the stool, abdominal discomfort, and changes in bowel habits.",
+            "Is there anything that increases the risk of developing colon cancer?",
+            "Yes, factors that can increase the risk include age, family history, and lifestyle factors such as smoking and a diet high in red meat.",
+            "Is there anything that can be done to prevent colon cancer?",
+            "Yes, regular screening tests such as colonoscopies can help detect and prevent colon cancer.",
+            "Thank you, Medi. That's helpful."
+        ],
+        "knowledge": "Colon Cancer Colon Cancer  Symptoms can include blood in the stool, abdominal discomfort, and changes in bowel habits.  Risk factors include age, family history, and lifestyle factors such as smoking and a diet high in red meat.  Regular screening tests such as colonoscopies can help detect and prevent colon cancer.  Treatment options include surgery, radiation therapy, and chemotherapy.  The earlier colon cancer is detected, the better the chances of successful treatment. Colon Cancer Colon Cancer",
+        "response": "What are the treatment options for colon cancer?"
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I just had surgery for colon cancer. What should I do now?",
+            "It's important to follow your doctor's instructions for post-surgery care, including taking any prescribed medications and avoiding strenuous activity.",
+            "Is there anything I can do to help with my recovery?",
+            "Yes, eating a healthy diet with plenty of fruits and vegetables and getting regular exercise can help with recovery.",
+            "Are there any foods I should avoid?",
+            "It's best to avoid foods that are high in fat or fiber, as well as spicy foods and alcohol.",
+            "How long will it take for me to recover?",
+            "Recovery time can vary, but it's important to be patient and give your body time to heal.",
+            "Thank you, Medi. That's good to know."
+        ],
+        "knowledge": "Colon Cancer Surgery Colon Cancer Surgery  After surgery for colon cancer, it's important to follow your doctor's instructions for post-surgery care, including taking any prescribed medications and avoiding strenuous activity.  Eating a healthy diet with plenty of fruits and vegetables and getting regular exercise can help with recovery.  It's best to avoid foods that are high in fat or fiber, as well as spicy foods and alcohol.  Recovery time can vary, but it's important to be patient and give your body time to heal. Colon Cancer Surgery Colon Cancer Surgery",
+        "response": "What should I eat to help with my recovery after surgery for colon cancer?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a concern about cancer.",
+            "Sure, I'm here to help. What's your concern?",
+            "I heard that epigenetic alterations occur in cancers. What does that mean?",
+            "Epigenetic alterations are changes that regulate gene expression without changing the underlying DNA sequence. These changes can contribute to cancer development.",
+            "That's concerning. Can these alterations be inherited?",
+            "Yes, epigenetic changes can be passed down through generations and potentially increase the risk of cancer in offspring.",
+            "What can we do to minimize the risk of epigenetic alterations?",
+            "A healthy lifestyle with adequate nutrition and exercise can help reduce the risk of epigenetic alterations and thus lower the risk of cancer.",
+            "Thank you for the advice. What other factors can contribute to cancer development?"
+        ],
+        "knowledge": "Cancer Cancer Each of these alterations regulates gene expression without altering the underlying DNA sequence. These changes may remain through cell divisions, endure for multiple generations, and can be considered as equivalent to mutations. Epigenetic alterations occur frequently in cancers. As an example, one study listed protein coding genes that were frequently altered in their methylation in association with colon cancer. These included 147 hypermethylated and 27 hypomethylated genes. Of the hypermethylated genes, 10 were hypermethylated in 100% of colon cancers and many others were hypermethylated in more than 50% of colon cancers. While epigenetic alterations are found in cancers, the epigenetic alterations in DNA repair genes, causing reduced expression of DNA repair proteins, may be of particular importance Cancer Cancer",
+        "response": "There are many factors that can contribute to cancer development, such as exposure to carcinogens, genetics, and lifestyle choices."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just underwent chemotherapy. What should I eat to help my body recover?",
+            "Hi there! After chemotherapy, it's important to eat a balanced diet rich in protein, fruits, and vegetables.",
+            "Can you give me some examples?",
+            "You can try grilled chicken or fish, leafy greens like spinach or kale, berries, and nuts.",
+            "Thanks! What about sugary foods or alcohol?",
+            "It's best to limit your intake of sugary foods and avoid alcohol altogether, as it can interfere with your body's recovery process.",
+            "That makes sense. Are there any physical activities I should avoid?",
+            "It's best to avoid high-impact activities like running or jumping, as well as lifting heavy weights, to avoid putting unnecessary stress on your body.",
+            "Thanks for the advice, Medi. How long should I follow these guidelines?"
+        ],
+        "knowledge": "Cancer Cancer Chemotherapy can cause a range of side effects, including nausea, fatigue, and loss of appetite. It's important to eat a healthy diet to help your body recover. A balanced diet should include protein, fruits, and vegetables. Sugary foods and alcohol should be avoided, as they can interfere with the recovery process. It's also important to get enough rest and avoid high-impact physical activities to prevent further stress on the body. Cancer Cancer",
+        "response": "It's best to follow these guidelines until your body has fully recovered from the chemotherapy, which can take several months depending on your individual situation."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about colon cancer.",
+            "Of course, what's your question?",
+            "What are the symptoms of colon cancer?",
+            "The symptoms of colon cancer can include changes in bowel habits, such as constipation or diarrhea, blood in the stool, abdominal pain or cramping, and unexplained weight loss.",
+            "That's worrisome. What can I do to prevent colon cancer?",
+            "Colon cancer can be prevented by maintaining a healthy lifestyle with regular exercise and a diet rich in fiber and low in red and processed meats. Regular screenings, such as colonoscopies, are also important for early detection.",
+            "Thanks for the information. Is colon cancer a common cancer?",
+            "Colon cancer is one of the most common cancers, but it's also one of the most preventable with early detection and lifestyle changes.",
+            "That's good to know. What are some risk factors for colon cancer?"
+        ],
+        "knowledge": "Cancer Cancer One study listed protein coding genes that were frequently altered in their methylation in association with colon cancer. These included 147 hypermethylated and 27 hypomethylated genes. Of the hypermethylated genes, 10 were hypermethylated in 100% of colon cancers and many others were hypermethylated in more than 50% of colon cancers. While epigenetic alterations are found in cancers, the epigenetic alterations in DNA repair genes, causing reduced expression of DNA repair proteins, may be of particular importance Cancer Cancer",
+        "response": "You're welcome! Remember to also talk to your doctor about any concerns you have and to schedule regular screenings for early detection."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm worried about cancer, can you help me understand it?",
+            "Of course, what exactly do you want to know?",
+            "What causes cancer and how does it develop?",
+            "Cancer is caused by changes in DNA that lead to uncontrolled cell growth. These changes can be inherited or caused by environmental factors like smoking or exposure to radiation.",
+            "That sounds serious, what are the symptoms of cancer?",
+            "The symptoms depend on the type of cancer, but common ones are unexplained weight loss, fatigue, pain, and skin changes.",
+            "Is there anything I can do to prevent cancer?",
+            "Yes, you can reduce your risk by avoiding tobacco, limiting alcohol and processed foods, exercising regularly, and getting vaccinated when possible.",
+            "That's helpful, thank you. What are some common types of cancer?"
+        ],
+        "knowledge": "Cancer Cancer  Each of these alterations regulates gene expression without altering the underlying DNA sequence. These changes may remain through cell divisions, endure for multiple generations, and can be considered as equivalent to mutations. Epigenetic alterations occur frequently in cancers. As an example, one study listed protein coding genes that were frequently altered in their methylation in association with colon cancer. These included 147 hypermethylated and 27 hypomethylated genes. Of the hypermethylated genes, 10 were hypermethylated in 100% of colon cancers and many others were hypermethylated in more than 50% of colon cancers. While epigenetic alterations are found in cancers, the epigenetic alterations in DNA repair genes, causing reduced expression of DNA repair proteins, may be of particular importance Cancer Cancer",
+        "response": "Some of the most common types of cancer are breast, lung, prostate, and colon cancer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a colonoscopy, what should I be doing now?",
+            "After a colonoscopy, it's important to take care of yourself to prevent complications.",
+            "What kind of complications can occur after a colonoscopy?",
+            "Complications are rare, but they can include bleeding, infection, and tears in the colon or rectum.",
+            "That sounds scary, what can I do to prevent those complications?",
+            "You should avoid strenuous activity and heavy lifting, follow your doctor's instructions for diet and medication, and watch for signs of infection or bleeding.",
+            "I'm a little nervous about the recovery process, how long does it usually take?",
+            "Most people feel better within a few days and can resume normal activities in about a week, but it's important to follow your doctor's specific instructions.",
+            "Okay, thank you for the advice. Is there anything else I should know?"
+        ],
+        "knowledge": "Colonoscopy Colonoscopy  A colonoscopy is a procedure that allows doctors to look inside your colon for signs of cancer or other problems. It's typically recommended every 10 years for people over age 50, or more frequently for those with a family history of colon cancer or other risk factors. Before the procedure, you will need to prepare by following a special diet and taking laxatives. During the procedure, you will be sedated and a flexible tube with a camera on the end will be inserted into your anus and guided through your colon. The procedure usually takes about 30 minutes, and most people can resume normal activities within a week. After the procedure, you may experience some cramping, bloating, or bleeding, but these symptoms should go away within a few days. Colonoscopy Colonoscopy",
+        "response": "No, that covers everything. Thank you for your help, Medi!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm interested in how cancer is treated.",
+            "There are many different treatments for cancer, depending on the type and stage of the cancer.",
+            "What are some common treatments for cancer?",
+            "Some common treatments include surgery, chemotherapy, radiation therapy, immunotherapy, and targeted therapy.",
+            "What is immunotherapy and how does it work?",
+            "Immunotherapy uses the body's own immune system to fight cancer. It can be done by giving medications that help the immune system recognize and attack cancer cells.",
+            "That's really interesting. Are there any side effects of immunotherapy?",
+            "Yes, like any treatment, there can be side effects. Common ones include fatigue, flu-like symptoms, and skin reactions. However, many people tolerate it well.",
+            "Thanks for explaining that, Medi. Can immunotherapy be used for all types of cancer?"
+        ],
+        "knowledge": "Cancer Cancer  Each of these alterations regulates gene expression without altering the underlying DNA sequence. These changes may remain through cell divisions, endure for multiple generations, and can be considered as equivalent to mutations. Epigenetic alterations occur frequently in cancers. As an example, one study listed protein coding genes that were frequently altered in their methylation in association with colon cancer. These included 147 hypermethylated and 27 hypomethylated genes. Of the hypermethylated genes, 10 were hypermethylated in 100% of colon cancers and many others were hypermethylated in more than 50% of colon cancers. While epigenetic alterations are found in cancers, the epigenetic alterations in DNA repair genes, causing reduced expression of DNA repair proteins, may be of particular importance Cancer Cancer",
+        "response": "You're welcome. I'm glad I could help you understand cancer treatment better."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am experiencing some health issues",
+            "Hello, I'm here to help. Can you please tell me more about your symptoms?",
+            "I am feeling very tired and have lost my appetite",
+            "Have you noticed any other symptoms besides tiredness and loss of appetite?",
+            "I have also been experiencing some abdominal pain lately",
+            "Based on your symptoms, it's possible that you may have colon cancer. I recommend you to see a doctor immediately for a proper diagnosis.",
+            "What are the common treatments for colon cancer?",
+            "Treatment options for colon cancer include surgery, chemotherapy, and radiation therapy depending on the stage of the cancer.",
+            "Thank you. Can you suggest any lifestyle changes or precautions that I should take to prevent colon cancer?"
+        ],
+        "knowledge": "Cancer Cancer Each of these alterations regulates gene expression without altering the underlying DNA sequence. These changes may remain through cell divisions, endure for multiple generations, and can be considered as equivalent to mutations. Epigenetic alterations occur frequently in cancers. As an example, one study listed protein coding genes that were frequently altered in their methylation in association with colon cancer. These included 147 hypermethylated and 27 hypomethylated genes. Of the hypermethylated genes, 10 were hypermethylated in 100% of colon cancers and many others were hypermethylated in more than 50% of colon cancers. While epigenetic alterations are found in cancers, the epigenetic alterations in DNA repair genes, causing reduced expression of DNA repair proteins, may be of particular importance Cancer Cancer",
+        "response": "Yes, sure. Lifestyle changes such as eating a healthy diet rich in fiber, exercising regularly, quitting smoking, limiting alcohol intake, getting regular checkups and maintaining a healthy weight are some of the things that can help prevent colon cancer."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about cancer",
+            "Sure, I'm here to help. What would you like to know?",
+            "What is cancer and how is it caused?",
+            "Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells. There are many causes of cancer, including genetic mutations, exposure to radiation and chemicals, and lifestyle factors.",
+            "What are some common types of cancer?",
+            "Some common types of cancer include breast, lung, prostate, colon, and skin cancer.",
+            "What are some common symptoms of cancer?",
+            "Some common symptoms of cancer include unexplained weight loss, fatigue, pain, changes in skin color or texture, and lumps or thickening of the skin or tissues.",
+            "What precautions can be taken to reduce the risk of cancer?"
+        ],
+        "knowledge": "Cancer Cancer Each of these alterations regulates gene expression without altering the underlying DNA sequence. These changes may remain through cell divisions, endure for multiple generations, and can be considered as equivalent to mutations. Epigenetic alterations occur frequently in cancers. As an example, one study listed protein coding genes that were frequently altered in their methylation in association with colon cancer. These included 147 hypermethylated and 27 hypomethylated genes. Of the hypermethylated genes, 10 were hypermethylated in 100% of colon cancers and many others were hypermethylated in more than 50% of colon cancers. While epigenetic alterations are found in cancers, the epigenetic alterations in DNA repair genes, causing reduced expression of DNA repair proteins, may be of particular importance Cancer Cancer",
+        "response": "I hope that answers your questions. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery for colon cancer. Can you please give me some advice for my diet and lifestyle?",
+            "Hello, congratulations on your successful surgery. I am happy to provide you with some advice.",
+            "Thank you. What kind of foods should I eat or avoid after surgery?",
+            "After surgery, it is important to eat a healthy and balanced diet rich in fruits, vegetables, lean proteins, and whole grains. You should also avoid processed foods, sugary drinks, and foods high in fat.",
+            "Are there any lifestyle changes I should make after surgery?",
+            "Yes, you should try to maintain a healthy weight, exercise regularly, reduce stress, and get enough sleep. Also, follow your doctor's instructions about medications and follow-up appointments.",
+            "Thank you for your advice. How long will it take for me to fully recover?",
+            "The recovery time after colon cancer surgery varies depending on the individual and the type of surgery performed. You should ask your doctor for a specific timeline for your recovery.",
+            "Okay, thank you for your help."
+        ],
+        "knowledge": "Cancer Cancer Each of these alterations regulates gene expression without altering the underlying DNA sequence. These changes may remain through cell divisions, endure for multiple generations, and can be considered as equivalent to mutations. Epigenetic alterations occur frequently in cancers. As an example, one study listed protein coding genes that were frequently altered in their methylation in association with colon cancer. These included 147 hypermethylated and 27 hypomethylated genes. Of the hypermethylated genes, 10 were hypermethylated in 100% of colon cancers and many others were hypermethylated in more than 50% of colon cancers. While epigenetic alterations are found in cancers, the epigenetic alterations in DNA repair genes, causing reduced expression of DNA repair proteins, may be of particular importance Cancer Cancer",
+        "response": "You're welcome. I wish you a speedy recovery and hope that my advice helps you in your journey towards better health."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have been experiencing some symptoms lately",
+            "Hi there! Can you please tell me about the symptoms you are experiencing?",
+            "I have been having some stomach pain and trouble with digestion",
+            "Okay, based on your symptoms it might be a case of colon cancer. You should consult your doctor immediately",
+            "Oh no, What can I do next?",
+            "You may need to undergo some tests and scans, as well as a colonoscopy to confirm the diagnosis",
+            "What are my chances of recovery?",
+            "Your chances of recovery depend on the stage and progression of the cancer",
+            "How can I prevent colon cancer?"
+        ],
+        "knowledge": "Cancer Cancer Each of these alterations regulates gene expression without altering the underlying DNA sequence.  These changes may remain through cell divisions, endure for multiple generations, and can be considered as equivalent to mutations. Epigenetic alterations occur frequently in cancers.  As an example, one study listed protein coding genes that were frequently altered in their methylation in association with colon cancer.  These included 147 hypermethylated and 27 hypomethylated genes.  Of the hypermethylated genes, 10 were hypermethylated in 100% of colon cancers and many others were hypermethylated in more than 50% of colon cancers. While epigenetic alterations are found in cancers, the epigenetic alterations in DNA repair genes, causing reduced expression of DNA repair proteins, may be of particular importance Cancer Cancer",
+        "response": "You can prevent colon cancer by maintaining a healthy diet and lifestyle, regular exercise and annual checkups with your doctor."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I am just curious about cancer",
+            "Sure, I am here to help! What would you like to know?",
+            "What are the most common types of cancer?",
+            "The most common types of cancer are lung cancer, breast cancer, prostate cancer, colorectal cancer, melanoma, and bladder cancer",
+            "What causes cancer?",
+            "There are many factors that can cause cancer such as genetic mutations, exposure to radiation, smoking, consuming alcohol, and poor diet and lifestyle choices",
+            "What are the early signs of cancer?",
+            "Early signs of cancer can include fatigue, unexplained weight loss, changes in skin, new moles, and abnormal bleeding",
+            "How is cancer treated?"
+        ],
+        "knowledge": "Cancer Cancer  Each of these alterations regulates gene expression without altering the underlying DNA sequence.  These changes may remain through cell divisions, endure for multiple generations, and can be considered as equivalent to mutations. Epigenetic alterations occur frequently in cancers.  As an example, one study listed protein coding genes that were frequently altered in their methylation in association with colon cancer.  These included 147 hypermethylated and 27 hypomethylated genes.  Of the hypermethylated genes, 10 were hypermethylated in 100% of colon cancers and many others were hypermethylated in more than 50% of colon cancers. While epigenetic alterations are found in cancers, the epigenetic alterations in DNA repair genes, causing reduced expression of DNA repair proteins, may be of particular importance Cancer Cancer",
+        "response": "Cancer can be treated through various methods such as surgery, radiation therapy, chemotherapy, immunotherapy, hormone therapy, and targeted therapy. The type of treatment depends on the type and stage of cancer as well as the patient's overall health."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just had a surgery. What should I do next?",
+            "Hi there! Congratulations on a successful surgery. What type of surgery was it?",
+            "It was a heart surgery",
+            "You should rest for a while and avoid any strenuous activities or lifting heavy objects. You should also follow a healthy diet and exercise routine as prescribed by your doctor",
+            "Are there any specific exercises I should do?",
+            "Yes, you should do some light exercises, like walking, and gradually increase the intensity and duration as per your doctor's advice",
+            "What should I eat?",
+            "You should follow a balanced diet with plenty of fruits, vegetables, whole grains, and lean protein. Avoid processed foods, sugary drinks, and excessive salt and fat",
+            "When can I go back to work?"
+        ],
+        "knowledge": "Heart Surgery Heart Surgery Recovering from heart surgery takes time and patience. After surgery, you will need to rest and limit your activities. Your doctor will tell you when you can start doing more strenuous activities, like lifting weights and jogging. You may need to stay in the hospital for several days after surgery. You will receive pain medication and other treatments to help you manage your symptoms. You will need to follow a healthy diet and exercise routine to help your body recover. You may need to take medications to manage your blood pressure and other health conditions. You will need to attend follow-up appointments with your doctor to monitor your recovery and prevent complications Heart Surgery Heart Surgery",
+        "response": "You should consult your doctor about when it is safe for you to return to work, as it depends on the type of job you have and the extent of your recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a lump on my neck and I am worried about it",
+            "I understand. Can you describe the lump? Is it painful or growing?",
+            "The lump is painless and has been there for a few weeks, but it seems to be getting bigger",
+            "Based on your description, it is advisable to consult a doctor as soon as possible for further diagnosis",
+            "What could be the reason for the lump on my neck?",
+            "There could be many reasons for a lump, including infections, lipomas, lymphoma or thyroid issues. It is difficult to tell without proper diagnosis",
+            "Alright. So, what should I do while waiting for the diagnosis?",
+            "You can take some steps to improve your lifestyle by eating healthy, drinking plenty of water, and getting enough rest.",
+            "Thanks Medi. What is the best way to find a doctor in my area?"
+        ],
+        "knowledge": "Lump Lump A lump or swelling that is not painful and gradually increases in size over weeks or months is most likely a benign tumor, such as a lipoma. However, a lump that is growing rapidly, is painful, or is associated with systemic symptoms, such as fever or weight loss, may be a malignant tumor. The most common malignant tumors that cause neck lumps are metastatic squamous cell carcinoma and lymphoma. The most common cause of thyroid nodules is a benign thyroid growth or thyroid nodule, which is usually painless. A small proportion of thyroid nodules are cancerous. Lump Lump",
+        "response": "You can search online for reviews of doctors in your area or use a healthcare directory to find a doctor near you."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I am curious about the treatments for colon cancer",
+            "Colon cancer can be treated in many ways, including surgery, chemotherapy, and radiation therapy. The best treatment depends on the stage of your cancer",
+            "What are the stages of colon cancer?",
+            "Colon cancer is divided into four stages based on how far the cancer has spread and how much it has affected the surrounding tissues",
+            "What is the survival rate for colon cancer?",
+            "The survival rate depends on the stage of the cancer at the time of diagnosis. The earlier the stage, the higher the survival rate.",
+            "Is there anything I can do to prevent colon cancer?",
+            "You can reduce your risk of colon cancer by eating a healthy diet, exercising regularly, and getting regular screenings once you reach the age of 50",
+            "Thanks for the advice Medi. What should I expect during chemotherapy?"
+        ],
+        "knowledge": "Colon Cancer Colon Cancer Treatment for colon cancer usually involves surgery, chemotherapy, and radiation therapy. The best treatment depends on the stage of the cancer. The stages of colon cancer are divided into four stages based on how far the cancer has spread and how much it has affected the surrounding tissues. The survival rate depends on the stage of the cancer at the time of diagnosis. The earlier the stage, the higher the survival rate. You can reduce your risk of colon cancer by eating a healthy diet, exercising regularly, and getting regular screenings once you reach the age of 50. Chemotherapy is a treatment that uses drugs to kill cancer cells. It can cause side effects, such as nausea and hair loss.",
+        "response": "There are many possible side effects of chemotherapy, including nausea, vomiting, hair loss, fatigue, and a weakened immune system. Your doctor can discuss these with you in more detail."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a surgery and I'm not sure what I can and can't do",
+            "Firstly, you should follow your doctor's instructions carefully, including any restrictions on physical activity or diet",
+            "How long should I wait before doing any physical exercise?",
+            "It depends on the type of surgery and your overall health, but you should wait until you have fully recovered before doing any strenuous activity. Your doctor can advise you on the appropriate time to resume physical exercise",
+            "What foods should I avoid after surgery?",
+            "You should avoid foods that are high in fat or sugar, as well as processed foods. It is essential to eat plenty of fruits, vegetables, and lean protein to promote healing and recovery",
+            "Do I need to take any medications after surgery?",
+            "It depends on your doctor's instructions. You may need to take antibiotics to prevent infection or pain medication to manage any discomfort",
+            "Thanks for the information Medi. Can I drink alcohol after surgery?"
+        ],
+        "knowledge": "Surgery Surgery After surgery, it is important to take any prescribed medications and follow your doctor's instructions carefully. You should rest and avoid any activities that could cause further injury or delay healing. Depending on the type of surgery, you may need to avoid certain foods or drinks. A healthy diet with plenty of fruits, vegetables, and lean protein can promote healing and recovery. Your doctor may prescribe antibiotics or pain medication after surgery. It is important to avoid alcohol while taking medication, as it can interfere with the medication's effectiveness and cause adverse effects.",
+        "response": "You should avoid alcohol while taking medication, as it can interfere with the medication's effectiveness and cause adverse effects. Your doctor can provide more specific instructions based on your individual circumstances."
+    }
+]

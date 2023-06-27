@@ -1,0 +1,406 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I am experiencing some respiratory problems, can you help me?",
+            "Sure, please tell me more about your symptoms?",
+            "I have a dry cough, sore throat, and shortness of breath",
+            "Based on your symptoms, it could be a respiratory infection, possibly COVID-19. I recommend seeing a doctor and getting tested as soon as possible",
+            "Oh no, what should I do while waiting for the test results?",
+            "You should self-isolate and avoid contact with others to prevent the spread of the virus",
+            "Okay, thank you for your help. I hope it's not COVID-19",
+            "I hope so too. Take care and stay safe",
+            "What should I do if I test positive for COVID-19?"
+        ],
+        "knowledge": "COVID-19 COVID-19 COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus. Symptoms include fever, cough, and shortness of breath. The virus spreads through respiratory droplets when an infected person talks, coughs, or sneezes. The best way to prevent the spread of COVID-19 is to practice good hygiene, wear a mask, and maintain physical distance. If you test positive for COVID-19, you should self-isolate and inform your close contacts to get tested. Seek medical attention if your symptoms worsen, such as difficulty breathing or persistent chest pain. COVID-19 COVID-19",
+        "response": "If you test positive for COVID-19, you should self-isolate and inform your close contacts to get tested. Seek medical attention if your symptoms worsen, such as difficulty breathing or persistent chest pain."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about the flu vaccine. Is it really necessary?",
+            "Yes, the flu vaccine is important for preventing the spread of the flu and reducing the severity of symptoms if you do get sick",
+            "But I have heard that the flu vaccine can cause the flu",
+            "That is a common misconception. The flu vaccine cannot cause the flu because it is made from inactivated or weakened viruses",
+            "Oh, I didn't know that. When is the best time to get the vaccine?",
+            "The best time to get the flu vaccine is in the fall before flu season begins. It takes about two weeks for the vaccine to become fully effective",
+            "Okay, I will consider getting the vaccine this year. Thank you for your help",
+            "You're welcome. Remember, getting the flu vaccine can protect you and those around you from getting sick",
+            "How effective is the flu vaccine?"
+        ],
+        "knowledge": "Influenza Influenza The flu vaccine is an annual vaccine that protects against influenza viruses. It is the most effective way to prevent the flu. The vaccine is made from inactivated or weakened viruses that are not infectious. The vaccine works by triggering the body's immune system to produce antibodies that can recognize and fight the flu virus if you are exposed to it. The effectiveness of the flu vaccine varies from year to year and depends on the match between the vaccine and the circulating flu strains. Overall, the vaccine is about 40-60% effective in preventing the flu. However, even if you do get the flu after getting vaccinated, the vaccine can still reduce the severity of your symptoms. Influenza Influenza",
+        "response": "The effectiveness of the flu vaccine varies from year to year and depends on the match between the vaccine and the circulating flu strains, but overall it is about 40-60% effective in preventing the flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a biopsy and I am wondering if there are any lifestyle changes I should make while I wait for the results",
+            "It is important to maintain a healthy lifestyle while waiting for biopsy results. This includes eating a balanced diet, getting regular exercise, and managing stress",
+            "Are there any specific foods I should eat or avoid?",
+            "You should focus on eating a diet that is high in fruits and vegetables, whole grains, and lean protein. Avoid processed and red meats, refined sugars, and saturated fats",
+            "What about exercise? Should I be doing anything specific?",
+            "Regular exercise is important for overall health, but it is important to avoid strenuous activities that could interfere with the biopsy site. Stick to low-impact activities like walking, yoga, or swimming",
+            "Okay, that makes sense. Thank you for the advice",
+            "You're welcome. Remember, taking care of your body can promote healing and reduce stress during this time",
+            "What are some ways to manage stress?"
+        ],
+        "knowledge": "Biopsy Biopsy A biopsy is a medical procedure used to remove tissue from the body for examination under a microscope. It is used to diagnose diseases, determine the severity of a condition, or monitor the progress of treatment. After a biopsy, it is important to take care of the biopsy site and follow any instructions provided by your doctor. It is also important to take care of your body by eating a healthy diet, getting regular exercise, and managing stress. Stress management techniques include deep breathing, meditation, yoga, or talking to a mental health professional. Biopsy Biopsy",
+        "response": "Stress management techniques include deep breathing, meditation, yoga, or talking to a mental health professional."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling quite unwell. I have a cough and runny nose.",
+            "Okay, let me ask you a few questions to understand your situation better. How long have you had these symptoms?",
+            "It started yesterday evening after I got home from work.",
+            "I see. Have you had a fever or experienced any shortness of breath?",
+            "No, I haven't had a fever but I do feel a little short of breath.",
+            "Okay, based on your symptoms, it is likely you have a common cold. Get plenty of rest and take over-the-counter medications to help with your symptoms.",
+            "Thank you for your advice, Medi. Is there anything else I can do to help with my recovery?",
+            "Yes, make sure to stay hydrated and try to avoid contact with others so you do not spread the cold.",
+            "Thanks, Medi. I'll do that."
+        ],
+        "knowledge": "Common Cold Common Cold The common cold is a viral infection of the upper respiratory tract. It is primarily caused by coronaviruses or rhinoviruses. Symptoms typically include a runny nose, cough, and sore throat, sometimes accompanied by a fever. Symptoms usually last for seven to ten days, but can last up to two weeks. Treatment involves getting plenty of rest, staying hydrated, and taking over-the-counter medications to manage symptoms. Common Cold Common Cold",
+        "response": "You're welcome! Remember to stay hydrated and avoid contact with others to prevent spreading the cold."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I am worried about my breathing. I feel like I am not getting enough air.",
+            "That sounds concerning. Can you describe your symptoms in more detail?",
+            "Yes, my chest feels tight and I'm having trouble taking deep breaths.",
+            "Okay, it sounds like you may be experiencing asthma symptoms. Have you been diagnosed with asthma before?",
+            "No, I haven't been diagnosed with asthma before. What should I do?",
+            "You should see a doctor as soon as possible to get a proper diagnosis and treatment plan. In the meantime, try to avoid triggers such as smoke, dust and pet hair.",
+            "Thank you, Medi. I'll make an appointment with my doctor.",
+            "You're welcome. Don't hesitate to contact me if you have any more questions.",
+            "Thanks, Medi. I appreciate your help."
+        ],
+        "knowledge": "Asthma Asthma Asthma is a chronic respiratory disease that affects the airways in the lungs. Symptoms include wheezing, coughing, chest tightness, and shortness of breath. Asthma is caused by a combination of genetic and environmental factors, including exposure to allergens and irritants. Treatment involves avoiding triggers, taking medication to control symptoms, and using inhalers to manage acute attacks. Asthma Asthma",
+        "response": "You're welcome. Don't forget to make an appointment with your doctor, and try to avoid triggers such as smoke, dust, and pet hair."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I recently had surgery and I'm not sure how to take care of myself.",
+            "Hello! What kind of surgery did you have and when was it?",
+            "I had my appendix removed two days ago.",
+            "Okay, it's important to take it easy and avoid strenuous activity for the first few days after surgery. You should also make sure to get plenty of rest and drink lots of fluids.",
+            "What about my diet?",
+            "It's best to stick to a bland diet for the first few days and avoid foods that may trigger nausea or vomiting. Gradually add in solid foods as you feel comfortable.",
+            "Got it. How soon can I go back to work?",
+            "It depends on the nature of your work and how you are feeling. Your doctor will be able to advise you on when it is safe for you to return to work.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Appendectomy Appendectomy An appendectomy is a surgical procedure to remove the appendix. After surgery, it is important to take it easy and avoid strenuous activity for the first few days. The patient should also get plenty of rest and drink lots of fluids. It is best to stick to a bland diet for the first few days and avoid foods that may trigger nausea or vomiting. Gradually add in solid foods as you feel comfortable. The length of recovery time depends on the nature of the surgery and the individual's overall health. Appendectomy Appendectomy",
+        "response": "You're welcome! Remember to take it easy and stick to a bland diet for the first few days. Your doctor will be able to advise you on when it is safe for you to return to work."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am feeling very tired and have a cough.",
+            "Hi there, sorry to hear that. Can you describe your cough further?",
+            "Yes, it's a dry cough. I don't have any phlegm or mucus.",
+            "I see. Have you had a fever or any difficulty breathing?",
+            "No fever, but I am a little short of breath.",
+            "Based on your symptoms, you may have a respiratory tract infection. It could be due to a virus or bacteria.",
+            "What should I do then?",
+            "Rest, drink plenty of fluids, and avoid contact with others to prevent spreading the infection.",
+            "Thanks, Medi. How long does it usually take to recover from a respiratory tract infection?"
+        ],
+        "knowledge": "Respiratory Tract Infections Respiratory Tract Infections Respiratory tract infections (RTIs) are infections of the sinuses, throat, airways or lungs.  They can be caused by a virus, bacteria, or fungus.  Symptoms include coughing, sore throat, runny or stuffy nose, wheezing, chest pain or discomfort, fever, and fatigue.  RTIs can cause bronchitis, pneumonia, and possibly sepsis in severe cases.  Treatment depends on the cause of the infection and may include antibiotics, antivirals, or antifungals.  Non-pharmacological treatments include rest, hydration, and symptom management such as cough suppressants and pain relievers Respiratory Tract Infections",
+        "response": "The duration of a respiratory tract infection varies depending on the cause. Viral infections typically last for a few days to a week, while bacterial infections may require antibiotics and can last longer."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I have a question about the flu vaccine.",
+            "Sure, I'm happy to help. What's your question?",
+            "I'm wondering if the flu vaccine is safe. I've heard some people say it can make you sick.",
+            "The flu vaccine is safe and effective. It does not contain live virus so it cannot give you the flu. Some people may experience mild side effects such as fever or headache, but these usually go away within a few days.",
+            "I see. When is the best time to get the vaccine?",
+            "The best time to get the vaccine is before the flu season begins, ideally in the fall. This allows your body enough time to build up immunity before the virus starts circulating widely.",
+            "Thanks for the information, Medi. One more question. Is the vaccine effective against all strains of the flu?",
+            "The flu vaccine is designed to protect against the strains of the flu that are most likely to be circulating each season. While it's not 100% effective, it can significantly reduce your risk of getting sick.",
+            "That's good to know. Thanks for your help, Medi."
+        ],
+        "knowledge": "Influenza Influenza Influenza, commonly known as the flu, is a highly contagious respiratory illness caused by influenza viruses.  Symptoms include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.  The flu can lead to complications such as pneumonia, bronchitis, and sinus and ear infections, especially in young children, older adults, and people with certain health conditions.  The flu vaccine is recommended for everyone ages 6 months and older.  The vaccine can significantly reduce your risk of getting sick and spreading the flu to others.  It takes about 2 weeks after vaccination for antibodies to develop in the body and provide protection against the flu Influenza Influenza",
+        "response": "You're welcome! I'm glad I could help. Do you have any other questions about the flu vaccine?"
+    },
+    {
+        "dialog": [
+            "Hello Medi. I recently had surgery and I'm not sure how to take care of myself.",
+            "Hi there. What type of surgery did you have?",
+            "I had my gallbladder removed.",
+            "Okay, after gallbladder surgery, it's important to rest and avoid strenuous activities for a few weeks. You should also avoid lifting anything heavy and avoid driving until your doctor says it's safe. You may experience some pain or discomfort, but this should improve over time.",
+            "What about my diet? Are there any restrictions?",
+            "Yes, for the first few days after surgery, you should stick to a clear liquid diet to allow your body to heal. Then, you can slowly start to introduce solid foods, but it's important to avoid any greasy or fatty foods that could cause digestive problems.",
+            "Got it. What about pain management?",
+            "Your doctor may prescribe pain medication to manage any discomfort. It's important to take the medication as directed and not to exceed the recommended dose.",
+            "Thank you for the advice, Medi. Do you have any other tips for a smooth recovery?"
+        ],
+        "knowledge": "Gallbladder Surgery Gallbladder Surgery Gallbladder surgery is a common procedure to remove the gallbladder, typically due to complications from gallstones.  After surgery, it's important to rest and avoid strenuous activities for a few weeks.  You should also avoid lifting anything heavy and avoid driving until your doctor says it's safe.  Your diet may be restricted for the first few days to clear liquids, with a gradual introduction of solid foods that are low in fat.  You may experience some pain or discomfort, which can be managed with medication.  Your doctor will provide specific instructions for your recovery and follow-up care Gallbladder Surgery",
+        "response": "You're welcome! Another important tip is to keep your incision site clean and dry to prevent infection. Your doctor will also schedule follow-up appointments to monitor your recovery and ensure that everything is healing as it should."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been experiencing a cough and difficulty breathing. What should I do?",
+            "Based on your symptoms, you may have a respiratory illness. Have you been in contact with someone who has COVID-19?",
+            "No, I don't think so. What should I do next?",
+            "You should visit your doctor for a proper diagnosis. Meanwhile, avoid going out unnecessarily and wear a mask to prevent the spread of any viruses.",
+            "Thank you for your advice. Should I take any medicine?",
+            "It depends on your diagnosis. Your doctor may prescribe medication to alleviate your symptoms.",
+            "I see. What kind of respiratory illness could it be?",
+            "There are various respiratory illnesses that can cause cough and difficulty breathing. It's best to get a proper diagnosis from your doctor.",
+            "Okay, thanks for your help Medi."
+        ],
+        "knowledge": "Respiratory illness Respiratory illness is a common term for various infections and diseases affecting the respiratory system. Some of the most common respiratory illnesses include the common cold, influenza, bronchitis, pneumonia, and COVID-19. These illnesses are often caused by viruses, and symptoms can range from mild to severe. Cough and difficulty breathing are common symptoms of respiratory illnesses. It's important to get a proper diagnosis and treatment from a doctor to manage these conditions effectively. Respiratory illness",
+        "response": "It's difficult to say without a proper diagnosis. Your symptoms could be caused by various respiratory illnesses, so visiting your doctor is the best course of action."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you tell me more about the flu?",
+            "Certainly, what would you like to know?",
+            "What are the common symptoms of the flu?",
+            "Symptoms of the flu include fever, cough, sore throat, body aches, fatigue, and sometimes diarrhea and vomiting.",
+            "Is it contagious?",
+            "Yes, the flu is highly contagious and can easily spread from person to person through coughing, sneezing, or even talking.",
+            "How long does it last?",
+            "The flu typically lasts for about one to two weeks, although some symptoms, such as fatigue and cough, can persist for several weeks.",
+            "Thank you for the information, Medi."
+        ],
+        "knowledge": "Flu The flu, also known as influenza, is a contagious respiratory illness caused by influenza viruses. The most common symptoms of the flu include fever, cough, sore throat, body aches, fatigue, and sometimes diarrhea and vomiting. The flu can be severe and can lead to complications such as pneumonia, especially in vulnerable populations such as young children, elderly adults, and people with weakened immune systems. The best way to prevent the flu is to get vaccinated annually and to practice good hygiene, such as washing hands frequently and avoiding close contact with infected individuals. Flu",
+        "response": "You're welcome. I hope the information was helpful. Let me know if you have any other questions about the flu."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a surgery and I'm wondering what kind of physical activity I should do?",
+            "Congratulations on your successful surgery! It's important to take it easy and avoid strenuous physical activity for a while.",
+            "How long should I wait?",
+            "It depends on the type of surgery and your doctor's instructions. Typically, you should avoid heavy lifting and strenuous exercise for at least 4-6 weeks after surgery.",
+            "Is there any physical activity I can do?",
+            "Yes, you can do light exercise such as walking or stretching. It's important to listen to your body and not push yourself too hard.",
+            "What about my diet?",
+            "It's important to eat a healthy, balanced diet after surgery to support your recovery. Your doctor may provide specific dietary guidelines for you to follow.",
+            "Okay, thanks for the advice Medi."
+        ],
+        "knowledge": "Post-surgery recovery After surgery, it's important to take it easy and avoid strenuous physical activity for a while. The length of time depends on the type of surgery and your doctor's instructions. Typically, you should avoid heavy lifting and strenuous exercise for at least 4-6 weeks after surgery. Light exercise such as walking or stretching can be beneficial for your recovery. It's also important to eat a healthy, balanced diet to support your recovery. Your doctor may provide specific dietary guidelines for you to follow. Post-surgery recovery",
+        "response": "You're welcome. I'm glad I could help. Let me know if you have any other questions about post-surgery recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am coughing and have difficulty breathing.",
+            "Hello, I'm here to help. How long have you had these symptoms?",
+            "It's been going on for two days. I also have a fever.",
+            "Based on your symptoms, it could be a respiratory infection. You should rest and drink plenty of fluids.",
+            "Should I take any medication?",
+            "You may try taking over-the-counter cough syrup and pain relievers to relieve your symptoms, but if your condition worsens, you should see a doctor.",
+            "Understood. One more question, how can I prevent these symptoms in the future?",
+            "You can prevent respiratory infections by washing your hands frequently, avoiding close contact with sick people, and getting vaccinated.",
+            "Thank you, Medi. I'll keep that in mind."
+        ],
+        "knowledge": "Respiratory infections Respiratory infections are caused by a variety of viruses and bacteria, and can affect the upper respiratory tract (nose, throat, sinuses) or the lower respiratory tract (lungs, bronchi). Symptoms include coughing, sore throat, fever, difficulty breathing, and chest pain. These infections are spread through respiratory droplets when an infected person coughs or sneezes, or through contact with contaminated objects or surfaces. Good hygiene practices, such as washing hands frequently, avoiding close contact with sick people, and getting vaccinated, can help prevent respiratory infections. Respiratory infections",
+        "response": "You can prevent respiratory infections by washing your hands frequently, avoiding close contact with sick people, and getting vaccinated."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I have a question about influenza.",
+            "Sure, I'm here to help. What would you like to know?",
+            "What are the symptoms of influenza?",
+            "The initial symptoms are usually fever, chills, headaches, muscle pain, and weakness. These may be accompanied by respiratory symptoms such as a dry cough, sore throat, and runny or stuffy nose. Gastrointestinal symptoms such as nausea, vomiting, and diarrhea may also occur. The standard influenza symptoms typically last for 2-8 days.",
+            "Can influenza be treated?",
+            "There are antiviral medications that can help shorten the duration of the illness and reduce the severity of symptoms, but these medications are most effective when taken within the first 48 hours of symptom onset. Rest, fluids, and pain relievers can also help relieve symptoms.",
+            "Are there any complications of influenza?",
+            "Yes, influenza can lead to pneumonia and other serious complications, especially in young children, the elderly, and people with weakened immune systems.",
+            "Thank you, Medi. That was very helpful."
+        ],
+        "knowledge": "Influenza Influenza is a contagious respiratory illness caused by influenza viruses. The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2-8 days. Influenza can lead to pneumonia and other serious complications, especially in young children, the elderly, and people with weakened immune systems. Influenza",
+        "response": "The symptoms of influenza include fever, chills, headaches, muscle pain, weakness, a dry cough, sore throat, and runny or stuffy nose. Influenza can be treated with antiviral medications, but they are most effective when taken within the first 48 hours of symptom onset. Rest, fluids, and pain relievers can also help relieve symptoms. Influenza can lead to pneumonia and other serious complications, especially in young children, the elderly, and people with weakened immune systems."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm wondering what I can do to aid my recovery.",
+            "Hello, I'm here to help. What kind of surgery did you have?",
+            "I had knee surgery.",
+            "You should rest and keep your leg elevated to reduce swelling. Physical therapy can help you regain strength and mobility. A balanced diet with plenty of protein and vitamins can also aid in your recovery.",
+            "Are there any exercises I can do on my own?",
+            "You can do simple exercises, such as ankle pumps and leg lifts, to improve circulation and prevent blood clots. But be sure to follow your doctor's instructions and avoid any exercises that could put too much strain on your knee.",
+            "What should I avoid eating?",
+            "You should avoid foods that are high in sugar and saturated fats, as they can increase inflammation and slow down the healing process. Instead, focus on eating lean protein, fruits and vegetables, and whole grains.",
+            "Thank you, Medi. I'll follow your advice."
+        ],
+        "knowledge": "Post-surgery recovery Post-surgery recovery involves rest, physical therapy, and a balanced diet. Rest and keeping the affected area elevated can help reduce swelling and promote healing. Physical therapy can help regain strength and mobility. A balanced diet with plenty of protein and vitamins can also aid in recovery. Simple exercises such as ankle pumps and leg lifts can improve circulation and prevent blood clots, but be sure to follow your doctor's instructions. Foods that are high in sugar and saturated fats should be avoided, as they can increase inflammation and slow down the healing process. Instead, focus on eating lean protein, fruits and vegetables, and whole grains. Post-surgery recovery",
+        "response": "You should rest and keep your leg elevated to reduce swelling. Physical therapy can help you regain strength and mobility. A balanced diet with plenty of protein and vitamins can also aid in your recovery. You can do simple exercises, such as ankle pumps and leg lifts, to improve circulation and prevent blood clots. You should avoid foods that are high in sugar and saturated fats, as they can increase inflammation and slow down the healing process. Instead, focus on eating lean protein, fruits and vegetables, and whole grains."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a cough and I am feeling quite unwell",
+            "Hello, sorry to hear that. Can you describe your cough and other symptoms?",
+            "I have a dry cough and feel very tired. My throat is sore and I have a headache",
+            "Okay, based on your symptoms, it could be a respiratory tract infection. You should drink plenty of fluids and get some rest",
+            "Is there anything else I can do to help relieve my symptoms?",
+            "Yes, you can try taking over-the-counter cough medicine, or using a saline nasal spray. If your symptoms persist, seek medical attention.",
+            "Thank you for your advice. I will try these remedies",
+            "You're welcome. I hope you feel better soon.",
+            "Can you tell me more about respiratory tract infections, Medi?"
+        ],
+        "knowledge": "Respiratory Tract Infection Respiratory Tract Infection  Respiratory tract infections are common in both children and adults. They are usually caused by viruses, but may also be caused by bacteria or other microorganisms. Symptoms vary depending on the type of infection, but can include a cough, sore throat, nasal congestion, wheezing, shortness of breath, fever, and body aches. Most respiratory tract infections can be treated with rest, plenty of fluids, and over-the-counter medications to relieve symptoms. However, some infections may require antibiotics. To prevent respiratory tract infections, it is important to practice good hygiene, such as washing your hands frequently and avoiding close contact with people who are sick. Vaccinations are also available for certain types of respiratory infections, such as the flu.",
+        "response": "Can you tell me more about the type of microorganisms that can cause respiratory tract infections?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about asthma",
+            "Sure, I am here to help. What do you want to know?",
+            "What is asthma and what causes it?",
+            "Asthma is a chronic respiratory condition that causes inflammation and narrowing of the airways. The exact cause is not known, but it is thought to be a combination of genetic and environmental factors",
+            "What are some common triggers for asthma?",
+            "Common triggers for asthma include allergens, such as pollen or dust mites, respiratory infections, exercise, cold air, and stress",
+            "Is asthma curable?",
+            "There is no cure for asthma, but it can be managed with proper treatment and lifestyle changes. To manage asthma, it is important to avoid triggers, take medications as prescribed, and monitor your symptoms regularly.",
+            "Thank you for the information, Medi"
+        ],
+        "knowledge": "Asthma Asthma  Asthma is a chronic respiratory condition that causes inflammation and narrowing of the airways. It can cause symptoms such as wheezing, coughing, chest tightness, and shortness of breath. The exact cause of asthma is not known, but it is thought to be a combination of genetic and environmental factors. Common triggers for asthma include allergens, such as pollen or dust mites, respiratory infections, exercise, cold air, and stress. There is no cure for asthma, but it can be managed with proper treatment and lifestyle changes. To manage asthma, it is important to avoid triggers, take medications as prescribed, and monitor your symptoms regularly. ",
+        "response": "Can you explain more about the medications used to manage asthma, Medi?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure and I am unsure about what I can eat",
+            "Hello, what type of procedure did you have?",
+            "I had a colonoscopy",
+            "After a colonoscopy, it is important to follow a specific diet for a short period of time. You should avoid solid foods for a few hours and then start with clear liquids, such as water, apple juice, or broth. After that, you can slowly introduce low-fiber foods, such as cooked vegetables, white bread, and lean protein. Avoid high-fiber foods, fatty foods, and foods that are difficult to digest.",
+            "Are there any foods that can help with the healing process?",
+            "Yes, foods that are high in fiber, such as whole grains, fruits, and vegetables, can help with the healing process. You should also drink plenty of fluids to stay hydrated.",
+            "Thank you for the information, Medi",
+            "You're welcome. Do you have any other questions?"
+        ],
+        "knowledge": "Colonoscopy Colonoscopy  A colonoscopy is a medical procedure that examines the lining of the colon for signs of inflammation, polyps, or cancer. Before the procedure, you will need to follow a specific diet and take medication to prepare your colon for the exam. After the procedure, it is important to follow a specific diet for a short period of time. You should avoid solid foods for a few hours and then start with clear liquids, such as water, apple juice, or broth. After that, you can slowly introduce low-fiber foods, such as cooked vegetables, white bread, and lean protein. Avoid high-fiber foods, fatty foods, and foods that are difficult to digest. Foods that are high in fiber, such as whole grains, fruits, and vegetables, can help with the healing process. You should also drink plenty of fluids to stay hydrated.",
+        "response": "Can you tell me more about the preparation for a colonoscopy, Medi?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been coughing for a week. What should I do?",
+            "Hi there, based on your symptom, it might be a respiratory issue. Please tell me more.",
+            "I have been feeling short of breath and I feel tightness in my chest.",
+            "It seems like you are experiencing some respiratory issues. I suggest you make an appointment to visit the doctor.",
+            "Is there anything else I can do?",
+            "You can try to drink plenty of fluids and get enough rest. Avoid smoking and exposure to tobacco smoke.",
+            "Thank you for your advice, Medi. I will make an appointment with my doctor.",
+            "You're welcome. Remember to follow the doctor's advice and take care of yourself.",
+            "What are the common respiratory problems that might cause these symptoms?"
+        ],
+        "knowledge": "Respiratory Respiratory Respiratory diseases are respiratory tract infections that can affect the sinuses, throat, airways, and lungs. They are common and range from a mild cough to a severe illness, such as pneumonia. Common symptoms include coughing, wheezing, chest tightness, shortness of breath, and fever. Respiratory diseases are usually caused by viruses or bacteria and can be spread from person to person through the air or by touching contaminated surfaces. Some respiratory diseases can be preventable by vaccination or by avoiding contact with sick people. It is important to treat respiratory illnesses promptly to prevent complications and to prevent the spread of the disease to others. Respiratory Respiratory",
+        "response": "Common respiratory problems that might cause these symptoms include asthma, bronchitis, pneumonia, and COVID-19."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about Influenza.",
+            "Hi there, I'm happy to help. What would you like to know about Influenza?",
+            "Can you tell me the symptoms of Influenza?",
+            "The symptoms include fever, chills, cough, sore throat, runny or stuffy nose, body aches, headache, fatigue, and sometimes vomiting and diarrhea.",
+            "How long does Influenza last?",
+            "The symptoms usually last for about a week, but some people may experience fatigue and weakness for several weeks after that.",
+            "How is Influenza treated?",
+            "Influenza is usually treated with antiviral drugs, which can reduce the severity and duration of the illness. It is also important to get plenty of rest and drink lots of fluids.",
+            "Thank you for your answers, Medi. Do you have any other suggestions?"
+        ],
+        "knowledge": "Influenza Influenza Influenza is a viral infection that affects the respiratory system. It is highly contagious and can spread rapidly through populations. The common cold is also a viral infection that affects the respiratory system, but it is usually less severe than Influenza. The symptoms of a cold are similar to those of Influenza, but they tend to be milder and do not include a high fever. The common cold usually lasts for a few days to a week, while the symptoms of Influenza can last for several weeks. Influenza can also cause complications such as pneumonia, which can be life-threatening in some cases. Influenza Influenza",
+        "response": "Influenza is more severe than the common cold and can cause complications such as pneumonia. Influenza symptoms also include high fever, whereas the common cold does not usually cause a high fever."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure. What should I do to take care of myself?",
+            "Hi there, that's great that you are taking steps to take care of yourself after your procedure. What procedure did you have?",
+            "I had a surgery for appendicitis.",
+            "After surgery, it is important to rest and avoid strenuous activity for a few weeks. You should also follow your doctor's instructions about taking any prescribed medications.",
+            "What should I eat after surgery?",
+            "You should try to eat a balanced diet that includes plenty of fruits and vegetables, lean protein, and whole grains. Avoid fatty, fried, or spicy foods, as well as alcohol and caffeine.",
+            "Are there any exercises I can do?",
+            "You should avoid any strenuous activity or heavy lifting for at least 4-6 weeks after surgery. However, you can do some light exercises such as walking or stretching, as long as your doctor gives you the green light.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Appendicitis Appendicitis Appendicitis is an inflammation of the appendix, which is a small pouch attached to the large intestine. It can cause sudden pain in the lower right side of the abdomen, nausea, vomiting, and fever. If left untreated, the appendix can rupture and cause a serious infection called peritonitis. Appendicitis is usually treated with surgery to remove the appendix. After surgery, it is important to rest and avoid strenuous activity for a few weeks. You should also eat a balanced diet and follow your doctor's instructions about taking any prescribed medications. It usually takes a few weeks to fully recover from appendicitis surgery. Appendicitis Appendicitis",
+        "response": "It usually takes a few weeks to fully recover from appendicitis surgery, but it depends on the individual and the specific circumstances of the surgery. Your doctor can give you a better idea of how long it will take for you to recover."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a bad cough and runny nose.",
+            "Hello! Sorry to hear that. How long have you had these symptoms?",
+            "I have had cough for two days and runny nose for a week.",
+            "Do you have sore throat or fever?",
+            "No, just cough and runny nose.",
+            "Based on your symptoms, you might have a common cold. Please drink plenty of fluids and rest.",
+            "Thank you, Medi. Should I take any medicine?",
+            "It is not necessary, but you can take over-the-counter cold medicine if you feel uncomfortable.",
+            "Okay, I'll try that. Thanks!"
+        ],
+        "knowledge": "Common Cold Common Cold Although usually self-limiting, the common cold can cause significant discomfort, including rhinorrhea (runny nose), sneezing, coughing, and sore throat, and can interfere with day-to-day activities.  A cough is the most common symptom of the common cold, often lasting for 3 weeks or more after other symptoms have disappeared.  The common cold is a viral infection of the upper respiratory tract, usually caused by rhinoviruses or coronaviruses.  The incubation period is usually 2 - 3 days, and the duration of symptoms is usually 7 - 10 days.  Most people experience symptoms of the common cold at least once per year. ",
+        "response": " You're welcome! If you feel any worse, then please contact a medical professional."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I had a flu vaccine last week. Is it normal to feel a little unwell after getting the vaccine?",
+            "Hello! It is normal to have mild side effects after getting the flu vaccine. What symptoms are you experiencing?",
+            "I have a sore arm where I got the shot and a slight fever.",
+            "These are common side effects and usually go away within a few days. You can take acetaminophen to relieve the discomfort.",
+            "Okay, thank you. I also heard that flu vaccine is not effective for all types of flu virus. Is that true?",
+            "Yes, that's true. The flu vaccine is designed to protect against the most common strains of the flu virus, but it may not protect against all types.",
+            "I see. Thanks for the information. Does that mean I can still get the flu even though I got the vaccine?",
+            "Yes, it is possible to get the flu even if you got the vaccine, but it will likely be a milder case than if you had not received the vaccine.",
+            "Oh, okay. Thanks for the explanation, Medi."
+        ],
+        "knowledge": "Influenza Vaccine Influenza Vaccine The influenza vaccine is recommended annually for people who are at high risk of complications from the flu, including pregnant women, children, and the elderly, and for those who work in healthcare or other high-risk settings.  The vaccine is designed to protect against the most common strains of the flu virus, but it may not protect against all types.  Side effects of the vaccine are usually mild and go away within a few days.  Common side effects include soreness at the injection site, a low-grade fever, and body aches.  It is still possible to get the flu even if you get the vaccine, but it will likely be a milder case than if you had not received the vaccine.  The influenza vaccine is generally safe and does not cause the flu Influenza Vaccine",
+        "response": "You're welcome! If you have any other questions, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a surgery. Do you have any advice for my recovery?",
+            "Hello! Sure, what type of surgery did you have?",
+            "I had a gallbladder removal surgery.",
+            "Okay, after the surgery, it is important to follow your doctor's instructions regarding activity levels and medication. You should also eat a healthy diet, get plenty of rest, and avoid heavy lifting for a few weeks.",
+            "Thanks, Medi. What kind of diet should I follow?",
+            "You should avoid high-fat foods and eat a balanced diet with plenty of fruits, vegetables, and whole grains. You may also want to avoid spicy or acidic foods for a few days.",
+            "What about physical activity? When can I start exercising again?",
+            "You should start with light activity, such as short walks, a few days after surgery, and gradually increase your activity level as you feel comfortable. Avoid any strenuous activity or heavy lifting for at least two weeks after the surgery.",
+            "Thanks for the advice, Medi. I appreciate it."
+        ],
+        "knowledge": "Gallbladder Removal Surgery Gallbladder Removal Surgery Gallbladder removal surgery, or cholecystectomy, is the removal of the gallbladder, a small organ located under the liver.  After the surgery, it is important to eat a healthy diet and avoid high-fat, spicy or acidic foods for a few days.  You should also avoid heavy lifting for at least two weeks after the surgery and start with light activity, such as short walks, a few days after surgery.  You should follow your doctor's instructions regarding medication and activity levels after the surgery.  Most people recover fully within a few weeks.",
+        "response": "You're welcome! If you have any other questions or concerns, don't hesitate to ask your doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been coughing for a few days now.",
+            "I'm sorry to hear that. Can you describe the symptoms in detail?",
+            "I have a dry cough and my throat is sore. I feel tired and feverish too.",
+            "Based on your symptoms, it's possible that you have a respiratory infection. You should rest and drink plenty of fluids.",
+            "Should I take any medication?",
+            "Over the counter cough syrup may help with the coughing, but it's best to consult with a doctor if your symptoms don't improve.",
+            "Thank you for your help, Medi.",
+            "You're welcome. Take care of yourself and get plenty of rest.",
+            "Medi, can you tell me more about respiratory infections?"
+        ],
+        "knowledge": "Respiratory Infections Respiratory Infections are infections of the respiratory tract. It can be caused by bacteria, viruses, or fungi. Symptoms include coughing, sneezing, sore throat, fever, runny nose, and shortness of breath. The treatment depends on the cause. Antibiotics can help with bacterial infections, while antiviral medication can help with viral infections. Respiratory infections can be prevented by washing hands frequently, avoiding close contact with sick people, covering your mouth when you cough or sneeze, and staying home when you're feeling unwell.",
+        "response": "Respiratory infections can be caused by bacteria, viruses, and fungi. The symptoms include coughing, sneezing, sore throat, fever, runny nose, and shortness of breath. Treatment depends on the cause of the infection and can include antibiotics or antiviral medication. The best way to prevent respiratory infections is to wash your hands frequently and avoid close contact with sick people."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had a minor surgery yesterday. What should I do to recover quickly?",
+            "Congratulations on completing your surgery. It's important to rest and take it easy for a few days.",
+            "What about my diet? Should I eat anything specific?",
+            "You should try to eat healthy and balanced meals to aid in the healing process. Avoid foods that are high in fat and sugar.",
+            "Are there any exercises I should do to help me recover?",
+            "You can try some light stretching and walking. However, it's important to consult with your doctor before starting any exercise routine.",
+            "Thank you, Medi. I will follow your advice.",
+            "You're welcome. Don't hesitate to contact your doctor if you have any concerns.",
+            "Medi, can you tell me more about post-surgical care?"
+        ],
+        "knowledge": "Post-Surgical Care Post-surgical care is the care you receive after surgery. It's important to follow your doctor's instructions to ensure a smooth recovery. Rest is important, as is a healthy and balanced diet. Avoid foods that are high in fat and sugar. Light stretching and walking can help with circulation, but it's important to consult with your doctor before starting any exercise routine. You should also keep the wound clean and dry, and follow any instructions for changing the bandages. If you experience any unusual symptoms, such as fever or severe pain, contact your doctor immediately.",
+        "response": "Post-surgical care involves rest, a healthy diet, light exercise, and keeping the wound clean and dry. It's important to follow your doctor's instructions and contact them immediately if you experience any unusual symptoms such as fever or severe pain."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been experiencing shortness of breath lately. What could be the cause?",
+            "Shortness of breath can be caused by a variety of factors. Have you been experiencing any other symptoms?",
+            "Yes, I have also been coughing and wheezing.",
+            "Based on your symptoms, it's possible that you have asthma or bronchitis. You should consult with a doctor for a proper diagnosis.",
+            "I see. Can I do anything to relieve the symptoms?",
+            "You can try using a humidifier to keep the air moist. Avoid exposure to irritants such as smoke, dust, and pollen. Over the counter medications such as antihistamines or decongestants may also help.",
+            "Thanks, Medi. I will make an appointment with my doctor.",
+            "You're welcome. Don't hesitate to contact me if you have any further questions.",
+            "Medi, can you tell me more about asthma and bronchitis?"
+        ],
+        "knowledge": "Asthma and Bronchitis Asthma and bronchitis are respiratory conditions that can cause shortness of breath, wheezing, and coughing. Asthma is a chronic condition that causes inflammation and narrowing of the airways. Bronchitis is an inflammation of the bronchial tubes that carry air to the lungs. Both conditions can be triggered by irritants such as smoke, dust, and pollen. Treatment for both conditions usually involves medications such as inhalers and steroids. It's important to consult with a doctor for a proper diagnosis and treatment plan.",
+        "response": "Asthma and bronchitis are respiratory conditions that cause shortness of breath, wheezing, and coughing. They can be triggered by irritants such as smoke, dust, and pollen. Treatment usually involves medications such as inhalers and steroids, but it's important to consult with a doctor for a proper diagnosis and treatment plan."
+    }
+]

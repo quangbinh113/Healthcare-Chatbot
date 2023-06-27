@@ -1,0 +1,451 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have a sore throat and fever",
+            "I'm sorry to hear that. How long have you been experiencing those symptoms?",
+            "I have had a sore throat for a few days, and a fever just started today",
+            "I see. Based on your symptoms, you may have a viral infection. I suggest taking acetaminophen for the fever and getting rest. Drink plenty of fluids and gargle with salt water for the sore throat",
+            "Thank you Medi. Is there anything else I can do to feel better?",
+            "Yes, you may also try using a humidifier to moisten the air and soothe your throat. If your symptoms worsen or persist, please see a doctor",
+            "Understood. Can I still go to work?",
+            "It's best if you stay home and rest until you feel better. You don't want to risk spreading the infection to others",
+            "Okay, thank you Medi!"
+        ],
+        "knowledge": "Viral infections Viral infections Symptoms of viral infections include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue. Infected people may also experience gastrointestinal symptoms such as nausea, vomiting, and diarrhea. Treatment usually involves managing symptoms and getting rest. It's important to stay hydrated and avoid spreading the infection to others. Viral infections Viral infections",
+        "response": "You're welcome. Remember to get plenty of rest and stay hydrated. It's best if you stay home and avoid spreading the infection to others"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery on my knee and I'm not sure what kind of exercise I can do",
+            "Hi there. Congratulations on taking steps to improve your health. It's important to start slowly and follow your doctor's recommendations. What kind of surgery did you have?",
+            "I had arthroscopic surgery on my knee to repair a torn meniscus",
+            "I see. For the first few weeks, it's important to focus on gentle exercises that don't put too much strain on your knee. Walking, stationary cycling, and swimming are all good options. Be sure to avoid high-impact activities like running or jumping",
+            "Okay, that makes sense. How long should I wait before doing more intense exercises?",
+            "It varies based on the individual and the type of surgery. Your doctor will give you specific recommendations. You may also want to work with a physical therapist to develop a safe and effective exercise plan",
+            "I understand. What about my diet? Are there any foods I should avoid?",
+            "Eating a balanced diet with plenty of fruits, vegetables, lean protein, and healthy fats can help support your recovery. Avoid processed foods, sugary drinks, and excessive alcohol consumption as these can slow down the healing process",
+            "Thank you for your advice, Medi!"
+        ],
+        "knowledge": "Physical therapy Physical therapy Physical therapy can help patients optimize their recovery after surgery or injury. It typically involves exercises designed to improve strength, flexibility, and range of motion. Physical therapists may also use techniques such as massage or electrical stimulation to relieve pain and improve circulation. In addition to in-person sessions, there are also online resources and apps available to help patients perform exercises at home. Physical therapy Physical therapy",
+        "response": "You're welcome. Remember to always follow your doctor's recommendations and listen to your body as you recover"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been experiencing abdominal pain and diarrhea",
+            "I'm sorry to hear that. When did your symptoms start?",
+            "It started about a week ago and has been getting worse. The diarrhea is frequent and watery",
+            "I see. Have you recently traveled to a foreign country or eaten any questionable foods?",
+            "No, I haven't. I eat a mostly balanced diet and haven't traveled anywhere recently",
+            "Hmm, it's possible that you have a gastrointestinal infection or food poisoning. I recommend staying hydrated and avoiding solid foods for now. Stick to clear liquids like water, tea, and broth. If your symptoms persist or worsen, please see a doctor",
+            "Okay, thank you for your advice. Is there anything else I can do to feel better?",
+            "Yes, you may try taking over-the-counter medication like loperamide to relieve diarrhea. Be sure to read the label and follow the instructions carefully. Get plenty of rest and avoid foods that are known to trigger diarrhea, like dairy or spicy foods",
+            "Understood. Thank you for your help, Medi!"
+        ],
+        "knowledge": "Gastrointestinal infections Gastrointestinal infections Symptoms of gastrointestinal infections include abdominal pain, diarrhea, nausea, vomiting, and fever. In some cases, infections may be caused by contaminated food or water. Treatment usually involves staying hydrated and allowing the infection to run its course. Over-the-counter medication may be used to relieve symptoms if necessary. If symptoms persist or worsen, medical attention may be necessary. Gastrointestinal infections Gastrointestinal infections",
+        "response": "You're welcome. Remember to stay hydrated and avoid solid foods for now. If your symptoms persist or worsen, please see a doctor"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a cough and a fever.",
+            "Hello, I'll be happy to help you. How long have you had these symptoms?",
+            "I think I've had them for 3 days now.",
+            "Alright. Have you traveled anywhere recently or been in contact with anyone who has tested positive for COVID-19?",
+            "No travel, but I had contact with a friend who had COVID-19 a week ago.",
+            "I suggest you take a COVID-19 test and isolate yourself until you get the results.",
+            "Okay, thanks for your advice. Is there anything else I need to do?",
+            "Make sure to drink plenty of fluids and rest. If the symptoms get worse, seek medical attention immediately.",
+            "Thanks, Medi. I'll follow your advice."
+        ],
+        "knowledge": "COVID-19 COVID-19 The most common symptoms of COVID-19 are fever, cough, and tiredness.  Other symptoms that are less common and may affect some patients include aches and pains, sore throat, diarrhoea, conjunctivitis, headache, loss of taste or smell or a rash on skin or discolouration of fingers or toes.  These symptoms are usually mild and begin gradually.  Some people become infected but only have very mild symptoms.  Most people (about 80%) recover from the disease without needing hospital treatment.  Around 1 out of every 5 people who gets COVID-19 becomes seriously ill and develops difficulty breathing.  Older people, and those with underlying medical problems like high blood pressure, heart and lung problems, diabetes, or cancer, are at higher risk of developing serious illness.  However, anyone can get sick with COVID-19 and become seriously ill or die at any age.",
+        "response": "I suggest you take a COVID-19 test and isolate yourself until you get the results."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I just had my appendix removed.",
+            "Hello. I hope you're feeling okay. You should avoid any strenuous activity for at least 4 weeks.",
+            "How about my diet? Do I need to follow a specific diet?",
+            "Yes. You should eat small, frequent meals and avoid fatty, spicy, or greasy foods.",
+            "What kind of physical activity should I do?",
+            "You should start with light activity, such as walking, and gradually increase the intensity as you feel comfortable.",
+            "How about the wound care? Do I need to change the bandage?",
+            "Yes, you should change the bandage daily and keep the wound clean and dry.",
+            "Thanks, Medi. Is there anything else I need to know?"
+        ],
+        "knowledge": "Appendix removal Appendix removal After surgery, it's important to avoid any strenuous activity for at least 4 weeks.  You should eat small, frequent meals and avoid fatty, spicy, or greasy foods to help prevent digestive problems.  Gradually increasing physical activity, such as light walking, will help you recover faster.  You should change the bandage daily and keep the wound clean and dry to prevent infection.  It's important to monitor your symptoms and contact your doctor if you experience any fever, pain, or redness at the incision site.  Most people can return to normal activities within 2-4 weeks after surgery.",
+        "response": "It's important to monitor your symptoms and contact your doctor if you experience any fever, pain, or redness at the incision site."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I'm feeling really tired lately.",
+            "Hello. Sorry to hear that. Have you been getting enough sleep?",
+            "Yes, I've been sleeping for 8 hours every night.",
+            "Have you been exercising regularly?",
+            "No, I haven't. I've been mostly sitting at my desk all day.",
+            "You should try to exercise for at least 30 minutes every day or 150 minutes per week.",
+            "Okay, I'll try that. How about my diet?",
+            "Eating a balanced diet with plenty of fruits and vegetables can also help boost your energy levels.",
+            "Thanks, Medi. Is there anything else I can do?"
+        ],
+        "knowledge": "Fatigue Fatigue Feeling tired or fatigued can be caused by many factors, including lack of sleep, poor diet, and lack of exercise.  Exercising regularly can increase your energy levels and improve your overall health.  Eating a balanced diet with plenty of fruits and vegetables can also help boost your energy levels.  It's important to stay hydrated and avoid caffeine and alcohol, which can disrupt your sleep.",
+        "response": "Make sure to stay hydrated and avoid caffeine and alcohol, which can disrupt your sleep."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms. Can you help me?",
+            "Yes, please tell me the symptoms you are experiencing right now",
+            "I have a fever and cough with difficulty breathing.",
+            "Based on these symptoms, you may have contracted COVID-19",
+            "How can I treat COVID-19?",
+            "COVID-19 is a viral infection and there is no specific treatment, but rest and plenty of fluids can help alleviate symptoms.",
+            "Can you tell me how to prevent COVID-19?",
+            "Yes, you can prevent COVID-19 by washing your hands frequently, wearing a mask, maintaining social distance, and avoiding crowded places.",
+            "Thanks for your help, Medi. How long does it take to recover from COVID-19?"
+        ],
+        "knowledge": "COVID-19 COVID-19 COVID-19 is caused by SARS-CoV-2, a highly contagious virus.  Symptoms can range from mild to severe and typically include fever, cough, and difficulty breathing. COVID-19 is primarily spread through respiratory droplets when an infected person speaks, coughs, or sneezes.  There is no specific treatment for COVID-19, but rest and plenty of fluids can help alleviate symptoms.  COVID-19 can be prevented by washing your hands frequently, wearing a mask, maintaining social distance, and avoiding crowded places.  Recovery time can vary based on the severity of the infection and an individual's overall health. COVID-19 COVID-19",
+        "response": "Recovery time can vary depending on the severity of the infection and the individual's overall health. For most people, it takes around two weeks to recover from COVID-19."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I want to know more about hepatitis C?",
+            "Sure, I'm here to help you. What would you like to know about hepatitis C?",
+            "How does someone get hepatitis C?",
+            "Hepatitis C is usually spread through contact with the blood of an infected person. This can happen by sharing needles or other equipment used to inject drugs.",
+            "What are the symptoms of hepatitis C?",
+            "Most people with hepatitis C have no symptoms, but some people may experience fatigue, fever, and jaundice.",
+            "Is there any way to prevent hepatitis C?",
+            "Yes, you can prevent hepatitis C by avoiding sharing needles or other equipment used to inject drugs.",
+            "Thank you for your help, Medi. Can hepatitis C be cured?"
+        ],
+        "knowledge": "Hepatitis C Hepatitis C Hepatitis C is a viral infection that leads to liver inflammation.  It is usually spread through contact with the blood of an infected person.  Most people with hepatitis C have no symptoms, but some people may experience fatigue, fever, and jaundice.  Hepatitis C can be prevented by avoiding sharing needles or other equipment used to inject drugs.  There is no vaccine for hepatitis C, but there are effective treatments available that can cure the infection in most cases. Hepatitis C Hepatitis C",
+        "response": "Yes, hepatitis C can be cured. There are effective treatments available that can cure the infection in most cases."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery and want to know how to take care of myself",
+            "Sure, I can help you with that. What kind of surgery did you have?",
+            "I had a surgery on my knee.",
+            "After surgery, it's important to follow your doctor's instructions for pain management and physical therapy.",
+            "Can you suggest some exercises for me?",
+            "Sure, some exercises you can do after knee surgery include leg lifts, hamstring curls, and calf raises.",
+            "Do I need to change my diet after surgery?",
+            "It's important to eat a well-balanced diet that includes plenty of protein to help your body heal properly.",
+            "Thanks for your help, Medi. How long will it take for me to recover from surgery?"
+        ],
+        "knowledge": "Postoperative care Postoperative care After surgery, it's important to follow your doctor's instructions for pain management and physical therapy.  Some exercises you can do after knee surgery include leg lifts, hamstring curls, and calf raises.  It's important to eat a well-balanced diet that includes plenty of protein to help your body heal properly.  Recovery time can vary depending on the type of surgery and an individual's overall health. Postoperative care Postoperative care",
+        "response": "Recovery time can vary depending on the type of surgery and an individual's overall health. However, for knee surgery, it usually takes several weeks to a few months to recover completely."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I have contracted an infectious disease",
+            "Hello patient, what symptoms are you experiencing?",
+            "I have a cough, fever, and body aches",
+            "Based on your symptoms, it could be the flu. You should rest and drink fluids.",
+            "Should I take any medications?",
+            "Antiviral drugs can help if taken early in the course of the illness. Consult with your doctor.",
+            "Thank you for your advice. How do infectious agents affect the host's body?",
+            "Infectious agents multiply and produce toxins that damage host cells and tissues.",
+            "How can I prevent the spread of the disease to others?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The organism that is the target of an infecting action of a specific infectious agent is called the host.  The host harbouring an agent that is in a mature or sexually active stage phase is called the definitive host.  The intermediate host comes in contact during the larvae stage.  A host can be anything living and can attain to asexual and sexual reproduction. \nThe clearance of the pathogens, either treatment-induced or spontaneous, it can be influenced by the genetic variants carried by the individual patients.  For instance, for genotype 1 hepatitis C treated with Pegylated interferon-alpha-2a or Pegylated interferon-alpha-2b  combined with ribavirin, it has been shown that genetic polymorphisms near the human IL28B gene, encoding interferon lambda 3, are associated with significant differences in the treatment-induced clearance of the virus.  This finding, originally reported in Nature, showed that genotype 1 hepatitis C patients carrying certain genetic variant alleles near the IL28B gene are more possibly to achieve sustained virological response after the treatment than others Infectious diseases Infectious diseases",
+        "response": "You can prevent the spread of the disease by covering your mouth when coughing, washing your hands frequently, and avoiding close contact with others until you feel better."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure. What lifestyle changes should I make?",
+            "Hello patient, what procedure did you have?",
+            "I had a hip replacement surgery last week.",
+            "You should avoid activities that put stress on your new hip. Physical therapy can also help you regain strength and mobility",
+            "What about my diet?",
+            "You should aim for a balanced diet that includes plenty of fruits, vegetables, lean proteins, and whole grains. Limiting sodium and unhealthy fats can also be beneficial.",
+            "Thank you for your advice. What is the clearance of pathogens?",
+            "The clearance of pathogens refers to the process by which the body eliminates infectious agents. This can be due to treatment or the body's natural defenses.",
+            "Can genetic factors influence clearance of pathogens?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The organism that is the target of an infecting action of a specific infectious agent is called the host.  The host harbouring an agent that is in a mature or sexually active stage phase is called the definitive host.  The intermediate host comes in contact during the larvae stage.  A host can be anything living and can attain to asexual and sexual reproduction. \nThe clearance of the pathogens, either treatment-induced or spontaneous, it can be influenced by the genetic variants carried by the individual patients.  For instance, for genotype 1 hepatitis C treated with Pegylated interferon-alpha-2a or Pegylated interferon-alpha-2b  combined with ribavirin, it has been shown that genetic polymorphisms near the human IL28B gene, encoding interferon lambda 3, are associated with significant differences in the treatment-induced clearance of the virus.  This finding, originally reported in Nature, showed that genotype 1 hepatitis C patients carrying certain genetic variant alleles near the IL28B gene are more possibly to achieve sustained virological response after the treatment than others Infectious diseases Infectious diseases",
+        "response": "Certain genetic variants can impact how effective treatment is for hepatitis C, for example."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I want to ask about obesity",
+            "Hello patient, what would you like to know?",
+            "What lifestyle changes can help me manage my weight?",
+            "Eating a balanced diet that is rich in fruits, vegetables, and whole grains can help. Exercise and physical activity are also important.",
+            "Can you give me some tips about my diet?",
+            "Try to limit your intake of sugary and fatty foods. Eating smaller portions and drinking plenty of water can also be helpful.",
+            "Thank you. Is obesity a common problem?",
+            "Yes, obesity is a major public health issue that affects many people.",
+            "What steps can society take to address this problem?"
+        ],
+        "knowledge": "Obesity Obesity Obesity is a complex public health and policy problem because of its prevalence, costs, and health effects.  As such, managing it requires changes in the wider societal context and effort by communities, local authorities, and governments.  Public health efforts seek to understand and correct the environmental factors responsible for the increasing prevalence of obesity in the population.  Solutions look at changing the factors that cause excess food energy consumption and inhibit physical activity.  Efforts include federally reimbursed meal programs in schools, limiting direct junk food marketing to children, and decreasing access to sugar-sweetened beverages in schools.  The World Health Organization recommends the taxing of sugary drinks.  When constructing urban environments, efforts have been made to increase access to parks and to develop pedestrian routes Obesity Obesity",
+        "response": "You can start making changes to your lifestyle by setting realistic goals and making small changes, like taking a walk after dinner or substituting a healthy snack for a high-calorie one."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I've been feeling unwell lately and I don't know why",
+            "Hi, I'm here to help. Can you tell me more about your symptoms?",
+            "I have a fever, fatigue, and sore throat. It's been going on for 3 days now",
+            "Based on your symptoms, it is possible that you have a viral infection. I recommend you to get some rest and stay hydrated",
+            "That sounds good. Is there anything I should avoid?",
+            "Yes, you should avoid going out and interacting with others to prevent the spread of the virus",
+            "I see. Thank you for your advice, Medi",
+            "You're welcome. Take care and stay safe!",
+            "One more question, how long should I expect to feel like this?"
+        ],
+        "knowledge": "Viral Infection A viral infection is a disease caused by a virus. There are many types of viruses that can cause a viral infection, and the symptoms can range from mild to severe. The symptoms of a viral infection can include fever, fatigue, headache, muscle aches, coughing, and sore throat. Viral infections are usually spread from person to person through contact with infected bodily fluids or by inhaling airborne droplets from an infected person's cough or sneeze. The best way to prevent a viral infection is to practice good hygiene, such as washing your hands frequently and avoiding close contact with people who are sick. Viral Infection",
+        "response": "The symptoms of viral infections usually last for 5-10 days, but it depends on the severity of the infection and how fast your body can fight off the virus"
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I have some questions about hepatitis C",
+            "Sure, I'm here to help. What do you want to know?",
+            "What are the symptoms of hepatitis C?",
+            "The symptoms of hepatitis C can be mild or severe and can include fever, fatigue, joint pain, muscle aches, nausea, vomiting, loss of appetite, and jaundice",
+            "Is hepatitis C contagious?",
+            "Yes, hepatitis C is contagious and can be spread through contact with the blood of an infected person",
+            "How can you prevent hepatitis C?",
+            "You can prevent hepatitis C by avoiding contact with infected blood, using protection during sex, not sharing needles or other equipment used for injecting drugs, and getting vaccinated against hepatitis B",
+            "I see. Thank you for your help, Medi"
+        ],
+        "knowledge": "Hepatitis C Hepatitis C is a viral infection that causes inflammation of the liver. It is spread through contact with infected blood. Many people with hepatitis C do not have any symptoms, but some may experience fatigue, nausea, and loss of appetite. Chronic hepatitis C can lead to liver damage, cirrhosis, and liver cancer. Hepatitis C can be prevented by avoiding contact with infected blood and getting vaccinated against hepatitis B. Treatment for hepatitis C can include antiviral medications and lifestyle changes. With treatment, many people with hepatitis C can be cured Hepatitis C",
+        "response": "Yes, hepatitis C can be cured with antiviral medications. The cure rate depends on the severity of the infection and how well you respond to the treatment"
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I just had surgery and I'm not sure what I should do now",
+            "Hello. I'm here to help. What kind of surgery did you have?",
+            "I had a hernia surgery",
+            "After hernia surgery, it's important to rest and avoid physical activity that could strain the incision site. You should also follow your doctor's instructions on how to care for the incision site",
+            "What about my diet?",
+            "You should eat a healthy and balanced diet to promote healing and avoid constipation. You should also drink plenty of water to stay hydrated",
+            "I see. When can I start exercising again?",
+            "You should wait at least 4-6 weeks before resuming physical activity and exercise. It's important to start slowly and gradually increase the intensity and duration of your exercise",
+            "Thank you for your advice, Medi"
+        ],
+        "knowledge": "Post-Surgery Care After surgery, it's important to take care of yourself to promote healing and prevent complications. Some common post-surgery care instructions include resting and avoiding physical activity, following your doctor's instructions on caring for the incision site, eating a healthy and balanced diet, drinking plenty of water to stay hydrated, and taking any prescribed medications as directed. Signs of complications after surgery can include fever, increased pain or swelling, redness or discharge from the incision site, and difficulty breathing. If you experience any of these symptoms, you should contact your doctor immediately Post-Surgery Care",
+        "response": "Signs of complications after surgery can include fever, increased pain or swelling, redness or discharge from the incision site, and difficulty breathing. If you experience any of these symptoms, you should contact your doctor immediately"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling unwell. I have a fever and sore throat.",
+            "Hi, sorry to hear that. How long have you been feeling this way?",
+            "It's been a couple of days already.",
+            "Based on your symptoms, it's possible that you have a viral infection. Have you taken your temperature lately?",
+            "Yes, my temperature was 101.2 degrees Fahrenheit.",
+            "That's high. Make sure to get plenty of rest and drink lots of fluids. If the fever persists for more than a few days or if your symptoms worsen, you should see a doctor.",
+            "Okay, I'll do that. Is there anything else I can do to feel better?",
+            "You can take over-the-counter pain relievers like acetaminophen or ibuprofen to help reduce your fever and relieve any pain or discomfort. And don't forget to gargle salt water to relieve your sore throat.",
+            "Thank you, Medi. I appreciate your help."
+        ],
+        "knowledge": "Viral infections Viral infections A viral infection is a type of infection caused by a virus. Viruses can infect any type of living organism, from humans and animals to plants and bacteria. Common symptoms of a viral infection include fever, coughing, sore throat, fatigue, body aches, and diarrhea. Viral infections can be spread through contact with bodily fluids, such as saliva, blood, or semen, or through contact with contaminated surfaces or objects. Treatment for viral infections typically involves rest, fluids, and over-the-counter pain relievers. In some cases, antiviral medications may be prescribed to help reduce the severity and duration of the illness. Viral infections can vary in severity from mild to life-threatening.",
+        "response": "You're welcome. Take care and get plenty of rest and fluids."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a rash on my arm and it's very itchy.",
+            "Hi there, I can help you with that. Can you describe the rash to me?",
+            "It's a red, bumpy rash and it's on my left arm.",
+            "Okay, it's possible that you have contact dermatitis, which is an allergic reaction to something that your skin came into contact with. Have you been exposed to any new products or substances recently?",
+            "Now that you mention it, I did use a new laundry detergent a few days ago.",
+            "That could be the cause. Try using a fragrance-free laundry detergent and avoid using any new products on your skin. You can also apply over-the-counter hydrocortisone cream to help relieve the itching and redness. If the rash persists or spreads, you should see a doctor.",
+            "Thanks, Medi. I'll try that.",
+            "You're welcome. Let me know if you have any other questions or concerns."
+        ],
+        "knowledge": "Contact dermatitis Contact dermatitis Contact dermatitis is a type of skin inflammation that occurs when the skin comes into contact with an irritating substance or an allergen. Common irritants include soaps, detergents, and cleaning products, while common allergens include latex, nickel, and poison ivy. Symptoms of contact dermatitis include redness, swelling, itching, and blistering. Treatment for contact dermatitis typically involves identifying and avoiding the irritant or allergen, applying topical corticosteroids to reduce inflammation, and taking oral antihistamines to relieve itching. In severe cases, prescription medications may be necessary to control the symptoms.",
+        "response": "You're welcome. I hope the rash goes away soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what I should do to recover.",
+            "Hello. I'm here to help. What kind of surgery did you have?",
+            "I had a knee replacement surgery.",
+            "Okay, after knee replacement surgery, it's important to keep your leg elevated and apply ice to the surgical site to reduce swelling and pain. You should also avoid any strenuous activities and follow your doctor's instructions for physical therapy exercises.",
+            "That makes sense. How long will it take for me to recover?",
+            "It can take several weeks to several months to fully recover from knee replacement surgery. It's important to follow your doctor's instructions and attend all physical therapy sessions to ensure a successful recovery.",
+            "That sounds like a long time. Is there anything I can do to speed up the recovery process?",
+            "You can focus on eating a healthy diet and staying active within the limits of your doctor's instructions. This will help to improve your overall health and aid in the healing process. And don't forget to get plenty of rest!",
+            "Thanks for the advice, Medi. I appreciate your help."
+        ],
+        "knowledge": "Knee replacement surgery Knee replacement surgery Knee replacement surgery is a procedure in which a damaged or worn knee joint is replaced with an artificial joint made of metal and plastic. The surgery is typically performed to relieve pain and improve mobility in patients with arthritis or other degenerative conditions affecting the knee. After knee replacement surgery, patients typically need to stay in the hospital for a few days and then continue their recovery at home. Recovery time can vary depending on the patient's age, overall health, and the extent of the surgery. Physical therapy is an important part of the recovery process and can help patients regain strength, flexibility, and range of motion in their knee. It's important to follow your doctor's instructions and attend all physical therapy sessions to ensure a successful recovery.",
+        "response": "You're welcome. Take care and best of luck with your recovery!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms and want your advice.",
+            "Sure, What are the symptoms you're experiencing?",
+            "I have a high fever, cough and difficulty breathing",
+            "Have you traveled outside recently?",
+            "Yes, I just came back from overseas last week",
+            "Based on your symptoms and travel history, you could be at risk for Covid-19",
+            "What should I do now?",
+            "You should self-isolate at home and get tested for Covid-19",
+            "How can I prevent spreading the virus to others?"
+        ],
+        "knowledge": "COVID-19 COVID-19 The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat, or diarrhea. These symptoms are usually mild and begin gradually. Some people become infected but don't develop any symptoms and don't feel unwell. Most people (about 80%) recover from the disease without needing special treatment. Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness. People with fever, cough and difficulty breathing should seek medical attention. COVID-19 COVID-19",
+        "response": "You can prevent spreading the virus by wearing a mask, washing your hands frequently, and avoiding close contact with others."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have some concerns about my recent surgery",
+            "What kind of surgery did you have?",
+            "I had my gallbladder removed",
+            "Okay, how long ago was your surgery?",
+            "It was about two weeks ago",
+            "You should be taking care of your incision site and avoiding heavy lifting or strenuous exercise",
+            "Is there anything else I need to know?",
+            "You may experience some digestive symptoms such as diarrhea or loose stools while your body adjusts to the change",
+            "What should I do if I have any complications?"
+        ],
+        "knowledge": "Gallbladder removal Gallbladder removal After gallbladder surgery, some symptoms such as abdominal pain and cramping may occur. You may also experience diarrhea and changes in bowel habits, such as chronic diarrhea. In most cases, the diarrhea stops soon after the surgery. However, in some cases, it may last for up to several months. Surgery can damage the bile ducts, leading to bile leakage, which can cause abdominal pain, nausea, fever, and can be life-threatening. If you have any complications, you should contact your doctor immediately. Gallbladder removal Gallbladder removal",
+        "response": "If you experience any complications, you should contact your doctor immediately."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I want some advice for staying healthy",
+            "Sure, Do you have any specific concerns?",
+            "I don't have any specific concerns, but I want to know how I can stay healthy",
+            "A healthy diet, regular exercise, and good sleep are important for maintaining good health",
+            "What are some specific foods I should eat?",
+            "You should eat a balanced diet that includes fruits, vegetables, whole grains, lean protein, and healthy fats",
+            "What kind of exercise should I do?",
+            "Any type of exercise is good for your health, but you should aim for at least 30 minutes of moderate exercise most days of the week",
+            "What else can I do to stay healthy? "
+        ],
+        "knowledge": "Staying healthy Staying healthy Maintaining a healthy lifestyle is important for preventing chronic diseases such as heart disease, diabetes, and cancer. A healthy diet should include a variety of fruits, vegetables, whole grains, lean protein, and healthy fats. Regular exercise can improve your mood, decrease your risk of chronic disease, and help you maintain a healthy weight. Getting enough sleep is also important for your overall health. You should aim for 7-8 hours of sleep each night. Limiting alcohol intake and avoiding smoking are also important for good health. Staying healthy Staying healthy",
+        "response": "You should limit your alcohol intake and avoid smoking for good health."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm not feeling well, I have a fever and a cough",
+            "Hello, I'm here to help. How long have you had these symptoms?",
+            "For a day now.",
+            "Have you traveled anywhere recently or come in contact with someone who has?",
+            "Yes, I came from a business trip just 2 days ago.",
+            "Based on your symptoms and recent travel history, it may be best to get tested for COVID-19.",
+            "Oh no, that's worrying. What should I do next?",
+            "You should self-isolate and contact a healthcare provider for further testing and advice.",
+            "Alright, thank you so much Medi. I'll do that."
+        ],
+        "knowledge": "COVID-19 COVID-19 The most commonly reported symptoms in COVID-19 patients are fever, cough, and shortness of breath.  These symptoms can range from mild to severe and can appear 2-14 days after exposure to the virus.  COVID-19 is highly infectious and can spread easily from person to person through respiratory droplets.  People who have recently traveled or come into contact with someone who has COVID-19 are at an increased risk of contracting the virus. COVID-19 COVID-19",
+        "response": "You should self-isolate and contact a healthcare provider for further testing and advice."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I'm not sure what's wrong",
+            "Hello, I'm here to help. What symptoms are you experiencing?",
+            "I've been feeling tired all the time, and I have a lot of joint pain",
+            "How long have you been experiencing these symptoms?",
+            "For a few weeks now",
+            "Based on your symptoms, it could be possible that you have rheumatoid arthritis. I'd recommend seeing a doctor for a proper diagnosis.",
+            "Oh no, that's worrying. What are the treatments available?",
+            "There are a variety of treatments available including medications that can reduce inflammation and joint damage, physical therapy, and lifestyle changes. A doctor can help you determine the best course of action for your specific case.",
+            "Alright, thank you so much Medi. I'll make an appointment right away."
+        ],
+        "knowledge": "Rheumatoid Arthritis Rheumatoid Arthritis Rheumatoid arthritis is a chronic inflammatory disorder that can affect more than just your joints.  In some people, the condition can damage a wide variety of body systems, including the skin, eyes, lungs, heart, and blood vessels.  Signs and symptoms of rheumatoid arthritis may include fatigue, fever, weight loss, joint pain, stiffness, and swelling.  Symptoms can range from mild to severe and can come and go over time. Rheumatoid Arthritis Rheumatoid Arthritis",
+        "response": "There are a variety of treatments available including medications that can reduce inflammation and joint damage, physical therapy, and lifestyle changes. A doctor can help you determine the best course of action for your specific case."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just had surgery. Do you have any advice for my recovery?",
+            "Hello, I'm here to help. What type of surgery did you have?",
+            "I had a hip replacement surgery.",
+            "It's important to rest and allow your body to heal. You should also follow your doctor's instructions for physical therapy and exercise to help with your recovery.",
+            "What about my diet?",
+            "A healthy diet with plenty of fruits and vegetables can help with the healing process. It's also important to stay hydrated and avoid foods that may interfere with any medications you may be taking.",
+            "Thanks for the advice Medi, but how long will it take to recover from this surgery?",
+            "Recovery time can vary, but it typically takes about 3-6 months to fully recover from hip replacement surgery. It's important to follow your doctor's instructions and take things slowly to avoid further injury.",
+            "I understand, thank you for your help."
+        ],
+        "knowledge": "Hip Replacement Surgery Hip Replacement Surgery Hip replacement surgery is a procedure in which a surgeon removes a damaged or diseased hip joint and replaces it with an artificial joint.  Recovery time can vary depending on a variety of factors including age, overall health, and the extent of the damage to the joint.  It's important to follow your doctor's instructions for physical therapy and exercise to help with your recovery. Hip Replacement Surgery Hip Replacement Surgery",
+        "response": "Recovery time can vary, but it typically takes about 3-6 months to fully recover from hip replacement surgery. It's important to follow your doctor's instructions and take things slowly to avoid further injury."
+    },
+    {
+        "dialog": [
+            "Hi Medi, my throat is sore and I feel very tired.",
+            "I'm sorry to hear that. Can you tell me more about your symptoms?",
+            "Besides the sore throat and fatigue, I have a headache and a bit of a fever.",
+            "Have you been around anyone who has been sick?",
+            "Yes, my coworker has been coughing and sneezing all week.",
+            "Based on your symptoms and exposure to a sick coworker, you may have a viral infection. I recommend rest and staying hydrated.",
+            "Is there anything over-the-counter I can take?",
+            "You can take acetaminophen for the fever and headache, and lozenges for the sore throat.",
+            "Thank you, Medi. How long do you think it will take for me to feel better?"
+        ],
+        "knowledge": "Viral Infections Viral infections are caused by a virus that can spread from person to person or by touching a contaminated surface. Common symptoms include fever, headache, sore throat, fatigue, and body aches. Treatment is generally focused on managing symptoms and supporting the body's immune system to fight off the infection. It can take several days to several weeks to fully recover from a viral infection, depending on the severity of the illness.",
+        "response": "It can take several days to several weeks to fully recover from a viral infection, depending on the severity of the illness."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I just had a biopsy and I'm feeling a bit anxious about the results.",
+            "I understand how you feel. When did you have the biopsy?",
+            "I had it yesterday, and the doctor said the results would be in next week.",
+            "It's normal to feel anxious while waiting for results. It's important to try to stay calm and take care of yourself in the meantime.",
+            "What can I do to take care of myself?",
+            "You can try to distract yourself with activities you enjoy, practice relaxation techniques like deep breathing or meditation, and make sure to eat nutritious foods and get enough rest.",
+            "What if the results come back positive?",
+            "If the results come back positive, your doctor will discuss treatment options with you. It's important to stay positive and know that there are many effective treatments available for a variety of conditions.",
+            "Thank you, Medi. I'll try to stay positive and take care of myself."
+        ],
+        "knowledge": "Biopsy A biopsy is a medical procedure used to collect a small sample of tissue for examination under a microscope. It is often used to help diagnose conditions like cancer or infections. Biopsies can be done using a needle or during surgery. Results from a biopsy can take several days to several weeks to be processed and analyzed by a laboratory.",
+        "response": "Results from a biopsy can take several days to several weeks to be processed and analyzed by a laboratory."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I was just diagnosed with type 2 diabetes. What should I do?",
+            "I'm sorry to hear that. The most important thing to do is to manage your blood sugar levels through lifestyle changes and medication if necessary.",
+            "What kind of lifestyle changes should I make?",
+            "You can start by eating a healthy, balanced diet that is low in sugar and high in fiber. Exercise is also important for managing blood sugar levels and improving overall health.",
+            "What about medication?",
+            "Your doctor may prescribe medication to help manage your blood sugar levels. It's important to take any medication as directed and to monitor your blood sugar regularly.",
+            "Can I still eat my favorite foods?",
+            "You can still enjoy your favorite foods, but it's important to eat them in moderation and to balance them with healthy foods.",
+            "Thank you, Medi. What should I do if I have more questions?"
+        ],
+        "knowledge": "Type 2 Diabetes Type 2 diabetes is a chronic condition in which the body is unable to properly use insulin, a hormone that regulates blood sugar levels. It is often caused by lifestyle factors like obesity and lack of exercise, but it can also have a genetic component. Treatment for type 2 diabetes typically involves lifestyle changes like diet and exercise, as well as medication to manage blood sugar levels.",
+        "response": "You can schedule an appointment with your doctor or a registered dietitian who can provide more personalized advice."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and a cough. What should I do?",
+            "Hello! I recommend getting plenty of rest and taking over-the-counter fever reducers.",
+            "What if it doesn't work?",
+            "If your symptoms worsen, contact your doctor for further evaluation",
+            "Got it, should I wear a mask?",
+            "Yes, to prevent the spread of infection, always wear a mask when you're in public spaces or around others.",
+            "Thank you for your advice. How long should I wear a mask?",
+            "You should wear a mask until your symptoms have completely resolved and you are no longer contagious.",
+            "What kind of illness do you think I have, Medi?"
+        ],
+        "knowledge": "Respiratory infections Respiratory infections Respiratory infections are caused by many types of microorganisms, including viruses, bacteria, and fungi. The most common symptoms of respiratory infections include cough, fever, and shortness of breath. They can be spread through the air by coughing or sneezing, touching a surface with contaminated hands, or coming into contact with bodily fluids. Respiratory infections can be prevented by practicing good hygiene, such as washing hands frequently and avoiding close contact with sick people. Treatment varies depending on the cause of the infection and can include antiviral or antibiotic medication as well as over-the-counter symptom relief.",
+        "response": "Based on your symptoms of fever and cough, it's possible that you have a respiratory infection. However, it's important to consult with your doctor for a definitive diagnosis and treatment."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what to do next.",
+            "Hello! It's important to rest and take it easy for the next few days after surgery.",
+            "When can I start exercising again?",
+            "It's important to wait until your doctor clears you for exercise. This may take several weeks depending on the type of surgery you had.",
+            "What kind of food should I eat?",
+            "A healthy and balanced diet is important for the healing process. Eat plenty of vegetables, protein, and whole grains.",
+            "Can I take over-the-counter pain medication?",
+            "It's best to follow your doctor's instructions for pain relief, but yes, over-the-counter pain medication may be appropriate in some cases.",
+            "Thank you for your help, Medi. Is there anything else I should be doing?"
+        ],
+        "knowledge": "Surgical recovery Surgical recovery Recovering from surgery can take time and patience. It's important to follow all of your doctor's instructions for post-surgical care, including taking any prescribed medications, getting plenty of rest, and avoiding strenuous activity. Be sure to take care of any wounds or incisions as directed and attend all follow-up appointments. Return to work time depends on many different factors, including the type of surgery you had and your job responsibilities. ",
+        "response": "Returning to work after surgery depends on many factors, such as the type of surgery you had and your job responsibilities. You should consult with your doctor for any necessary restrictions and a timeline for returning to work."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling really stressed lately and don't know what to do.",
+            "Hello! I recommend taking some time for self-care activities such as meditation or exercise.",
+            "What if that doesn't help?",
+            "If your stress continues to interfere with your daily life, it may be helpful to talk to a therapist or counselor.",
+            "What kind of exercise should I do?",
+            "Any type of exercise that you enjoy and can fit into your schedule is great for stress relief. Consider yoga, running, or swimming.",
+            "What else can I do to relieve stress?",
+            "Other activities that may help relieve stress include journaling, spending time outdoors, or engaging in a creative hobby.",
+            "Thanks for the advice, Medi. Can stress affect my physical health?"
+        ],
+        "knowledge": "Stress Stress Stress is a natural response to life's challenges, but chronic stress can have negative effects on your physical and mental health. Self-care activities such as exercise and meditation can help alleviate stress. Other activities that may help include journaling, spending time outdoors, or engaging in a creative hobby. If your stress continues to interfere with your daily life, it may be helpful to talk to a therapist or counselor.",
+        "response": "Making lifestyle changes such as improving sleep habits, reducing caffeine and alcohol intake, and practicing time-management skills can help reduce stress levels."
+    }
+]

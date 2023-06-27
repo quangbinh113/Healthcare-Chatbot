@@ -1,0 +1,452 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I think I have some kind of infection.",
+            "Oh, I'm sorry to hear that. What kind of symptoms do you have?",
+            "I have a fever, a cough and chest pains.",
+            "It sounds like you might have a respiratory infection. Have you been in contact with anyone who is sick?",
+            "Yes, my coworker was sick last week and I had to work closely with them.",
+            "That could be the cause. You should stay home and rest, and try to avoid contact with others.",
+            "Do you think I need to see a doctor?",
+            "It would be best to see a doctor to get a proper diagnosis and treatment. ",
+            "Alright, thank you for your help, Medi."
+        ],
+        "knowledge": "Respiratory infections Respiratory infections  Symptoms of respiratory infection can include fever, cough, chest pain, and shortness of breath.  Viral respiratory infections are spread by droplets from sneezing or coughing or contact with contaminated surfaces.  Bacterial respiratory infections can also occur but are less common.  Treatment for respiratory infections depends on the cause.  Rest, hydration, and proper nutrition are important.  Over-the-counter medications can help relieve symptoms but antibiotics are not effective against viral infections and may be harmful if overprescribed.  Prevention measures include vaccines, hand hygiene, and avoiding contact with sick individuals Respiratory infections Respiratory infections",
+        "response": "Yes, it is best to see a doctor to get a proper diagnosis and treatment."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been diagnosed with high blood pressure. What should I do?",
+            "I'm sorry to hear that. The first step is to change your lifestyle.",
+            "What kind of changes should I make?",
+            "You should eat a healthy diet, exercise regularly, maintain a healthy weight, and quit smoking.",
+            "Okay, I will try to make those changes. Do I need to take medication?",
+            "That depends on your blood pressure levels and overall health. Your doctor will determine if medication is necessary.",
+            "Are there any risks associated with high blood pressure?",
+            "Yes, high blood pressure can lead to heart disease, stroke, and kidney failure. It's important to manage it properly.",
+            "Thank you for your advice, Medi. I will work on making those lifestyle changes."
+        ],
+        "knowledge": "High blood pressure High blood pressure  Lifestyle changes are the first step in treating high blood pressure.  These include eating a healthy diet, exercising regularly, maintaining a healthy weight, and quitting smoking.  Medication may be necessary depending on blood pressure levels and overall health.  High blood pressure can lead to serious health problems such as heart disease, stroke, and kidney failure.  It's important to manage it properly to prevent these complications. High blood pressure High blood pressure",
+        "response": "You're welcome. Remember to make those lifestyle changes and consult with your doctor to determine if medication is necessary."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery. What should I do to recover?",
+            "Congratulations on completing your surgery. The first step is to follow your doctor's instructions closely.",
+            "What kind of instructions will they give me?",
+            "They will likely give you instructions on managing pain, wound care, physical activity, and medication.",
+            "Okay, I will make sure to follow their instructions. Is there anything else I should do?",
+            "Yes, it's important to maintain a healthy diet, stay hydrated, get rest, and avoid stressful situations.",
+            "How long will it take for me to recover?",
+            "Recovery time varies depending on the type of surgery and the individual. Your doctor will give you a better estimate.",
+            "Thank you for your advice, Medi. I will make sure to take care of myself during my recovery."
+        ],
+        "knowledge": "Post-surgery recovery Post-surgery recovery  Following doctor's instructions is important for a successful recovery after surgery.  These instructions may include managing pain, wound care, physical activity, and medication.  It's also important to maintain a healthy diet, stay hydrated, get rest, and avoid stressful situations.  Recovery time varies depending on the type of surgery and the individual.  It's important to be patient and take care of yourself during the recovery process. Post-surgery recovery Post-surgery recovery",
+        "response": "You're welcome. Remember to follow your doctor's instructions closely, maintain a healthy diet, stay hydrated, get rest, and avoid stressful situations to ensure a successful recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I seem to have some symptoms recently",
+            "Hello, I am here to help. What are the symptoms you are experiencing?",
+            "I have been having fever and a cough for a few days now",
+            "It seems like you may have a respiratory infection. It could be a common cold or something else. Do you have any other symptoms?",
+            "Yes, I feel very tired and weak most of the day",
+            "Based on your symptoms, it could be the flu or COVID-19. You should get a test to be sure.",
+            "What should I do while I'm waiting for my test results?",
+            "You should isolate yourself and rest until you receive your test results. If you have trouble breathing or your symptoms get worse, go to the hospital.",
+            "Thank you for your advice, Medi. I will follow your advice."
+        ],
+        "knowledge": "Respiratory Infections Respiratory Infections Respiratory infections are most commonly caused by viruses or bacteria.  Symptoms of lower respiratory tract infections typically include a cough, phlegm production, and shortness of breath.  Upper respiratory tract infections usually involve the common cold and symptoms include a runny or blocked nose, sore throat, headaches, muscle aches, and a cough.  COVID-19 is a highly contagious respiratory illness caused by the SARS-CoV-2 virus.  Symptoms include fever, cough, fatigue, and shortness of breath.  It can lead to severe respiratory illness and death, especially in older adults or people with underlying medical conditions. Respiratory Infections Respiratory Infections",
+        "response": "I think you may have a respiratory infection. It could be the flu or COVID-19. You should get a test to be sure."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about sexually transmitted infections",
+            "Hi there! I'm here to help. What do you want to know?",
+            "How can I protect myself from getting a sexually transmitted infection?",
+            "The best way to protect yourself is to practice safe sex. This means using a condom during sex, getting tested regularly, and being honest with your partner about your sexual history.",
+            "What if I already have an STI?",
+            "If you have an STI, it's important to get treated as soon as possible. Many STIs can be cured with antibiotics, but some are more serious and can have long-term health consequences.",
+            "Can I still have sex if I have an STI?",
+            "It depends on the STI. Some STIs are curable with antibiotics and you can still have sex after treatment. Others, like HIV, are a lifelong condition that require ongoing treatment and prevention measures.",
+            "Thank you, Medi. This has been very helpful."
+        ],
+        "knowledge": "Sexually Transmitted Infections Sexually Transmitted Infections Sexually transmitted infections (STIs) are infections that spread through sexual contact.  The most common STIs include chlamydia, gonorrhea, syphilis, herpes, and human papillomavirus (HPV).  The best way to protect yourself from STIs is to practice safe sex. This means using condoms during sex, getting tested regularly, and being honest with your partner about your sexual history.  If you have an STI, it's important to get treated as soon as possible. Many STIs can be cured with antibiotics, but some are more serious and can have long-term health consequences. Sexually Transmitted Infections Sexually Transmitted Infections",
+        "response": "The best way to protect yourself from STIs is to practice safe sex. This means using condoms during sex, getting tested regularly, and being honest with your partner about your sexual history."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a medical procedure done and I want to know how to take care of myself",
+            "Hello! I'm here to help. What procedure did you have done?",
+            "I had surgery to remove my gallbladder",
+            "After surgery, it's important to rest and take it easy for a few days. You should also eat a healthy diet and drink plenty of fluids to help your body heal.",
+            "Will I have any restrictions on what I can eat or do?",
+            "You may have some dietary restrictions for a few weeks after surgery. Your doctor will let you know what foods to avoid. You should also avoid strenuous activity for a few weeks to allow your body to heal.",
+            "What about pain management?",
+            "Your doctor will prescribe pain medication to help manage any pain you have after surgery. Be sure to take it as directed and don't hesitate to contact your doctor if you have any questions or concerns.",
+            "Thank you, Medi. I'll be sure to follow my doctor's instructions."
+        ],
+        "knowledge": "Surgery Surgery Surgery is a medical procedure that involves making a cut in the body to explore or repair an organ or tissue.  After surgery, it's important to rest and take it easy for a few days. You should also eat a healthy diet and drink plenty of fluids to help your body heal.  Your doctor will prescribe pain medication to help manage any pain you have after surgery. Be sure to take it as directed and don't hesitate to contact your doctor if you have any questions or concerns. Surgery Surgery",
+        "response": "After surgery, it's important to rest and take it easy for a few days. You should also eat a healthy diet and drink plenty of fluids to help your body heal."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and my body feels weak.",
+            "Sorry to hear that. Have you taken your temperature?",
+            "Yes, it's 38 degrees. What should I do?",
+            "Based on your symptoms, it's possible that you have an infection. I suggest you rest and stay hydrated.",
+            "Do I need medication?",
+            "It depends on the cause of your fever. If it's due to a bacterial infection, antibiotics may be necessary. But if it's due to a viral infection, antibiotics won't help.",
+            "I see. What else can I do to help myself?",
+            "You can take over-the-counter medication for fever and pain relief. But make sure to follow the instructions and not exceed the recommended dosage.",
+            "Thank you, Medi. How long should I wait before seeking medical attention if my condition doesn't improve?"
+        ],
+        "knowledge": "Fever Fever  Fever is a common sign of infection or inflammation. It is usually caused by an increase in body temperature in response to an infection or other condition. The normal temperature range for adults is between 36.5\u00b0C and 37.5\u00b0C (97.7\u00b0F and 99.5\u00b0F), but fever is generally defined as a temperature above 38\u00b0C (100.4\u00b0F). Fever is usually a sign that the body is fighting an infection, but it can also be a symptom of other conditions such as autoimmune disorders, cancer, and drug reactions. Treatment of a fever depends on the underlying cause, but generally includes rest, hydration, and medication for fever and pain relief.",
+        "response": "If your condition doesn't improve in a few days, it's best to seek medical attention to rule out any complications and get the necessary treatment."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about vaccines.",
+            "Sure, what would you like to know?",
+            "I'm worried about the side effects of vaccines. Are they really safe?",
+            "Yes, vaccines are generally safe and effective. The side effects are usually mild and temporary, such as soreness at the injection site or a mild fever. Serious side effects are rare and are closely monitored by medical professionals.",
+            "But I heard that some vaccines can cause autism in children.",
+            "That is a common misconception, but there is no scientific evidence to support that claim. The study that suggested a link between vaccines and autism has been debunked and retracted.",
+            "Oh, I see. So vaccines are really important to prevent diseases, right?",
+            "Yes, vaccines are one of the most effective ways to prevent infectious diseases and protect public health. They have helped to eliminate or reduce the prevalence of many deadly diseases, such as polio and smallpox.",
+            "That's good to know. Thank you, Medi. I'll make sure to get vaccinated."
+        ],
+        "knowledge": "Vaccines Vaccines  Vaccines are biological preparations that provide active acquired immunity to a particular disease. They contain a weakened or inactivated form of the virus or bacteria that causes the disease, or a piece of the virus or bacteria that triggers an immune response. When a person is vaccinated, their immune system produces antibodies that recognize and fight off the disease-causing agent. Vaccines are one of the most effective ways to prevent infectious diseases and protect public health. They have helped to eliminate or reduce the prevalence of many deadly diseases, such as polio and smallpox. Serious side effects from vaccines are rare and are closely monitored by medical professionals.",
+        "response": "Yes, getting vaccinated is an important step in protecting yourself and others from infectious diseases."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery and I'm not sure what to do next.",
+            "Congratulations on making it through the surgery. What type of surgery did you have?",
+            "I had a knee replacement surgery.",
+            "Okay, after surgery it's important to take care of yourself and follow your doctor's instructions for recovery.",
+            "What kind of instructions should I follow?",
+            "You should rest and elevate your leg as much as possible to reduce swelling. You should also do the exercises recommended by your physical therapist to improve your range of motion and strengthen your leg muscles.",
+            "What about my diet and medications?",
+            "You should follow a healthy and balanced diet to support your recovery. Your doctor will also prescribe pain medication and antibiotics if necessary.",
+            "How long will it take for me to recover?"
+        ],
+        "knowledge": "Surgery Surgery  Surgery is a medical procedure that is performed to diagnose, treat, or cure a disease or condition. It involves making incisions in the body and manipulating the tissues or organs to achieve the desired outcome. Surgery can be performed for a variety of reasons, such as to remove a tumor, repair a broken bone, or replace a damaged joint. Recovery from surgery depends on the individual and the type of surgery, but generally involves rest, physical therapy, and medication. It's important to follow your doctor's instructions for a successful recovery.",
+        "response": "You're welcome. Remember to take it easy and let your body heal. If you have any concerns or questions, don't hesitate to contact your doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a sore throat and a fever.",
+            "I am sorry to hear that. Do you have a cough too?",
+            "Yes, I have a dry cough and I feel tired too.",
+            "Based on your symptoms, it looks like you might have a respiratory infection.",
+            "What should I do now?",
+            "Drink plenty of fluids, get rest, and take over-the-counter pain relievers. If your symptoms get worse, go see a doctor.",
+            "Thank you. Can you tell me how to prevent respiratory infections?",
+            "Wash your hands frequently, avoid contact with sick people, and wear a mask when necessary.",
+            "Thank you, Medi. How long does a respiratory infection usually last?"
+        ],
+        "knowledge": "Respiratory infections Respiratory infections Respiratory infections are caused by viruses or bacteria that affect the respiratory system. Common symptoms include cough, sore throat, runny nose, fever, and fatigue. The common cold is the most frequent respiratory infection, but there are also flu, RSV, and pneumonia. These infections are spread through contact with infected people, respiratory secretions, or contaminated surfaces. The best ways to prevent respiratory infections are frequent hand washing, avoiding contact with sick people, and staying home when you are sick. Most respiratory infections resolve on their own within a week or two, but in some cases, they can lead to serious complications",
+        "response": "Most respiratory infections resolve on their own within a week or two, but in some cases, they can lead to serious complications."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I heard that there is a new virus called COVID-19. Can you tell me more about it?",
+            "Sure, COVID-19 is a new virus that emerged in 2019 and caused a global pandemic.",
+            "What are the symptoms of COVID-19?",
+            "The most common symptoms are fever, dry cough, and tiredness. Some people may also have aches and pains, sore throat, and diarrhea.",
+            "How is COVID-19 spread?",
+            "It is mainly spread through respiratory droplets when an infected person talks, coughs, or sneezes. It can also be spread by touching a contaminated surface and then touching your face.",
+            "Is there a treatment for COVID-19?",
+            "There is no specific treatment for COVID-19, but supportive care can help relieve symptoms. Vaccines are also available to prevent COVID-19 and reduce its severity.",
+            "How effective are the COVID-19 vaccines?"
+        ],
+        "knowledge": "COVID-19 COVID-19 COVID-19 is a new virus that emerged in 2019 and caused a global pandemic. The most common symptoms are fever, dry cough, and tiredness. It spreads mainly through respiratory droplets when an infected person talks, coughs, or sneezes. It can also be spread by touching a contaminated surface and then touching your face. There is no specific treatment for COVID-19, but supportive care can help relieve symptoms. Vaccines are available to prevent COVID-19. The COVID-19 vaccines are highly effective at preventing severe illness, hospitalization, and death.",
+        "response": "To protect yourself from COVID-19, you should wear a mask, practice social distancing, avoid crowds, and wash your hands frequently."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery and I am not sure what I should do now.",
+            "I am sorry to hear that. What type of surgery did you have?",
+            "I had a knee replacement surgery.",
+            "After the surgery, you should rest and avoid putting weight on your new knee. You should also do physical therapy to help your knee regain strength and flexibility.",
+            "What type of physical therapy should I do?",
+            "Your physical therapist will design a program for you based on your needs and abilities. You will likely do exercises to improve your range of motion, strengthen your muscles, and improve your balance.",
+            "Is there anything I should avoid doing?",
+            "You should avoid activities that put stress on your new knee, such as running, jumping, and high-impact sports. You should also avoid sitting for long periods of time and crossing your legs.",
+            "Thank you. How long does it take to recover from knee replacement surgery?"
+        ],
+        "knowledge": "Knee replacement surgery Knee replacement surgery Knee replacement surgery is a common surgical procedure to replace a damaged or worn knee joint with an artificial joint. After the surgery, patients need to rest and do physical therapy to help their knee regain strength and flexibility. Physical therapy includes exercises to improve range of motion, strengthen muscles, and improve balance. Patients should avoid activities that put stress on their new knee, such as running, jumping, and high-impact sports. Recovery time varies for each person, but it usually takes several months to fully recover.",
+        "response": "To speed up your recovery, you should follow your physical therapy program, eat a healthy diet, and get plenty of rest. You should also avoid smoking and excessive drinking, as they can slow down the healing process."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been feeling sick for the past few days.",
+            "I'm sorry to hear that. Can you tell me what symptoms you have?",
+            "I have a fever, cough, and body aches.",
+            "It sounds like you may have the flu. Have you been vaccinated?",
+            "No, I haven't.",
+            "You should go get vaccinated, but in the meantime, get plenty of rest and drink fluids.",
+            "Okay, I'll do that. Thanks, Medi!",
+            "You're welcome. Let me know if you need anything else.",
+            "Sure. Are there any home remedies you can recommend to help ease my symptoms?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Drinking plenty of fluids and getting rest can help ease your symptoms. You can also try inhaling steam and gargling salt water."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm worried about my frequent headaches.",
+            "I'm sorry to hear that. Can you describe your headaches?",
+            "They usually start in the morning and feel like a dull pressure. I also sometimes feel nauseous.",
+            "It sounds like you may be experiencing tension headaches. Have you been under a lot of stress lately?",
+            "Yes, I have been very stressed lately.",
+            "Stress can definitely cause tension headaches. I recommend trying to reduce your stress levels through relaxation techniques and exercise.",
+            "Okay, I'll try those. Thank you, Medi.",
+            "You're welcome. Let me know if you have any other questions.",
+            "Actually, I was wondering if there are any over-the-counter medications that can help with my headaches."
+        ],
+        "knowledge": "Tension headaches Tension headaches Tension headaches are the most common type of headache.  They are often described as a constant band-like pain around the head, with a feeling of pressure.  Tension headaches are often caused by stress or anxiety, and can also be caused by poor posture or eye strain.  Treatment usually involves relaxation techniques, stress reduction, and pain relievers such as aspirin or ibuprofen.  In some cases, prescription medications may be necessary Tension headaches Tension headaches",
+        "response": "Yes, you can try taking aspirin or ibuprofen for your headaches, but be sure to follow the recommended dosage and check with your doctor if you have any concerns."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a medical procedure done and I'm not sure what my diet and physical activity should look like now.",
+            "I can help you with that. What kind of procedure did you have?",
+            "I had a stent put in.",
+            "After having a stent put in, it's important to maintain a healthy diet and get regular exercise to prevent further heart problems.",
+            "What kind of diet should I be following?",
+            "You should aim to eat a diet that is low in saturated and trans fats, cholesterol, and sodium, and high in fiber, fruits, and vegetables.",
+            "Okay, that makes sense. What about exercise?",
+            "You should aim to get at least 30 minutes of moderate exercise per day, such as brisk walking or cycling. Be sure to check with your doctor before starting any exercise program.",
+            "Got it. Thanks for the advice, Medi!"
+        ],
+        "knowledge": "Stents Stents A stent is a small, metal mesh tube that is used to prop open a narrowed or blocked artery.  After having a stent put in, it is important to maintain a healthy diet and get regular exercise to prevent further heart problems.  You should aim to eat a diet that is low in saturated and trans fats, cholesterol, and sodium, and high in fiber, fruits, and vegetables.  You should also aim to get at least 30 minutes of moderate exercise per day, such as brisk walking or cycling.  Be sure to check with your doctor before starting any exercise program Stents Stents",
+        "response": "Yes, you should avoid foods that are high in saturated and trans fats, cholesterol, and sodium, such as fried foods, processed meats, and packaged snacks."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and a headache, what should I do?",
+            "Please take a rest and drink a lot of water. You can also try taking paracetamol for the fever.",
+            "And if it doesn't get better, should I come to the hospital?",
+            "If your fever lasts for more than three days, or if your headache gets worse, you should come to the hospital. ",
+            "Okay, thank you for your advice. I will try to take care of myself.",
+            "You're welcome. Take care of yourself and get well soon.",
+            "Medi, how can I avoid getting a fever and headache in the first place?",
+            "Getting enough sleep, eating healthy, and washing your hands regularly can help prevent getting sick.",
+            "Good to know. Thank you for the advice."
+        ],
+        "knowledge": "Fever Fever Fever is a common sign of illness and is part of the body's natural response to an infection.  In most cases, fever is a symptom of an underlying condition, such as a cold or flu.  Symptoms of a fever may include chills, sweating, headache, muscle aches, and fatigue.  Most fevers are not dangerous and will go away on their own without treatment.  However, if a fever is very high or lasts for a long time, medical attention may be required. Fever Fever",
+        "response": "You're welcome. I hope you feel better soon."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a rash on my arm that has been bothering me.",
+            "Can you describe the rash? Does it itch or hurt?",
+            "It's itchy, and it looks like small, red bumps.",
+            "It sounds like a contact dermatitis rash. Have you been in contact with anything new recently?",
+            "Yes, I just started using a new laundry detergent.",
+            "That could be the cause of the rash. Try switching to a different laundry detergent and see if the rash clears up.",
+            "Okay, I'll try that. Thank you for your help.",
+            "You're welcome. Let me know if the rash doesn't get better.",
+            "Medi, what other things should I avoid to prevent getting a rash?"
+        ],
+        "knowledge": "Rash Rash A rash is a change in the skin's appearance, which may involve redness, swelling, itching, or other symptoms.  Rashes can be caused by many things, including allergies, infections, and irritants.  Most rashes are not dangerous and will go away on their own without treatment.  However, some rashes may require medical attention, especially if they are accompanied by other symptoms such as fever or difficulty breathing.  Treatment for a rash may include over-the-counter creams or lotions, prescription medications, or home remedies. Rash Rash",
+        "response": "You're welcome. I hope your rash clears up soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a surgery, and I'm not sure what to do next.",
+            "First, you need to follow any instructions your doctor gave you. Rest and avoid any strenuous activities for a while.",
+            "Okay. What about my diet?",
+            "You should eat healthy foods and drink plenty of water to help your body recover. Avoid foods that are difficult to digest or may cause constipation.",
+            "I see. What about exercise?",
+            "You should avoid any strenuous exercise or heavy lifting for a while. But light exercise like walking can help speed up your recovery.",
+            "Got it. Thank you for your advice.",
+            "You're welcome. Let me know if you have any other questions.",
+            "Medi, how long will it take for me to recover fully?"
+        ],
+        "knowledge": "Surgery Surgery Surgery is a medical procedure that involves cutting or otherwise manipulating the body to treat or diagnose a condition.  Surgery can be performed for a variety of reasons, including to remove tumors, correct deformities, or repair injuries.  Recovery time after surgery can vary depending on the type of surgery and the individual patient's response to it.  Generally, it is important to follow any instructions given by your doctor to ensure a full and speedy recovery. Surgery Surgery",
+        "response": "You're welcome. I hope you have a speedy recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and a cough. What should I do?",
+            "Based on your symptoms, you may have a respiratory infection. I suggest you rest and drink plenty of fluids.",
+            "Is there anything else I should do?",
+            "Yes, take over-the-counter medication such as acetaminophen or ibuprofen to help reduce your fever. If the symptoms persist, you should see a doctor.",
+            "Can I still go to work?",
+            "No, I suggest you stay home to avoid spreading the infection to others.",
+            "Okay, I'll do that. Thanks, Medi.",
+            "You're welcome! Take care of yourself.",
+            "What is a respiratory infection exactly?"
+        ],
+        "knowledge": "Respiratory infections Respiratory infections  Respiratory infections are infections that affect the respiratory system, including the nose, throat, sinuses, and lungs. They can be caused by a virus, bacteria, or fungi. Common symptoms include coughing, fever, sore throat, runny or stuffy nose, and difficulty breathing. Respiratory infections can be transmitted through droplets from coughing or sneezing, or by touching an infected surface and then touching your mouth, nose, or eyes. Treatment depends on the cause of the infection and may include rest, fluids, over-the-counter medication to relieve symptoms, and antibiotics for bacterial infections. The best way to prevent respiratory infections is to wash your hands frequently and avoid close contact with people who are sick. Respiratory infections Respiratory infections",
+        "response": "A respiratory infection affects the respiratory system, including the nose, throat, sinuses, and lungs. It can be caused by a virus, bacteria, or fungi."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm having trouble sleeping. What can I do?",
+            "I'm sorry to hear that. Good sleep is important for your health. Have you tried any remedies?",
+            "I've tried counting sheep and taking deep breaths, but they don't work.",
+            "You may want to consider trying relaxation techniques such as meditation or yoga before bed.",
+            "I've never tried those before. How do they work?",
+            "They can help calm your mind and relax your body, making it easier to fall asleep. You can find instructional videos online to get started.",
+            "That sounds like a good idea. Thanks, Medi!",
+            "You're welcome! Let me know how it works for you.",
+            "Are there any other remedies for sleep problems?"
+        ],
+        "knowledge": "Sleep problems Sleep problems  Sleep problems can be caused by a variety of factors, including stress, anxiety, depression, medications, and medical conditions such as sleep apnea. To improve your sleep, it's important to establish a consistent sleep schedule, avoid stimulating activities before bed, create a comfortable sleep environment, and limit caffeine and alcohol intake. Relaxation techniques such as meditation or yoga can also be helpful. In some cases, medication may be prescribed to treat underlying medical conditions or sleep disorders. If you are experiencing chronic sleep problems, it's important to discuss them with your doctor. Sleep problems Sleep problems",
+        "response": "Yes, establishing a consistent sleep schedule, avoiding stimulating activities before bed, creating a comfortable sleep environment, and limiting caffeine and alcohol intake can also help with sleep problems. In some cases, medication may be prescribed to treat underlying medical conditions or sleep disorders."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery. What should I do to recover?",
+            "Congratulations on making it through the surgery! It's important to rest and take it easy for a few days.",
+            "How long do I need to rest?",
+            "It depends on the type of surgery and your individual circumstances. Your doctor will give you specific instructions.",
+            "Do I need to take any medication?",
+            "Your doctor may prescribe pain medication or antibiotics to prevent infection. Make sure to take them as directed.",
+            "What about physical activity?",
+            "Your doctor may recommend gentle exercises or physical therapy to help with your recovery. Don't push yourself too hard and listen to your body.",
+            "Thanks for the advice, Medi. I'll make sure to follow my doctor's instructions."
+        ],
+        "knowledge": "Physical therapy Physical therapy  Physical therapy is a type of rehabilitation that uses exercises and other techniques to help patients recover from injuries or illnesses. It can help improve mobility, strength, balance, and coordination, as well as reduce pain and inflammation. Physical therapy is often used after surgery to help patients regain function and prevent complications such as blood clots or muscle weakness. A physical therapist will work with you to develop a personalized treatment plan based on your specific needs and goals. Treatment may include exercises, stretches, massage, heat or cold therapy, and other techniques. Physical therapy Physical therapy",
+        "response": "Physical therapy is a type of rehabilitation that uses exercises and other techniques to help patients recover from injuries or illnesses. It can help improve mobility, strength, balance, and coordination, as well as reduce pain and inflammation. It is often used after surgery to help patients regain function and prevent complications such as blood clots or muscle weakness."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and coughing a lot.",
+            "I see, those are common symptoms of respiratory tract infections.",
+            "What should I do now?",
+            "You should rest and drink plenty of fluids, and if your fever is high then take some medication to reduce it.",
+            "How long will it take before I feel better?",
+            "It depends on the severity of the infection, but usually the symptoms will start to improve after a few days.",
+            "I am worried about getting infected again. What can I do to prevent it?",
+            "You can protect yourself by washing your hands regularly, wearing a mask in crowded places, and avoiding close contact with sick people.",
+            "Thanks, Medi. What are the most common respiratory infections?"
+        ],
+        "knowledge": "Respiratory infections Respiratory infections Respiratory tract infections are any infection of the respiratory tract, which includes the nose, sinuses, pharynx, larynx, trachea, bronchi, and lungs.  The most common respiratory tract infections are the common cold, the flu, and pneumonia.  Symptoms of respiratory tract infections vary depending on the type and severity of the infection, but may include fever, coughing, sore throat, nasal congestion or discharge, body aches, and fatigue.  Respiratory tract infections can be caused by bacteria, viruses, or other microorganisms, and can be spread through the air, touch, or other means. Respiratory infections Respiratory infections",
+        "response": "The most common respiratory infections are the common cold, the flu, and pneumonia."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about diabetes.",
+            "Sure, what would you like to know?",
+            "What causes diabetes?",
+            "Diabetes can be caused by a combination of genetic and lifestyle factors.",
+            "What are the most common symptoms of diabetes?",
+            "The most common symptoms of diabetes are frequent urination, increased thirst, increased hunger, fatigue, and blurred vision.",
+            "How can you prevent diabetes?",
+            "You can prevent or delay the onset of diabetes by maintaining a healthy weight, eating a balanced diet, and getting regular exercise.",
+            "Thanks, Medi. What are the different types of diabetes?"
+        ],
+        "knowledge": "Diabetes Diabetes Diabetes is a group of metabolic disorders characterized by high blood sugar levels over a prolonged period of time.  The two main types of diabetes are type 1 diabetes and type 2 diabetes.  Type 1 diabetes is an autoimmune disorder in which the body's immune system attacks and destroys the insulin-producing cells of the pancreas.  Type 2 diabetes is a metabolic disorder in which the body becomes resistant to insulin or doesn't produce enough insulin.  Gestational diabetes is a type of diabetes that occurs during pregnancy. Diabetes Diabetes",
+        "response": "The two main types of diabetes are type 1 diabetes and type 2 diabetes, and gestational diabetes is a type of diabetes that occurs during pregnancy."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I am not sure what to do next.",
+            "What type of surgery did you have?",
+            "I had heart surgery.",
+            "In that case, it's important that you follow a heart-healthy diet, get regular exercise, and take any medications your doctor prescribes.",
+            "How long will it take for me to recover?",
+            "The recovery time for heart surgery varies depending on the type of surgery, but it can take several weeks or months to fully recover.",
+            "Are there any activities I should avoid?",
+            "You should avoid any strenuous activities or heavy lifting for several weeks after surgery, and avoid smoking and drinking alcohol.",
+            "Thanks, Medi. What are some signs that I should call my doctor?"
+        ],
+        "knowledge": "Heart surgery Heart surgery Heart surgery is a medical procedure performed to treat heart problems, such as coronary artery disease, heart valve disease, and congenital heart defects.  The most common types of heart surgery are coronary artery bypass grafting (CABG), heart valve replacement or repair, and heart transplant.  Recovery from heart surgery can take several weeks or months, and it's important to follow your doctor's instructions for post-surgery care.  Signs that you should call your doctor include fever, chest pain, shortness of breath, swelling, and bleeding. Heart surgery Heart surgery",
+        "response": "Signs that you should call your doctor include fever, chest pain, shortness of breath, swelling, and bleeding"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever, headache, and sore throat",
+            "I'm sorry to hear that. Do you have any other symptoms?",
+            "No, I don't think so. But, what do you think is wrong with me?",
+            "Based on your symptoms, it's likely that you have a cold or flu. I suggest resting and drinking plenty of fluids",
+            "Should I take any medicine?",
+            "If your symptoms become unbearable, you can take over-the-counter pain relief. But, it's best to let your body fight the virus naturally",
+            "I understand. Thank you for your help, Medi.",
+            "You're welcome. Remember to rest and drink plenty of fluids",
+            "What are the best fluids to drink?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Water, herbal teas, coconut water, and broth are all good choices to drink when you are sick."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling tired and dizzy lately",
+            "I see. Are you experiencing any other symptoms?",
+            "Yes, I also have a headache and my vision seems blurry at times",
+            "Have you been getting enough sleep? And how much water do you drink per day?",
+            "I try to get 7-8 hours of sleep per night, but I don't drink enough water throughout the day",
+            "Dehydration could be the cause of your symptoms. Try to drink more water and see if that helps. If not, you should see a doctor",
+            "Thank you for your advice, Medi. I'll try that",
+            "You're welcome. Take care of yourself and stay hydrated",
+            "What are some other symptoms of dehydration?"
+        ],
+        "knowledge": "Dehydration Dehydration  Symptoms of dehydration include thirst, dry mouth, dark urine, headache, fatigue, dizziness, confusion, dry skin, and rapid heartbeat.  In severe cases, dehydration can lead to heat exhaustion or heat stroke.  Infants and young children are especially susceptible to dehydration due to their smaller body weight and higher turnover of water and electrolytes.  Preventing dehydration involves drinking plenty of fluids, especially water, and avoiding excessive sweating through reducing exposure to high temperatures and humidity and avoiding overexertion.  Sports drinks can also be useful for preventing dehydration during strenuous exercise. Dehydration Dehydration",
+        "response": "Other symptoms of dehydration can include dry mouth, dark urine, dry skin, and rapid heartbeat."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm concerned about infectious diseases and how they spread",
+            "That's a valid concern. What specifically would you like to know?",
+            "I'm curious about how we can prevent infectious diseases from spreading",
+            "There are several ways to prevent the spread of infectious diseases, such as washing your hands regularly, avoiding close contact with sick individuals, keeping surfaces clean, and covering your mouth and nose when you cough or sneeze",
+            "What about vaccinations? Are they effective?",
+            "Yes, vaccinations are a very effective way to prevent the spread of infectious diseases. They work by stimulating the immune system to produce antibodies that fight specific viruses or bacteria. It's important to stay up-to-date on your vaccinations to protect yourself and those around you",
+            "I'll make sure to keep that in mind. Thank you for your advice, Medi",
+            "You're welcome. Stay safe and healthy",
+            "Can you explain more about antibodies and how they work?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  This may be due high pathogen load favoring avoidance of other groups, which may reduce pathogen transmission, or a high pathogen load preventing the creation of large settlements and armies that enforce a common culture.  Higher pathogen load is also associated with more restricted sexual behavior, which may reduce pathogen transmission.  It also associated with higher preferences for health and attractiveness in mates.  Higher fertility rates and shorter or less parental care per child is another association that may be a compensation for the higher mortality rate.  There is also an association with polygyny which may be due to higher pathogen load, making selecting males with a high genetic resistance increasingly important.  Higher pathogen load is also associated with more collectivism and less individualism, which may limit contacts with outside groups and infections.  There are alternative explanations for at least some of the associations although some of these explanations may in turn ultimately be due to pathogen load Infectious diseases Infectious diseases",
+        "response": "Antibodies are proteins produced by the immune system in response to an infection or vaccination. They recognize and neutralize specific viruses or bacteria, preventing them from infecting cells or causing disease."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been having fever and body aches for a few days.",
+            "I see, have you checked your temperature and do you have any other symptoms?",
+            "My temperature is 38.5 and I am feeling very weak and tired.",
+            "Based on your symptoms, you may have a viral infection. You should rest and drink plenty of fluids.",
+            "Do I need to take any medication?",
+            "You can take some over-the-counter pain relievers like paracetamol or ibuprofen to reduce your fever and pain.",
+            "Alright. Is there anything else I should do?",
+            "You should stay home and avoid contact with other people to prevent the spread of the virus.",
+            "How long will it take for me to recover?"
+        ],
+        "knowledge": "Viral infections Viral infections  Symptoms of viral infections vary depending on the type of virus and the part of the body affected. Common symptoms include fever, body aches, cough, sore throat, and runny nose. Treatment for viral infections is usually supportive, with rest and fluids recommended. Over-the-counter pain relievers like paracetamol or ibuprofen can be used to reduce fever and pain. Viral infections are spread through contact with bodily fluids or contaminated surfaces. To prevent the spread of viral infections, it is important to wash your hands frequently and avoid contact with sick people. Viral infections usually clear up on their own within a week or two. ",
+        "response": "It usually takes about a week or two for viral infections to clear up on their own. Drink plenty of fluids and rest as much as possible."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am experiencing shortness of breath and chest pain.",
+            "I see, have you had these symptoms before?",
+            "No, this is the first time.",
+            "You should go to the emergency room immediately. These symptoms could be a sign of a serious condition.",
+            "What could it be?",
+            "It's difficult to say without an examination, but it could be a heart attack or a pulmonary embolism.",
+            "Oh my, what should I do in the meantime?",
+            "Try to keep calm and take deep breaths. If the pain and shortness of breath get worse, call an ambulance.",
+            "Okay, thank you for your help. "
+        ],
+        "knowledge": "Heart attack and pulmonary embolism Heart attack and pulmonary embolism  Symptoms of a heart attack include chest pain, shortness of breath, and nausea. A heart attack is a medical emergency and requires immediate treatment. Treatment options include medication, angioplasty, and bypass surgery. Pulmonary embolism is a blockage in one of the pulmonary arteries in the lungs. Symptoms include chest pain, shortness of breath, and coughing up blood. Pulmonary embolism is a medical emergency and requires immediate treatment. Treatment options include blood thinners and surgery. ",
+        "response": "You should go to the emergency room immediately. These symptoms could be a sign of a serious condition such as a heart attack or a pulmonary embolism."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery and I'm not sure what I should be doing.",
+            "Congratulations on completing your surgery. What type of surgery did you have?",
+            "I had a hernia repair surgery.",
+            "After your surgery, you should rest and avoid strenuous activities for at least a week.",
+            "What about my diet?",
+            "You should eat healthy foods and drink plenty of fluids to help with the healing process.",
+            "Are there any specific foods I should eat?",
+            "You should focus on foods that are high in protein and fiber, like fruits and vegetables, lean meats, and whole grains.",
+            "Thank you for your help, Medi. When can I return to work?"
+        ],
+        "knowledge": "Post-surgery care Post-surgery care After surgery, it is important to rest and avoid strenuous activities for a period of time. The length of time will depend on the type of surgery you had. You should also eat healthy foods and drink plenty of fluids to help with the healing process. Foods that are high in protein and fiber, like fruits and vegetables, lean meats, and whole grains are recommended. You should also avoid smoking and limit alcohol consumption. It is important to follow your doctor's instructions for post-surgery care and attend any follow-up appointments. The length of time before returning to work will depend on the type of surgery and your individual recovery time.",
+        "response": "The length of time before returning to work will depend on the type of surgery you had and your individual recovery time. Please consult your doctor for more information."
+    }
+]

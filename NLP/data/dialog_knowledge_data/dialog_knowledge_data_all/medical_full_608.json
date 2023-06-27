@@ -1,0 +1,405 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I think I might have the flu, what should I do?",
+            "Hello, I can help you. Can you tell me your symptoms?",
+            "I have fever, coughing, and body aches.",
+            "It sounds like you might have the flu. You should rest and stay hydrated.",
+            "Do I need to take any medication?",
+            "If your symptoms are severe, you can take antiviral medication, but it's not necessary in most cases.",
+            "Alright, I'll try to rest and stay hydrated.",
+            "Good idea. Let me know if you have any more questions.",
+            "Sure, thanks."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You might have the flu. You should rest and stay hydrated. If your symptoms are severe, you can take antiviral medication, but it's not necessary in most cases."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I heard that the flu vaccine is available now. Should I get it?",
+            "Hello, the flu vaccine is a good way to protect yourself from the flu. Have you had it before?",
+            "No, I haven't. Is it effective?",
+            "Yes, the flu vaccine can help prevent the flu, and it's especially important for high-risk groups like the elderly and those with certain medical conditions.",
+            "How do I get the flu vaccine?",
+            "You can get it at your doctor's office, a pharmacy, or a community health clinic.",
+            "When is the best time to get the flu vaccine?",
+            "The best time to get the vaccine is before flu season starts, usually in the fall.",
+            "Okay, I'll make an appointment to get the vaccine."
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "The flu vaccine is a good way to protect yourself from the flu. You can get it at your doctor's office, a pharmacy, or a community health clinic. The best time to get the vaccine is before flu season starts, usually in the fall."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from the flu. What should I do now?",
+            "Hello, after recovering from the flu, it's important to continue to rest and stay hydrated.",
+            "Should I exercise?",
+            "You can start exercising again, but start slowly and gradually increase the intensity.",
+            "What should I eat?",
+            "It's important to eat a healthy, balanced diet with plenty of fruits and vegetables.",
+            "Can I go back to work?",
+            "It's recommended that you stay home for at least 24 hours after your fever is gone without the use of fever-reducing medications.",
+            "Okay, I'll make sure to do that."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "After recovering from the flu, it's important to continue to rest and stay hydrated. It's recommended that you stay home for at least 24 hours after your fever is gone without the use of fever-reducing medications."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I may have the flu.",
+            "Sorry to hear that, what are your symptoms?",
+            "I have a fever, a cough, and feel very tired.",
+            "Those are classic flu symptoms. Have you had a flu shot?",
+            "No, I haven't gotten one yet this year.",
+            "Annual vaccination can help to provide protection against influenza. You should consider getting one next year.",
+            "What should I do in the meantime?",
+            "Rest, drink plenty of fluids, and take acetaminophen or ibuprofen to reduce your fever and alleviate symptoms.",
+            "Okay, thank you for your advice Medi. When should I go to the doctor?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "I suggest going to the doctor if your symptoms worsen or persist for more than a week"
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you explain what the flu is?",
+            "Sure, the flu is a viral respiratory illness that affects the nose, throat, and lungs.",
+            "What causes the flu?",
+            "The flu is caused by influenza viruses, which can spread from person to person through respiratory droplets when people with the flu cough, sneeze, or talk.",
+            "How is the flu diagnosed?",
+            "Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.",
+            "Is the flu treatable?",
+            "The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.",
+            "Thank you for explaining the flu to me Medi. How can I prevent getting it?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "To prevent getting the flu, you should get an annual flu vaccine, wash your hands frequently, and avoid close contact with people who are sick."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just recovered from the flu. What should I do now?",
+            "After recovering from the flu, you should focus on rebuilding your strength and overall health. ",
+            "What should I eat?",
+            "Foods that are high in protein, vitamins, and minerals can help rebuild your immune system, so you should eat plenty of lean protein, fruits, vegetables, and whole grains.",
+            "What about exercise?",
+            "Exercise can also help rebuild your strength and boost your immune system, but you should start slowly and gradually increase your activity level as your strength returns.",
+            "Thank you for your advice, Medi. Is there anything else I should know?",
+            "Getting plenty of rest and staying hydrated are also important for recovery.",
+            "Okay, thanks for your help Medi."
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "You're welcome. I'm glad I could help. Take care of yourself and don't hesitate to reach out if you have any further questions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a sore throat and a runny nose",
+            "Hello, I am here to help. Based on your symptoms, you may have Influenza.",
+            "What should I do now?",
+            "You can take some over-the-counter medication to relieve your symptoms. If your illness worsens, please consult a doctor.",
+            "Do I need to stay at home?",
+            "It's better to stay home to avoid spreading the virus to other people.",
+            "Thank you for your advice. Can you tell me more about the vaccination?",
+            "Annual vaccination is recommended to provide protection against influenza. The vaccine is updated regularly to match which influenza strains are in circulation.",
+            "I see. How is the vaccine administered?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "The vaccine is usually administered through an injection or nasal spray."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I was diagnosed with Influenza. What should I eat?",
+            "Hello, I am sorry to hear that. You should focus on eating foods that are easy to digest and are high in nutrients.",
+            "Can you give me an example?",
+            "You can eat chicken soup, fruits and vegetables, whole grains, and probiotics like yogurt.",
+            "Thank you. Can I eat ice cream or drink cold drinks?",
+            "It's better to avoid cold foods and drinks as they can irritate your throat and make your symptoms worse.",
+            "Got it. How long will it take me to recover?",
+            "It can take about a week to recover from Influenza. Make sure to get plenty of rest and stay hydrated.",
+            "Thank you. Is there anything else I should know?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Make sure to stay home and avoid contact with other people to prevent the spread of the virus."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I want to know more about Influenza vaccine",
+            "Hello, I am here to help. What do you want to know?",
+            "Is the vaccine effective against all types of Influenza?",
+            "The vaccine is updated regularly to match which influenza strains are in circulation, providing protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.",
+            "How is the vaccine made?",
+            "The vaccine is made from a weakened or killed virus and is usually administered through an injection or nasal spray.",
+            "Is it safe to get vaccinated?",
+            "Yes, the vaccine is safe and is recommended for most people. However, some people may experience mild side effects such as soreness at the injection site or a low-grade fever.",
+            "Thank you for your information. How long does the vaccine last?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "The vaccine provides protection for about six months to one year, but it is recommended to get a new vaccine annually."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm not feeling well. I have a fever and a headache.",
+            "I'm sorry to hear that. How long have you had these symptoms?",
+            "I have been feeling like this for two days now.",
+            "Based on your symptoms, it's possible that you have the flu. Have you had a flu shot recently?",
+            "No, I haven't. Can you tell me more about the flu?",
+            "The flu is a viral infection that can cause fever, coughing, sore throat, body aches and fatigue. It's highly contagious and spreads easily from person to person.",
+            "Okay, thank you for the information. Is there anything I can do to feel better?",
+            "Get plenty of rest, drink fluids, and take over-the-counter medications for fever and pain. If your symptoms get worse, please see a doctor.",
+            "Thank you, Medi. I'll do that. "
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "You're welcome. Please get plenty of rest, drink fluids, and take over-the-counter medications for fever and pain. If your symptoms get worse, please see a doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you explain to me what is influenza?",
+            "Sure, influenza is a viral infection that affects your respiratory system.",
+            "What are the symptoms?",
+            "The symptoms of influenza include fever, coughing, sore throat, body aches and fatigue. It's highly contagious and spreads easily from person to person.",
+            "How is it diagnosed?",
+            "Influenza infection is diagnosed with laboratory methods such as antibody or antigen tests and a polymerase chain reaction to identify viral nucleic acid.",
+            "Is it treatable?",
+            "The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.",
+            "Thank you, Medi. You've been very helpful."
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I recently had the flu. What should I do to prevent getting it again?",
+            "Good question. The best way to prevent getting the flu is to get a flu shot every year.",
+            "What if I don't get a flu shot?",
+            "If you don't get a flu shot, you should practice good hygiene, such as washing your hands frequently and avoiding close contact with people who are sick.",
+            "What are the risks of not getting a flu shot?",
+            "The flu can be serious, especially for high-risk individuals, such as young children, the elderly, and people with weakened immune systems.",
+            "Okay, thank you for the information.",
+            "You're welcome. Stay healthy!"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "You're welcome. Don't forget to practice good hygiene to prevent getting the flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I need your help.",
+            "Sure, what symptoms do you have?",
+            "I have a fever, cough, and a sore throat.",
+            "Based on those symptoms, you might have the flu. You should get tested.",
+            "What treatments are available for the flu?",
+            "Supportive measures such as rest, hydration, and over-the-counter medication are recommended. Antiviral drugs may be prescribed in severe cases.",
+            "Is there anything else I should know about the flu?",
+            "Annual vaccination can help prevent it. The flu evolves quickly, so flu vaccines are updated regularly to match the strains in circulation.",
+            "Thank you so much, Medi. How can I get tested?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You can get tested for the flu at a clinic or hospital near you. Make sure to wear a mask and follow their safety protocols."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about the flu.",
+            "Of course. What would you like to know?",
+            "What is the difference between a cold and the flu?",
+            "The flu tends to have more severe symptoms than a cold. Symptoms such as fever, body aches, and fatigue are more common with the flu.",
+            "How long does the flu typically last?",
+            "The standard influenza symptoms typically last for 2 - 8 days. However, some people may experience symptoms for up to 14 days.",
+            "Is it true that the flu virus evolves quickly?",
+            "Yes, influenza viruses, particularly IAV, evolve quickly. That is why flu vaccines are regularly updated to match the strains in circulation.",
+            "Thank you for the information, Medi. How can I prevent getting the flu?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "Annual vaccination and good hygiene practices such as washing your hands regularly can help prevent the flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had the flu and I want to know how to prevent getting it again.",
+            "I'm sorry to hear that. Have you recovered from the flu?",
+            "Yes, I have. But I don't want to experience it again.",
+            "Annual vaccination can help prevent getting the flu again. Good hygiene practices such as washing your hands regularly and avoiding close contact with sick people can also help.",
+            "Are there any lifestyle changes I can make to help prevent the flu?",
+            "Eating a healthy diet and getting enough rest can help boost your immune system. Regular exercise can also help improve your overall health.",
+            "Thank you, Medi. Is there anything else I should know about the flu?",
+            "In healthy individuals, the flu is typically self-limiting and rarely fatal. However, it can be deadly in high-risk groups such as the elderly and those with weakened immune systems.",
+            "Thank you for the information, Medi."
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "You're welcome. Remember to get vaccinated annually and practice good hygiene to help prevent getting the flu again."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling really sick and I don't know what's wrong.",
+            "I'm sorry to hear that. Can you tell me your symptoms?",
+            "I have a fever, cough, and body aches.",
+            "Based on your symptoms, it's possible that you have the flu.",
+            "What should I do if I have the flu?",
+            "Rest and drink plenty of fluids. You can also take over-the-counter pain relievers.",
+            "Is there anything else I should know?",
+            "If your symptoms get worse or you have trouble breathing, seek medical attention.",
+            "Thank you Medi. How long does the flu usually last?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The flu usually lasts for 2 - 8 days, although some people can experience symptoms for longer periods of time."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I heard that getting vaccinated can help prevent the flu. Is that true?",
+            "Yes, that's correct. Annual vaccination can help to provide protection against influenza.",
+            "How does the vaccine work?",
+            "The vaccine contains pieces of the virus, which cause your body to produce antibodies to fight off the virus if you are exposed to it.",
+            "Does the vaccine protect against all types of the flu?",
+            "The vaccine provides protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes, which are the most common types of the flu.",
+            "Is the vaccine safe?",
+            "Yes, the vaccine is generally safe. You may experience mild side effects, such as soreness at the injection site or a mild fever.",
+            "Thank you Medi. I think I'll get vaccinated this year."
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "You're welcome. Getting vaccinated is a good way to protect yourself and others from the flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had the flu and I'm feeling better now. Are there any lifestyle changes I can make to prevent getting sick again?",
+            "Yes, there are some lifestyle changes that can help prevent getting sick. What changes are you thinking of making?",
+            "I'm thinking of changing my diet and exercising more.",
+            "That's a great idea. Eating a healthy diet and getting regular exercise can boost your immune system, which can help prevent getting sick.",
+            "Are there any specific foods I should eat?",
+            "Foods that are rich in vitamins and minerals, such as fruits and vegetables, can help boost your immune system.",
+            "What about exercise?",
+            "Any type of exercise is beneficial, but moderate-intensity aerobic exercise is particularly good for boosting your immune system.",
+            "Thank you Medi. I will try making these changes."
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "You're welcome. Making these changes can help prevent getting sick in the future."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm feeling unwell and I think I might have the flu.",
+            "I'm sorry to hear that. What are your symptoms?",
+            "I have a fever, chills, headache, and a sore throat.",
+            "Based on your symptoms, it's possible that you have the flu. Have you been vaccinated?",
+            "No, I haven't. Can the vaccine still help me?",
+            "It's not too late to get vaccinated. The flu vaccine can help prevent getting the flu or lessen the symptoms if you do get it.",
+            "Okay, I'll try and get vaccinated as soon as possible. Thank you Medi.",
+            "You're welcome. Take care and get plenty of rest.",
+            "What should I do if my symptoms get worse?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "If your symptoms get worse, it's important to seek medical attention as soon as possible. Your doctor may recommend antiviral medication to help treat the flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about the flu vaccine?",
+            "Of course, the flu vaccine helps protect against the flu virus. It's recommended for everyone 6 months and older.",
+            "How effective is the vaccine?",
+            "The effectiveness of the vaccine can vary, but it's still recommended as it can help lessen the severity of symptoms if you do get the flu.",
+            "Are there any side effects of the vaccine?",
+            "Common side effects include soreness or redness at the injection site, headache, and low-grade fever. These usually go away on their own within a few days.",
+            "Okay, thank you for the information Medi.",
+            "You're welcome. Do you have any other questions?",
+            "No, that's all for now."
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently recovered from the flu. What can I do to prevent getting sick again?",
+            "There are a few things you can do to help prevent getting sick again. First, make sure to wash your hands frequently. Avoid close contact with anyone who is sick and try to stay away from large crowds.",
+            "What about getting vaccinated again?",
+            "The flu virus evolves quickly, so it's recommended to get vaccinated each year to protect against the strains in circulation.",
+            "What if I have a weakened immune system?",
+            "If you have a weakened immune system, it's especially important to take precautions to avoid getting sick. Talk to your doctor about getting vaccinated and other steps you can take to protect yourself.",
+            "Okay, thank you for the advice Medi.",
+            "You're welcome. Stay healthy!"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "You're welcome. Make sure to take care of yourself and take precautions to avoid getting sick again."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I might have influenza.",
+            "Sure, I can help you. What are your symptoms?",
+            "I have a high fever, runny nose, and a sore throat.",
+            "Sounds like you might have influenza. Have you been vaccinated?",
+            "No, I haven't. Is it too late to get the vaccine?",
+            "It's not too late, but the vaccine takes about two weeks to become effective.",
+            "Okay, I'll go get the vaccine. What else can I do to feel better?",
+            "You can take over-the-counter medications like acetaminophen to relieve fever and muscle aches. Get plenty of rest and fluids.",
+            "Thank you, Medi. When will I start feeling better?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "Most people start feeling better after 3-7 days, but some may take up to 2 weeks to fully recover."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about influenza.",
+            "Sure, what do you want to know about it?",
+            "What causes influenza?",
+            "Influenza is caused by a virus that infects the respiratory tract. It's highly contagious.",
+            "How does influenza spread?",
+            "It spreads through respiratory droplets when an infected person coughs, sneezes or talks. You can also get it by touching a surface contaminated with the virus and then touching your mouth or nose.",
+            "Can influenza be deadly?",
+            "Yes, it can be deadly in high-risk groups like the elderly, young children, pregnant women, and people with weakened immune systems. ",
+            "What can I do to prevent getting influenza?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "You can prevent getting influenza by getting vaccinated annually, washing your hands frequently, avoiding close contact with sick people and avoiding touching your face."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had influenza and I want to know how to prevent getting it again?",
+            "The best way to prevent getting influenza again is to get vaccinated annually.",
+            "What if I already had the vaccine?",
+            "The vaccine is not 100% effective but it can still reduce the severity of symptoms and prevent hospitalization. You should also practice good hygiene like washing your hands frequently.",
+            "What about antiviral medications?",
+            "Antiviral medications like oseltamivir can be used to treat influenza but they work best when started within 48 hours of symptom onset.",
+            "What can I do to boost my immune system?",
+            "You can boost your immune system by eating a healthy diet, getting regular exercise, and managing your stress levels.",
+            "Thanks for your advice, Medi. Is there anything else I should know?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "No, that's all. Remember to stay healthy and take care of yourself."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I feel like I have the flu.",
+            "I'm sorry to hear that. What are your symptoms?",
+            "I have a high fever, chills, and body aches.",
+            "Based on your symptoms, it's possible that you do have the flu.",
+            "What should I do next?",
+            "You should rest, drink plenty of fluids, and take over-the-counter pain relievers.",
+            "Do I need to see a doctor?",
+            "If your symptoms get worse or don't improve after a few days, it's best to see a doctor.",
+            "Okay, thank you for the advice."
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "You're welcome. Rest, drink plenty of fluids, and take over-the-counter pain relievers. If your symptoms worsen or don't improve after a few days, see a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain how the flu vaccine works?",
+            "Of course. The flu vaccine stimulates your body to produce antibodies against the flu virus.",
+            "How effective is the vaccine?",
+            "The effectiveness varies from year to year depending on how well the vaccine matches the circulating strains of the virus.",
+            "Is it safe to get the vaccine?",
+            "Yes, it's safe. The vaccine is thoroughly tested before it's made available to the public.",
+            "Are there any side effects?",
+            "Some people may experience mild side effects, such as soreness or redness at the injection site. In rare cases, more serious side effects can occur.",
+            "I see. Thank you for the information."
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "You're welcome. The flu vaccine stimulates your body to produce antibodies against the flu virus. The vaccine is generally safe, but some people may experience mild side effects."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from the flu. What should I do to prevent getting sick again?",
+            "Congratulations on your recovery. To prevent getting sick again, make sure to wash your hands frequently and avoid close contact with sick people.",
+            "Are there any other things I can do to boost my immune system?",
+            "Eating a healthy diet, getting enough sleep, and exercising regularly can all help boost your immune system.",
+            "What about getting the flu vaccine?",
+            "Yes, getting the flu vaccine is one of the most effective ways to prevent getting sick.",
+            "How often should I get the vaccine?",
+            "You should get the flu vaccine every year, as the strains of the virus can change from year to year.",
+            "I see. Thank you for the advice."
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination can help to provide protection against influenza.  Influenza viruses, particularly IAV, evolve quickly, so flu vaccines are updated regularly to match which influenza strains are in circulation.  Vaccines provide protection against IAV subtypes H1N1 and H3N2 and one or two IBV subtypes.  Influenza infection is diagnosed with laboratory methods such as  antibody or antigen tests and a polymerase chain reaction  to identify viral nucleic acid.  The disease can be treated with supportive measures and, in severe cases, with antiviral drugs such as oseltamivir.  In healthy individuals, influenza is typically self-limiting and rarely fatal, but it can be deadly in high-risk groups. In a typical year, 5\u201315% of the population contracts influenza Influenza Influenza",
+        "response": "You're welcome. To prevent getting sick again, make sure to wash your hands frequently, avoid close contact with sick people, eat a healthy diet, get enough sleep, exercise regularly, and get the flu vaccine every year."
+    }
+]

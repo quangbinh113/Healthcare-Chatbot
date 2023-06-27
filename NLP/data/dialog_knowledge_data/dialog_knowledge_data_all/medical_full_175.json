@@ -1,0 +1,452 @@
+[
+    {
+        "dialog": [
+            "Hi Medi. I'm experiencing some symptoms and I'm not sure what's going on.",
+            "Of course, what are your symptoms?",
+            "I've been feeling really tired for the past few days, and I've been having some pain in my stomach.",
+            "Hmm, that could be a number of things. Have you been eating anything out of the ordinary?",
+            "Not really, just some takeout a few nights ago.",
+            "Okay, it's possible that you have food poisoning. I recommend drinking plenty of fluids and getting some rest.",
+            "Thanks, Medi. I'll try that. Could it be something else though?",
+            "It's possible, but let's start with the basics and see how you feel in a day or two.",
+            "Alright, thanks for your help!"
+        ],
+        "knowledge": "Food Poisoning Food Poisoning Food poisoning is an illness caused by eating contaminated food.  Symptoms can range from mild to severe, depending on the type of contaminant, the amount of exposure, and the individual's susceptibility.  The most common symptoms include nausea, vomiting, stomach cramps, diarrhea, fever, and dehydration.  Symptoms usually develop within hours or days of eating contaminated food and can last for several days.  Most cases of food poisoning are mild and resolve on their own without medical treatment.  Treatment usually involves resting, drinking fluids, and avoiding solid foods for a period of time.  In severe cases, hospitalization may be necessary. Food Poisoning Food Poisoning",
+        "response": "Yes, it could be something else, but let's start with the basics and see how you feel in a day or two."
+    },
+    {
+        "dialog": [
+            "Hi Medi. I just had surgery and I'm not sure what I should be doing in terms of my diet and exercise.",
+            "Congratulations on your surgery. What type of surgery did you have?",
+            "I had my gallbladder removed.",
+            "Okay, after your surgery you should avoid fatty foods and eat small, frequent meals throughout the day. As for exercise, you should avoid any strenuous activity for the first few weeks and then gradually increase your activity level.",
+            "That makes sense. Are there any specific exercises I should be doing?",
+            "It's best to start with gentle exercises such as walking and stretching. You can gradually increase your activity level as you start to feel better.",
+            "Got it. How long should I wait before I can resume normal activities?",
+            "It really depends on your recovery process, but it's typically recommended to wait at least 2-4 weeks before resuming normal activities.",
+            "Alright, thank you for the advice, Medi."
+        ],
+        "knowledge": "Gallbladder Surgery Gallbladder Surgery After gallbladder surgery, it's important to avoid fatty foods and eat small, frequent meals throughout the day. You should avoid any strenuous activity for the first few weeks and then gradually increase your activity level. It's best to start with gentle exercises such as walking and stretching. You can gradually increase your activity level as you start to feel better. It really depends on your recovery process, but it's typically recommended to wait at least 2-4 weeks before resuming normal activities. Gallbladder Surgery Gallbladder Surgery",
+        "response": "You're welcome. Let me know if you have any other questions regarding your recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi. I've been hearing a lot about cancer lately and I'm worried that I might get it.",
+            "It's understandable to be concerned about your health. What specifically worries you about cancer?",
+            "I just keep hearing about how deadly it is and how many people are affected by it. I don't want to be one of them.",
+            "I see. Cancer is a serious and often deadly disease, but there are things you can do to reduce your risk. Eating a healthy diet, not smoking, and getting regular exercise are all important for cancer prevention.",
+            "That makes sense. Is there anything else I can do to lower my risk of cancer?",
+            "Yes, getting regular screenings for cancer is also important. Depending on your age and sex, you may need to get regular mammograms, Pap smears, or colonoscopies.",
+            "Okay, that's good to know. Thank you for the advice, Medi.",
+            "You're welcome. Remember that taking care of your health is important, but try not to worry too much. If you have any other questions, feel free to ask.",
+            "Thanks, Medi. I appreciate it."
+        ],
+        "knowledge": "Cancer Cancer With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites. This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874. Although many diseases may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos. Cancer is also euphemised as 'the C-word'; Macmillan Cancer Support uses the term to try to lessen the fear around the disease. In Nigeria, one local name for cancer translates into English as 'the disease that cannot be cured'. This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer\u2014non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths\u2014are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure. Cancer Cancer",
+        "response": "Remember that taking care of your health is important, but try not to worry too much. If you have any other questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel something odd about my body. Can you help me?",
+            "Sure, tell me your symptoms.",
+            "I have a lump in my arm and it is painful when I touch it.",
+            "When did you notice the lump?",
+            "A few days ago, and it is getting bigger.",
+            "I suggest you see a doctor as soon as possible. It could be serious.",
+            "What could it be?",
+            "It could be a tumor or cancer. But don't worry, early detection and treatment can improve the prognosis.",
+            "Thank you for your advice, Medi. I will go to the doctor today."
+        ],
+        "knowledge": "Cancer Cancer With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites. This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874. Although many diseases may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos. The euphemism of 'a long illness' to describe cancers leading to death is still commonly used in obituaries, rather than naming the disease explicitly, reflecting an apparent stigma. Cancer is also euphemized as 'the C-word'; Macmillan Cancer Support uses the term to try to lessen the fear around the disease. In Nigeria, one local name for cancer translates into English as 'the disease that cannot be cured'. This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer\u2014non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths\u2014are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure Cancer Cancer",
+        "response": "I suggest you see a doctor as soon as possible. It could be a tumor or cancer. But don't worry, early detection and treatment can improve the prognosis."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about cancer.",
+            "Sure, I am here to help you. What do you want to know?",
+            "What are the symptoms of cancer?",
+            "The symptoms of cancer depend on the type and stage of the disease. The most common symptoms include unexplained weight loss, fatigue, lumps, skin changes, changes in bowel or bladder habits, and persistent cough or hoarseness.",
+            "What causes cancer?",
+            "Cancer is caused by mutations in DNA that control cell growth and division. These mutations can be inherited or acquired through exposure to certain environmental factors such as tobacco smoke, radiation, and certain chemicals.",
+            "Is cancer always deadly?",
+            "No, cancer is not always deadly. Many types of cancer can be cured if detected early and treated properly. However, some types of cancer have a poor prognosis.",
+            "Thank you, Medi. Now I understand more about cancer."
+        ],
+        "knowledge": "Cancer Cancer With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites. This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874. Although many diseases may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos. The euphemism of 'a long illness' to describe cancers leading to death is still commonly used in obituaries, rather than naming the disease explicitly, reflecting an apparent stigma. Cancer is also euphemized as 'the C-word'; Macmillan Cancer Support uses the term to try to lessen the fear around the disease. In Nigeria, one local name for cancer translates into English as 'the disease that cannot be cured'. This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer\u2014non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths\u2014are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure Cancer Cancer",
+        "response": "Thank you, Medi. Now I understand more about cancer."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery for cancer. What should I do to improve my recovery?",
+            "Congratulations on completing the surgery. Recovery is important. What can I help you with?",
+            "What should I eat after surgery?",
+            "You should eat a balanced diet that includes plenty of fruits, vegetables, whole grains, lean protein, and healthy fats. Avoid processed foods, sugary drinks, and alcohol.",
+            "Can I exercise after surgery?",
+            "You should talk to your doctor before starting any exercise routine. But in general, mild exercise such as walking can help improve circulation and reduce the risk of blood clots.",
+            "Should I take any supplements?",
+            "You should talk to your doctor before taking any supplements. But in general, some supplements such as vitamin D, vitamin C, and omega-3 fatty acids may help improve recovery.",
+            "Thank you for the advice, Medi. I will follow your instructions."
+        ],
+        "knowledge": "Cancer Cancer With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites. This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874. Although many diseases may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos. The euphemism of 'a long illness' to describe cancers leading to death is still commonly used in obituaries, rather than naming the disease explicitly, reflecting an apparent stigma. Cancer is also euphemized as 'the C-word'; Macmillan Cancer Support uses the term to try to lessen the fear around the disease. In Nigeria, one local name for cancer translates into English as 'the disease that cannot be cured'. This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer\u2014non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths\u2014are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure Cancer Cancer",
+        "response": "Thank you for the advice, Medi. I will follow your instructions."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have some symptoms and I need help.",
+            "Sure, tell me more about your symptoms.",
+            "I have been having abdominal pain and feeling nauseous lately.",
+            "Okay, have you been experiencing any vomiting or diarrhea?",
+            "No, not really.",
+            "Based on your symptoms, it could be gastroenteritis. I suggest drinking plenty of fluids and getting rest.",
+            "I see. Thank you, Medi.",
+            "No problem. Let me know if you have any other concerns.",
+            "What causes gastroenteritis, Medi?"
+        ],
+        "knowledge": "Gastroenteritis Gastroenteritis is an infection that affects the stomach and intestines. It can be caused by a virus, bacteria, or parasites. Symptoms include nausea, vomiting, diarrhea, stomach cramps, and sometimes a fever. It is spread through contact with contaminated food or water, or by touching contaminated surfaces and then touching your mouth. The best way to prevent gastroenteritis is to wash your hands frequently and to avoid close contact with people who are sick. Gastroenteritis usually goes away on its own after a few days, but it is important to stay hydrated and get rest.",
+        "response": "Gastroenteritis can be caused by a virus, bacteria, or parasites and can be spread through contact with contaminated food or water, or by touching contaminated surfaces and then touching your mouth."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just had a procedure done and I'm not sure what to do next.",
+            "What kind of procedure did you have?",
+            "I had surgery to remove a tumor.",
+            "Okay, it's important to rest and not do any heavy lifting or exercise for a few weeks.",
+            "What about my diet? Is there anything I should avoid?",
+            "Yes, it's best to avoid foods that are high in fat or sugar. Stick to a balanced diet with plenty of fruits and vegetables.",
+            "Thanks for the advice, Medi.",
+            "No problem. Let me know if there's anything else I can help you with.",
+            "How long should I wait before I can start exercising again?"
+        ],
+        "knowledge": "Cancer Cancer is a disease that occurs when abnormal cells grow out of control. There are many types of cancer, including breast cancer, lung cancer, prostate cancer, and skin cancer. Cancer can be caused by a variety of factors, including genetics, smoking, exposure to radiation or chemicals, and poor diet and lifestyle. Treatment options for cancer include surgery, chemotherapy, radiation therapy, and immunotherapy. It's important to follow your doctor's advice and to take care of yourself after treatment.",
+        "response": "It's best to wait a few weeks before starting any exercise again to allow your body to heal properly. Your doctor may give you specific instructions based on your recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about cancer?",
+            "Sure, what do you want to know?",
+            "What causes cancer?",
+            "There are many factors that can contribute to cancer, including genetics, exposure to radiation or chemicals, smoking, and poor diet and lifestyle choices.",
+            "What are some common types of cancer?",
+            "Some common types of cancer include breast cancer, lung cancer, prostate cancer, and skin cancer.",
+            "Is cancer always deadly?",
+            "No, many people are able to recover from cancer with proper treatment and care.",
+            "That's good to know. What are some treatment options for cancer?"
+        ],
+        "knowledge": "Cancer Cancer is a disease that occurs when abnormal cells grow out of control. There are many types of cancer, including breast cancer, lung cancer, prostate cancer, and skin cancer. Cancer can be caused by a variety of factors, including genetics, smoking, exposure to radiation or chemicals, and poor diet and lifestyle. Treatment options for cancer include surgery, chemotherapy, radiation therapy, and immunotherapy. It's important to follow your doctor's advice and to take care of yourself after treatment.",
+        "response": "Some treatment options for cancer include surgery, chemotherapy, radiation therapy, and immunotherapy. Your doctor will recommend the best course of treatment based on the type and stage of your cancer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been experiencing some symptoms lately and I'm worried it might be cancer.",
+            "I understand, could you please tell me more about your symptoms?",
+            "I've been feeling persistent fatigue and have lost some weight without intentionally trying to. I also have some pain in my abdomen.",
+            "Thank you for sharing that with me. Based on your symptoms, I would advise you to see a doctor for further evaluation.",
+            "What could be the cause of my symptoms?",
+            "There are many possible causes, so I can't say for sure. But it's important to get a proper diagnosis from a medical professional.",
+            "Okay, thank you for your help.",
+            "You're welcome. Don't hesitate to reach out if you have any more concerns.",
+            "What are some common risk factors for cancer?"
+        ],
+        "knowledge": "Cancer Cancer  With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites .  This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874. Although many diseases  may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos.  The euphemism of 'a long illness' to describe cancers leading to death is still commonly used in obituaries, rather than naming the disease explicitly, reflecting an apparent stigma.  Cancer is also euphemized as 'the C-word'; Macmillan Cancer Support uses the term to try to lessen the fear around the disease.  In Nigeria, one local name for cancer translates into English as 'the disease that cannot be cured'.  This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer\u2014non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths\u2014are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure Cancer Cancer",
+        "response": "Some common risk factors for cancer include age, lifestyle choices such as smoking and excessive alcohol consumption, family history of cancer, and exposure to certain environmental factors."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just underwent chemotherapy. What foods should I eat to help me recover?",
+            "I'm sorry to hear that, I hope you're feeling okay. It's important to eat a balanced diet with plenty of fruits, vegetables, and whole grains.",
+            "Are there any specific foods that I should avoid?",
+            "You should avoid processed foods, sugary drinks, and foods high in saturated fats. It's also important to stay hydrated and limit your alcohol intake.",
+            "Thank you for the advice. What about exercise?",
+            "It's important to stay active, even if it's just light exercise such as walking. Talk to your doctor about what level of activity is safe for you.",
+            "Okay, I'll make sure to do that. Thanks for your help.",
+            "You're welcome. Don't hesitate to reach out if you have any more questions.",
+            "What are some common side effects of chemotherapy?"
+        ],
+        "knowledge": "Chemotherapy Chemotherapy  Chemotherapy is a type of cancer treatment that uses drugs to kill cancer cells.  The drugs circulate throughout the body and attack cancer cells wherever they are.  However, they can also damage healthy cells, which can lead to side effects.  Common side effects of chemotherapy include fatigue, nausea and vomiting, hair loss, mouth sores, and increased risk of infection.  Chemotherapy can also affect the production of blood cells, which can lead to anemia, bleeding, and increased risk of infection.  These side effects are usually temporary and go away once the treatment is over.  Your doctor can help you manage any side effects you experience. Chemotherapy Chemotherapy",
+        "response": "Common side effects of chemotherapy include fatigue, nausea and vomiting, hair loss, mouth sores, and increased risk of infection. Chemotherapy can also affect the production of blood cells, which can lead to anemia, bleeding, and increased risk of infection. Your doctor can help you manage any side effects you experience."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've recently recovered from cancer and want to make sure it doesn't come back. What should I do?",
+            "That's great to hear that you've recovered! To reduce your risk of recurrence, it's important to maintain a healthy lifestyle.",
+            "What do you mean by healthy lifestyle?",
+            "A healthy lifestyle includes eating a balanced diet, getting regular exercise, not smoking, limiting alcohol intake, and managing stress.",
+            "Are there any specific foods I should eat?",
+            "Foods that are high in antioxidants, such as fruits, vegetables, and whole grains, can help reduce your risk of cancer. It's also important to limit your intake of red and processed meats.",
+            "Thank you, that's very helpful. What else can I do?",
+            "You should also make sure to attend all follow-up appointments with your doctor and get any recommended screenings, such as mammograms or colonoscopies, as scheduled.",
+            "Okay, I'll be sure to do that. Thanks for your help."
+        ],
+        "knowledge": "Cancer Cancer  With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites .  This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874. Although many diseases  may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos.  The euphemism of 'a long illness' to describe cancers leading to death is still commonly used in obituaries, rather than naming the disease explicitly, reflecting an apparent stigma.  Cancer is also euphemized as 'the C-word'; Macmillan Cancer Support uses the term to try to lessen the fear around the disease.  In Nigeria, one local name for cancer translates into English as 'the disease that cannot be cured'.  This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer\u2014non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths\u2014are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure Cancer Cancer",
+        "response": "Some common types of cancer that can be prevented through a healthy lifestyle include breast cancer, colon cancer, lung cancer, and skin cancer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms, can you help me?",
+            "Of course, what are your symptoms?",
+            "I have a lump in my breast and my nipple is inverted",
+            "You should get a mammogram and see a doctor as soon as possible",
+            "What is a mammogram?",
+            "A mammogram is a test that uses X-rays to take pictures of the breast tissue.",
+            "Is it safe?",
+            "Yes, it is safe and recommended for women over the age of 50 to get a mammogram every two years",
+            "Thank you. What should I do if I have breast cancer?"
+        ],
+        "knowledge": "Breast cancer Breast cancer Breast cancer is a cancer that develops from breast tissue.  Signs of breast cancer may include a lump in the breast, a change in breast shape, dimpling of the skin, fluid coming from the nipple, a newly inverted nipple, or a red or scaly patch of skin.  In those with distant spread of the disease, there may be bone pain, swollen lymph nodes, shortness of breath, or yellow skin.  Risk factors for developing breast cancer include being female, obesity, lack of physical exercise, drinking alcohol, hormone replacement therapy during menopause, ionizing radiation, early age at first menstruation, having children late or not at all, and older age.  About 5-10% of cases are due to genes inherited from a person's parents, including BRCA1 and BRCA2 among others.  Breast cancer screening using mammography can detect cancer early when it is more easily treatable. Breast cancer Breast cancer",
+        "response": "If you have breast cancer, your doctor will discuss the best treatment options for you based on factors such as the stage of your cancer, the size and location of the tumor, and your overall health."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have recently undergone chemotherapy, what should I do now?",
+            "You should focus on maintaining a healthy lifestyle with a balanced diet and regular exercise",
+            "What kind of diet should I follow?",
+            "You should eat more fruits and vegetables, whole grains, and lean protein",
+            "What physical activities can I do?",
+            "You should start with light exercises like walking and gradually increase your activity level",
+            "How can I manage the side effects of chemotherapy?",
+            "You can talk to your doctor about medications to help manage nausea, fatigue, and other side effects",
+            "What about my mental health?"
+        ],
+        "knowledge": "Chemotherapy Chemotherapy Chemotherapy is a type of cancer treatment that uses one or more anti-cancer drugs as part of a standardized chemotherapy regimen. There are several types of chemotherapy regimens, each with its own treatment plan and side effects.  Common side effects of chemotherapy include nausea, hair loss, fatigue, mouth sores, and an increased risk of infection.  Chemotherapy can also have long-term effects on the body, including an increased risk of developing other types of cancer or heart disease.  To manage the side effects of chemotherapy, your doctor may prescribe medications or suggest lifestyle changes such as a healthy diet and regular exercise. Chemotherapy Chemotherapy",
+        "response": "It is important to take care of your mental health as well. You can talk to your doctor about counseling or support groups."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a family history of cancer, what can I do to reduce my risk?",
+            "You should get regular cancer screenings and maintain a healthy lifestyle",
+            "What kind of cancer screenings should I get?",
+            "You should get regular mammograms if you are a woman, and colonoscopies starting at age 50",
+            "How can I maintain a healthy lifestyle?",
+            "You should eat a balanced diet, exercise regularly, get enough sleep, and avoid tobacco and excessive alcohol consumption",
+            "Is there anything else I can do?",
+            "You can talk to your doctor about genetic counseling and testing to see if you have an increased risk for certain types of cancer",
+            "Thank you, Medi. What is the success rate of cancer treatment?"
+        ],
+        "knowledge": "Cancer Cancer With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites .  This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874. Although many diseases  may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos.  The euphemism of 'a long illness' to describe cancers leading to death is still commonly used in obituaries, rather than naming the disease explicitly, reflecting an apparent stigma.  Cancer is also euphemised as 'the C-word'; Macmillan Cancer Support uses the term to try to lessen the fear around the disease.  In Nigeria, one local name for cancer translates into English as 'the disease that cannot be cured'.  This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer\u2014non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths\u2014are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure Cancer Cancer",
+        "response": "The success rate of cancer treatment depends on the type and stage of cancer, as well as the individual's response to treatment. Your doctor can discuss the expected outcome of your particular situation."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I have some symptoms and I need help.",
+            "Sure, what are your symptoms?",
+            "Lately I feel very tired and weak, and I have lost my appetite. Sometimes I have nausea and headaches too.",
+            "Based on your symptoms, you might have the flu or a viral infection. Have you taken your temperature?",
+            "Yes, I have fever too.",
+            "Alright, you need to rest and drink plenty of fluids. You can also take some over-the-counter medications for fever and pain. If your symptoms don't improve in a few days, you should see a doctor.",
+            "Thank you, Medi. I will follow your advice.",
+            "You're welcome. Take care. Is there anything else I can help you with?",
+            "No, that's all. Thank you, Medi."
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, you might have the flu or a viral infection."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. Can you tell me about cancer?",
+            "Sure, what do you want to know?",
+            "I heard that cancer is a deadly disease. Is that true?",
+            "Well, cancer is a serious disease, but it's not always deadly. Some types of cancer can be cured if detected early and treated properly. The prognosis depends on many factors, such as the type and stage of cancer, the age and health of the patient, and the treatment options.",
+            "I see. What are the common types of cancer?",
+            "The most common types of cancer are lung cancer, breast cancer, prostate cancer, colorectal cancer, and skin cancer. However, cancer can affect any part of the body and there are many types of cancer.",
+            "Is there any way to prevent cancer?",
+            "There is no surefire way to prevent cancer, but there are some things you can do to reduce your risk, such as not smoking, avoiding excessive sun exposure, eating a healthy diet, exercising regularly, and getting recommended cancer screenings.",
+            "Thank you for the information, Medi."
+        ],
+        "knowledge": "Cancer Cancer With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites. This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874. Although many diseases may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos. The euphemism of 'a long illness' to describe cancers leading to death is still commonly used in obituaries, rather than naming the disease explicitly, reflecting an apparent stigma. Cancer is also euphemised as 'the C-word'; Macmillan Cancer Support uses the term to try to lessen the fear around the disease. In Nigeria, one local name for cancer translates into English as 'the disease that cannot be cured'. This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer\u2014non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths\u2014are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure Cancer Cancer",
+        "response": "Well, cancer is a serious disease, but it's not always deadly."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I just had surgery for cancer. What should I do now?",
+            "Hi, I'm sorry to hear that. After surgery, it's important to follow your doctor's instructions for recovery and to prevent complications. You may need to rest for a few weeks and avoid certain activities, such as heavy lifting or strenuous exercise. You should also care for the surgical incision by keeping it clean and dry and watching for signs of infection.",
+            "What about my diet?",
+            "A healthy diet is important for recovery, so you should eat a balanced diet that includes plenty of fruits, vegetables, whole grains, and lean protein. You may also need to avoid certain foods or drinks, such as alcohol or caffeine, if they can interfere with your recovery.",
+            "What about physical activity?",
+            "Physical activity can help you recover faster and improve your overall health, but you should start slowly and gradually increase your level of activity. Your doctor can recommend a safe exercise program for you based on your condition and fitness level.",
+            "Thank you for your advice, Medi.",
+            "You're welcome. Is there anything else I can help you with?",
+            "No, that's all. Goodbye, Medi."
+        ],
+        "knowledge": "Cancer Cancer With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites. This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874. Although many diseases may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos. The euphemism of 'a long illness' to describe cancers leading to death is still commonly used in obituaries, rather than naming the disease explicitly, reflecting an apparent stigma. Cancer is also euphemised as 'the C-word'; Macmillan Cancer Support uses the term to try to lessen the fear around the disease. In Nigeria, one local name for cancer translates into English as 'the disease that cannot be cured'. This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer\u2014non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths\u2014are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure Cancer Cancer",
+        "response": "After surgery, it's important to follow your doctor's instructions for recovery and to prevent complications."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms that are bothering me.",
+            "Sure, please tell me your symptoms so that I can help diagnose.",
+            "I have been feeling very tired, have been experiencing nausea and vomiting, and have lost my appetite.",
+            "When did these symptoms start?",
+            "They started about a week ago.",
+            "Have you been to any new or unfamiliar places recently?",
+            "Yes, I went on a trip to a different city a few weeks ago.",
+            "Based on your symptoms, it is possible that you have contracted a virus or bacterial infection. I suggest you see a doctor for a proper diagnosis and treatment.",
+            "Thank you, Medi. I will make an appointment with my doctor."
+        ],
+        "knowledge": "Infections Infections  There are many kinds of infections and they can be caused by bacteria, viruses, or other pathogens. Common symptoms include fever, chills, fatigue, muscle aches, coughing, and trouble breathing. Infections can be transmitted through contact with contaminated objects or surfaces, through the air, or through human contact. Prevention strategies include good hygiene practices such as washing your hands regularly, staying home when sick, and avoiding contact with others who are ill. Vaccines are also available to help prevent infections such as the flu or pneumonia. Infections Infections",
+        "response": "Based on your symptoms, it is possible that you have contracted a virus or bacterial infection. I suggest you see a doctor for a proper diagnosis and treatment."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about cancer?",
+            "Sure, what would you like to know?",
+            "How does cancer spread and what causes it?",
+            "Cancer can spread when cancer cells in a tumor break away and travel to other parts of the body through the bloodstream or lymphatic system. The exact cause of cancer is not known, but there are many factors that can increase the risk of developing cancer, such as genetics, lifestyle, and environmental factors such as exposure to radiation or certain chemicals.",
+            "Is there any way to prevent cancer?",
+            "There is no surefire way to prevent cancer, but you can reduce your risk by adopting a healthy lifestyle. This includes eating a balanced diet, getting regular exercise, avoiding tobacco and excessive alcohol consumption, and protecting yourself from the sun's harmful rays.",
+            "Can cancer be cured?",
+            "There is no one-size-fits-all answer to this question, as it depends on the stage and type of cancer. Some cancers can be cured with surgery, radiation therapy, or chemotherapy, while others are more difficult to treat. Early detection and treatment is key for successful treatment.",
+            "Thank you for the information, Medi."
+        ],
+        "knowledge": "Cancer Cancer  With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites .  This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874. Although many diseases  may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos.  The euphemism of 'a long illness' to describe cancers leading to death is still commonly used in obituaries, rather than naming the disease explicitly, reflecting an apparent stigma.  Cancer is also euphemised as 'the C-word'; Macmillan Cancer Support uses the term to try to lessen the fear around the disease.  In Nigeria, one local name for cancer translates into English as 'the disease that cannot be cured'.  This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer\u2014non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths\u2014are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure Cancer Cancer",
+        "response": "You're welcome. Do you have any other questions?"
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I just had surgery and want to know how to recover quickly.",
+            "Of course. What kind of surgery did you have?",
+            "I had surgery to remove a tumor from my leg.",
+            "After surgery, it is important to rest and give your body time to heal. You should also eat a healthy diet, stay hydrated, and follow your doctor's instructions for physical therapy and exercise.",
+            "Are there any specific exercises or physical therapy I should do?",
+            "Yes, your doctor or a physical therapist can recommend exercises and stretches that will help you regain your strength and mobility after surgery. They may also suggest using assistive devices such as crutches or walking aids to help you move around safely.",
+            "Is there anything I should avoid?",
+            "It's best to avoid heavy lifting or strenuous activity until your doctor gives you the go-ahead. You should also avoid smoking and excessive alcohol consumption, as these can slow down the healing process.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Surgery Surgery  Surgery is a medical procedure that involves making incisions in the body to remove or repair damaged tissue or organs. There are many different types of surgery, ranging from minor procedures such as removing a mole to major surgeries such as heart surgery. After surgery, it is important to follow your doctor's instructions for recovery. This may include taking medications, getting enough rest, eating a healthy diet, and doing physical therapy or exercises to help regain strength and mobility. Surgery Surgery",
+        "response": "You're welcome. I hope you have a speedy recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm worried about having cancer.",
+            "Hi, Can you tell me about your symptoms?",
+            "I'm having some lumps on my breast and I feel extremely tired lately.",
+            "You should see a doctor for a check-up. Early detection is crucial for cancer treatment.",
+            "Is there any advice for reducing cancer risks?",
+            "Yes, you can maintain a healthy weight, exercise regularly, eat a healthy diet, and avoid tobacco and excessive alcohol consumption.",
+            "Thanks, Medi. What are the common misconceptions about cancer?",
+            "Many people think that cancer is always a terminal disease, but with early detection and proper treatment, cancer can be cured or managed.",
+            "That's good to know. Can you recommend any resources for more information about cancer?"
+        ],
+        "knowledge": "Cancer Cancer With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites. This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874. Although many diseases may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos. The euphemism of 'a long illness' to describe cancers leading to death is still commonly used in obituaries, rather than naming the disease explicitly, reflecting an apparent stigma. Cancer is also euphemized as 'the C-word'; Macmillan Cancer Support uses the term to try to lessen the fear around the disease. In Nigeria, one local name for cancer translates into English as 'the disease that cannot be cured'. This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer\u2014non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths\u2014are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure Cancer Cancer",
+        "response": "There are many resources such as cancer.org, the National Cancer Institute, and local cancer care centers."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a biopsy. What should I do now?",
+            "Hi, after a biopsy, it's important to follow your doctor's instructions, take any prescribed medication, and avoid strenuous activities for a few days.",
+            "What should I eat after the biopsy?",
+            "You should eat a well-balanced diet rich in fruits and vegetables to help your body heal.",
+            "Can I exercise after the biopsy?",
+            "It's best to avoid strenuous activities for a few days. But, light exercise such as walking is recommended.",
+            "How can I prevent cancer recurrence after the biopsy?",
+            "You can maintain a healthy lifestyle, get regular checkups, and follow your oncologist's recommendations for follow-up care.",
+            "Thank you, Medi. When can I expect the results of my biopsy to come in?"
+        ],
+        "knowledge": "Biopsy Biopsy A biopsy is a medical test used to examine a small sample of tissue or cells from a body part for diagnosis or treatment.  In medicine, a biopsy is most often done to discover the cause of a lump or suspicious growth in the body.  The sample collected during a biopsy can be taken from any part of the body, including skin, organs, or other tissues.  There are several types of biopsies, including needle biopsy, incision biopsy, and excision biopsy.  The results of a biopsy can take anywhere from a few days to a few weeks, depending on the type of biopsy and the laboratory used to analyze the sample.",
+        "response": "The results of your biopsy can take anywhere from a few days to a few weeks, depending on the type of biopsy and the laboratory used to analyze the sample."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just finished chemotherapy. What should I do now?",
+            "Hi, congratulations on finishing chemotherapy. It's important to follow your doctor's instructions, take any prescribed medication, and rest as much as possible.",
+            "What should I eat after chemotherapy?",
+            "You should eat a well-balanced diet rich in fruits and vegetables to help your body heal.",
+            "Can I exercise after chemotherapy?",
+            "It's best to avoid strenuous activities for a few days. But, light exercise such as walking is recommended.",
+            "How can I prevent cancer recurrence after chemotherapy?",
+            "You can maintain a healthy lifestyle, get regular checkups, and follow your oncologist's recommendations for follow-up care.",
+            "Thank you, Medi. How long does it take to recover from chemotherapy?"
+        ],
+        "knowledge": "Chemotherapy Chemotherapy Chemotherapy is a type of cancer treatment that uses drugs to kill cancer cells.  Chemotherapy can be used alone or in combination with other cancer treatments, such as radiation therapy or surgery.  Chemotherapy drugs work by targeting rapidly dividing cancer cells and preventing them from growing and dividing.  Chemotherapy can also affect healthy cells that divide rapidly, such as those in the bone marrow, hair follicles, and digestive tract, leading to side effects such as hair loss, nausea, and fatigue.  The recovery time from chemotherapy can vary depending on the type of cancer and chemotherapy used, as well as the patient's overall health.",
+        "response": "The recovery time from chemotherapy can vary depending on the type of cancer and chemotherapy used, as well as the patient's overall health."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a lump in my breast. Is it cancer?",
+            "I strongly recommend seeing a doctor to get a mammogram.",
+            "Is it a common symptom of breast cancer?",
+            "Yes, it is one of the common symptoms of breast cancer.",
+            "What are the other symptoms that I should be aware of?",
+            "Other symptoms include breast pain, nipple discharge, and skin changes around the breast or nipple.",
+            "How can I prevent breast cancer?",
+            "There is no guaranteed way to prevent breast cancer, but maintaining a healthy lifestyle can help reduce your risk.",
+            "What kind of lifestyle changes should I make?"
+        ],
+        "knowledge": "Cancer Cancer With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites. This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874. Although many diseases may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos. The euphemism of \"a long illness\" to describe cancers leading to death is still commonly used in obituaries, rather than naming the disease explicitly, reflecting an apparent stigma. Cancer is also euphemised as \"the C-word\". Macmillan Cancer Support uses the term to try to lessen the fear around the disease. In Nigeria, one local name for cancer translates into English as \"the disease that cannot be cured\". This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer\u2014non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths\u2014are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure Cancer Cancer",
+        "response": "You should consider eating a healthy diet, maintaining a healthy weight, and exercising regularly."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a friend who was recently diagnosed with cancer.",
+            "I'm sorry to hear that. What type of cancer was it?",
+            "It was breast cancer. I heard that it's a very difficult disease to treat.",
+            "While it is a serious and potentially life-threatening disease, it's important to remember that any cancer is treatable if detected early enough.",
+            "What are some of the ways to detect breast cancer?",
+            "There are several methods, including mammograms, breast exams, and self-exams.",
+            "What should she do now?",
+            "She should consult with her doctor to discuss treatment options and create a plan of action.",
+            "What kind of treatment options are available?"
+        ],
+        "knowledge": "Cancer Cancer With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites. This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874. Although many diseases may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos. The euphemism of \"a long illness\" to describe cancers leading to death is still commonly used in obituaries, rather than naming the disease explicitly, reflecting an apparent stigma. Cancer is also euphemised as \"the C-word\". Macmillan Cancer Support uses the term to try to lessen the fear around the disease. In Nigeria, one local name for cancer translates into English as \"the disease that cannot be cured\". This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer\u2014non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths\u2014are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure Cancer Cancer",
+        "response": "Treatment options depend on the type and stage of cancer. Some common treatments include surgery, chemotherapy, and radiation therapy."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently underwent chemotherapy for breast cancer.",
+            "I'm sorry to hear that. How are you feeling?",
+            "I'm feeling okay so far, but I was wondering if there are any lifestyle changes I should make during or after treatment.",
+            "Absolutely. Maintaining a healthy lifestyle can help improve your overall health and reduce your risk of recurrence.",
+            "What kind of changes should I make?",
+            "Eating a healthy diet, getting regular exercise, and managing stress are all important.",
+            "Are there any foods I should avoid?",
+            "It's best to avoid processed and high-fat foods. Focus on eating lean proteins, fruits, vegetables, and whole grains.",
+            "Thank you for the advice, Medi. Is there anything else I should know?"
+        ],
+        "knowledge": "Cancer Cancer With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites. This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874. Although many diseases may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos. The euphemism of \"a long illness\" to describe cancers leading to death is still commonly used in obituaries, rather than naming the disease explicitly, reflecting an apparent stigma. Cancer is also euphemised as \"the C-word\". Macmillan Cancer Support uses the term to try to lessen the fear around the disease. In Nigeria, one local name for cancer translates into English as \"the disease that cannot be cured\". This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer\u2014non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths\u2014are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure Cancer Cancer",
+        "response": "It's also important to stay hydrated, get enough sleep, and avoid smoking and alcohol."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am worried about a lump in my neck.",
+            "Hello! Can you tell me more about the lump and other symptoms?",
+            "It's quite hard and painless, and I also feel fatigue and weight loss.",
+            "Based on your description, it could be lymphoma. Please consult a doctor for proper diagnosis.",
+            "How can lymphoma be treated?",
+            "Treatment options for lymphoma include chemotherapy, radiation therapy, and stem cell transplant.",
+            "What can I do to help manage the symptoms?",
+            "You can improve your diet, exercise regularly, and get enough rest.",
+            "Thank you, Medi. What should I prepare for the doctor's visit?"
+        ],
+        "knowledge": "Lymphoma Lymphoma  Lymphoma is a type of cancer that affects cells in the immune system called lymphocytes.  Symptoms include swollen lymph nodes, fever, sweating, and weight loss. The exact cause of lymphoma is unknown, but certain factors can increase the risk of developing the disease, such as age, family history, and a weakened immune system.  There are two main types of lymphoma: Hodgkin's lymphoma and non-Hodgkin's lymphoma. Treatment options include chemotherapy, radiation therapy, and stem cell transplant. With treatment, the prognosis for lymphoma is often good.  However, the disease can be fatal if left untreated. Lymphoma Lymphoma",
+        "response": "You should prepare questions about your symptoms, medical history, and any treatments you have received so far."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain what cancer is?",
+            "Sure! Cancer is a disease caused by the uncontrolled growth and spread of abnormal cells in the body.",
+            "What are some common symptoms of cancer?",
+            "Some common symptoms of cancer include fatigue, unexplained weight loss, pain, skin changes, and changes in bowel or bladder habits.",
+            "Can cancer be prevented?",
+            "While it's not always possible to prevent cancer, there are steps you can take to reduce your risk, such as avoiding tobacco and too much sun exposure, maintaining a healthy diet and weight, and getting regular exercise.",
+            "How is cancer diagnosed?",
+            "Cancer is usually diagnosed through a biopsy, where a small piece of tissue is removed for examination under a microscope.",
+            "Does cancer always require treatment?"
+        ],
+        "knowledge": "Cancer Cancer  Cancer is a disease caused by the uncontrolled growth and spread of abnormal cells in the body.  Common symptoms include fatigue, unexplained weight loss, pain, skin changes, and changes in bowel or bladder habits.  While it's not always possible to prevent cancer, there are steps you can take to reduce your risk, such as avoiding tobacco and too much sun exposure, maintaining a healthy diet and weight, and getting regular exercise.  Cancer is usually diagnosed through a biopsy, where a small piece of tissue is removed for examination under a microscope.  Not all cancers require treatment, but most do. The type of treatment depends on the type and stage of cancer. Cancer Cancer",
+        "response": "Is it possible for cancer to spread to other parts of the body?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just finished chemotherapy. What can I do to improve my health?",
+            "Congratulations on finishing chemotherapy! It's important to maintain a healthy lifestyle with a balanced diet, regular exercise, and enough rest.",
+            "Are there any specific diet recommendations?",
+            "Aim to eat a balanced diet with plenty of fruits, vegetables, whole grains, and lean protein. Avoid processed foods and sugary drinks.",
+            "What kind of exercise is recommended?",
+            "Moderate exercise like brisk walking or swimming can help improve your energy levels and overall health. Be sure to talk to your doctor about what's safe for you.",
+            "Can I return to my normal activities?",
+            "Most people can return to their normal activities after chemotherapy, but it's important to listen to your body and rest when needed.",
+            "Thank you, Medi. How often should I see my doctor for check-ups?"
+        ],
+        "knowledge": "Chemotherapy Chemotherapy  Chemotherapy is a type of cancer treatment that uses drugs to kill fast-growing cancer cells.  Side effects can include fatigue, nausea, vomiting, hair loss, and increased risk of infection. It's important to maintain a healthy lifestyle during and after chemotherapy. This includes eating a balanced diet, getting regular exercise, and enough rest. Most people can return to their normal activities after chemotherapy, but it's important to listen to your body and rest when needed. Chemotherapy can also weaken the immune system, so it's important to take extra precautions to avoid infection. Follow-up visits with your doctor are important to monitor your health and check for any signs of recurrence. Chemotherapy Chemotherapy",
+        "response": "It's recommended to see your doctor every 3 to 6 months for the first few years after treatment, and then less often after that."
+    }
+]

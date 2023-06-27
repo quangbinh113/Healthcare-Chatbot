@@ -1,0 +1,360 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I feel really sick and I'm not sure what's wrong.",
+            "Hi there, I'm here to help. Can you tell me what symptoms you're experiencing?",
+            "I've been having nausea and vomiting for the past day, and I'm really tired all the time.",
+            "Okay, those are definitely concerning symptoms. Have you experienced anything else?",
+            "My stomach has been hurting a lot as well, and I can't keep any food down.",
+            "I see. Based on what you're telling me, it sounds like you might have gastroenteritis.",
+            "What is gastroenteritis, exactly?",
+            "It's a condition where the lining of your stomach and intestines become inflamed due to a viral or bacterial infection. It's usually caused by consuming contaminated food or water.",
+            "What should I do to get better?"
+        ],
+        "knowledge": "Gastroenteritis Gastroenteritis Gastroenteritis is an inflammation of the stomach and intestines that typically causes diarrhea and vomiting. It can be caused by a viral or bacterial infection, and is usually spread through contaminated food or water. Symptoms typically include abdominal cramps, nausea, vomiting, and diarrhea. Most cases of gastroenteritis can be treated at home with rest, fluids, and over-the-counter medications to relieve symptoms. However, severe cases may require hospitalization for dehydration or other complications. Gastroenteritis is a common illness that affects millions of people each year. Gastroenteritis Gastroenteritis",
+        "response": "You should rest, drink plenty of fluids, and avoid eating solid foods until your stomach settles down. Over-the-counter medications like Pepto-Bismol or Imodium can help relieve your symptoms, but if they persist or become more severe, you should see a doctor."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a question about hepatitis. What is it exactly?",
+            "Sure, I'd be happy to help. Hepatitis is an inflammation of the liver caused by a viral infection or exposure to toxins.",
+            "What are the symptoms of hepatitis?",
+            "The symptoms of hepatitis can vary depending on the type of virus causing the infection, but they typically include fatigue, fever, jaundice, and abdominal pain.",
+            "What causes hepatitis?",
+            "Hepatitis is usually caused by a viral infection, but it can also be caused by exposure to toxins like alcohol or certain medications.",
+            "Can hepatitis be cured?",
+            "In most cases, hepatitis can be treated and cured with antiviral medications and other supportive treatments.",
+            "Is hepatitis a serious condition?"
+        ],
+        "knowledge": "Hepatitis Hepatitis Hepatitis is an inflammation of the liver caused by a viral infection or exposure to toxins. There are several types of hepatitis viruses, including hepatitis A, B, C, D, and E. Symptoms of hepatitis can include fatigue, fever, jaundice, abdominal pain, and nausea. Hepatitis is usually caused by a viral infection, but it can also be caused by exposure to toxins like alcohol or certain medications. In most cases, hepatitis can be treated and cured with antiviral medications and other supportive treatments. However, if left untreated, hepatitis can cause liver damage, liver failure, and even death in severe cases. Hepatitis Hepatitis",
+        "response": "Yes, hepatitis can be cured in most cases with antiviral medications and other supportive treatments."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a liver transplant and I'm not sure how to take care of myself. What should I do?",
+            "Congratulations on your liver transplant! After a transplant, it's important to take care of yourself to ensure a successful recovery.",
+            "What should I be doing to take care of myself?",
+            "You should be taking your prescribed medications as directed, following a healthy diet and lifestyle, and attending regular follow-up appointments with your doctor.",
+            "What kind of diet should I be following?",
+            "You should be following a balanced and nutritious diet that is low in fat and sodium. You may also need to avoid certain foods and beverages, like alcohol and grapefruit juice.",
+            "What about exercise?",
+            "Exercise is important for maintaining a healthy weight and preventing complications like infection and blood clots. However, you should talk to your doctor before starting any new exercise routine.",
+            "Thanks for all the advice, Medi. I'm feeling much more confident about my recovery now."
+        ],
+        "knowledge": "Liver Transplant Liver Transplant A liver transplant is a surgical procedure in which a damaged or diseased liver is replaced with a healthy liver from a donor. After a liver transplant, it's important to take care of yourself to ensure a successful recovery. This includes taking your prescribed medications as directed, following a healthy diet and lifestyle, and attending regular follow-up appointments with your doctor. You should be following a balanced and nutritious diet that is low in fat and sodium. You may also need to avoid certain foods and beverages, like alcohol and grapefruit juice. Exercise is important for maintaining a healthy weight and preventing complications like infection and blood clots. However, you should talk to your doctor before starting any new exercise routine. Liver Transplant Liver Transplant",
+        "response": "You're welcome, and I'm glad I could help. Just remember to take your medications as directed, follow a healthy diet and lifestyle, and attend all of your follow-up appointments with your doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I feel so tired and sometimes have yellow skin",
+            "Hello, I'm here to help you. Can you tell me more about your symptoms?",
+            "I also have dark urine and abdominal pain. Do you know what is wrong with me?",
+            "Based on your symptoms, you might have Hepatitis B or D. You should see a doctor immediately.",
+            "What is Hepatitis B and D?",
+            "Hepatitis B and D are a type of liver infection caused by the hepatitis B and D viruses. They can cause serious liver damage, liver cancer, and even death if left untreated. ",
+            "Are there any ways to prevent getting them?",
+            "Yes, you can prevent it by getting vaccinated for Hepatitis B, avoiding sharing needles or razors, using condoms during sex, and avoiding unprotected sex with multiple partners.",
+            "Where can I get vaccinated for Hepatitis B?"
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E.  About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases.  Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery.  Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults.  Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "You're welcome. It's important to take care of your health. Don't hesitate to see a doctor soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm curious about the symptoms of Hepatitis B and D.",
+            "Hi. Hepatitis B and D share similar symptoms, such as fatigue, yellowing of the skin and eyes, dark urine, abdominal pain, and fever. However, you could have no symptoms at all.",
+            "Can you explain more about the differences between them?",
+            "Hepatitis B and D are both caused by different viruses. Hepatitis B is transmitted through blood and other bodily fluids, while Hepatitis D is only transmitted through blood and is usually only found in people who already have Hepatitis B",
+            "How are they treated?",
+            "The treatment for Hepatitis B and D is antiviral medication, but it may not always be necessary. It is important to see a doctor to determine the right treatment plan for you.",
+            "Are there any lifestyle changes that can help?",
+            "Yes, maintaining a healthy diet, avoiding alcohol and cigarettes, and getting regular exercise can help improve liver function and reduce the risk of complications.",
+            "Thank you, Medi. I will keep that in mind."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E.  About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases.  Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery.  Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults.  Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "You're welcome. If you have any more questions, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I recently had a liver transplant. Do you have any advice for me?",
+            "Hello. Congratulations on your successful transplant! It is important to maintain a healthy lifestyle to help your liver function and prevent complications.",
+            "What kind of lifestyle changes should I make?",
+            "You should avoid alcohol and cigarettes, eat a balanced diet with plenty of fruits and vegetables, exercise regularly, and take any prescribed medication as instructed by your doctor.",
+            "Can I still have caffeine?",
+            "In moderation, caffeine should be okay. But you should talk to your doctor about it to make sure it won't interfere with your medication.",
+            "Okay, thank you for your advice. I will make sure to follow it.",
+            "You're welcome. Remember, taking care of yourself is important for a successful recovery."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E.  About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases.  Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery.  Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults.  Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "You're welcome. If you have any more questions or concerns, don't hesitate to ask your doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm having some symptoms and I'm not sure what's wrong.",
+            "Hello! I'll do my best to help. What are your symptoms?",
+            "I've been feeling really tired and my skin and eyes look yellowish.",
+            "Based on your symptoms, you may have hepatitis. I recommend seeing a doctor for further testing and treatment.",
+            "What is hepatitis exactly?",
+            "Hepatitis is inflammation of the liver caused by a viral infection or exposure to toxins. It can lead to serious liver damage if left untreated.",
+            "Is it curable?",
+            "Treatment depends on the cause, but hepatitis can be managed with antiviral medications or lifestyle changes. See a doctor for personalized advice.",
+            "Thanks for the information, Medi. Can you tell me more about the different types of hepatitis?"
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E.  About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases.  Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery.  Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults.  Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "There are several types of hepatitis, including A, B, C, D, and E. Each type is caused by a different virus and has different treatment options."
+    },
+    {
+        "dialog": [
+            "Hi there, Medi. I recently had a liver transplant and I'm wondering what I should do for my recovery.",
+            "Congratulations on your transplant! It's important to take care of yourself post-surgery. What questions do you have?",
+            "What should I eat to help my liver heal?",
+            "A healthy diet is important for liver health. Focus on fruits, vegetables, lean protein, whole grains, and healthy fats. Avoid alcohol and limit processed foods and added sugars.",
+            "What kind of physical activity is safe for me?",
+            "Walking and light exercise are generally safe after a liver transplant. Speak with your doctor or a physical therapist for personalized recommendations based on your specific situation.",
+            "Are there any medications I should avoid?",
+            "Some medications can be harmful to the liver, so it's important to avoid these. Your doctor will give you a list of medications to avoid and recommend alternatives if necessary.",
+            "Thanks for the advice, Medi. Is there anything else I should keep in mind during my recovery?"
+        ],
+        "knowledge": "Liver Transplantation Liver Transplantation  After a liver transplant, it's important to take care of yourself to ensure a successful recovery. This includes following a healthy diet, getting regular exercise, avoiding harmful medications, and attending all follow-up appointments with your healthcare team. It's also important to take all prescribed medications as directed to prevent rejection of the transplanted liver.",
+        "response": "Yes, it's also important to attend all follow-up appointments with your healthcare team and take all prescribed medications as directed to prevent rejection of the transplanted liver."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I'm pregnant and I'm worried about hepatitis E. What should I know?",
+            "Hi! Hepatitis E is a concern for pregnant women, so it's good that you're being proactive. What questions do you have?",
+            "What are the symptoms of hepatitis E?",
+            "Symptoms of hepatitis E can include fatigue, nausea, vomiting, loss of appetite, abdominal pain, dark urine, and jaundice. However, many people with hepatitis E have no symptoms at all.",
+            "Can hepatitis E harm my baby?",
+            "Hepatitis E can be dangerous for pregnant women, especially in the third trimester. It can lead to liver failure and premature birth. However, the risk of mother-to-child transmission is low.",
+            "How can I prevent hepatitis E?",
+            "You can reduce your risk of hepatitis E by practicing good hygiene, avoiding contaminated water and food, and getting vaccinated if you are at high risk. Talk to your doctor for personalized recommendations.",
+            "Thanks for the advice, Medi. What are some other things I should keep in mind during my pregnancy?"
+        ],
+        "knowledge": "Pregnancy Pregnancy  Pregnancy is a time of many changes and it's important to take care of yourself and your growing baby. This includes eating a healthy diet, getting regular exercise, getting enough rest, and attending all prenatal appointments with your healthcare provider. It's also important to avoid harmful substances, such as tobacco, alcohol, and certain medications. Talk to your doctor about any concerns you have.",
+        "response": "In addition to avoiding hepatitis E, it's important to eat a healthy diet, get regular exercise, get enough rest, attend all prenatal appointments with your healthcare provider, and avoid harmful substances such as tobacco, alcohol, and certain medications."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I think it might be related to Hepatitis.",
+            "I'm here to assist you. Can you tell me more about your symptoms?",
+            "I feel exhausted, have a loss of appetite, and I have a yellowish tint to my skin and eyes.",
+            "Based on your symptoms, it is possible that you have Hepatitis. I suggest you see a doctor immediately.",
+            "What kind of Hepatitis do you think I have?",
+            "It is difficult to determine without a proper examination. Hepatitis A, B and C are the most common types, but there are others as well.",
+            "Is there any way to prevent the spread of Hepatitis?",
+            "Yes, practicing good hygiene such as washing your hands regularly, avoiding sharing personal items such as razors or toothbrushes, and getting vaccinated for Hepatitis A and B are effective ways to prevent the spread of Hepatitis.",
+            "Thanks for your help, Medi. One last question, what is the best course of treatment for Hepatitis?"
+        ],
+        "knowledge": "Hepatitis Hepatitis Fulminant hepatitis most commonly occurs in hepatitis B, D, and E. About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases. Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery. Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults. Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "The best course of treatment for Hepatitis depends on the type and severity of the infection. I suggest you see a doctor for proper diagnosis and treatment."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about Hepatitis B.",
+            "Sure, I'm here to help. What would you like to know?",
+            "What causes Hepatitis B?",
+            "Hepatitis B is caused by the Hepatitis B virus which is transmitted through blood and bodily fluids.",
+            "What are the symptoms of Hepatitis B?",
+            "Symptoms of Hepatitis B include fatigue, nausea and vomiting, abdominal pain, joint pain, and jaundice.",
+            "Is there a cure for Hepatitis B?",
+            "There is no cure for Hepatitis B, but there are effective treatments that can help manage the infection and prevent liver damage.",
+            "Thanks for your help, Medi. One last question, who is most at risk for Hepatitis B?"
+        ],
+        "knowledge": "Hepatitis Hepatitis Fulminant hepatitis most commonly occurs in hepatitis B, D, and E. About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases. Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery. Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults. Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "Individuals who engage in high-risk behaviors such as having unprotected sex, using intravenous drugs, or sharing personal items such as razors or toothbrushes are most at risk for Hepatitis B."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just underwent a procedure to remove a tumor from my liver. What can I do to promote a healthy recovery?",
+            "Congratulations on completing the procedure. I can provide you with some post-procedure tips.",
+            "Thank you, I appreciate it. What kind of diet should I follow?",
+            "A diet rich in protein, fruits, and vegetables can help promote healing and recovery. Avoid fat, sugar, and alcohol.",
+            "What kind of physical activity can I do?",
+            "Light physical activity such as walking or stretching can help improve circulation and prevent blood clots. However, be sure to follow your doctor's instructions and avoid any strenuous activity.",
+            "Are there any lifestyle changes I should make?",
+            "It's important to quit smoking and limit your alcohol intake to promote liver health and prevent any further complications.",
+            "Thanks for your help, Medi. One last question, how long should I wait before returning to work?"
+        ],
+        "knowledge": "Hepatitis Hepatitis Fulminant hepatitis most commonly occurs in hepatitis B, D, and E. About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases. Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery. Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults. Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "The length of time before returning to work depends on the severity of the procedure and your doctor's recommendation. It's important to listen to your body and not push yourself too hard too soon."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I might have Hepatitis.",
+            "What are the symptoms you are experiencing?",
+            "I have been feeling nauseous, tired, and have a loss of appetite.",
+            "Based on your symptoms, you might have Hepatitis. You should go see a doctor immediately.",
+            "What causes Hepatitis?",
+            "Hepatitis is caused by viruses such as A, B, C, D, and E. Other causes may include alcohol, drugs, and autoimmune diseases.",
+            "How can I prevent Hepatitis?",
+            "You can prevent Hepatitis by getting vaccinated, practicing safe sex, not sharing needles, and avoiding contaminated food and water.",
+            "Thank you, I will see a doctor right away."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E.  About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases.  Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery.  Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults.  Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "You're welcome. I hope you feel better soon."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just got diagnosed with Hepatitis B.",
+            "I'm sorry to hear that. What questions do you have?",
+            "What is Hepatitis B?",
+            "Hepatitis B is a virus that infects the liver and can cause inflammation and damage over time.",
+            "What are the symptoms of Hepatitis B?",
+            "Some people may not have any symptoms, but common symptoms include fatigue, nausea, and jaundice.",
+            "Is there a cure for Hepatitis B?",
+            "There is no cure for Hepatitis B, but there are treatments available that can help manage the condition.",
+            "What can I do to manage Hepatitis B?"
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E.  About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases.  Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery.  Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults.  Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "No problem, take care."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a liver transplant due to Hepatitis C.",
+            "Congratulations on getting a new liver. How can I help you?",
+            "What can I do to prevent my new liver from getting infected with Hepatitis C?",
+            "You can prevent Hepatitis C by avoiding contact with infected blood, practicing safe sex, and not sharing needles.",
+            "What lifestyle changes can I make to help my new liver?",
+            "You can make lifestyle changes such as eating a healthy diet, getting regular exercise, and avoiding alcohol and drugs.",
+            "How long will it take for my new liver to fully recover?",
+            "It can take several months for your new liver to fully recover. It's important to follow your doctor's instructions and take any medications prescribed.",
+            "Thank you for the information."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E.  About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases.  Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery.  Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults.  Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "You're welcome. I hope everything goes well with your recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm feeling really unwell.",
+            "I'm sorry to hear that. Can you describe your symptoms to me?",
+            "I have a fever, jaundice, and abdominal pain.",
+            "Based on your symptoms, it's possible that you have hepatitis. I recommend seeing a doctor as soon as possible.",
+            "What is hepatitis exactly?",
+            "Hepatitis is an inflammation of the liver. There are different types, but they can all cause serious liver damage if left untreated.",
+            "How is it usually treated?",
+            "Treatment depends on the specific type of hepatitis and its severity. Some types can be managed with lifestyle changes, while others may require medication or even a liver transplant.",
+            "Thank you, Medi. I'll go see a doctor."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E.  About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases.  Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery.  Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults.  Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "You're welcome. Please get to a doctor soon to get a proper diagnosis and treatment."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about hepatitis.",
+            "Sure, I will try my best to answer them. What would you like to know?",
+            "What are the causes of hepatitis?",
+            "Hepatitis can be caused by a variety of factors, including viral infections, alcohol abuse, and certain medications or toxins.",
+            "What are the symptoms of hepatitis?",
+            "Hepatitis can cause a range of symptoms, including fatigue, jaundice, abdominal pain, and nausea. However, some people with hepatitis may have no symptoms at all.",
+            "How is hepatitis spread?",
+            "Hepatitis can be spread through contact with infected blood or bodily fluids. It can also be spread through sexual contact, sharing needles, or from mother to baby during birth.",
+            "Thank you for answering my questions, Medi."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E.  About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases.  Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery.  Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults.  Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "You're welcome. I'm happy to help with any questions you have."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently underwent a liver transplant due to hepatitis. Do you have any advice for me post-surgery?",
+            "Yes, after a liver transplant, it's important to follow a healthy lifestyle to help your body recover and prevent complications. This includes eating a balanced diet with plenty of fruits and vegetables, getting regular exercise, and avoiding alcohol and tobacco products.",
+            "What kind of exercise is best?",
+            "Low-impact activities like walking or swimming are usually recommended. Your doctor can give you specific recommendations based on your individual circumstances.",
+            "Are there any medications I should avoid?",
+            "There are some medications that can be harmful to the liver, so it's important to discuss any medications you're taking with your doctor to make sure they're safe.",
+            "Thank you for the advice, Medi.",
+            "You're welcome. Remember to take good care of yourself and follow your doctor's instructions for a successful recovery."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E.  About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases.  Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery.  Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults.  Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "You're welcome. I hope the advice is helpful in your recovery process."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I might have Hepatitis",
+            "Hi, Let's find out. What are your symptoms?",
+            "I'm experiencing abdominal pain, fatigue, and nausea",
+            "These symptoms might be a concern. Have you had any recent exposure to hepatitis?",
+            "Not that I know of. What causes Hepatitis?",
+            "There are many causes of hepatitis, including viruses, alcohol, and drug abuse. Would you like a more detailed explanation?",
+            "Yes, please. What are the different types of Hepatitis?",
+            "There are many types of hepatitis, including A, B, C, D, and E. Each type has a different cause and treatment.",
+            "I see. What should I do if I have Hepatitis?"
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E.  About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases.  Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery.  Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults.  Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "You should see a doctor for a proper diagnosis. Treatment will depend on the type and severity of the hepatitis."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a liver transplant due to Hepatitis B. What should I do to maintain a healthy lifestyle?",
+            "Hi, congratulations on your successful surgery. To maintain a healthy lifestyle, you should follow a balanced diet and do regular physical exercise.",
+            "What kind of diet should I follow?",
+            "A good diet for liver transplant recipients should include plenty of fruits and vegetables, lean protein, and whole grains. You should also limit your intake of fat, salt, and sugar.",
+            "What kind of exercises can i do?",
+            "Light to moderate exercise is recommended, such as walking, cycling, or swimming. However, please consult your doctor before starting any exercise.",
+            "Should I take any supplements?",
+            "You should talk to your doctor before taking any supplements or vitamins, as some can interact with your medications.",
+            "Thanks. Anything else I should know?"
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E.  About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases.  Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery.  Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults.  Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "It's important to attend all follow-up appointments with your doctor and to take all medications as prescribed."
+    },
+    {
+        "dialog": [
+            "Hi Medi, my friend has fulminant Hepatitis E. What is the prognosis for this condition?",
+            "Hi, fulminant hepatitis E can be a life-threatening condition, with a mortality rate of over 80%. Those who survive often make a full recovery.",
+            "Is there any treatment for fulminant hepatitis E?",
+            "There is no specific treatment for fulminant hepatitis E, but liver transplantation can be life-saving in patients with liver failure.",
+            "Are pregnant women more susceptible to Hepatitis E?",
+            "Yes, pregnant women are particularly susceptible to Hepatitis E, with up to 20% of cases resulting in fulminant hepatitis.",
+            "What causes Hepatitis E?",
+            "Hepatitis E is caused by the hepatitis E virus, which is transmitted through contaminated food or water.",
+            "Thanks for the information. Is there anything else I should know?"
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E.  About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases.  Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery.  Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults.  Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "You should encourage your friend to seek medical care as soon as possible and to follow their doctor's advice."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I have Hepatitis. Can you help me?",
+            "Of course. What symptoms are you experiencing?",
+            "I feel very tired, have nausea, a lack of appetite, and pain in my stomach.",
+            "Okay. Based on your symptoms, you might have Hepatitis. Have you been in contact with anyone who has Hepatitis?",
+            "No, I haven't.",
+            "Have you recently traveled to areas with high rates of Hepatitis?",
+            "No, I haven\u2019t.",
+            "Alright, I suggest you to go to the hospital and get tested. Hepatitis can be treated with medications and lifestyle changes.",
+            "Okay, thank you. What types of Hepatitis can lead to fulminant Hepatitis?"
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E. About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases. Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery. Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults. Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "Hepatitis B, D, and E can lead to fulminant Hepatitis"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had surgery for my Hepatitis. What should I do now?",
+            "After surgery, it is important to follow a healthy diet and lifestyle to encourage healing and prevent further complications. What kind of diet are you following?",
+            "I\u2019m not following a specific diet. What kind of diet should I follow?",
+            "You should follow a balanced, low-fat diet that includes plenty of fruits, vegetables, and whole grains. Avoid alcohol and foods high in fat or sugar. It's also important to stay hydrated and get enough rest.",
+            "Okay, I will do that. Do I need to exercise?",
+            "Yes, exercise is important to help you regain your strength and promote healing. Start with light exercises like walking and gradually increase the intensity and duration as you feel better. It's important to consult your doctor before starting any exercise routine.",
+            "Okay, thank you. How long will it take for me to fully recover?",
+            "Recovery time varies depending on the severity of the Hepatitis and the type of surgery you had. It's important to follow your doctor's instructions and attend regular check-ups to monitor your progress. With proper care, many patients make a full recovery.",
+            "Thank you for the advice. Are there any other lifestyle changes I should make?"
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E. About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases. Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery. Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults. Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "You should avoid alcohol and foods high in fat or sugar, stay hydrated, get enough rest and consult your doctor before starting any exercise routine."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about Hepatitis.",
+            "Sure, what do you want to know?",
+            "Can Hepatitis B become a chronic condition?",
+            "Yes, Hepatitis B can become a chronic condition, especially if it is contracted at a young age. Infants who contract Hepatitis B have a greater risk of developing chronic Hepatitis B than adults. However, there is a vaccine that can prevent Hepatitis B.",
+            "What is the cure rate for Hepatitis C?",
+            "There is no cure for Hepatitis C, but there are medications that can help manage the symptoms and slow the progression of the disease. With proper treatment, many patients can live long, healthy lives.",
+            "Can Hepatitis A be transmitted through sexual contact?",
+            "Hepatitis A is primarily spread through the fecal-oral route, which means it is usually contracted by eating contaminated food or water. However, it can be transmitted through sexual contact in some cases.",
+            "Thank you for the information. How can I prevent Hepatitis?"
+        ],
+        "knowledge": "Hepatitis Hepatitis  Fulminant hepatitis most commonly occurs in hepatitis B, D, and E. About 1\u20132% of cases of hepatitis E can lead to fulminant hepatitis, but pregnant women are particularly susceptible, occurring in up to 20% of cases. Mortality rates in cases of fulminant hepatitis rise over 80%, but those patients that do survive often make a complete recovery. Liver transplantation can be life-saving in patients with fulminant liver failure. Hepatitis D infections can transform benign cases of hepatitis B into severe, progressive hepatitis, a phenomenon known as superinfection. Acute hepatitis B infections become less likely to progress to chronic forms as the age of the patient increases, with rates of progression approaching 90% in vertically transmitted cases of infants compared to 1% risk in young adults. Overall, the five-year survival rate for chronic hepatitis B ranges from 97% in mild cases to 55% in severe cases with cirrhosis Hepatitis Hepatitis",
+        "response": "You can prevent Hepatitis by practicing good hygiene, getting vaccinated, avoiding sharing needles or personal hygiene items, and practicing safe sex."
+    }
+]

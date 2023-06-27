@@ -1,0 +1,405 @@
+[
+    {
+        "dialog": [
+            "Hello, Medi. I am not feeling well. I think I have some kind of disease.",
+            "Hi! I will help you. Can you tell me your symptoms?",
+            "I have a fever, headache, and cough. I feel weak and tired.",
+            "Okay, based on your symptoms, you might have the flu.",
+            "How can I cure this disease?",
+            "You should rest and drink plenty of fluids. You can also take over-the-counter flu medication.",
+            "What kind of medication should I take?",
+            "You can take acetaminophen or ibuprofen to reduce fever and pain. I recommend you to see a doctor.",
+            "What else should I do to recover faster?"
+        ],
+        "knowledge": "Influenza is a viral respiratory illness that affects millions of people every year. It is highly contagious and spreads through the air when an infected person coughs or sneezes. Symptoms include fever, cough, sore throat, body aches, headache, chills, and fatigue. It is important to stay hydrated and get plenty of rest. Over-the-counter medications such as acetaminophen and ibuprofen can help relieve symptoms. A flu shot is the best way to prevent the flu.",
+        "response": "You should also avoid contact with other people to prevent the spread of the flu."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I have a question about infectious diseases.",
+            "Sure, what would you like to know?",
+            "Who discovered microorganisms?",
+            "Anton van Leeuwenhoek was the first to observe microorganisms with a microscope.",
+            "Who proved that certain diseases are caused by infectious agents?",
+            "Louis Pasteur proved beyond doubt that certain diseases are caused by infectious agents.",
+            "Who developed the world's first antibiotic?",
+            "Alexander Fleming discovered the world's first antibiotic, penicillin.",
+            "What are the measures to prevent the spread of infectious diseases?"
+        ],
+        "knowledge": "In the mid-19th century, John Snow and William Budd demonstrated the contagiousness of typhoid and cholera through contaminated water. Both are credited with decreasing epidemics of cholera in their towns by implementing measures to prevent contamination of water. Robert Koch provided the study of infectious diseases with a scientific basis known as Koch's postulates. Edward Jenner, Jonas Salk and Albert Sabin developed effective vaccines for smallpox and polio, respectively.",
+        "response": "The measures to prevent the spread of infectious diseases include washing your hands frequently, covering your mouth and nose when coughing or sneezing, avoiding close contact with sick people, and staying home if you are sick."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I recently had a medical procedure. What should I do now?",
+            "Hi! It depends on what type of procedure you had. Can you tell me more?",
+            "I had a surgery to remove a tumor.",
+            "Okay, after a surgery like that, it is important to rest and limit physical activity.",
+            "How long should I rest?",
+            "It depends on the type of surgery and your overall health. Your doctor should give you specific instructions.",
+            "I also want to know if there are any dietary restrictions after surgery?",
+            "Yes, you should eat healthy and balanced meals that are rich in nutrients and fiber. Avoid foods that are high in fat, sugar, and salt.",
+            "What about physical exercises?"
+        ],
+        "knowledge": "After a surgery, you may need to avoid certain types of physical activity for a period of time. It is important to follow your doctor's orders and gradually increase your activity level as you recover. Maintaining a healthy lifestyle can help speed up the recovery process.",
+        "response": "You should avoid strenuous exercise and heavy lifting for at least a few weeks after surgery. You can start with light exercise such as walking and gradually increase your activity level as you feel better."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a cough and fever",
+            "Hello, please tell me more about your cough and fever",
+            "My fever is 38 and I have a dry cough. I feel so weak",
+            "Your symptoms suggest that you may have a flu. Please get some rest, drink plenty of fluids, and take paracetamol for fever.",
+            "Is it dangerous? What should i do next?",
+            "It's not dangerous, but please go to the hospital if your fever continues for more than 3 days.",
+            "Thank you Medi for your advice.",
+            "You're welcome. Take care of yourself and get well soon."
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You may have flu. Please get some rest, drink plenty of fluids, and take paracetamol for fever.If your fever continues for more than 3 days, please go to the hospital."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I want to know more about typhoid",
+            "Sure, what would you like to know about typhoid?",
+            "What are the symptoms of typhoid?",
+            "The symptoms of typhoid include fever, headache, abdominal pain, and diarrhea or constipation. In severe cases, complications such as intestinal bleeding, perforation of the intestine, or meningitis may occur.",
+            "How is typhoid transmitted?",
+            "Typhoid is transmitted through contaminated food or water, or close contact with an infected person. Good hygiene and sanitation practices are important in preventing the spread of typhoid.",
+            "How is typhoid treated?",
+            "Typhoid is usually treated with antibiotics. It is important to complete the full course of antibiotics prescribed by your doctor to prevent relapse.",
+            "Thank you Medi for your explanation."
+        ],
+        "knowledge": "Typhoid Typhoid  Typhoid fever is a bacterial infection caused by the bacterium Salmonella typhi.  Symptoms of typhoid include fever, headache, abdominal pain, and diarrhea or constipation.  In severe cases, complications such as intestinal bleeding, perforation of the intestine, or meningitis may occur.  Typhoid is transmitted through contaminated food or water, or close contact with an infected person.  Good hygiene and sanitation practices are important in preventing the spread of typhoid.  Typhoid is usually treated with antibiotics.  It is important to complete the full course of antibiotics prescribed by your doctor to prevent relapse.  Typhoid fever can be prevented through vaccination Typhoid Typhoid",
+        "response": "The symptoms of typhoid include fever, headache, abdominal pain, and diarrhea or constipation. Typhoid is transmitted through contaminated food or water, or close contact with an infected person. Typhoid is usually treated with antibiotics. Completing the full course of antibiotics is important to prevent relapse. Typhoid fever can be prevented through vaccination."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just recovered from pneumonia, what should I do now?",
+            "Hello, it's good to hear that you have recovered from pneumonia. What is your question?",
+            "Can you give me advice on how to prevent another attack of pneumonia?",
+            "Sure, there are several things you can do to help prevent another attack of pneumonia. First, make sure you get plenty of rest and eat a healthy diet to keep your immune system strong. Second, avoid smoking or exposure to second-hand smoke, as this can damage your lungs. Finally, practice good hygiene, such as washing your hands frequently and avoiding close contact with people who are sick.",
+            "Are there any specific exercises or activities I can do to strengthen my lungs?",
+            "Yes, there are several exercises and activities you can do to help strengthen your lungs. Walking, cycling, and swimming are all good options. You can also try deep breathing exercises and techniques to improve your lung capacity.",
+            "Thank you Medi, I will take your advice",
+            "You're welcome. Take care of yourself and stay healthy."
+        ],
+        "knowledge": "Pneumonia Pneumonia  Pneumonia is a serious infection of the lungs that can be caused by bacteria, viruses, or fungi. Symptoms of pneumonia can include fever, cough, difficulty breathing, and chest pain. Pneumonia can be treated with antibiotics, antiviral medications, or antifungal medications, depending on the cause of the infection. It is important to get plenty of rest and drink plenty of fluids to help your body fight the infection. To prevent pneumonia, it is important to practice good hygiene, such as washing your hands frequently and avoiding close contact with people who are sick. It is also important to keep your immune system strong by eating a healthy diet and getting plenty of rest. Pneumonia Pneumonia",
+        "response": "To prevent another attack of pneumonia, make sure you get plenty of rest and eat a healthy diet to keep your immune system strong. Avoid smoking or exposure to second-hand smoke, as this can damage your lungs. Practice good hygiene, such as washing your hands frequently and avoiding close contact with people who are sick. Walking, cycling, and swimming are all good options to strengthen your lungs. You can also try deep breathing exercises and techniques to improve your lung capacity."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and sore throat.",
+            "I'm sorry to hear that. Have you checked your temperature?",
+            "Yes, I have a fever of 102 degrees Fahrenheit.",
+            "Based on that, you might have an infection. I recommend you to drink fluids and rest.",
+            "Do I need to take any medication?",
+            "You can take ibuprofen or acetaminophen for the fever and sore throat. But you should consult a doctor if the symptoms persist.",
+            "Okay, thank you for your advice, Medi.",
+            "You're welcome. I hope you feel better soon.",
+            "What kind of infection could it be?"
+        ],
+        "knowledge": "Fever and Sore Throat Fever and Sore Throat are common symptoms of various infections, including viral and bacterial infections. Common causes of fever and sore throat include the flu, strep throat, and tonsillitis. The flu is caused by a virus and can cause fever, sore throat, cough, body aches, and fatigue. Strep throat is caused by bacteria and can cause fever, sore throat, swollen lymph nodes, and difficulty swallowing. Tonsillitis is an infection of the tonsils and can cause fever, sore throat, swollen glands, and bad breath. Fever and Sore Throat",
+        "response": "It might be the flu, strep throat, or tonsillitis. You should consult a doctor for a proper diagnosis."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm concerned about the COVID-19 pandemic.",
+            "Don't worry, I'm here to help. What do you want to know?",
+            "Is it true that COVID-19 is caused by a virus?",
+            "Yes, COVID-19 is caused by the SARS-CoV-2 virus.",
+            "How does the virus spread?",
+            "The virus spreads through respiratory droplets when an infected person coughs, sneezes, or talks. It can also spread by touching a surface contaminated with the virus and then touching your face.",
+            "How can I protect myself from getting infected?",
+            "You can protect yourself by wearing a mask, washing your hands frequently, and practicing social distancing. It's also important to avoid large gatherings and stay home if you're feeling sick.",
+            "Okay, thank you for the information, Medi."
+        ],
+        "knowledge": "COVID-19 COVID-19 The COVID-19 pandemic is caused by the SARS-CoV-2 virus. The virus was first identified in December 2019 in Wuhan, China. It quickly spread to other countries and was declared a pandemic by the World Health Organization in March 2020. Symptoms of COVID-19 include fever, cough, and shortness of breath. The virus can cause severe respiratory illness and has a high mortality rate in some populations. COVID-19 is primarily spread through respiratory droplets and can be prevented by wearing a mask, washing your hands, and practicing social distancing. COVID-19 COVID-19",
+        "response": "The COVID-19 pandemic started in December 2019 in Wuhan, China."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and I'm not sure what activities I should avoid.",
+            "Hello. What kind of surgery did you have?",
+            "I had knee surgery to repair a torn ACL.",
+            "Okay, after a knee surgery, you should avoid high-impact activities like running and jumping. Also, be careful when doing activities that require bending or twisting at the knee.",
+            "How long do I need to avoid these activities?",
+            "It depends on the type of surgery and your recovery process. You should consult your doctor to get specific advice.",
+            "I see. What kind of exercises can I do to help with my recovery?",
+            "You can do low-impact exercises like swimming, cycling, or walking. You can also do exercises to strengthen your quadriceps and hamstrings.",
+            "Thank you, Medi. That's helpful information."
+        ],
+        "knowledge": "Knee Surgery Knee Surgery After a knee surgery, it's important to avoid high-impact activities that can put stress on the knee joint. Low-impact exercises like swimming, cycling, or walking can help with your recovery. It's also important to do exercises to strengthen your quadriceps and hamstrings. In terms of diet, it's important to eat foods that are rich in vitamins and minerals, such as fruits and vegetables. You should also eat foods that are high in protein to help with muscle recovery. Knee Surgery Knee Surgery",
+        "response": "You should eat foods that are rich in vitamins and minerals, such as fruits and vegetables. You should also eat foods that are high in protein to help with muscle recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling sick lately.",
+            "Hi there, I can help you figure out what might be happening.",
+            "I have a fever, a cough, and I feel very weak.",
+            "Based on your symptoms, it's possible you have a viral infection.",
+            "What can I do to feel better?",
+            "Resting and staying hydrated can help. Would you like more information?",
+            "Yes please",
+            "You can also take over-the-counter medication to help with symptoms such as fever and cough.",
+            "Thank you for your help, Medi. Do you have any recommendations for preventing viral infections?"
+        ],
+        "knowledge": "Viral infections Viral infections  Viral infections can affect any part of the body. Symptoms may include fever, coughing, sore throat, runny nose, sneezing, body aches, and fatigue. Some viruses also cause diarrhea, vomiting, or rash. Most viral infections go away on their own, but some can be life-threatening. The best way to prevent viral infections is to avoid contact with sick people, wash your hands frequently, and get vaccinated against viruses such as the flu. Other preventive measures include staying hydrated, getting enough sleep, and eating a healthy diet. Viral infections Viral infections",
+        "response": "Yes, washing your hands frequently, avoiding contact with sick people, getting vaccinated, staying hydrated, getting enough sleep, and eating a healthy diet are all good ways to prevent viral infections."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and I'm not sure what I should be doing to take care of myself.",
+            "Hi there, I can help with that. What kind of surgery did you have?",
+            "I had my gallbladder removed.",
+            "After gallbladder surgery, it's important to rest and avoid strenuous activity for a few days.",
+            "Are there any activities I should avoid?",
+            "You should avoid lifting heavy objects and doing any vigorous activity that may strain your abdominal muscles.",
+            "What should I eat?",
+            "You should eat a low-fat diet for a few weeks after the surgery. Avoid fatty foods, fried foods, and dairy products.",
+            "Thank you, Medi. Do you have any other advice for me?"
+        ],
+        "knowledge": "Gallbladder surgery Gallbladder surgery  After gallbladder surgery, it's important to rest and avoid strenuous activity for a few days. You should avoid lifting heavy objects and doing any vigorous activity that may strain your abdominal muscles. You should eat a low-fat diet for a few weeks after the surgery. Avoid fatty foods, fried foods, and dairy products. Drinking plenty of water and other fluids is important to help prevent constipation. You may need to take pain medication and antibiotics as prescribed by your doctor. Be sure to follow all your doctor's instructions and attend any follow-up appointments.",
+        "response": "Just be sure to follow all your doctor's instructions and attend any follow-up appointments."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been having stomach issues and I'm not sure what's causing them.",
+            "Hi there, I can help you figure out what might be happening. Can you describe your symptoms for me?",
+            "I've been having abdominal pain, diarrhea, and bloating.",
+            "Based on your symptoms, it's possible you have irritable bowel syndrome.",
+            "What can I do to help alleviate my symptoms?",
+            "You can try reducing stress and changing your diet to avoid spicy, fatty, and processed foods. Would you like more information?",
+            "Yes please.",
+            "You can also try taking probiotics and fiber supplements to help regulate your digestion.",
+            "Thank you, Medi. Do you have any other advice for me?"
+        ],
+        "knowledge": "Irritable bowel syndrome Irritable bowel syndrome  Irritable bowel syndrome is a common condition that affects the large intestine. Symptoms can include abdominal pain, cramping, bloating, gas, diarrhea, and constipation. There is no cure for irritable bowel syndrome, but symptoms can be managed through changes in diet and lifestyle, stress reduction, and medication. Avoiding foods that trigger symptoms, such as spicy, fatty, and processed foods, can help. Eating smaller meals throughout the day and drinking plenty of water can also help. Over-the-counter medication such as laxatives and anti-diarrheal medication can be used to manage symptoms. Irritable bowel syndrome Irritable bowel syndrome",
+        "response": "Just be sure to follow the advice I gave you earlier and monitor your symptoms. If they persist, it's best to see a doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm not feeling well",
+            "I'm here to help you, what are your symptoms?",
+            "I have a cough and fever, as well as body aches and chills",
+            "Based on your symptoms, you may have the flu. You should rest and drink plenty of fluids.",
+            "What medication can I take?",
+            "You can take acetaminophen or ibuprofen to help reduce fever and alleviate symptoms",
+            "Thanks for your help, Medi",
+            "You're welcome. Take care of yourself.",
+            "Is there anything else I need to know about the flu?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The flu is a contagious respiratory illness caused by influenza viruses and can lead to serious complications. It's important to stay home and avoid contact with others to prevent the spread of the virus."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm curious about how infectious diseases are transmitted",
+            "Sure, I can help. Most infectious diseases are spread through contact with infected people, animals or objects",
+            "What are some examples of infectious diseases?",
+            "Some examples include the common cold, flu, tuberculosis, HIV/AIDS, and COVID-19",
+            "How can I protect myself from getting sick?",
+            "The best way to protect yourself is to practice good hygiene, such as washing your hands regularly, covering your mouth when you cough or sneeze, and avoiding close contact with sick people",
+            "Thanks for the advice, Medi. Is there anything else I should be aware of?",
+            "It's important to stay up to date on vaccinations and to seek medical attention if you suspect you have an infectious disease",
+            "What should I do if I think I've been exposed to an infectious disease?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Anton van Leeuwenhoek  advanced the science of microscopy by being the first to observe microorganisms, allowing for easy visualization of bacteria. In the mid-19th century John Snow and William Budd did important work demonstrating the contagiousness of typhoid and cholera through contaminated water.  Both are credited with decreasing epidemics of cholera in their towns by implementing measures to prevent contamination of water.  Louis Pasteur proved beyond doubt that certain diseases are caused by infectious agents, and developed a vaccine for rabies.  Robert Koch provided the study of infectious diseases with a scientific basis known as Koch's postulates.  Edward Jenner, Jonas Salk and Albert Sabin developed effective vaccines for smallpox and polio, which would later result in the eradication and near-eradication of these diseases, respectively.  Alexander Fleming discovered the world's first antibiotic, penicillin, which Florey and Chain then developed Infectious diseases Infectious diseases",
+        "response": "If you think you've been exposed to an infectious disease, it's best to seek medical attention and follow any recommended treatment or quarantine measures."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm recovering from a recent surgery and want to know how I can speed up my recovery",
+            "Congratulations on your surgery. You should focus on getting plenty of rest and eating a healthy diet",
+            "Are there any specific foods I should be eating?",
+            "Foods that are high in protein, vitamins, and minerals can help with wound healing and recovery, such as lean meats, fish, fruits, and vegetables",
+            "What about physical activity?",
+            "It's important to gradually increase physical activity, as recommended by your healthcare provider. Walking and light stretching can be helpful",
+            "Thanks, Medi. Is there anything else I should be doing?",
+            "It's important to follow any post-surgery instructions given by your healthcare provider, such as taking medication as prescribed and attending any follow-up appointments",
+            "How long does the recovery process usually take?"
+        ],
+        "knowledge": "Surgery Surgery  Surgery is a medical specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological condition such as a disease or injury, to help improve bodily function, appearance, or quality of life, or sometimes for cosmetic reasons.  An act of performing surgery may be called a surgical procedure, operation, or simply surgery.  Surgery typically spans minutes to hours, but it is typically not an ongoing or periodic type of treatment.  The term surgery can also refer to the place where surgery is performed, or, in British English, simply the office of a physician.  An outpatient surgery is a type of surgery that does not require an overnight stay in the hospital Surgery Surgery",
+        "response": "The recovery process can vary depending on the individual and the type of surgery, but it typically takes several weeks to several months to fully recover from surgery. It's important to follow your healthcare provider's instructions and listen to your body during the recovery process."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and a cough.",
+            "Hi! Let's start with some basic questions. Do you have any other symptoms?",
+            "Yes, I feel tired and have a headache.",
+            "Have you traveled recently or come into contact with anyone who is sick?",
+            "I haven't traveled but my coworker had similar symptoms last week.",
+            "I see. Based on your symptoms and recent contact, it may be a respiratory infection. You should rest and drink plenty of fluids. If your symptoms worsen, seek medical attention.",
+            "Thank you, Medi. What kind of respiratory infection do you think it is?",
+            "It's difficult to say for sure without a test, but it could be a common cold or flu.",
+            "Got it. I'll rest and monitor my symptoms. Thank you again!"
+        ],
+        "knowledge": "Respiratory infections Respiratory infections are diseases caused by microorganisms that invade the respiratory tract. They can be divided into upper respiratory infections, such as the common cold, and lower respiratory infections, such as pneumonia. Symptoms include cough, fever, shortness of breath, chest pain, fatigue, and headache. Respiratory infections can be caused by viruses, bacteria, or other microorganisms. They can spread through the air, physical contact, or contaminated surfaces. Treatment depends on the type and severity of the infection, and may include rest, fluids, medications, or hospitalization. Respiratory infections",
+        "response": "You might have a respiratory infection, which is a common cold or flu."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am feeling anxious about my upcoming surgery.",
+            "Hi there. It's normal to feel anxious before surgery. What are you specifically worried about?",
+            "I'm worried about the pain and recovery time.",
+            "There are ways to manage pain after surgery, such as medication and physical therapy. As for recovery time, it varies depending on the type of surgery and your individual health. Your doctor can give you more specific information.",
+            "That makes sense. What can I do to prepare for the surgery?",
+            "Make sure you follow all instructions from your doctor, such as fasting before the surgery and avoiding certain medications. Also, get plenty of rest and stay hydrated.",
+            "Okay, thank you for the advice. Is there anything else I should know?",
+            "It's important to have a support system before and after the surgery. You can also ask your doctor or nurse any questions or concerns you may have.",
+            "Alright, thank you so much for your help, Medi."
+        ],
+        "knowledge": "Surgery Surgery is a medical procedure that involves cutting into the body to diagnose, treat, or prevent a condition. There are many different types of surgery, such as elective surgery, emergency surgery, and reconstructive surgery. Surgery can be performed with a variety of techniques, including open surgery, laparoscopic surgery, and robotic surgery. Risks of surgery include infection, bleeding, and complications related to anesthesia. Recovery time varies depending on the type of surgery and individual health factors. Surgery",
+        "response": "Make sure you follow all instructions from your doctor, get plenty of rest and stay hydrated before the surgery. It's important to have a support system before and after the surgery, and ask your doctor or nurse any questions or concerns you may have."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been diagnosed with a sexually transmitted disease.",
+            "Hi, I'm sorry to hear that. Do you know what kind of STD you have?",
+            "Yes, it's chlamydia.",
+            "Chlamydia is a common STD caused by bacteria. It can be treated with antibiotics. Have you started treatment yet?",
+            "Yes, I have. But I am worried about the long-term effects of the disease.",
+            "If left untreated, chlamydia can lead to complications such as pelvic inflammatory disease, infertility, and chronic pelvic pain.",
+            "Oh no, what can I do to prevent these complications?",
+            "The best way to prevent complications is to finish your antibiotic treatment and avoid sexual activity until you and your partner(s) have completed treatment. You should also get tested regularly for STDs.",
+            "Thank you for your advice, Medi. I will make sure to do all of those things."
+        ],
+        "knowledge": "Chlamydia Chlamydia is a common sexually transmitted disease caused by bacteria. It can be transmitted through vaginal, anal, or oral sex. Symptoms include discharge from the vagina or penis, pain during urination, and pain or bleeding during sex. However, many people with chlamydia have no symptoms. Chlamydia can be treated with antibiotics, but if left untreated, it can lead to complications such as pelvic inflammatory disease, infertility, and chronic pelvic pain. The best way to prevent complications is to finish antibiotic treatment and avoid sexual activity until you and your partner(s) have completed treatment. You should also get tested regularly for STDs. Chlamydia",
+        "response": "Finish your antibiotic treatment and avoid sexual activity until you and your partner(s) have completed treatment to prevent complications. You should also get tested regularly for STDs."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling sick lately",
+            "Hi there, what are your symptoms?",
+            "I have a fever, cough, and shortness of breath",
+            "Based on your symptoms, it is possible that you have COVID-19",
+            "What should I do now?",
+            "It is important that you quarantine yourself and get tested as soon as possible",
+            "What are the chances of recovery from COVID-19?",
+            "Most people recover from COVID-19 with rest and supportive care",
+            "Thank you for your advice, Medi. I'll follow it"
+        ],
+        "knowledge": "COVID-19 COVID-19 COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus. The virus spreads easily from person to person, primarily through respiratory droplets produced when an infected person talks, coughs, or sneezes. Symptoms of COVID-19 include fever, cough, and shortness of breath. The virus can cause severe respiratory illness, especially in older adults and those with underlying medical conditions. Treatment for COVID-19 focuses on relieving symptoms and preventing complications. Vaccines are available to prevent COVID-19 infection. COVID-19 COVID-19",
+        "response": "You're welcome. I hope you feel better soon."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm curious about antibiotics",
+            "Hi there, what would you like to know?",
+            "What do antibiotics do?",
+            "Antibiotics kill or prevent the growth of bacteria",
+            "Can antibiotics be used for viruses?",
+            "No, antibiotics only work against bacterial infections",
+            "Are there any side effects of antibiotics?",
+            "Yes, common side effects include diarrhea and upset stomach",
+            "Thanks for your help, Medi"
+        ],
+        "knowledge": "Antibiotics Antibiotics Antibiotics are a class of drugs that kill or prevent the growth of bacteria. They are used to treat bacterial infections such as strep throat, urinary tract infections, and pneumonia. Antibiotics do not work against viral infections such as the common cold or the flu. Overuse and misuse of antibiotics can lead to the development of antibiotic-resistant bacteria. Common side effects of antibiotics include diarrhea, upset stomach, and allergic reactions. Antibiotics Antibiotics",
+        "response": "You're welcome. Feel free to ask me any questions anytime."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and I'm not sure what to do now",
+            "Hi there, what kind of surgery did you have?",
+            "I had a knee replacement",
+            "It's important to follow the instructions from your doctor and physical therapist",
+            "What kind of exercises should I do?",
+            "Your physical therapist will give you exercises to help you regain strength and mobility",
+            "What should I eat?",
+            "Eating a healthy diet with plenty of protein and vitamins can help with healing",
+            "Thanks for your advice, Medi"
+        ],
+        "knowledge": "Surgery Surgery Surgery is a medical procedure in which an incision is made in the body to treat a disease, injury, or condition. There are many types of surgery, ranging from minor procedures such as mole removal to major operations such as open-heart surgery. After surgery, it is important to follow the instructions of your doctor and physical therapist to help with healing and recovery. Physical therapy can help regain strength and mobility. Eating a healthy diet with plenty of protein and vitamins can also help with healing. Surgery Surgery",
+        "response": "You're welcome. I hope you have a speedy recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a stomach ache and diarrhea",
+            "Oh no! That sounds uncomfortable. Do you have any other symptoms?",
+            "I feel nauseous and have a headache",
+            "Based on your symptoms, it seems like you have gastroenteritis. Drink plenty of fluids and get rest.",
+            "What kind of food should I eat?",
+            "Start with bland, easy-to-digest foods like toast, crackers, rice, and bananas. Avoid caffeine, alcohol, and spicy or greasy food.",
+            "Will I need medication?",
+            "Most cases of gastroenteritis don't require medication. However, if your symptoms persist or worsen, you should see a doctor.",
+            "Thank you for your advice, Medi. How long will it take for me to feel better?"
+        ],
+        "knowledge": "Gastroenteritis Gastroenteritis  Gastroenteritis is an inflammation of the stomach and intestines, typically resulting from bacterial toxins or viral infection and causing vomiting and diarrhea.  Symptoms include stomach cramps, stomach pain, nausea, vomiting, diarrhea, and sometimes fever, headache, and muscle aches.  Treatment includes drinking plenty of fluids to prevent dehydration and getting rest.  Avoid caffeine, alcohol, and spicy or greasy food.  Most cases of gastroenteritis don't require medication, but if symptoms persist or worsen, see a doctor. Gastroenteritis Gastroenteritis",
+        "response": "It depends on the severity of your symptoms and how well you take care of yourself, but most people start feeling better within a few days."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about vaccines",
+            "Sure, what would you like to know?",
+            "Why are vaccines important?",
+            "Vaccines are important because they help protect people from infectious diseases. They work by training the body's immune system to recognize and fight off specific pathogens.",
+            "Are vaccines safe?",
+            "Yes, vaccines are safe and have undergone rigorous testing before being approved for use. The risks associated with getting vaccinated are far lower than the risks associated with getting the diseases vaccines prevent.",
+            "What are some common vaccines?",
+            "Common vaccines include the flu vaccine, the measles-mumps-rubella vaccine, the HPV vaccine, and the COVID-19 vaccine.",
+            "Should everyone get vaccinated?"
+        ],
+        "knowledge": "Vaccines Vaccines  Vaccines are important because they help protect people from infectious diseases.  They work by training the body's immune system to recognize and fight off specific pathogens.  Vaccines have undergone rigorous testing before being approved for use and are safe.  The risks associated with getting vaccinated are far lower than the risks associated with getting the diseases vaccines prevent.  Common vaccines include the flu vaccine, the measles-mumps-rubella vaccine, the HPV vaccine, and the COVID-19 vaccine.  Everyone who is able to get vaccinated should get vaccinated Vaccines Vaccines",
+        "response": "You're welcome! Do you have any other questions about vaccines?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and I'm not sure what I should do during my recovery.",
+            "I'm sorry to hear that. What kind of surgery did you have?",
+            "I had my appendix removed.",
+            "After surgery, it's important to rest and allow your body time to heal. Avoid lifting heavy objects or doing strenuous activity. You should also follow any specific instructions given to you by your doctor.",
+            "What should I eat?",
+            "Make sure you eat a healthy, balanced diet that includes plenty of protein, fiber, and vitamins. Avoid foods that are high in fat or sugar.",
+            "Can I take pain medication?",
+            "Yes, you can take over-the-counter pain medication like acetaminophen or ibuprofen as directed by your doctor. However, avoid drinking alcohol while taking pain medication.",
+            "Thank you for your advice, Medi. When can I resume my normal activities?"
+        ],
+        "knowledge": "Surgery Surgery  After surgery, it's important to rest and allow your body time to heal.  Avoid lifting heavy objects or doing strenuous activity.  Follow any specific instructions given to you by your doctor.  Make sure you eat a healthy, balanced diet that includes plenty of protein, fiber, and vitamins.  Avoid foods that are high in fat or sugar.  You can take over-the-counter pain medication like acetaminophen or ibuprofen as directed by your doctor.  However, avoid drinking alcohol while taking pain medication Surgery Surgery",
+        "response": "You're welcome! I hope your recovery goes smoothly. Do you have any other questions?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and sore throat. What should I do?",
+            "Hello, based on your symptoms you may have an infection, you should rest and drink plenty of fluids.",
+            "Do I need to take any medication?",
+            "You can take over-the-counter pain relievers such as acetaminophen or ibuprofen.",
+            "Is there anything else I should do?",
+            "Yes, you should try to stay home and avoid contact with others to avoid spreading the infection.",
+            "How long will it take for me to feel better?",
+            "It can take a few days to a week for your symptoms to improve. If they persist, you should see a doctor.",
+            "Thanks Medi, I'll follow your advice."
+        ],
+        "knowledge": "Common cold and flu can cause fever and sore throat. These are caused by viruses and can be treated with rest, fluids and over-the-counter pain relievers. They usually improve within a week.",
+        "response": "You're welcome, take care and rest well to get better soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I read about infectious diseases in history. Can you tell me more?",
+            "Sure, what would you like to know?",
+            "Who were some important figures in the history of infectious diseases?",
+            "Anton van Leeuwenhoek was the first to observe microorganisms, John Snow and William Budd did important work demonstrating the contagiousness of typhoid and cholera through contaminated water. Louis Pasteur proved beyond doubt that certain diseases are caused by infectious agents, and developed a vaccine for rabies. Robert Koch provided the study of infectious diseases with a scientific basis known as Koch's postulates. Edward Jenner, Jonas Salk, and Albert Sabin developed effective vaccines for smallpox and polio.",
+            "Wow, that's really interesting. How did their work impact medicine?",
+            "Their work contributed to our understanding of infectious diseases and helped us develop vaccines and treatments to prevent and cure them.",
+            "Thanks for the information. Do you think we will ever be able to cure all infectious diseases?",
+            "It's difficult to say for sure, but with continued research and development of treatments and vaccines, we can certainly work towards that goal.",
+            "Thank you, Medi. Your knowledge is very helpful."
+        ],
+        "knowledge": "Many historical figures made important contributions to the study of infectious diseases, leading to the development of vaccines and treatments. While it is difficult to predict the future, continued research and development can help us work towards a world without infectious diseases.",
+        "response": "You're welcome, always happy to help."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure done. Do you have any advice for me?",
+            "Of course, what kind of procedure did you have?",
+            "I had surgery on my knee.",
+            "In that case, it's important to follow your doctor's instructions for recovery, including resting and avoiding putting too much weight on the affected knee. You may also need physical therapy to help with recovery.",
+            "What about my diet?",
+            "A balanced diet rich in nutrients, such as protein and vitamins, can help with recovery. You may also want to consider incorporating anti-inflammatory foods, such as berries and leafy greens, into your diet to help reduce inflammation.",
+            "What about exercise?",
+            "While you should avoid strenuous exercise right after surgery, light exercise and stretching can help with recovery. Your doctor or physical therapist can give you more specific recommendations.",
+            "Thank you, Medi. That's very helpful."
+        ],
+        "knowledge": "After a medical procedure, it's important to follow your doctor's instructions for recovery, which may include resting, physical therapy, and a balanced diet. Light exercise and stretching can also help with recovery.",
+        "response": "You're welcome, take care and follow your doctor's advice for a smooth recovery."
+    }
+]

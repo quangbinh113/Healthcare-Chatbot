@@ -1,0 +1,361 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms I'm concerned about.",
+            "What are the symptoms you are experiencing?",
+            "I have difficulty breathing and a wheezing sound when I breathe.",
+            "Based on the symptoms you have described, you may be experiencing asthma.",
+            "What is asthma?",
+            "Asthma is a long-term condition that affects the airways in the lungs. It can cause coughing, wheezing, and difficulty breathing.",
+            "What can I do to manage it?",
+            "You can manage it by avoiding triggers, taking medication as prescribed, and having an asthma action plan.",
+            "Can asthma be cured?"
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however 'real world' use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish 'refractory' from 'difficult to treat' categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "Asthma cannot be cured, but it can be managed with treatment."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am curious about the medications used to treat asthma.",
+            "Asthma medications are broadly classified into fast-acting and long-acting categories.",
+            "What are the differences between the two categories?",
+            "Fast-acting medications provide quick relief from asthma symptoms, while long-acting medications help to prevent symptoms from occurring in the first place.",
+            "What kinds of fast-acting medications are there?",
+            "Short-acting beta agonists (SABAs) are the most common type of fast-acting medication used to treat asthma.",
+            "What about long-acting medications?",
+            "Inhaled corticosteroids and long-acting beta agonists (LABAs) are the most common types of long-acting medications used to treat asthma.",
+            "Can these medications cause side effects?"
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however 'real world' use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish 'refractory' from 'difficult to treat' categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "Yes, both fast-acting and long-acting medications can cause side effects, but they are generally well-tolerated. Common side effects include headaches, nausea, and throat irritation."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a medical procedure to treat my asthma and I want advice about my lifestyle",
+            "Of course, after a medical procedure, it is important to allow your body to rest and recover.",
+            "What kind of lifestyle modifications should I make?",
+            "Regular exercise can help improve lung function and reduce the risk of asthma flare-ups. Eating a healthy diet with plenty of fruits and vegetables can also help improve overall health.",
+            "Are there any foods I should avoid?",
+            "Some people with asthma find that certain foods, such as dairy products or processed foods, can trigger their symptoms. It is important to monitor your symptoms and identify any triggers that may be causing them.",
+            "What about smoking?",
+            "Smoking can worsen asthma symptoms and increase the risk of complications. It is important to avoid smoking and exposure to secondhand smoke.",
+            "Got it, thanks for the advice, Medi."
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however 'real world' use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish 'refractory' from 'difficult to treat' categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "You're welcome, I'm glad to be of help."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms related to asthma.",
+            "Sure, please tell me about your symptoms.",
+            "I feel shortness of breath and chest pain when exercising.",
+            "Based on your symptoms, it seems like you have exercise-induced asthma.",
+            "What should I do to manage it?",
+            "You can use a fast-acting inhaler before exercising or try breathing through your nose during exercise.",
+            "Is it necessary to take long-acting medications?",
+            "It depends on the severity of your symptoms and how frequently you experience them.",
+            "Got it. How can I prevent asthma attacks from happening?"
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however 'real world' use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish 'refractory' from 'difficult to treat' categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "There are many triggers for asthma attacks such as exercise, pollen, and dust, and you can prevent attacks by avoiding triggers, using inhalers before exercise or taking long-acting medications if necessary."
+    },
+    {
+        "dialog": [
+            "Hi Medi, could you please explain what is asthma?",
+            "Of course, asthma is a chronic disease that affects the airways in the lungs.",
+            "What are the symptoms of asthma?",
+            "The symptoms of asthma include wheezing, coughing, shortness of breath, and chest tightness.",
+            "Can asthma be cured?",
+            "Unfortunately, there is no cure for asthma, but it can be managed with medication and lifestyle changes.",
+            "What are the common medications for asthma?",
+            "The medications for asthma include inhaled corticosteroids, beta-agonists, and leukotriene modifiers.",
+            "I see. Are there any lifestyle changes I can make to manage asthma? "
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however 'real world' use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish 'refractory' from 'difficult to treat' categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "Yes, you can manage asthma with lifestyle changes like avoiding triggers, quitting smoking, and exercising regularly to improve lung function."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just got out of the hospital after an asthma attack. What should I do now?",
+            "I'm sorry to hear that. It's important to follow a treatment plan and take medication as prescribed by your doctor.",
+            "What can trigger asthma attacks?",
+            "Asthma attacks can be triggered by allergens, exercise, stress, and respiratory infections.",
+            "What can I do to prevent future attacks?",
+            "You can prevent future attacks by avoiding triggers, taking medication as prescribed, and monitoring your symptoms regularly.",
+            "Is it safe to exercise with asthma?",
+            "It is safe to exercise with asthma, but you should work with your doctor to develop an exercise plan and use an inhaler before exercising.",
+            "Thank you for your help. Can I live a normal life with asthma?"
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however 'real world' use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish 'refractory' from 'difficult to treat' categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "Yes, with proper medication and lifestyle changes, you can live a normal life with asthma. It's important to work with your doctor to develop a treatment plan that works for you."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some trouble breathing and coughing lately.",
+            "Hello, based on your symptoms, it seems you may have asthma. Have you had any asthma diagnosis before?",
+            "No, I haven't. Do you have any suggestions for my condition?",
+            "The medications for asthma are broadly classified into fast-acting and long-acting categories. Fast-acting medication like rescue inhaler is used for immediate symptom relief. Long-acting medication like steroid inhaler is used for regular management. ",
+            "Should I only use one type of medication?",
+            "No, it depends on the severity of your condition. Your doctor will prescribe the right combination and dosage of medication for you.",
+            "I see. Are there any side effects of the medicine?",
+            "Yes, but the benefits outweigh the risks. Side effects may include hoarseness, oral thrush or bone density loss. But proper use can minimize these side effects.",
+            "Thanks for your advice, Medi. How can I prevent asthma symptoms?"
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however \"real world\" use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish \"refractory\" from \"difficult to treat\" categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "In addition to medication, avoiding triggers like pollen, dust, mold or pet hair can reduce asthma symptoms. You should also maintain a healthy lifestyle and avoid smoking."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about asthma.",
+            "Sure, I'm happy to help. What do you want to know?",
+            "What are the common symptoms of asthma?",
+            "Common symptoms of asthma include coughing, wheezing, shortness of breath, and chest tightness. These symptoms can range from mild to severe.",
+            "Is asthma curable?",
+            "No, asthma is a chronic condition that can be managed with proper treatment and care. But there is no cure for asthma.",
+            "Can I still exercise if I have asthma?",
+            "Yes, exercise is actually recommended for people with asthma. Just make sure to warm up properly and use your inhaler before exercising.",
+            "Thanks, Medi. One more question. Can I have asthma and allergies at the same time?"
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however \"real world\" use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish \"refractory\" from \"difficult to treat\" categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "You're welcome. Let me know if you have any more questions about asthma."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've just had a medical procedure related to my asthma. What should I do to take care of myself now?",
+            "Hello, after a medical procedure for asthma, it's important to follow your doctor's instructions. You may need to continue taking medication or start a new medication. ",
+            "What about my lifestyle, is there anything I need to change?",
+            "Yes, you should avoid triggers that can cause asthma symptoms, like smoke, pet hair, and dust. You should also maintain a healthy lifestyle with regular exercise and a balanced diet.",
+            "What kind of exercise is good for me?",
+            "Low to moderate intensity exercise is best for people with asthma. Walking, biking, and swimming are good options. Make sure to use your inhaler before exercising.",
+            "What kind of diet should I follow?",
+            "A balanced diet with plenty of fruits, vegetables, and whole grains can help manage asthma symptoms. Limiting processed foods and sugary drinks can also benefit your overall health.",
+            "Thank you, Medi. One more question, what should I do in case of an asthma attack?"
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however \"real world\" use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish \"refractory\" from \"difficult to treat\" categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "You're welcome. If you have any further questions, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I might have asthma, can you help me?",
+            "Sure, what are your symptoms?",
+            "I have difficulty breathing and my chest feels tight",
+            "It sounds like you may have asthma. Have you ever had this before?",
+            "No, this is the first time I've experienced this",
+            "It's important to see a doctor for proper diagnosis and treatment",
+            "What kind of treatment is available for asthma?",
+            "Pharmaceutical drugs are selected based on the severity of illness and the frequency of symptoms. Specific medications for asthma are broadly classified into fast-acting and long-acting categories.",
+            "Which type of medication is better for me?"
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however real world use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work or because individuals are either unable or unwilling to take optimum doses of prescribed asthma medications.  In practice, it is not possible to distinguish refractory from difficult to treat categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "It depends on the severity and frequency of your symptoms. It's best to see a doctor for a proper diagnosis and treatment plan."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had a recent asthma attack. What can I do to prevent it from happening again?",
+            "It's important to identify your triggers and avoid them as much as possible",
+            "What are some common triggers for asthma?",
+            "Common triggers include allergens like pollen, dust mites, and pet dander, as well as irritants like smoke, pollution, and strong odors",
+            "What can I do if I can't avoid my triggers?",
+            "You can talk to your doctor about medications to help manage your symptoms and reduce the risk of an asthma attack",
+            "What else can I do to manage my asthma?",
+            "It's important to practice good self-care, like getting regular exercise, eating a healthy diet, and reducing stress",
+            "Thanks for the advice, Medi. How can I monitor my asthma at home?"
+        ],
+        "knowledge": "Asthma Asthma  Asthma control is the degree to which asthma symptoms are minimized in the patient.  Asthma is considered controlled when the patient has minimal to no symptoms and is able to perform daily activities without difficulty.  Asthma is considered partially controlled when symptoms are present, but do not interfere with daily activities.  Asthma is considered uncontrolled when symptoms are present and interfere with daily activities.  Home monitoring of asthma can be done with a peak flow meter or a spirometer.  The goal of monitoring is to keep the patient's asthma under control and prevent flare-ups. Asthma Asthma",
+        "response": "You can monitor your asthma at home with a peak flow meter or a spirometer. Your doctor can help you determine which device is best for you and teach you how to use it."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had an asthma attack and was hospitalized. What can I do to prevent it from happening again?",
+            "It's important to follow your doctor's treatment plan and take your medication as prescribed",
+            "Are there any lifestyle changes I can make to help manage my asthma?",
+            "Yes, you can practice good self-care like getting regular exercise, eating a healthy diet, and reducing stress",
+            "What else can I do to manage my asthma?",
+            "It's important to identify and avoid your triggers as much as possible",
+            "What can I do if I can't avoid my triggers?",
+            "You can talk to your doctor about medications to help manage your symptoms and reduce the risk of an asthma attack",
+            "Thanks for the advice, Medi. How can I know if my asthma is getting worse?"
+        ],
+        "knowledge": "Asthma Asthma  Asthma control is the degree to which asthma symptoms are minimized in the patient.  Asthma is considered controlled when the patient has minimal to no symptoms and is able to perform daily activities without difficulty.  Asthma is considered partially controlled when symptoms are present, but do not interfere with daily activities.  Asthma is considered uncontrolled when symptoms are present and interfere with daily activities.  Symptoms of worsening asthma include difficulty breathing, chest tightness, wheezing, and coughing.  It's important to seek medical attention if you experience any of these symptoms",
+        "response": "If you experience difficulty breathing, chest tightness, wheezing, or coughing, your asthma may be getting worse. It's important to seek medical attention if you experience any of these symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some asthma symptoms and need advice",
+            "I'm here to help. Can you tell me more about your symptoms?",
+            "I'm having difficulty breathing and a tight chest",
+            "Both those are common symptoms of asthma. Have you been diagnosed before?",
+            "Yes, I was diagnosed a few years ago and have been using an inhaler",
+            "It's good that you have been using it. Have you been using it as prescribed?",
+            "I sometimes forget to take it, but I try to use it as much as possible",
+            "It's important to use it as prescribed. I recommend following your doctor's advice and managing your triggers",
+            "Okay, thank you for the advice. What are some common asthma triggers?"
+        ],
+        "knowledge": "Asthma Asthma Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms. Specific medications for asthma are broadly classified into fast-acting and long-acting categories. The medications listed below have demonstrated efficacy in improving asthma symptoms, however real-world use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated. People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work or because individuals are either unable or unwilling to take optimum doses of prescribed asthma medications. In practice, it is not possible to distinguish refractory from difficult-to-treat categories for patients who have never taken optimum doses of asthma medications. A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma. For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "Some common asthma triggers are allergies, exercise, irritants like smoke or pollution, respiratory infections, and weather changes"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about asthma medication",
+            "Of course, I'm here to provide information. What do you want to know?",
+            "What are some common fast-acting asthma medications?",
+            "Some examples of fast-acting asthma medications are albuterol, levalbuterol, and ipratropium",
+            "What about long-acting asthma medications?",
+            "Long-acting asthma medications include inhaled corticosteroids, leukotriene modifiers, and long-acting beta-agonists",
+            "Can you explain the difference between the two types of medications?",
+            "Fast-acting medications provide quick relief for asthma symptoms, while long-acting medications are used for daily maintenance and control of asthma",
+            "Thank you for explaining, Medi. Are there any side effects of these medications?"
+        ],
+        "knowledge": "Asthma Asthma Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms. Specific medications for asthma are broadly classified into fast-acting and long-acting categories. The medications listed below have demonstrated efficacy in improving asthma symptoms, however real-world use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated. People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work or because individuals are either unable or unwilling to take optimum doses of prescribed asthma medications. In practice, it is not possible to distinguish refractory from difficult-to-treat categories for patients who have never taken optimum doses of asthma medications. A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma. For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "Yes, there can be side effects such as increased heart rate, tremors, headaches or dry mouth. However, the benefits of these medications generally outweigh the risks"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've recently had a medical procedure and need advice",
+            "I'm here to help. What kind of procedure did you have?",
+            "I had surgery on my knee and I'm wondering what kind of physical activity I can do",
+            "It's important to follow your doctor's guidance, but generally, low-impact activities like swimming or cycling can be good for your knee",
+            "What about my diet? Are there any foods I should avoid or focus on?",
+            "Foods that can help with healing and inflammation include fruits and vegetables, lean protein, and foods high in omega-3 fatty acids. You should also drink plenty of water",
+            "Thank you, Medi. Are there any lifestyle changes I should make to aid in my recovery?",
+            "Getting enough rest and sleep is important for recovery. Additionally, quitting smoking if you smoke and managing stress can also be beneficial",
+            "That's helpful advice. Are there any other tips you recommend for a speedy recovery?"
+        ],
+        "knowledge": "Asthma Asthma Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms. Specific medications for asthma are broadly classified into fast-acting and long-acting categories. The medications listed below have demonstrated efficacy in improving asthma symptoms, however real-world use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated. People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work or because individuals are either unable or unwilling to take optimum doses of prescribed asthma medications. In practice, it is not possible to distinguish refractory from difficult-to-treat categories for patients who have never taken optimum doses of asthma medications. A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma. For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "Yes, some other tips include doing physical therapy exercises as instructed by your doctor, avoiding high-impact activities or activities that put stress on your knee, and taking any prescribed pain medication as directed"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am having trouble breathing lately.",
+            "I'm here to help. What other symptoms do you have?",
+            "I often feel cough and wheezing at night, and my chest feels tight.",
+            "Based on your symptoms, you may have asthma. Have you ever been diagnosed with it?",
+            "No, I haven't. What should I do now?",
+            "You should immediately consult a doctor to get a proper diagnosis and treatment plan. Asthma can be managed with the right medication and lifestyle modifications.",
+            "What kind of medications are available for asthma treatment?",
+            "There are fast-acting and long-acting medications. The type of medication prescribed will depend on the severity of your asthma and the frequency of your symptoms.",
+            "Thank you, Medi. What lifestyle modifications do you recommend for asthma patients?"
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however 'real world' use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish 'refractory' from 'difficult to treat' categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "I recommend avoiding triggers that can worsen your asthma such as smoke, pollution, and allergens. You should also exercise regularly and maintain a healthy diet."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I wanted to know more about asthma.",
+            "Of course. What would you like to know?",
+            "What exactly is asthma, and how is it different from other respiratory diseases?",
+            "Asthma is a chronic condition that affects the airways in the lungs. It causes inflammation and narrowing of the airways, which makes it difficult to breathe. Asthma is different from other respiratory illnesses such as bronchitis or emphysema, which are usually caused by smoking or exposure to air pollution.",
+            "What are the common triggers of asthma?",
+            "Common triggers include allergens such as pollen, dust mites, and animal dander, as well as air pollution, smoke, and certain medications. Stress and exercise can also trigger asthma symptoms in some people.",
+            "Can asthma be cured completely?",
+            "There is no cure for asthma, but it can be managed with the right treatment plan. The goal of treatment is to prevent symptoms and to maintain good lung function.",
+            "What steps can I take to prevent asthma attacks?"
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however 'real world' use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish 'refractory' from 'difficult to treat' categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "I hope that answered your questions. Is there anything else you would like to know about asthma?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently underwent a medical procedure for my asthma. Can you give me some advice on how to take care of myself post-operation?",
+            "Of course. What kind of procedure did you undergo?",
+            "I had a bronchial thermoplasty procedure done.",
+            "After the procedure, it's important to follow your doctor's instructions and take any medication as prescribed. You may experience some shortness of breath and coughing for a few days after the procedure, so make sure to rest as much as possible.",
+            "What about physical activity? Can I exercise?",
+            "It's important to avoid any strenuous exercise for at least a week after the procedure. After that, you can gradually start to increase your activity level as recommended by your doctor.",
+            "What should I eat?",
+            "It's important to eat a healthy, balanced diet with plenty of fruits and vegetables. Avoid any foods that may trigger your asthma symptoms.",
+            "Thank you, Medi. How long will it take for me to recover completely?"
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however 'real world' use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish 'refractory' from 'difficult to treat' categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "I hope that helps. Is there anything else you would like to know?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am experiencing shortness of breath and wheezing.",
+            "Hi, based on your symptoms, it's possible you have asthma.",
+            "What can I do about it?",
+            "There are fast-acting and long-acting medications that can help reduce your symptoms.",
+            "Which one should I take?",
+            "It depends on the severity of your symptoms and your doctor's advice.",
+            "Okay, thank you for your advice.",
+            "You're welcome. Do you have any other questions?"
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however \"real world\" use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish \"refractory\" from \"difficult to treat\" categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "Feel free to ask me anything related to your asthma."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about asthma.",
+            "Sure, what would you like to know?",
+            "Can asthma be cured?",
+            "Unfortunately, there is no cure for asthma, but it can be managed effectively with medication.",
+            "What triggers asthma?",
+            "Common triggers include allergens, air pollution, exercise, and respiratory infections.",
+            "Is it okay to exercise with asthma?",
+            "Yes, it's possible to exercise with asthma, but it's important to talk to your doctor about a plan that works for you.",
+            "Thank you for the helpful information."
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however \"real world\" use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish \"refractory\" from \"difficult to treat\" categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "Feel free to ask me anything else related to asthma."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had an asthma flare-up and was treated in the hospital.",
+            "I'm sorry to hear that. What can I help you with?",
+            "I'm wondering if there are any lifestyle changes I can make to prevent future flare-ups.",
+            "Yes, there are many lifestyle changes that can help, such as avoiding triggers, quitting smoking, and exercising regularly.",
+            "How can I avoid triggers?",
+            "Common triggers include allergens, pollution, and respiratory infections. It's important to avoid these as much as possible.",
+            "Do I need to quit smoking?",
+            "Smoking can worsen asthma symptoms, so quitting is highly recommended.",
+            "Thank you for the advice."
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however \"real world\" use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish \"refractory\" from \"difficult to treat\" categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "I hope you feel better soon. Let me know if you have any more questions about managing your asthma."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have difficulty breathing and a tight chest.",
+            "Hi, let me help you. When did these symptoms start?",
+            "I noticed them this morning and they have been getting worse throughout the day.",
+            "Okay, based on your symptoms, it could be asthma. Have you had asthma before?",
+            "Yes, I was diagnosed with asthma when I was younger.",
+            "In that case, you should take your inhaler and avoid any triggers. If the symptoms persist, please see a doctor.",
+            "What triggers should I avoid?",
+            "You should avoid cigarette smoke, air pollution, exercise, and certain foods.",
+            "Thank you, Medi. Can you recommend any fast-acting medication for asthma?"
+        ],
+        "knowledge": "Asthma Asthma  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however 'real world' use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications . Asthma Asthma",
+        "response": "For fast-acting medication, you can use your inhaler like Ventolin or Salbutamol."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you explain more about asthma?",
+            "Sure, what would you like to know?",
+            "What causes asthma?",
+            "There is no one single cause of asthma. Asthma is caused by a combination of genetic and environmental factors.",
+            "What are the symptoms of asthma?",
+            "The most common symptoms of asthma include difficulty breathing, wheezing, coughing, and chest tightness.",
+            "Can asthma be cured?",
+            "Unfortunately, there is no cure for asthma. However, with proper management, you can control your symptoms and live a normal life.",
+            "What kind of management is available for asthma?"
+        ],
+        "knowledge": "Asthma Asthma  Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms.  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however 'real world' use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish 'refractory' from 'difficult to treat' categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "There are two types of medication for asthma: long-acting and fast-acting. Long-acting medication, like inhaled corticosteroids, is used daily to control symptoms. Fast-acting medication, like Ventolin or Salbutamol, is used during an asthma attack to quickly relieve symptoms. You should also avoid triggers like cigarette smoke and air pollution."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had an asthma attack and was hospitalized. What should I do now?",
+            "Oh no, I'm sorry to hear that. You should follow your doctor's advice and take your medication as prescribed.",
+            "What sort of medication will I be prescribed?",
+            "Your doctor may prescribe a combination of long-acting and fast-acting medication depending on the severity of your asthma.",
+            "What else can I do to manage my asthma?",
+            "You should avoid triggers like cigarette smoke and air pollution. You should also maintain a healthy diet and exercise regularly.",
+            "What sort of exercise can I do?",
+            "You should stick to low-impact exercises like walking, swimming, and yoga. Always consult with your doctor before starting a new exercise routine.",
+            "Thank you, Medi. How can I prevent future asthma attacks?"
+        ],
+        "knowledge": "Asthma Asthma  Specific medications for asthma are broadly classified into fast-acting and long-acting categories.  The medications listed below have demonstrated efficacy in improving asthma symptoms, however 'real world' use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.  People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work  or because individuals are either unable  or unwilling  to take optimum doses of prescribed asthma medications .  In practice, it is not possible to distinguish 'refractory' from 'difficult to treat' categories for patients who have never taken optimum doses of asthma medications.  A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.  For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking blunts the efficacy of inhaled corticosteroids, the mainstay of asthma control management Asthma Asthma",
+        "response": "To prevent future asthma attacks, you should take your medication as prescribed, avoid triggers like cigarette smoke and air pollution, and maintain a healthy lifestyle by eating a balanced diet and exercising regularly."
+    }
+]

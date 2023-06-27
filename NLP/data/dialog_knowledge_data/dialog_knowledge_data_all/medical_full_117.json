@@ -1,0 +1,405 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and need your help.",
+            "Of course, I am here to help. What are your symptoms?",
+            "I have been experiencing abdominal pain and bloating",
+            "Ok, based on that, you may have Irritable Bowel Syndrome.",
+            "What can I do to relieve the symptoms?",
+            "You can try a low FODMAP diet and avoiding trigger foods such as caffeine and alcohol.",
+            "Thank you for the advice. Is there anything else I can do?",
+            "Yes, you can exercise regularly and manage stress through relaxation techniques.",
+            "Okay, thank you very much for the advice."
+        ],
+        "knowledge": "Irritable Bowel Syndrome Irritable Bowel Syndrome Irritable bowel syndrome  is a common, chronic condition that affects the large intestine. Symptoms include abdominal pain, bloating, and changes in bowel habits.  Symptoms can range from mild to severe and can come and go over time.  There is no cure for IBS, but symptoms can be managed through diet and lifestyle changes, as well as medication.  A low FODMAP diet may be beneficial, as well as avoiding trigger foods, caffeine, and alcohol.   Regular exercise and stress management can also help with symptoms Irritable Bowel Syndrome Irritable Bowel Syndrome",
+        "response": "You're welcome. I hope you will feel better soon."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about cancer.",
+            "Sure, I am happy to help. What would you like to know?",
+            "Is cancer always caused by genetic factors?",
+            "No, approximately 90-95% of cancers are caused by environmental and lifestyle factors such as exposure to carcinogens or unhealthy habits",
+            "What are some examples of carcinogens?",
+            "Some examples are tobacco smoke, ultraviolet radiation, and certain chemicals",
+            "I see. What are some of the lifestyle factors that can increase the risk of cancer?",
+            "Lifestyle factors such as excessive alcohol consumption, poor diet, and lack of physical activity can increase the risk of cancer.",
+            "Thank you for the information. Is there anything I can do to reduce my risk of cancer?"
+        ],
+        "knowledge": "Cancer Cancer  Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants.  In the developing world, 15% of cancers are due to infections such as Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein\u2013Barr virus and human immunodeficiency virus .  These factors act, at least partly, by changing the genes of a cell.  Typically, many genetic changes are required before cancer develops.  Approximately 5\u201310% of cancers are due to inherited genetic defects.  Cancer can be detected by certain signs and symptoms or screening tests.  It is then typically further investigated by medical imaging and confirmed by biopsy Cancer Cancer",
+        "response": "You're welcome. Don't hesitate to ask if you have any more questions about cancer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and want to know how to take care of myself afterward.",
+            "Of course, I can give you some advice on post-surgical care. What type of surgery did you have?",
+            "I had knee replacement surgery.",
+            "You should rest and avoid any strenuous activity for the first few weeks, and follow your doctor's prescribed physical therapy regimen.",
+            "What about my diet?",
+            "You should eat a healthy diet that is rich in nutrients to help your body heal. Drinking plenty of water is also important.",
+            "How about medication?",
+            "You should take any prescribed medication as directed by your doctor and be sure to report any side effects.",
+            "Thank you for the advice. Is there anything else I should know?"
+        ],
+        "knowledge": "Surgery Surgery  Post-surgical care is important to ensure a smooth recovery.  You should rest and avoid strenuous activity for the first few weeks after surgery, and follow any prescribed physical therapy regimen.  Eating a healthy diet rich in nutrients and drinking plenty of water is also important.  You should take any prescribed medication as directed by your doctor and report any side effects.  Be sure to monitor the incision site for any signs of infection such as redness, swelling, or discharge Surgery Surgery",
+        "response": "You're welcome. Don't hesitate to contact your doctor if you have any concerns about your recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms, can you help me?",
+            "Of course, please tell me about your symptoms",
+            "I feel very tired and weak, and I have lost my appetite recently",
+            "How long have you been feeling this way?",
+            "It's been going on for a few weeks now",
+            "Have you experienced any weight loss or nausea?",
+            "Yes, I've lost a few pounds and occasionally feel nauseous",
+            "Based on your symptoms, it could be cancer, but we need to do more tests to confirm.",
+            "What kind of tests do I need to take, Medi?"
+        ],
+        "knowledge": "Cancer Cancer Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants. In the developing world, 15% of cancers are due to infections such as Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein\u2013Barr virus and human immunodeficiency virus. These factors act, at least partly, by changing the genes of a cell. Typically, many genetic changes are required before cancer develops. Approximately 5\u201310% of cancers are due to inherited genetic defects. Cancer can be detected by certain signs and symptoms or screening tests. It is then typically further investigated by medical imaging and confirmed by biopsy Cancer Cancer",
+        "response": "You need to undergo diagnostic imaging tests such as X-rays, CT scans or MRI scans to determine the cause of your symptoms. A biopsy may also be necessary to confirm the diagnosis."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have recently undergone cancer treatment. Can you give me some advice?",
+            "Of course, what kind of advice do you need?",
+            "I would like to know what kind of lifestyle changes I should make",
+            "You should try to maintain a healthy lifestyle by eating a balanced diet, getting regular exercise, and avoiding alcohol and tobacco",
+            "What kind of diet should I follow?",
+            "You should eat a diet rich in fruits, vegetables, and whole grains. You should also avoid processed foods and red meat as much as possible.",
+            "What kind of exercise should I do?",
+            "You should engage in moderate exercise such as brisk walking or swimming for at least 30 minutes a day, five days a week",
+            "Thank you for your advice, Medi. Can you recommend any support groups for cancer patients?"
+        ],
+        "knowledge": "Cancer Cancer Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants. In the developing world, 15% of cancers are due to infections such as Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein\u2013Barr virus and human immunodeficiency virus. These factors act, at least partly, by changing the genes of a cell. Typically, many genetic changes are required before cancer develops. Approximately 5\u201310% of cancers are due to inherited genetic defects. Cancer can be detected by certain signs and symptoms or screening tests. It is then typically further investigated by medical imaging and confirmed by biopsy Cancer Cancer",
+        "response": "You're welcome. I can recommend some support groups to you. Let me know if you want me to find some"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about cancer",
+            "Sure, I can answer your questions to the best of my ability",
+            "What is cancer and how does it develop?",
+            "Cancer is a disease caused by the uncontrolled growth and spread of abnormal cells. These cells can develop into tumors and invade nearby tissues and organs, causing damage and potentially serious health problems. Cancer develops when certain changes occur in the genes that regulate cell growth and division.",
+            "What causes cancer?",
+            "There are many factors that can increase the risk of developing cancer, including exposure to certain chemicals and substances, radiation exposure, a family history of cancer, and certain viruses and bacteria. Smoking and excessive alcohol consumption can also increase the risk of developing certain types of cancer.",
+            "Can cancer be prevented?",
+            "While there is no guaranteed way to prevent cancer, you can reduce your risk by maintaining a healthy lifestyle, avoiding tobacco and excessive alcohol consumption, and getting regular physical exams and cancer screenings.",
+            "Thank you for answering my questions, Medi"
+        ],
+        "knowledge": "Cancer Cancer Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants. In the developing world, 15% of cancers are due to infections such as Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein\u2013Barr virus and human immunodeficiency virus. These factors act, at least partly, by changing the genes of a cell. Typically, many genetic changes are required before cancer develops. Approximately 5\u201310% of cancers are due to inherited genetic defects. Cancer can be detected by certain signs and symptoms or screening tests. It is then typically further investigated by medical imaging and confirmed by biopsy Cancer Cancer",
+        "response": "You're welcome. Let me know if you have any other questions or concerns in the future."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been having some symptoms lately.",
+            "Sure, what symptoms are you experiencing?",
+            "I feel very tired all the time, and I have lost my appetite. Sometimes I feel nauseous.",
+            "I see. Based on those symptoms, you may need to undergo some tests to determine the cause.",
+            "What kind of tests?",
+            "Blood and urine tests, imaging tests, and possibly a biopsy.",
+            "That sounds scary. What could be causing these symptoms?",
+            "It's hard to say without tests, but it could be cancer, which is why the tests are necessary.",
+            "Cancer? Is it treatable, Medi?"
+        ],
+        "knowledge": "Cancer Cancer  Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants.  In the developing world, 15% of cancers are due to infections such as Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein\u2013Barr virus and human immunodeficiency virus .  These factors act, at least partly, by changing the genes of a cell.  Typically, many genetic changes are required before cancer develops.  Approximately 5\u201310% of cancers are due to inherited genetic defects.  Cancer can be detected by certain signs and symptoms or screening tests.  It is then typically further investigated by medical imaging and confirmed by biopsy Cancer Cancer",
+        "response": "Yes, cancer can be treated depending on the type and stage. It's important to get the tests done so we can determine the best course of action."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about cancer.",
+            "Sure, what would you like to know?",
+            "Can cancer be prevented?",
+            "There is no surefire way to prevent cancer, but there are things you can do to lower your risk.",
+            "What are some things I can do?",
+            "Maintaining a healthy weight, being physically active, eating a healthy diet with lots of fruits and vegetables, avoiding tobacco and excessive alcohol consumption, and getting regular screenings for certain types of cancer.",
+            "That seems doable. What types of cancer should I be screened for?",
+            "It depends on your age, gender, and risk factors, but some common ones include breast, cervical, colon, and prostate cancer.",
+            "Thanks, Medi. I'll keep that in mind."
+        ],
+        "knowledge": "Cancer Cancer  Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants.  In the developing world, 15% of cancers are due to infections such as Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein\u2013Barr virus and human immunodeficiency virus .  These factors act, at least partly, by changing the genes of a cell.  Typically, many genetic changes are required before cancer develops.  Approximately 5\u201310% of cancers are due to inherited genetic defects.  Cancer can be detected by certain signs and symptoms or screening tests.  It is then typically further investigated by medical imaging and confirmed by biopsy Cancer Cancer",
+        "response": "You're welcome. It's important to stay informed and take steps to reduce your risk of cancer."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently underwent treatment for cancer.",
+            "I'm sorry to hear that. How are you feeling now?",
+            "I'm feeling better, but I'm not sure what I should be doing now that I've completed treatment.",
+            "There are a few things you can do to help your recovery. First, make sure to follow any instructions from your doctors or healthcare team. It's also important to eat a healthy diet, exercise regularly, and get enough rest.",
+            "Are there any exercises that are particularly good for cancer patients?",
+            "Yes, there are some exercises that can be helpful, such as yoga, swimming, or low-impact aerobics. It's best to talk to your doctor or a physical therapist about what exercises are safe for you.",
+            "That's good to know. What about my diet?",
+            "A healthy diet should include plenty of fruits and vegetables, whole grains, lean proteins, and low-fat dairy. It's important to avoid processed foods, sugary drinks, and excessive amounts of red meat.",
+            "Thanks, Medi. I'll keep all of that in mind."
+        ],
+        "knowledge": "Cancer Cancer  Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants.  In the developing world, 15% of cancers are due to infections such as Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein\u2013Barr virus and human immunodeficiency virus .  These factors act, at least partly, by changing the genes of a cell.  Typically, many genetic changes are required before cancer develops.  Approximately 5\u201310% of cancers are due to inherited genetic defects.  Cancer can be detected by certain signs and symptoms or screening tests.  It is then typically further investigated by medical imaging and confirmed by biopsy Cancer Cancer",
+        "response": "You're welcome. I'm here to support you in any way I can."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing some discomfort in my stomach.",
+            "I see. Can you please describe the feeling and how often you feel it?",
+            "It's a burning sensation and I feel it almost every day.",
+            "Based on your description, it is possible that you have acid reflux. Have you tried any medication?",
+            "No, I haven't. What do you suggest?",
+            "There are over-the-counter antacids that you can take. You can also modify your diet and avoid spicy or acidic foods.",
+            "Thanks for the advice. Can you tell me more about acid reflux?",
+            "Acid reflux occurs when stomach acid flows back into the esophagus, causing a burning sensation. It can be triggered by certain foods or drinks, such as alcohol or coffee.",
+            "I see. Thank you for your help, Medi."
+        ],
+        "knowledge": "Acid Reflux Acid Reflux  Acid reflux occurs when stomach acid flows back into the esophagus, causing a burning sensation. Common triggers include certain foods and drinks such as alcohol, coffee, and spicy or acidic foods. Treatment can include medication such as antacids or lifestyle modifications such as avoiding trigger foods.",
+        "response": "You're welcome. I hope that helps. Don't hesitate to contact me if you need further assistance."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am curious about cancer. Can you give me some information about it?",
+            "Sure. What specific information would you like to know?",
+            "What are the causes of cancer?",
+            "There are various factors that can contribute to the development of cancer, such as exposure to ionizing radiation, environmental pollutants, and certain infections. Additionally, approximately 5-10% of cancers are due to inherited genetic defects.",
+            "How can cancer be detected?",
+            "It can be detected by certain signs and symptoms or screening tests, such as mammograms for breast cancer or colonoscopies for colon cancer. It is then typically further investigated by medical imaging and confirmed by biopsy.",
+            "I see. Thank you for the explanation. Is it possible to prevent cancer?",
+            "There is no sure way to prevent cancer, but some lifestyle modifications such as avoiding tobacco, limiting alcohol consumption, and maintaining a healthy diet and exercise routine can reduce the risk of developing certain cancers.",
+            "Thanks for the information, Medi."
+        ],
+        "knowledge": "Cancer Cancer  Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants.  In the developing world, 15% of cancers are due to infections such as Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein\u2013Barr virus and human immunodeficiency virus .  These factors act, at least partly, by changing the genes of a cell.  Typically, many genetic changes are required before cancer develops.  Approximately 5\u201310% of cancers are due to inherited genetic defects.  Cancer can be detected by certain signs and symptoms or screening tests.  It is then typically further investigated by medical imaging and confirmed by biopsy Cancer Cancer",
+        "response": "You're welcome. Let me know if you have any other questions or concerns."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just underwent surgery. What should I do to improve my recovery?",
+            "Congratulations on completing your surgery. It's important to follow your doctor's post-operative instructions, which may include taking medication as prescribed and avoiding strenuous physical activity. Additionally, maintaining a healthy diet and getting adequate rest can help with recovery.",
+            "Is there anything specific I should eat or avoid?",
+            "Your doctor may recommend a specific diet based on your individual needs and the type of surgery you had. Generally, it's important to eat a balanced diet with plenty of protein, fruits and vegetables. You may want to avoid foods that are high in sugar or fat, as well as alcohol and caffeine.",
+            "Thank you for the advice, Medi. What kind of physical activity can I do?",
+            "It's important to avoid strenuous activity for a certain period of time as recommended by your doctor. However, light walking or other low-impact activities may be beneficial for recovery.",
+            "I see. Thank you for the information.",
+            "You're welcome. Don't hesitate to contact me if you have any other questions or concerns."
+        ],
+        "knowledge": "Post-Operative Care Post-Operative Care  Following surgery, it's important to follow your doctor's post-operative instructions, which may include taking medication as prescribed and avoiding strenuous physical activity. Additionally, maintaining a healthy diet and getting adequate rest can help with recovery.",
+        "response": "You're welcome. I wish you a speedy recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a lump on my breast.",
+            "I am sorry to hear that. Can you tell me more about it?",
+            "It is a hard lump and I am worried it might be cancerous.",
+            "I understand your concern. Breast cancer is the most common cancer in women. But not all lumps are cancerous.",
+            "What should I do?",
+            "You should see a doctor for further evaluation and testing, including a mammogram and biopsy.",
+            "I'm scared. What if it is cancer?",
+            "It's important to stay positive. Early detection and treatment can lead to a better outcome. Let's take it one step at a time.",
+            "Thank you, Medi. What are some of the symptoms of breast cancer?"
+        ],
+        "knowledge": "Breast Cancer Breast Cancer  A breast lump or thickening that feels different from the surrounding tissue is often the first sign of breast cancer.  Other possible signs and symptoms of breast cancer include a lump or swelling in the armpit, nipple discharge that isn't breast milk, and changes to the skin of the breast, such as dimpling.  Breast pain is not usually a symptom of breast cancer.   Mammography and breast cancer screening can help detect breast cancer early. Breast Cancer Breast Cancer",
+        "response": "The most common symptom of breast cancer is a breast lump or thickening that feels different from the surrounding tissue, but there are other possible signs such as a lump in armpit, nipple discharge and changes to the skin of the breast."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery to remove a tumor.",
+            "I hope everything went well. How are you feeling?",
+            "I am feeling okay, but I am not sure what I should be doing now.",
+            "It's important to take it easy and get plenty of rest. You should also follow your doctor's instructions for wound care and take any prescribed medications.",
+            "What about my diet and physical activity?",
+            "You should follow a healthy, balanced diet and slowly increase your physical activity as you recover. Your doctor may also refer you to a physical therapist for additional guidance.",
+            "Will I need any further treatments?",
+            "It depends on the type and stage of your cancer. Your doctor will discuss any necessary follow-up treatments or monitoring with you.",
+            "Thank you, Medi. What are some things I can do to reduce my risk of cancer returning?"
+        ],
+        "knowledge": "Cancer Cancer  There are a number of lifestyle changes that can help reduce the risk of cancer returning, such as eating a healthy diet with plenty of fruits and vegetables, getting regular exercise, avoiding tobacco and excessive alcohol consumption, and protecting yourself from the harmful effects of the sun.  It's also important to attend all follow-up appointments and screenings as recommended by your doctor. Cancer Cancer",
+        "response": "You can reduce your risk of cancer returning by eating a healthy diet, getting regular exercise, avoiding tobacco and excessive alcohol consumption, protecting yourself from the sun, and attending all follow-up appointments and screenings as recommended by your doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, my family has a history of colon cancer.",
+            "I see. It's important to be aware of your risk factors. Have you had any symptoms or screenings?",
+            "No, I haven't had any symptoms, but I am worried about my risk.",
+            "It's understandable to be concerned. Screening tests for colon cancer can help detect it early, when it is most treatable. You should talk to your doctor about when you should begin screening.",
+            "What are some other risk factors for colon cancer?",
+            "In addition to family history, other risk factors include age, a diet high in red or processed meats, obesity, smoking, heavy alcohol consumption, and a history of inflammatory bowel disease.",
+            "What can I do to reduce my risk?",
+            "You can reduce your risk by maintaining a healthy diet, getting regular exercise, avoiding tobacco and excessive alcohol consumption, and attending regular screenings as recommended by your doctor.",
+            "Thank you, Medi. What are the screening tests for colon cancer?"
+        ],
+        "knowledge": "Colon Cancer Colon Cancer  Screening tests for colon cancer include colonoscopy, which allows your doctor to examine the entire colon and remove any polyps or abnormal tissue, and stool tests, which can detect blood or DNA changes in the stool that may indicate colon cancer.  Other tests may include virtual colonoscopy or sigmoidoscopy. Colon Cancer Colon Cancer",
+        "response": "The screening tests for colon cancer include colonoscopy, stool tests, virtual colonoscopy, and sigmoidoscopy. Your doctor can recommend which test is best for you."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a concern about my health.",
+            "Hi there, what is the problem that you are facing?",
+            "I have been having some symptoms lately such as fatigue, sudden weight loss and irregular bowel movements.",
+            "I see. Based on your symptoms, it could be possible that you may have a type of cancer.",
+            "What kind of cancer could it be?",
+            "Many types of cancer can cause those symptoms, but I would advise you to talk to your doctor about it to get a proper diagnosis.",
+            "I'm a bit scared. Can you tell me what causes cancer?",
+            "There are many factors that can cause cancer such as exposure to radiation and environmental pollutants, as well as genetic factors. Your doctor can provide you with more information on what caused your specific case of cancer.",
+            "Okay, I'll see my doctor. Thank you, Medi."
+        ],
+        "knowledge": "Cancer Cancer Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants. In the developing world, 15% of cancers are due to infections such as Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein\u2013Barr virus and human immunodeficiency virus. These factors act, at least partly, by changing the genes of a cell. Typically, many genetic changes are required before cancer develops. Approximately 5\u201310% of cancers are due to inherited genetic defects. Cancer can be detected by certain signs and symptoms or screening tests. It is then typically further investigated by medical imaging and confirmed by biopsy Cancer Cancer",
+        "response": "It's always better to talk to your doctor if you have any concerns. They can provide you with the proper diagnosis and treatment plan."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you tell me more about cancer?",
+            "Of course, what would you like to know?",
+            "What are the common symptoms of cancer?",
+            "The common symptoms of cancer include fatigue, unexplained weight loss, pain, changes in the skin, changes in bowel movements or urination, and persistent cough or hoarseness. But keep in mind that these symptoms can also be caused by other conditions and may not always be a sign of cancer.",
+            "How is cancer diagnosed?",
+            "Cancer is typically diagnosed through a combination of screening tests, medical imaging, and biopsy. A biopsy involves taking a small sample of the affected tissue and examining it under a microscope for signs of cancer.",
+            "Is cancer treatable?",
+            "Yes, cancer can be treated in many cases through a combination of surgery, radiation therapy, chemotherapy, and immunotherapy. The treatment plan will depend on the type and stage of cancer, as well as other factors unique to the patient.",
+            "Thank you for the information, Medi."
+        ],
+        "knowledge": "Cancer Cancer Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants. In the developing world, 15% of cancers are due to infections such as Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein\u2013Barr virus and human immunodeficiency virus. These factors act, at least partly, by changing the genes of a cell. Typically, many genetic changes are required before cancer develops. Approximately 5\u201310% of cancers are due to inherited genetic defects. Cancer can be detected by certain signs and symptoms or screening tests. It is then typically further investigated by medical imaging and confirmed by biopsy Cancer Cancer",
+        "response": "You're welcome. Always feel free to ask if you have any more questions or concerns."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just finished treatment for my cancer. What should I do now to keep myself healthy?",
+            "Hi there, that's great news. To maintain your health after treatment, you should focus on maintaining a healthy lifestyle. This includes eating a balanced diet, getting regular exercise, and avoiding smoking and excessive alcohol consumption.",
+            "Are there any specific foods that I should eat or avoid?",
+            "A diet that is high in fruits, vegetables, and whole grains is generally recommended for cancer survivors. You may also want to limit your intake of red and processed meats, saturated and trans fats, and sugar-sweetened beverages.",
+            "What kind of exercise should I do?",
+            "It's important to choose exercises that you enjoy and that are appropriate for your fitness level. Walking, swimming, and strength training are all good options. You should aim to get at least 150 minutes of moderate-intensity exercise per week.",
+            "Thank you, Medi.",
+            "You're welcome. Remember to talk to your doctor if you have any questions or concerns about your post-treatment care."
+        ],
+        "knowledge": "Cancer Cancer Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants. In the developing world, 15% of cancers are due to infections such as Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein\u2013Barr virus and human immunodeficiency virus. These factors act, at least partly, by changing the genes of a cell. Typically, many genetic changes are required before cancer develops. Approximately 5\u201310% of cancers are due to inherited genetic defects. Cancer can be detected by certain signs and symptoms or screening tests. It is then typically further investigated by medical imaging and confirmed by biopsy Cancer Cancer",
+        "response": "You're welcome. It's always important to focus on maintaining a healthy lifestyle after cancer treatment to reduce the risk of recurrence and improve overall health."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a lump in my breast, what should I do?",
+            "You should get a mammogram or ultrasound to determine the nature of the lump.",
+            "What if it turns out to be cancerous?",
+            "If it is cancerous, treatment options may include surgery, radiation therapy, and chemotherapy",
+            "Is there anything I can do to prevent breast cancer?",
+            "Yes, maintaining a healthy weight, regular exercise, and limiting alcohol intake may reduce the risk of breast cancer.",
+            "What are the symptoms of breast cancer?",
+            "Symptoms of breast cancer include a lump or mass in the breast, changes in breast size or shape, and nipple discharge.",
+            "What should I do if I notice any of these symptoms?"
+        ],
+        "knowledge": "Breast Cancer Breast Cancer Breast cancer is caused by the uncontrolled growth of breast cells.  The exact cause of breast cancer is unknown, but factors that increase the risk include age, family history, certain gene mutations, and exposure to estrogen.  A lump or mass in the breast is the most common symptom of breast cancer.  Other symptoms may include changes in the size or shape of the breast, nipple discharge, and skin changes.  Treatment options for breast cancer may include surgery, radiation therapy, chemotherapy, targeted therapy, and hormone therapy.  Breast cancer can often be detected early through screening, which includes mammography, clinical breast exams, and breast self-exams. Breast Cancer Breast Cancer",
+        "response": "It is important to talk to your doctor right away and schedule an appointment for further testing if you notice any of these symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am currently undergoing chemotherapy, what should I expect?",
+            "Chemotherapy can cause side effects such as hair loss, fatigue, nausea, and vomiting. Your doctor can give you medication to help manage these symptoms.",
+            "Is there anything I can do to minimize the side effects?",
+            "Maintaining a healthy lifestyle, eating a balanced diet, and getting enough rest can help minimize the side effects of chemotherapy.",
+            "Will I be able to continue working during chemotherapy?",
+            "It depends on the severity of your side effects and the type of work you do. Your doctor can provide guidance on whether you should take time off work.",
+            "How will I know if chemotherapy is working?",
+            "Your doctor will monitor your cancer through regular blood tests and imaging studies. If the chemotherapy is working, your tumors will shrink or disappear.",
+            "Is there anything else I should know about chemotherapy?"
+        ],
+        "knowledge": "Chemotherapy Chemotherapy Chemotherapy is a treatment for cancer that uses drugs to kill cancer cells throughout the body.  Chemotherapy can cause side effects such as hair loss, fatigue, nausea, and vomiting.  The side effects of chemotherapy vary depending on the type and dose of drugs used and the length of treatment.  Your doctor can provide medication to help manage these symptoms.  Maintaining a healthy lifestyle, eating a balanced diet, and getting enough rest can help minimize the side effects of chemotherapy.  Chemotherapy can be administered in a variety of ways, including intravenously, orally, or topically.  Your doctor will monitor your cancer through regular blood tests and imaging studies. Chemotherapy Chemotherapy",
+        "response": "Chemotherapy is a powerful treatment that can cause side effects, but your doctor can provide medication to manage these symptoms and you should maintain a healthy lifestyle to minimize the side effects of chemotherapy."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a biopsy and I'm waiting for the results, what should I do in the meantime?",
+            "It is important to take care of yourself during this time and manage your stress levels.",
+            "Do you have any suggestions on how to manage stress?",
+            "Stress-management techniques such as deep breathing, meditation, and yoga can be helpful.",
+            "What if the results come back positive?",
+            "If the results come back positive, your doctor will discuss treatment options with you and provide guidance on next steps.",
+            "Is there anything I can do to reduce my risk of cancer in the future?",
+            "Maintaining a healthy lifestyle, including eating a balanced diet, getting regular exercise, and limiting alcohol intake, can help reduce your risk of cancer.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Biopsy Biopsy A biopsy is a medical procedure in which a sample of tissue is taken from the body to examine it more closely.  Biopsies are often used to diagnose cancer, but can also be used to diagnose other types of diseases or conditions.  There are several types of biopsies, including needle biopsies, core biopsies, and surgical biopsies.  Biopsies can be performed on many parts of the body, including the skin, breast, liver, and lung.  The results of a biopsy can take a few days or several weeks to come back, depending on the type of biopsy and the laboratory analyzing the sample. Biopsy Biopsy",
+        "response": "You are welcome. Remember to take care of yourself and manage your stress levels while waiting for the results. If the results come back positive, your doctor will discuss treatment options with you and provide guidance on next steps."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a persistent cough.",
+            "Hello, I can help you with that. Can you describe the cough?",
+            "Yes, it's been going on for a while and it's dry and hacking.",
+            "Have you experienced any wheezing or shortness of breath?",
+            "No, just the cough.",
+            "It might be a respiratory infection. My advice is to get plenty of rest and fluids and monitor your symptoms. If it persists, see a doctor.",
+            "Okay, thank you for your help. I'll keep an eye on it.",
+            "You're welcome. Take care.",
+            "What can I do to strengthen my immune system?"
+        ],
+        "knowledge": "Immune system Immune system  The immune system is a complex network of cells, tissues, and organs that work together to defend the body against foreign invaders.  It is made up of white blood cells, which include lymphocytes, macrophages, and neutrophils, as well as antibodies, which are proteins that recognize and neutralize specific targets.  Some factors that can weaken the immune system include stress, lack of sleep, poor nutrition, lack of physical activity, and exposure to toxins.  To strengthen the immune system, it is important to maintain a healthy lifestyle by getting enough sleep, eating a balanced diet, exercising regularly, managing stress, and avoiding exposure to harmful substances.  Additionally, certain vitamins and minerals, such as vitamin C, vitamin D, and zinc, can support immune function. Immune system Immune system",
+        "response": "To strengthen your immune system, it's important to maintain a healthy lifestyle by getting enough sleep, eating a balanced diet, exercising regularly, managing stress, and avoiding exposure to harmful substances. Certain vitamins and minerals, such as vitamin C, vitamin D, and zinc, can support immune function as well."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a biopsy done.",
+            "Hi, how are you feeling after the procedure?",
+            "I'm feeling a little sore and tired. Do you have any tips for recovery?",
+            "It's normal to feel sore after a biopsy. You should rest and avoid strenuous activity for a few days and take any medication prescribed by your doctor. If you experience any excessive bleeding or swelling, contact your doctor immediately.",
+            "Okay, thank you for the information. How long will it take to get the results of the biopsy?",
+            "It depends on the type of biopsy and the laboratory. Your doctor should be able to give you an estimate of when to expect the results.",
+            "I see. I'm a little anxious about the results. What if it's cancer?",
+            "It's understandable to feel anxious, but try not to worry too much until you have the results. If it does turn out to be cancer, there are many treatment options available. It's important to discuss all your options with your doctor and take care of yourself.",
+            "Thank you for your support, Medi. I appreciate it."
+        ],
+        "knowledge": "Biopsy Biopsy  A biopsy is a medical procedure that involves taking a small sample of tissue from the body to examine it for signs of disease.  Biopsies can be performed using a needle, endoscope, or surgical incision.  They are typically used to diagnose or rule out cancer, but can also be used to diagnose other conditions.  Biopsy results can take several days or weeks to come back, depending on the type of biopsy and the laboratory.  It is important to follow your doctor's instructions for recovery after a biopsy and to discuss any concerns or questions you have about the procedure or the results with your doctor. Biopsy Biopsy",
+        "response": "The results of the biopsy can take several days or weeks to come back depending on the type of biopsy and the laboratory. It's important to follow your doctor's instructions for recovery after a biopsy and to discuss any concerns or questions you have about the procedure or the results with your doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a family history of cancer.",
+            "Hello, it's good that you're aware of your family history. Have you had any screenings done?",
+            "No, I haven't. Is it necessary?",
+            "It's a good idea to get regular cancer screenings if you have a family history of cancer. Screening tests can help detect cancer early, when it's most treatable. Your doctor can help you decide which tests are appropriate for you based on your age, gender, and family history.",
+            "Okay, I'll talk to my doctor about it. What are some lifestyle changes I can make to reduce my risk?",
+            "Maintaining a healthy lifestyle can reduce your risk of developing cancer. This includes eating a balanced diet, exercising regularly, avoiding tobacco and excessive alcohol use, and protecting yourself from the sun. It's also important to get regular check-ups and screenings as recommended by your doctor.",
+            "Got it, thank you for the advice. Are there any warning signs I should look out for?",
+            "Yes, some common signs of cancer include unexplained weight loss, fatigue, pain, skin changes, and changes in bowel or bladder habits. If you experience any of these symptoms, see your doctor as soon as possible.",
+            "Thank you, Medi. You've been very helpful."
+        ],
+        "knowledge": "Cancer Cancer  Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants.  In the developing world, 15% of cancers are due to infections such as Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein\u2013Barr virus and human immunodeficiency virus .  These factors act, at least partly, by changing the genes of a cell.  Typically, many genetic changes are required before cancer develops.  Approximately 5\u201310% of cancers are due to inherited genetic defects.  Cancer can be detected by certain signs and symptoms or screening tests.  It is then typically further investigated by medical imaging and confirmed by biopsy Cancer Cancer",
+        "response": "Cancer is caused by changes in the genes of a cell, which can be brought on by factors such as infections, exposure to ionizing radiation, and environmental pollutants. Typically, many genetic changes are required before cancer develops. Approximately 5-10% of cancers are due to inherited genetic defects."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some concerning symptoms",
+            "Sure, what symptoms are you experiencing?",
+            "I have been coughing a lot and feeling short of breath",
+            "Do you have a fever or chills?",
+            "Yes, I have been feeling feverish and experiencing chills",
+            "Based on the symptoms you described, it is possible that you have a respiratory infection. You should see a doctor for a proper diagnosis and treatment",
+            "Thank you, Medi. Can you give me some tips for avoiding respiratory infections?",
+            "Absolutely. You should wash your hands regularly, avoid close contact with sick people, and avoid touching your face",
+            "Thank you, Medi. I will take your advice and see a doctor."
+        ],
+        "knowledge": "Respiratory Infections Respiratory Infections Symptoms include coughing, shortness of breath, fever, chills, fatigue, and body aches. They can be caused by viruses, bacteria, or other pathogens. Prevention measures include regular hand washing, avoiding close contact with sick people, and avoiding touching your face. Treatment depends on the cause of the infection and may include rest, fluids, and over-the-counter medications or prescription antibiotics. In severe cases, hospitalization may be required.",
+        "response": "Thank you, Medi. Can you give me some tips for avoiding respiratory infections?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about cancer",
+            "Sure, what would you like to know?",
+            "What causes cancer?",
+            "Cancer can be caused by genetic mutations, exposure to environmental factors such as ionizing radiation or pollutants, and certain infections",
+            "How is cancer diagnosed?",
+            "Cancer can be detected through screening tests, such as mammograms or colonoscopies, or through the presence of certain signs and symptoms. It is then typically confirmed through medical imaging and biopsy",
+            "What are some common treatments for cancer?",
+            "Common treatments for cancer include surgery, radiation therapy, chemotherapy, and targeted therapy. The specific treatment depends on the type and stage of the cancer",
+            "Thank you, Medi. That was very helpful."
+        ],
+        "knowledge": "Cancer Cancer Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants. In the developing world, 15% of cancers are due to infections such as Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein\u2013Barr virus and human immunodeficiency virus . These factors act, at least partly, by changing the genes of a cell. Typically, many genetic changes are required before cancer develops. Approximately 5\u201310% of cancers are due to inherited genetic defects. Cancer can be detected by certain signs and symptoms or screening tests. It is then typically further investigated by medical imaging and confirmed by biopsy Cancer Cancer",
+        "response": "Thank you, Medi. That was very helpful."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a medical procedure and I want advice on how to recover",
+            "Of course. What procedure did you have?",
+            "I had surgery to remove a tumor",
+            "After surgery, it is important to rest and take it easy. You should also follow your doctor's instructions for wound care and take any prescribed medications",
+            "Are there any foods I should eat or avoid?",
+            "It is important to eat a healthy, balanced diet with plenty of protein and vitamins to help your body heal. You should avoid foods that are high in sugar, salt, and unhealthy fats",
+            "What about exercise?",
+            "You should avoid strenuous exercise for a few weeks after surgery, but light exercise such as walking can help with circulation and promote healing",
+            "Thank you, Medi. That was very helpful"
+        ],
+        "knowledge": "Surgery Surgery After surgery, it is important to rest and take it easy. You should also follow your doctor's instructions for wound care and take any prescribed medications. It is important to eat a healthy, balanced diet with plenty of protein and vitamins to help your body heal. You should avoid foods that are high in sugar, salt, and unhealthy fats. Light exercise such as walking can help with circulation and promote healing, but you should avoid strenuous exercise for a few weeks after surgery.",
+        "response": "Thank you, Medi. That was very helpful"
+    }
+]

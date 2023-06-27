@@ -1,0 +1,404 @@
+[
+    {
+        "dialog": [
+            "Hey Medi, I have a question about aspirin.",
+            "Sure, I'm here to help. What's your question?",
+            "I heard that aspirin can prevent heart disease. Is it true?",
+            "Yes, it's true. But it's only modestly effective in those at low risk of heart disease.",
+            "What about people over 70? Should they take aspirin?",
+            "It's generally not recommended for those at very low risk, including those over 70.",
+            "Are there any risks associated with taking aspirin?",
+            "Yes, the risk of serious bleeding is almost equal to the protection against cardiovascular problems",
+            "So, when should I take aspirin to prevent heart disease?"
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "It's recommended for some older people but generally not for those at very low risk. You should ask your doctor for personalized advice."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I had a medical procedure. What should I do now?",
+            "Hi there. Can you specify what kind of procedure did you have?",
+            "I had a heart surgery a week ago and I feel worried about my health now.",
+            "After a heart surgery, it's important to follow a healthy lifestyle, take your medication and stay active.",
+            "What kind of lifestyle changes should I make?",
+            "You should avoid saturated fats, eat more fruits and vegetables, and limit your salt intake.",
+            "Can I do physical exercise after a heart surgery?",
+            "Yes, but start gently and gradually increase the intensity as you start to feel more comfortable.",
+            "When should I stop exercising?"
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "Always start off gently and listen to your body. You should stop immediately if you experience chest pain or discomfort, dizziness, or shortness of breath."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have been diagnosed with cardiovascular disease. What should I do?",
+            "I'm sorry to hear that. The first step is making lifestyle changes to prevent the disease from getting worse.",
+            "What kind of lifestyle changes should I make?",
+            "You should eat a healthy diet, exercise regularly, lose weight if you're overweight, and quit smoking.",
+            "What kind of exercise should I do?",
+            "You should aim for at least 30 minutes of moderate-intensity exercise most days of the week, such as brisk walking or cycling.",
+            "What about my diet?",
+            "You should focus on eating more fruits, vegetables, whole grains, and lean proteins, and limiting saturated and trans fats.",
+            "What if I'm struggling to make these changes?"
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "It's important to set realistic goals and seek support from your healthcare team. What specific support can I get from my healthcare team?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing some chest pain recently.",
+            "I see. Can you elaborate on your symptoms?",
+            "Yes, it's a sharp pain that comes and goes throughout the day.",
+            "Based on your symptoms, you may be experiencing angina. You should see a doctor.",
+            "What can cause angina?",
+            "Angina is usually caused by an underlying heart condition, such as coronary artery disease.",
+            "Is there anything I can do to prevent it?",
+            "Living a healthy lifestyle, such as eating a balanced diet and exercising regularly, can help prevent angina.",
+            "Thank you, Medi."
+        ],
+        "knowledge": "Angina Angina Angina is a type of chest pain that occurs when there is a reduced blood flow to the heart.  It is usually caused by an underlying heart condition, such as coronary artery disease.  Symptoms of angina can include a feeling of pressure or tightness in the chest, as well as pain or discomfort in the arms, neck, back, jaw, or stomach.  Angina is usually treated with medication or surgery, depending on the severity of the condition.  Lifestyle changes, such as eating a healthy diet and exercising regularly, can also help prevent angina. Angina Angina",
+        "response": "You're welcome. I'm glad I could help."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about aspirin and heart disease.",
+            "Sure, I'll do my best to help. What's your question?",
+            "I heard that aspirin can help prevent heart disease. Is that true?",
+            "Aspirin can be helpful for some people, but it's not recommended for everyone. Your doctor can advise you on whether or not you should take aspirin.",
+            "Why isn't it recommended for everyone?",
+            "The risk of serious bleeding from aspirin is almost equal to the protection against cardiovascular problems in those at low risk of heart disease. In those at very low risk, including those over the age of 70, it is not recommended.",
+            "Who is it recommended for?",
+            "Aspirin is recommended for some older people, but the United States Preventive Services Task Force recommends against its use for prevention in women less than 55 and men less than 45 years old.",
+            "Thank you for explaining that, Medi."
+        ],
+        "knowledge": "Aspirin Aspirin Aspirin is a common pain reliever and anti-inflammatory medication.  It is also used to reduce the risk of heart attack and stroke in certain groups of people.  However, aspirin is not recommended for everyone.  The risk of serious bleeding from aspirin is almost equal to the protection against cardiovascular problems in those at low risk of heart disease. In those at very low risk, including those over the age of 70, it is not recommended.  Aspirin is recommended for some older people, but the United States Preventive Services Task Force recommends against its use for prevention in women less than 55 and men less than 45 years old. Aspirin Aspirin",
+        "response": "You're welcome. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a heart procedure and I'm looking for advice on how to maintain my health.",
+            "Of course, I can definitely help you with that. What was the procedure?",
+            "I had a stent put in to help with my blood flow.",
+            "After a heart procedure, it's important to maintain a healthy lifestyle. This includes eating a balanced diet, getting regular exercise, and avoiding smoking.",
+            "Are there any foods I should avoid?",
+            "You should avoid foods that are high in saturated and trans fats, as well as foods that are high in salt and sugar.",
+            "What types of exercise should I do?",
+            "You should do moderate exercise, such as brisk walking or cycling, for at least 30 minutes a day, five days a week. You should also talk to your doctor about any other exercises that may be appropriate for you.",
+            "Thank you, Medi. That's very helpful."
+        ],
+        "knowledge": "Heart Procedure Heart Procedure A heart procedure is any medical procedure that is performed to treat a heart condition.  These procedures can include the insertion of a stent, bypass surgery, or heart valve replacement surgery.  After a heart procedure, it is important to maintain a healthy lifestyle to help prevent further heart problems.  This includes eating a balanced diet, getting regular exercise, and avoiding smoking. Heart Procedure Heart Procedure",
+        "response": "You're welcome. Let me know if you have any other questions or concerns."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing chest pain lately.",
+            "Hi there, I'm here to help. Can you describe the pain?",
+            "It's a sharp pain that comes and goes, and I sometimes feel short of breath.",
+            "I see. Based on your symptoms, you may be at risk for cardiovascular disease.",
+            "What should I do to prevent it?",
+            "You can start with lifestyle changes such as quitting smoking, regular exercise, and a balanced diet.",
+            "Thanks for your advice, Medi.",
+            "You're welcome. Do you have any other questions?",
+            "Can aspirin help prevent cardiovascular disease?"
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4.4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems. In those at very low risk, including those over the age of 70, it is not recommended. The United States Preventive Services Task Force recommends against the use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart disease antibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems. In those at very low risk, including those over the age of 70, it is not recommended. However, it is recommended for some older people."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure done. What should I do for recovery?",
+            "Hello. It's important to take care of yourself post-procedure. What procedure did you have?",
+            "I had a heart catheterization done.",
+            "After a heart catheterization, it's important to avoid strenuous activity for a few days and take it easy.",
+            "What type of food should I eat? ",
+            "It's important to eat a balanced diet, including fruits, veggies, lean protein, and healthy fats.",
+            "Thanks for your help, Medi.",
+            "You're welcome. Do you have any other questions?",
+            "What kind of physical exercises can I do?"
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4.4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems. In those at very low risk, including those over the age of 70, it is not recommended. The United States Preventive Services Task Force recommends against the use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart disease antibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "After a heart catheterization, it's important to avoid strenuous activity for a few days and take it easy. You can do some light exercises such as walking or light stretching but always consult with your doctor first."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a family history of cardiovascular disease. How can I prevent it?",
+            "Hi there. It's great that you are proactive about your health. What have you done so far?",
+            "I exercise regularly and eat a balanced diet, but I still worry about my heart health.",
+            "That's great. You can also reduce your risk by maintaining a healthy weight, managing stress, and avoiding smoking and alcohol.",
+            "Thanks for the advice, Medi. Is there anything else I can do?",
+            "You can also have regular check-ups with your doctor and monitor your blood pressure and cholesterol levels.",
+            "That's helpful. How common is cardiovascular disease?",
+            "It's quite common. It's the leading cause of death globally, accounting for about 17.9 million deaths per year.",
+            "Wow, that's a lot. What are the symptoms of cardiovascular disease?"
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4.4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems. In those at very low risk, including those over the age of 70, it is not recommended. The United States Preventive Services Task Force recommends against the use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart disease antibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "The symptoms of cardiovascular disease include chest pain, shortness of breath, dizziness, and fatigue. It's important to see a doctor if you experience any of these symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some chest pain and shortness of breath.",
+            "Hello! You should go to the hospital immediately.",
+            "Is it a heart attack?",
+            "It's possible, but only a doctor can make that diagnosis.",
+            "Is there anything I can do to prevent a heart attack?",
+            "Yes, you can maintain a healthy diet, exercise regularly, and avoid smoking.",
+            "Okay, thank you. When should I come back for a check-up?",
+            "You should come back in a week or as per doctor's advice.",
+            "Okay, I understand. Thank you for your help."
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "You are welcome!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, what are the main symptoms of cardiovascular disease?",
+            "Hi! The main symptoms of cardiovascular disease are chest pain, shortness of breath, and palpitations.",
+            "What are some of the risk factors for cardiovascular disease?",
+            "Some risk factors include high blood pressure, high cholesterol, smoking, diabetes, and a family history of heart disease.",
+            "Is there anything I can do to prevent cardiovascular disease?",
+            "Yes, you can maintain a healthy diet, exercise regularly, avoid smoking, and manage your blood pressure and cholesterol levels.",
+            "What about medications for cardiovascular disease?",
+            "There are several medications that can help manage cardiovascular disease, but it is important to consult with a doctor to determine the best course of treatment for you.",
+            "Thank you Medi, this is very helpful."
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "You are welcome!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure. What can I do to take care of myself?",
+            "Hi! It is important to rest and avoid strenuous activity for several days after a medical procedure.",
+            "What about my diet?",
+            "You should follow a diet that is easy to digest and avoid heavy or spicy foods.",
+            "How about physical activity?",
+            "You should avoid strenuous physical activity for several days after the procedure, but light exercise is recommended.",
+            "Are there any other precautions I should take?",
+            "Make sure to follow any other instructions provided by your doctor, take any prescribed medications as directed, and attend any follow-up appointments.",
+            "Okay, thank you very much for your help."
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "You are welcome!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been experiencing some chest pain lately.",
+            "Hello, can you describe the pain?",
+            "It's a tightness in my chest and it's been happening for a few days now.",
+            "Okay, based on your symptoms, it may be related to your heart. You should seek medical attention immediately.",
+            "What could be causing this pain?",
+            "There are several potential causes, including a heart attack, angina, or other heart-related issues. Only a doctor can provide a proper diagnosis.",
+            "Thanks for the advice, Medi. What can I do to prevent this from happening again?",
+            "Maintain a healthy lifestyle by eating well, exercising regularly, not smoking, and managing stress.",
+            "Got it. Thanks for your help."
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "Based on your symptoms, it may be related to your heart. You should seek medical attention immediately."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain what cardiovascular disease is?",
+            "Certainly, cardiovascular disease refers to any conditions that can affect the heart or blood vessels.",
+            "What are some common examples of cardiovascular disease?",
+            "Some common examples include coronary artery disease, heart failure, and hypertension.",
+            "What can I do to prevent cardiovascular disease?",
+            "Maintain a healthy lifestyle by eating well, exercising regularly, not smoking, and managing stress. You should also get regular check-ups with your doctor to monitor any potential issues.",
+            "Thanks for the advice, Medi. Is there anything else I should be aware of?",
+            "It's important to note that some risk factors, such as age and family history, cannot be changed. However, you can still take steps to minimize your risk.",
+            "Got it. Thanks for your help, Medi."
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "Cardiovascular disease refers to any conditions that can affect the heart or blood vessels. Some common examples include coronary artery disease, heart failure, and hypertension."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure and I'm not sure what I should be doing in terms of diet and exercise.",
+            "What kind of procedure did you have?",
+            "I had a stent placed in my heart.",
+            "After having a stent placed, it's important to maintain a heart-healthy diet and exercise regularly. You should also take any medications prescribed by your doctor as directed.",
+            "What kind of diet should I be following?",
+            "You should focus on eating plenty of fruits, vegetables, whole grains, and lean protein. Avoid foods that are high in saturated and trans fats, as well as added sugars and sodium.",
+            "Got it. What about exercise?",
+            "You should aim to get at least 30 minutes of moderate exercise, such as brisk walking, every day. If you're unsure of what exercises are safe for you, consult with your doctor.",
+            "Thanks for the advice, Medi. What else should I be doing?"
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "After having a stent placed, it's important to maintain a heart-healthy diet and exercise regularly. You should also take any medications prescribed by your doctor as directed."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have chest pain and shortness of breath",
+            "I'm sorry to hear that, have you had any history of heart disease?",
+            "No, I haven't. Should I go to the hospital?",
+            "Yes, you should go to the hospital immediately for further examination",
+            "Okay, thank you for your help, Medi",
+            "You're welcome. Please take care and get well soon",
+            "What are some possible treatments for heart disease, Medi?"
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "There are many treatments for heart disease, including lifestyle changes, medications, and surgeries. It depends on the severity of the disease and your specific situation, so you should consult your doctor for the best treatment plan"
+    },
+    {
+        "dialog": [
+            "Hi Medi, what is cardiovascular disease?",
+            "Hello, it's a disease that affects the heart and blood vessels",
+            "What are the symptoms of cardiovascular disease?",
+            "Symptoms include chest pain, shortness of breath, and dizziness",
+            "How can I prevent cardiovascular disease?",
+            "You can prevent it by maintaining a healthy lifestyle, exercising regularly, and eating a balanced diet",
+            "Are there any medications available for cardiovascular disease?",
+            "Yes, there are many medications available, including statins, blood pressure medications, and antiplatelet drugs",
+            "Thank you for the information, Medi. Can you recommend a healthy diet for me?"
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "A healthy diet for cardiovascular disease includes whole grains, fruits, vegetables, lean protein, and low-fat dairy. Limit your intake of saturated and trans fats, added sugars, and sodium."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had heart surgery. What should I do now?",
+            "Congratulations on completing the surgery. You should rest and avoid strenuous activity",
+            "What kind of food should I eat after heart surgery?",
+            "You should eat a balanced diet with plenty of fruits and vegetables, lean protein, and whole grains",
+            "Can I exercise after heart surgery?",
+            "Yes, you can, but make sure to follow your doctor's instructions and start with light exercise",
+            "What can I do to prevent future heart problems?",
+            "You can prevent future heart problems by maintaining a healthy lifestyle, taking your medication as prescribed, and attending regular check-ups with your doctor",
+            "Thank you for the advice, Medi. What are some warning signs of future heart problems?"
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "Warning signs of future heart problems include chest pain, shortness of breath, and dizziness. If you experience any of these symptoms, seek medical attention immediately."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am experiencing chest pain and fatigue",
+            "I am here to help, can you tell me more about your symptoms?",
+            "I have a sharp pain in my chest, shortness of breath and feel very tired",
+            "It could be a sign of cardiovascular disease, you should get a checkup",
+            "What are the risk factors for cardiovascular disease?",
+            "The risk factors include high blood pressure, high cholesterol, smoking, obesity and physical inactivity",
+            "What are some lifestyle changes I can make to reduce my risk?",
+            "You can start by quitting smoking, exercising regularly and eating a healthy diet",
+            "Thanks, I will make sure to follow your advice. "
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "It's great to hear that you will follow my advice, please get a checkup and take care of yourself."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about aspirin use for prevention?",
+            "Of course, what do you want to know about aspirin use?",
+            "Who should use it, and what are the benefits?",
+            "Aspirin has been found to have only modest benefit for those at low risk of heart disease. It is recommended for some older people.",
+            "What about women and men under 55 and 45, respectively?",
+            "The United States Preventive Services Task Force recommends against aspirin use for prevention.",
+            "What are the risks of aspirin use?",
+            "Aspirin can cause serious bleeding, which is almost equal to the protection against cardiovascular problems at low risk.",
+            "Thanks for your help Medi. "
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "You're welcome. If you have any other questions feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have recently undergone a medical procedure. What lifestyle changes should I make?",
+            "Congratulations on completing your procedure. What changes do you want to make?",
+            "I would like some advice on diet and physical exercise.",
+            "You should follow a healthy diet that includes fruits, vegetables, whole grains and lean proteins. ",
+            "What kind of physical exercise should I do?",
+            "You should start with light activities like walking and gradually increase the intensity over time.",
+            "What other things should I consider?",
+            "You should make sure to get enough sleep and try to manage your stress levels.",
+            "Thanks, Medi. That was very helpful."
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4. 4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "You're welcome. I hope these lifestyle changes will help you recover quickly."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms related to my heart, can you help me?",
+            "Of course, please let me know your symptoms.",
+            "I get tired easily and have shortness of breath.",
+            "How long have you been experiencing these symptoms?",
+            "For about 3 weeks.",
+            "Based on that, you need to make an appointment with a cardiologist.",
+            "What kind of tests will I undergo with a cardiologist?",
+            "The doctor will recommend further tests such as an echocardiogram or electrocardiogram.",
+            "How about my diet, can I still eat fatty foods?"
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4.4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low-risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "It is best to avoid fatty foods and consume a balanced diet to prevent further complications."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I want to know more about preventing cardiovascular disease.",
+            "Sure, I'm here to help. What would you like to know?",
+            "How can I prevent cardiovascular disease effectively?",
+            "There are many ways to reduce the risk of getting cardiovascular disease such as doing regular exercise and consuming a healthy diet.",
+            "That sounds easy enough, but is there anything else I can do?",
+            "Other activities include quitting smoking and reducing alcohol consumption.",
+            "Thank you. Can you tell me more about the best foods for preventing cardiovascular disease?",
+            "It's best to consume a diet that is low in salt, saturated fat, and trans fat. Instead, consume foods rich in fiber, fruit and vegetables, oily fish, and whole grains.",
+            "I see, thank you for your help, Medi."
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4.4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low-risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "You're welcome. Take care and always strive to maintain a healthy lifestyle."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a heart procedure. Can you give advice on what to do?",
+            "Of course, I'm here to help. What procedure did you have?",
+            "I had an angioplasty and stent implantation.",
+            "You should watch your diet and try to do some light exercise such as walking. Also, avoid lifting heavy objects for a while.",
+            "How long should I avoid lifting heavy objects?",
+            "You should avoid heavy lifting for at least a week.",
+            "Thank you for your advice, Medi. Is there anything else I can do?",
+            "You should also take your medication regularly and go to your follow-up appointments with your doctor.",
+            "Understandable. Lastly, can I still engage in sexual activity?"
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4.4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low-risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems.  In those at very low risk, including those over the age of 70, it is not recommended.  The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "You're welcome and make sure to follow the advice of your doctor for a speedy recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am worried about my heart health.",
+            "Sure, I am here to help. Can you tell me more about your concerns?",
+            "I have a family history of heart disease and I want to know how to prevent it.",
+            "You can start by having a healthy diet, regular exercise, and managing your stress.",
+            "Are there any specific foods that I should avoid or consume more of?",
+            "You should avoid foods that are high in saturated and trans fats, sodium, and added sugars. Instead, consume more fruits, vegetables, whole grains, and lean proteins.",
+            "What about alcohol? Is it safe to consume?",
+            "Moderate alcohol consumption, which is up to one drink per day for women and up to two drinks per day for men, may have some health benefits. However, excessive alcohol consumption can increase your risk of heart disease.",
+            "Thank you for your advice, Medi. I will try to implement these changes in my lifestyle."
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4.4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems. In those at very low risk, including those over the age of 70, it is not recommended. The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "You're welcome. Let me know if you have any other questions about heart health."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am not feeling well and I think it might be related to my heart.",
+            "I'm sorry to hear that. Can you tell me more about your symptoms?",
+            "I have been experiencing chest pain, shortness of breath, and fatigue.",
+            "Those symptoms could be related to a number of different conditions, including heart disease. I recommend that you see a doctor as soon as possible.",
+            "What should I do in the meantime while waiting for my appointment?",
+            "You should try to rest and avoid any strenuous activities. If your symptoms worsen or you experience any new symptoms, seek medical attention right away.",
+            "Thank you for your advice, Medi. I will make sure to follow your recommendations.",
+            "You're welcome. Take care of yourself and let me know if you have any other questions or concerns."
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4.4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems. In those at very low risk, including those over the age of 70, it is not recommended. The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "I hope you feel better soon and don't hesitate to seek medical attention if necessary."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a medical procedure done and I want to know what I should do for my recovery.",
+            "Of course. Can you tell me more about the procedure you had?",
+            "I had a stent put in to treat a blocked artery.",
+            "After the procedure, it's important to rest and avoid any strenuous activities for a few days. You should also take any medications prescribed by your doctor as directed.",
+            "What about my diet? Are there any restrictions or recommendations?",
+            "You should follow a heart-healthy diet, which includes consuming more fruits, vegetables, whole grains, and lean proteins. You should also limit your intake of saturated and trans fats, sodium, and added sugars.",
+            "Thank you for your advice, Medi. What about physical activity? When can I resume my normal activities?",
+            "You should avoid any strenuous activities for at least a few days after the procedure. Your doctor will let you know when it's safe to resume your normal activities.",
+            "I appreciate your help, Medi. Thank you very much."
+        ],
+        "knowledge": "Cardiovascular disease Cardiovascular disease  A meta-analysis in 2009 including 27,049 participants and 2,370 major vascular events showed a 15% relative risk reduction in cardiovascular disease with more-intensive glucose lowering over an average follow-up period of 4.4 years, but an increased risk of major hypoglycemia. Aspirin has been found to be of only modest benefit in those at low risk of heart disease, as the risk of serious bleeding is almost equal to the protection against cardiovascular problems. In those at very low risk, including those over the age of 70, it is not recommended. The United States Preventive Services Task Force recommends against use of aspirin for prevention in women less than 55 and men less than 45 years old; however, it is recommended for some older people. The use of vasoactive agents for people with pulmonary hypertension with left heart disease or hypoxemic lung diseases may cause harm and unnecessary expense. Antibiotics for secondary prevention of coronary heart diseaseAntibiotics may help patients with coronary disease to reduce the risk of heart attacks and strokes Cardiovascular disease Cardiovascular disease",
+        "response": "You're welcome. Take care of yourself and follow your doctor's instructions for a smooth recovery."
+    }
+]

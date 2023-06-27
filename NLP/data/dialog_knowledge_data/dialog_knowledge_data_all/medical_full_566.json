@@ -1,0 +1,407 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I'm feeling very sick and have a fever.",
+            "I'm sorry to hear that, what are your other symptoms?",
+            "I have a headache and a sore throat.",
+            "Based on your symptoms, it sounds like you might have the flu.",
+            "What can I do to feel better?",
+            "You should rest, drink plenty of fluids, and take over-the-counter pain relievers.",
+            "Thank you for your advice. How long will it take for me to feel better?",
+            "It usually takes about a week to recover from the flu.",
+            "Okay, thank you."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You have the flu. Rest, drink fluids, and take pain relievers to feel better. It usually takes about a week to recover."
+    },
+    {
+        "dialog": [
+            "Hi Medi, what's the difference between a cold and the flu?",
+            "The flu typically has more severe symptoms than a cold.",
+            "What are some of the symptoms of the flu that aren't typically associated with a cold?",
+            "Fever, body aches, and extreme fatigue are common symptoms of the flu that aren't usually associated with a cold.",
+            "How long does it take to recover from a cold?",
+            "Most people recover from a cold within a week or two.",
+            "Is there anything I can do to prevent getting sick?",
+            "Washing your hands frequently, avoiding close contact with sick people, and keeping your immune system healthy with a balanced diet and plenty of rest can all help prevent getting sick.",
+            "Thank you for your advice, Medi. It's good to know how to prevent getting sick."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The flu typically has more severe symptoms than a cold, such as fever, body aches, and extreme fatigue. Most people recover from a cold within a week or two. To prevent getting sick, wash your hands frequently, avoid close contact with sick people, and keep your immune system healthy with a balanced diet and plenty of rest."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I was recently diagnosed with a persistent infection. What does that mean?",
+            "A persistent infection is an infection where the infectious organism is present in the body for an extended period of time, often as a latent infection with occasional recurrent relapses of active infection.",
+            "What are some examples of persistent infections?",
+            "Some viruses, such as the herpes virus, can cause persistent infections by hiding in nerves and becoming reactivated when certain circumstances arise. Bacteria, such as tuberculosis, can also cause persistent infections.",
+            "How are persistent infections treated?",
+            "Treatment depends on the specific type of infection. Antibiotics and antiviral medications are common treatments for persistent infections.",
+            "What can I do to prevent the infection from getting worse?",
+            "Eating a balanced diet, getting plenty of rest, and avoiding stress can all help keep your immune system strong, which can help prevent the infection from getting worse.",
+            "Thank you for your advice, Medi. I'll take those steps to try to feel better."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  The prion causing mad cow disease and Creutzfeldt\u2013Jakob disease invariably kills all animals and people that are infected. Persistent infections occur because the body is unable to clear the organism after the initial infection.  Persistent infections are characterized by the continual presence of the infectious organism, often as latent infection with occasional recurrent relapses of active infection.  There are some viruses that can maintain a persistent infection by infecting different cells of the body.  Some viruses once acquired never leave the body.  A typical example is the herpes virus, which tends to hide in nerves and become reactivated when specific circumstances arise. Persistent infections cause millions of deaths globally each year Infectious diseases Infectious diseases",
+        "response": "A persistent infection means that the infectious organism is present in the body for an extended period of time. Examples include herpes and tuberculosis. Treatment depends on the specific type of infection, and eating a balanced diet, getting plenty of rest, and avoiding stress can help prevent the infection from getting worse."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever, cold, and sore throat.",
+            "I'm sorry to hear that. How long have you had these symptoms?",
+            "It's been two days now. I took some over-the-counter medication but it didn't work.",
+            "Okay. Based on your symptoms, you may have a flu. I recommend seeing a doctor and doing a COVID-19 test.",
+            "Is it necessary to take the COVID-19 test? I haven't left the house lately.",
+            "I understand your concern, but it's better to rule out COVID-19, which has similar symptoms to the flu.",
+            "Okay, I will take your advice. Thank you, Medi.",
+            "You're welcome. Please take care and keep me updated.",
+            "Sure, I will. Bye."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, you may have the flu. I recommend seeing a doctor and doing a COVID-19 test."
+    },
+    {
+        "dialog": [
+            "Hello Medi, what is prion disease?",
+            "Prion diseases are a group of rare, fatal brain diseases that affect both humans and animals.",
+            "What are the symptoms of prion disease?",
+            "The symptoms of prion diseases vary, but they can include dementia, difficulty walking or standing, confusion, and muscle stiffness.",
+            "Is there any treatment for prion disease?",
+            "Unfortunately, there is no cure for prion diseases, and they are always fatal. Treatment usually consists of making the patient as comfortable as possible and managing symptoms.",
+            "That sounds very serious. How can I avoid getting prion disease?",
+            "Prion diseases are caused by infectious proteins that damage the brain. You can avoid exposure to these proteins by not eating meat from infected animals and avoiding contact with infected brain tissue.",
+            "I see. Thanks for your advice, Medi."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  The prion causing mad cow disease and Creutzfeldt\u2013Jakob disease invariably kills all animals and people that are infected. Persistent infections occur because the body is unable to clear the organism after the initial infection.  Persistent infections are characterized by the continual presence of the infectious organism, often as latent infection with occasional recurrent relapses of active infection.  There are some viruses that can maintain a persistent infection by infecting different cells of the body.  Some viruses once acquired never leave the body.  A typical example is the herpes virus, which tends to hide in nerves and become reactivated when specific circumstances arise. Persistent infections cause millions of deaths globally each year Infectious diseases Infectious diseases",
+        "response": "Prion diseases are a group of rare, fatal brain diseases that affect both humans and animals. There is no cure for prion diseases, and they are always fatal. You can avoid exposure to these proteins by not eating meat from infected animals and avoiding contact with infected brain tissue."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a vaccination. Are there any precautions I should take?",
+            "It's common to experience mild side effects such as fever, headache, and muscle pain after vaccination. You can take some over-the-counter medication to manage them.",
+            "What about physical activity?",
+            "It's generally okay to resume your normal physical activities after vaccination. However, if you experience severe side effects or have concerns, you should consult your doctor.",
+            "Should I avoid certain foods after vaccination?",
+            "No, there are no specific foods that you need to avoid after vaccination.",
+            "Okay, thank you, Medi.",
+            "You're welcome. Any other questions?",
+            "No, that's all. Bye."
+        ],
+        "knowledge": "Vaccination Vaccination  Side effects of vaccination include redness, swelling, and soreness at the injection site, fever, headache, muscle pain, and fatigue.  These side effects are generally mild and go away on their own.  If you experience severe side effects or have concerns, you should consult your doctor.  It's generally okay to resume your normal physical activities after vaccination. Vaccination Vaccination",
+        "response": "It's generally okay to resume your normal physical activities after vaccination. However, if you experience severe side effects or have concerns, you should consult your doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a persistent cough that won't go away",
+            "Hello, I'm here to help you. How long have you had the cough?",
+            "It's been over a week now, and it's really bothering me.",
+            "What other symptoms do you have? Any fever or body aches?",
+            "No fever, but I feel a bit tired and shortness of breath.",
+            "Based on your symptoms, it's possible that you have a respiratory infection. I suggest you see a doctor for further evaluation.",
+            "Okay, thanks for your advice. Should I avoid going outside?",
+            "If it's possible, it's better to stay at home until you feel better. But if you have to go outside, wearing a mask is recommended.",
+            "All right, thanks for the suggestion."
+        ],
+        "knowledge": "Respiratory infections Respiratory infections  Respiratory infections are infections that occur in the respiratory tract.  They can be caused by a variety of viruses and bacteria.  Common symptoms include cough, fever, body aches, and shortness of breath.  Respiratory infections can range from mild to severe.  Severe respiratory infections can be life-threatening, especially for people with weakened immune systems.  The best way to prevent respiratory infections is to practice good hygiene like washing hands and wearing a mask in crowded places. ",
+        "response": "You should see a doctor for further evaluation. If you have to go outside, wearing a mask is recommended."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm worried about getting the flu this season",
+            "Hello, I'm here to help you. Have you had a flu vaccine?",
+            "No, I haven't. Does it really work?",
+            "Yes, the flu vaccine is the best way to prevent the flu. It's recommended for everyone over 6 months old, especially for those with chronic diseases.",
+            "Is there anything else I can do to protect myself?",
+            "Washing your hands frequently, avoiding close contact with sick people, and staying home if you're sick can also help prevent the flu.",
+            "Thanks for the advice, Medi. How long does the flu usually last?",
+            "The flu usually lasts for 7-10 days, but it can take longer to fully recover.",
+            "Okay, good to know. Thanks for your help."
+        ],
+        "knowledge": "Influenza Influenza  Influenza is a viral infection that affects the respiratory system.  Symptoms include fever, cough, sore throat, body aches, and fatigue.  Complications of the flu can include pneumonia, bronchitis, and sinus and ear infections.  The best way to prevent the flu is by getting a flu vaccine.  Other prevention methods include washing your hands frequently, avoiding close contact with sick people, and staying home if you're sick.  The flu can last for 7-10 days, and it can take longer to fully recover.  ",
+        "response": "The flu usually lasts for 7-10 days, but it can take longer to fully recover."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what I should do to take care of myself",
+            "Hello, I'm here to help you. What kind of surgery did you have?",
+            "I had knee surgery. I'm worried about how I should take care of my knee.",
+            "It's important to rest your knee and keep it elevated as much as possible. You should also apply ice for 20 minutes at a time every 2-3 hours to reduce swelling and pain. ",
+            "Okay, thanks for the advice. Should I take any pain medications?",
+            "Your doctor will prescribe pain medication if necessary. It's important to follow their instructions and not exceed the recommended dosage. You should also avoid alcohol while taking pain medication.",
+            "What about physical therapy? When should I start it?",
+            "Your doctor will let you know when it's safe to start physical therapy. It's important to follow their instructions to ensure proper healing.",
+            "Okay, thanks for your help, Medi."
+        ],
+        "knowledge": "Postoperative care Postoperative care  Postoperative care is the care given to patients after surgery.  The goal of postoperative care is to ensure that patients recover safely and quickly.  Postoperative care can vary depending on the type of surgery and the individual patient.  Common postoperative care instructions include resting, keeping the incision site clean and dry, taking medication as prescribed, and attending follow-up appointments with the doctor.  Physical therapy may also be recommended to promote healing and improve mobility. ",
+        "response": "Your doctor will let you know when it's safe to start physical therapy. It's important to follow their instructions to ensure proper healing."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been experiencing some symptoms and I would like your advice.",
+            "Sure, what are your symptoms?",
+            "I have had a persistent headache, nausea, and have been feeling very tired.",
+            "How long have you been experiencing these symptoms?",
+            "It has been about a week now.",
+            "Okay, based on your symptoms, it sounds like you may have a viral infection. It\u2019s best to get some rest and drink plenty of fluids. If it persists for more than a week, you should see a doctor.",
+            "Thank you for your advice, Medi.",
+            "You're welcome. Don't hesitate to come back if you need further help.",
+            "What are some other things I can do to help feel better?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  The prion causing mad cow disease and Creutzfeldt\u2013Jakob disease invariably kills all animals and people that are infected. Persistent infections occur because the body is unable to clear the organism after the initial infection.  Persistent infections are characterized by the continual presence of the infectious organism, often as latent infection with occasional recurrent relapses of active infection.  There are some viruses that can maintain a persistent infection by infecting different cells of the body.  Some viruses once acquired never leave the body.  A typical example is the herpes virus, which tends to hide in nerves and become reactivated when specific circumstances arise. Persistent infections cause millions of deaths globally each year Infectious diseases Infectious diseases",
+        "response": "You could take over-the-counter medication for headaches and nausea, as well as try eating small, frequent meals to help with your nausea."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a medical procedure done. Do you have any advice on how to recover from it?",
+            "Of course, what procedure did you have?",
+            "I had a minor surgery done on my knee.",
+            "Alright, after surgery it is important to rest and avoid putting too much weight on your knee. You should also elevate your leg to reduce swelling and apply ice to the affected area for 20 minutes at a time, a few times a day.",
+            "Thank you for your advice, Medi.",
+            "No problem. Is there anything else you're curious about regarding your recovery?",
+            "Yes, what type of diet should I have during my recovery?",
+            "A healthy and balanced diet is important, but you should also eat foods that are high in protein to help with healing. Lean meats, fish, eggs, and dairy are all good sources of protein. You should also eat plenty of fruits and vegetables to get enough vitamins and minerals.",
+            "Thank you for your advice, Medi. That's very helpful."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  The prion causing mad cow disease and Creutzfeldt\u2013Jakob disease invariably kills all animals and people that are infected. Persistent infections occur because the body is unable to clear the organism after the initial infection.  Persistent infections are characterized by the continual presence of the infectious organism, often as latent infection with occasional recurrent relapses of active infection.  There are some viruses that can maintain a persistent infection by infecting different cells of the body.  Some viruses once acquired never leave the body.  A typical example is the herpes virus, which tends to hide in nerves and become reactivated when specific circumstances arise. Persistent infections cause millions of deaths globally each year Infectious diseases Infectious diseases",
+        "response": "You're welcome. I hope your recovery goes well."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I was just wondering about the differences between viral and bacterial infections.",
+            "Sure, what would you like to know?",
+            "What are the main differences in symptoms between the two types of infections?",
+            "While many of the symptoms can be similar, such as fever and fatigue, bacterial infections will often cause symptoms such as a cough, sore throat, and runny nose. Viral infections, on the other hand, will often cause symptoms such as headaches, body aches, and nausea.",
+            "That's very helpful to know. Thank you.",
+            "You're welcome. Is there anything else you would like to know?",
+            "Yes, how are bacterial and viral infections treated differently?",
+            "Bacterial infections are often treated with antibiotics, while viral infections cannot be treated with antibiotics and instead need to run their course. Treatment for viral infections often involves managing symptoms such as fever and aches.",
+            "Thank you for your explanation, Medi."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  The prion causing mad cow disease and Creutzfeldt\u2013Jakob disease invariably kills all animals and people that are infected. Persistent infections occur because the body is unable to clear the organism after the initial infection.  Persistent infections are characterized by the continual presence of the infectious organism, often as latent infection with occasional recurrent relapses of active infection.  There are some viruses that can maintain a persistent infection by infecting different cells of the body.  Some viruses once acquired never leave the body.  A typical example is the herpes virus, which tends to hide in nerves and become reactivated when specific circumstances arise. Persistent infections cause millions of deaths globally each year Infectious diseases Infectious diseases",
+        "response": "You're welcome. Do you have any other questions on the topic?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been feeling sick for a few days.",
+            "Okay, tell me more about your symptoms, please.",
+            "I have a fever, a terrible headache, and my throat is sore.",
+            "Okay, do you have any other symptoms?",
+            "Yes, I'm also feeling very tired.",
+            "Based on your symptoms, it seems like you have a case of the flu.",
+            "What should I do to feel better?",
+            "You should rest, drink fluids, and take over-the-counter medicine for your symptoms.",
+            "Thank you, Medi. How long does the flu usually last?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The flu typically lasts for 2-8 days, but it can last longer in some cases."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about herpes.",
+            "Sure, what do you want to know?",
+            "How is it possible for herpes to lay dormant for so long and then become active again?",
+            "When the herpes virus enters the body, it travels to nerve cells and becomes dormant.",
+            "So it can stay there forever?",
+            "Yes, the virus can live in the body for a lifetime without causing symptoms.",
+            "What causes the virus to become active again?",
+            "The virus can become active again due to stress, illness, or hormonal changes.",
+            "I see. Is there any way to prevent it from becoming active again?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  The prion causing mad cow disease and Creutzfeldt\u2013Jakob disease invariably kills all animals and people that are infected. Persistent infections occur because the body is unable to clear the organism after the initial infection.  Persistent infections are characterized by the continual presence of the infectious organism, often as latent infection with occasional recurrent relapses of active infection.  There are some viruses that can maintain a persistent infection by infecting different cells of the body.  Some viruses once acquired never leave the body.  A typical example is the herpes virus, which tends to hide in nerves and become reactivated when specific circumstances arise. Persistent infections cause millions of deaths globally each year Infectious diseases Infectious diseases",
+        "response": "There is no cure for herpes, but antiviral medication can help to reduce the frequency and severity of outbreaks. It's also important to manage stress and maintain a healthy lifestyle to prevent outbreaks."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a persistent infection. What does that mean?",
+            "A persistent infection is when the body is unable to clear the organism from the initial infection.",
+            "What are the symptoms of a persistent infection?",
+            "Persistent infections are characterized by the continual presence of the infectious organism.",
+            "Can you give me an example of a persistent infection?",
+            "Hepatitis B and C, herpes, HPV, and HIV are all examples of persistent infections.",
+            "How can I prevent persistent infections?",
+            "You can prevent persistent infections by practicing good hygiene, maintaining a healthy lifestyle, and getting vaccinated against certain infections.",
+            "Thank you, Medi. What should I do if I suspect I have a persistent infection?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  The prion causing mad cow disease and Creutzfeldt\u2013Jakob disease invariably kills all animals and people that are infected. Persistent infections occur because the body is unable to clear the organism after the initial infection.  Persistent infections are characterized by the continual presence of the infectious organism, often as latent infection with occasional recurrent relapses of active infection.  There are some viruses that can maintain a persistent infection by infecting different cells of the body.  Some viruses once acquired never leave the body.  A typical example is the herpes virus, which tends to hide in nerves and become reactivated when specific circumstances arise. Persistent infections cause millions of deaths globally each year Infectious diseases Infectious diseases",
+        "response": "If you suspect you have a persistent infection, you should see a healthcare provider for diagnosis and treatment."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have persistent fever and I am feeling quite weak.",
+            "Hello! Sorry to hear that. Can you tell me when did it start and what your temperature is?",
+            "It started 2 days ago and my temperature is around 101\u00b0F.",
+            "Okay, that's a bit high. Do you have any other symptoms?",
+            "I feel weak and my throat is sore.",
+            "Based on your symptoms, it seems like you may have a viral infection. You need some rest and plenty of fluids.",
+            "Is there anything else that I can do to relieve my symptoms?",
+            "You can also try taking over-the-counter pain relievers and gargling with salty water for your sore throat.",
+            "Thanks, Medi. How long will it take for me to recover?"
+        ],
+        "knowledge": "Viral infections Viral infections Persistent infections occur because the body is unable to clear the organism after the initial infection.  Persistent infections are characterized by the continual presence of the infectious organism, often as latent infection with occasional recurrent relapses of active infection.  There are some viruses that can maintain a persistent infection by infecting different cells of the body.  Some viruses once acquired never leave the body.  A typical example is the herpes virus, which tends to hide in nerves and become reactivated when specific circumstances arise. Persistent infections cause millions of deaths globally each year Viral infections Viral infections",
+        "response": "It usually takes 3-7 days for mild viral infections to improve. Keep a close eye on your symptoms and if they get worse, you should see a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been diagnosed with Creutzfeldt-Jakob disease.",
+            "I'm sorry to hear that. Can you tell me more about your symptoms and when did they start?",
+            "I have been experiencing memory loss and difficulty with coordination for a few months now.",
+            "I see. Creutzfeldt-Jakob disease is a rare and fatal degenerative brain disorder. Unfortunately, there is no cure for it. But we can manage your symptoms.",
+            "What can I do to manage my symptoms?",
+            "We can prescribe medications to help manage your behavior, mood, and movement. You should also work with a physical therapist to help with your coordination.",
+            "Is there anything else I should do to manage my disease?",
+            "You should follow a healthy diet, get enough sleep, and participate in activities that stimulate your brain.",
+            "Thank you, Medi. Can you tell me more about the cause of this disease?"
+        ],
+        "knowledge": "Creutzfeldt-Jakob disease Creutzfeldt-Jakob disease The prion causing mad cow disease and Creutzfeldt-Jakob disease invariably kills all animals and people that are infected. Creutzfeldt-Jakob disease is a rare and fatal degenerative brain disorder.  The disease is caused by an abnormal protein called a prion that can accumulate in the brain and cause damage to nerve cells.  The disease is usually sporadic, but it can also be inherited or acquired through exposure to infected tissues.  There is no cure for the disease, but treatment can help manage symptoms and improve quality of life Creutzfeldt-Jakob disease Creutzfeldt-Jakob disease",
+        "response": "It's caused by an abnormal protein called a prion that can accumulate in the brain and cause damage to nerve cells. The disease is usually sporadic, but it can also be inherited or acquired through exposure to infected tissues."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a surgery for appendicitis.",
+            "Hi! Sorry to hear that. How are you feeling?",
+            "I am feeling a little uncomfortable and have a slight pain in the abdomen.",
+            "That's normal after a surgery. You should take it easy and rest for a few days. You should also follow a healthy diet.",
+            "What kind of diet should I follow?",
+            "You should avoid fatty and fried foods, and eat more fruits and vegetables. Also, make sure to drink plenty of water.",
+            "Should I avoid any specific physical activities?",
+            "You should avoid any strenuous activities for at least two weeks. But it's important to keep moving and do light exercises or take walks.",
+            "Thanks, Medi. Is there anything else I should know about my recovery?"
+        ],
+        "knowledge": "Appendicitis Appendicitis Treatment of appendicitis usually involves the surgical removal of the appendix.  After the surgery, it is important to take it easy and rest for a few days.  You should also follow a healthy diet and avoid any strenuous activities for at least two weeks.  It's important to keep moving and do light exercises or take walks to help with the healing process Appendicitis Appendicitis",
+        "response": "Make sure to get plenty of rest and follow your doctor's instructions for taking care of your incision. If you experience any severe pain or fever, contact your doctor immediately."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm not feeling well. I have a fever and a headache.",
+            "I'm sorry to hear that. Have you checked your temperature?",
+            "Yes, I have a temperature of 102 degrees Fahrenheit.",
+            "Okay. Based on your symptoms, you may have an infection. You should rest and drink plenty of fluids.",
+            "Should I take any medicine?",
+            "If your fever is very high or you are in a lot of pain, you can take acetaminophen or ibuprofen. But it's best to consult with a doctor first.",
+            "Thanks for the advice. If my symptoms get worse, I'll see a doctor.",
+            "You're welcome. Take care of yourself.",
+            "One last question, Medi. What kind of infection do you think I might have?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  The prion causing mad cow disease and Creutzfeldt\u2013Jakob disease invariably kills all animals and people that are infected. Persistent infections occur because the body is unable to clear the organism after the initial infection.  Persistent infections are characterized by the continual presence of the infectious organism, often as latent infection with occasional recurrent relapses of active infection.  There are some viruses that can maintain a persistent infection by infecting different cells of the body.  Some viruses once acquired never leave the body.  A typical example is the herpes virus, which tends to hide in nerves and become reactivated when specific circumstances arise. Persistent infections cause millions of deaths globally each year Infectious diseases Infectious diseases",
+        "response": "Based on your symptoms of fever and headache, it is possible that you have a viral or bacterial infection. However, it's best to consult with a doctor for a proper diagnosis."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a question about HIV.",
+            "Sure, I'll do my best to answer your question.",
+            "Is it true that HIV can be cured?",
+            "Currently, there is no cure for HIV. However, there are medications that can help people with HIV live longer and healthier lives.",
+            "That's good to know. How does someone get HIV?",
+            "HIV is primarily spread through unprotected sex or sharing needles with someone who has HIV. It can also be passed from a mother to her child during pregnancy, childbirth, or breastfeeding.",
+            "I see. How can someone prevent getting HIV?",
+            "The best way to prevent HIV is to practice safe sex by using condoms and to avoid sharing needles. It's also important to get tested for HIV regularly, especially if you are sexually active or use intravenous drugs.",
+            "Thanks for the information, Medi."
+        ],
+        "knowledge": "HIV/AIDS HIV/AIDS  HIV is primarily spread through unprotected sex or sharing needles with someone who has HIV. It can also be passed from a mother to her child during pregnancy, childbirth, or breastfeeding. Currently, there is no cure for HIV. However, there are medications that can help people with HIV live longer and healthier lives. The medications are called antiretroviral therapy (ART), and they work by suppressing the virus.  The best way to prevent HIV is to practice safe sex by using condoms and to avoid sharing needles. It's also important to get tested for HIV regularly, especially if you are sexually active or use intravenous drugs HIV/AIDS HIV/AIDS",
+        "response": "No, that's all for now. Thanks for your help, Medi."
+    },
+    {
+        "dialog": [
+            "Hi Medi. I just had a medical procedure done, and I was wondering what I should do to take care of myself.",
+            "Of course, I'm here to help. What kind of procedure did you have?",
+            "I had a colonoscopy.",
+            "After a colonoscopy, it's important to rest and avoid any strenuous activity for the rest of the day. You may also need to follow a special diet for a few days.",
+            "What kind of diet?",
+            "Your doctor will give you specific instructions, but generally, you will need to avoid solid foods for the first few hours after the procedure and then gradually introduce them back into your diet. You should also drink plenty of fluids to prevent dehydration.",
+            "Okay. Is there anything else I should be aware of?",
+            "You may experience some cramping, bloating, or gas after the procedure, but these symptoms should go away after a few hours. If you experience severe pain or bleeding, you should contact your doctor right away.",
+            "Great, thanks for the advice."
+        ],
+        "knowledge": "Colonoscopy Colonoscopy  After a colonoscopy, it's important to rest and avoid any strenuous activity for the rest of the day. You may also need to follow a special diet for a few days. Your doctor will give you specific instructions, but generally, you will need to avoid solid foods for the first few hours after the procedure and then gradually introduce them back into your diet. You should also drink plenty of fluids to prevent dehydration.  You may experience some cramping, bloating, or gas after the procedure, but these symptoms should go away after a few hours. If you experience severe pain or bleeding, you should contact your doctor right away. Colonoscopy Colonoscopy",
+        "response": "You should avoid any strenuous activity for the rest of the day after the procedure, but you can resume your normal activities the following day as long as you feel up to it. However, you should avoid any heavy lifting or strenuous exercise for a few days."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm not feeling well. I have a persistent cough.",
+            "Hello. Can you tell me more about your cough?",
+            "It's been going on for a week and it's getting worse. I also have a fever.",
+            "Based on your symptoms, you may have a respiratory infection. I suggest you visit a doctor.",
+            "But what if it's just a regular cough? Do I need to take antibiotics?",
+            "Antibiotics are not effective against viral infections, only bacterial. Taking antibiotics unnecessarily can lead to antibiotic resistance.",
+            "Oh, I didn't know that. Thanks for letting me know, Medi.",
+            "You're welcome. Do you have any other questions?",
+            "No, that's all for now. Thanks for your help."
+        ],
+        "knowledge": "Respiratory infections Respiratory infections A respiratory infection is a viral or bacterial infection that affects the nose, throat, sinuses, or lungs. Symptoms include coughing, fever, and difficulty breathing. Treatment depends on the severity of the infection and whether it is viral or bacterial. Viral infections cannot be treated with antibiotics.",
+        "response": "You don't need to take antibiotics for a viral infection like a cough. It's best to see a doctor to determine the cause of your symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about herpes.",
+            "Of course. What would you like to know?",
+            "Can you explain why herpes is a persistent infection?",
+            "Herpes is a virus that can stay in your body even after the initial infection. It can become latent and recur later on. There is no cure for herpes, but antiviral medication can help manage outbreaks.",
+            "Is herpes contagious even when there are no symptoms?",
+            "Yes, herpes can be transmitted even when there are no visible symptoms. This is called asymptomatic shedding and it occurs in about 70% of people with herpes.",
+            "Wow, that's a lot of people. How can I prevent getting herpes?",
+            "The best way to prevent herpes is to practice safe sex and use condoms. Avoid skin-to-skin contact with the infected area during outbreaks.",
+            "Thanks for the advice, Medi. That's all I wanted to know for now."
+        ],
+        "knowledge": "Herpes Herpes Herpes is a virus that causes painful sores on the mouth or genitals. The virus can stay in your body even after the initial infection and become latent. It can recur later on, often triggered by stress, illness, or hormonal changes. There is no cure for herpes, but antiviral medication can help manage outbreaks. Herpes can be transmitted during sexual contact, even when there are no visible symptoms. This is called asymptomatic shedding.",
+        "response": "The best way to prevent herpes is to practice safe sex and use condoms. Avoid skin-to-skin contact with the infected area during outbreaks."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery. What should I do to promote healing?",
+            "Hello. It depends on the type of surgery you had. Can you tell me more?",
+            "I had knee replacement surgery. What should I eat to help with healing?",
+            "It's important to eat a balanced diet with plenty of nutrients. Foods that are high in protein, vitamin C, and iron can help with healing. Some examples include lean meats, fish, fruits, and vegetables.",
+            "What about physical activity? When can I start exercising again?",
+            "You should start with light exercises as soon as possible after surgery, even while you're still in the hospital. Your doctor or physical therapist can give you specific exercises to do.",
+            "What about pain relief? Should I take painkillers?",
+            "It's important to manage your pain after surgery, but you should only take painkillers as prescribed by your doctor. Over-the-counter painkillers like ibuprofen can interfere with the healing process and should be avoided.",
+            "Okay, I understand. Thanks for your advice, Medi."
+        ],
+        "knowledge": "Knee replacement surgery Knee replacement surgery Knee replacement surgery is a surgical procedure to replace a damaged or worn knee joint with an artificial one. Recovery time varies depending on the individual and the type of surgery. It's important to eat a balanced diet with plenty of nutrients to aid in healing. Light exercise should be started as soon as possible after surgery to prevent blood clots and promote healing. Pain management is important, but painkillers should only be taken as prescribed by a doctor.",
+        "response": "It's important to eat a balanced diet with plenty of nutrients, start with light exercises as soon as possible after surgery, and only take painkillers as prescribed by your doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I feel like I have a fever and body aches.",
+            "It sounds like you may have an infection. Rest and drink fluids.",
+            "Is it dangerous?",
+            "It depends on the type of infection, but it's important to rest and see a doctor if symptoms persist.",
+            "What kind of infections should I be careful about?",
+            "Infections like meningitis and sepsis can be very dangerous if not treated quickly.",
+            "How can I avoid getting infections?",
+            "Good hand hygiene, vaccinations, and avoiding sick people can help prevent infections.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Infections Infections  An infection is the invasion of an organism's body tissues by disease-causing agents, their multiplication, and the reaction of host tissues to the infectious agents and the toxins they produce.  Infections can be caused by bacteria, viruses, fungi, and parasites.  Symptoms of infection vary, but can include fever, fatigue, body aches, and/or a cough.  Infection can be spread from person to person through direct or indirect contact, airborne droplets, or contact with contaminated surfaces.  To prevent infection, good hand hygiene, vaccinations, and avoiding sick people can be helpful Infections Infections",
+        "response": "You should be careful about meningitis and sepsis, and good hand hygiene, vaccinations, and avoiding sick people can help prevent infections."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery and was wondering what kind of physical activity I can do.",
+            "It's important to talk to your doctor before starting any physical activity after surgery.",
+            "Okay, what kind of activities should I avoid?",
+            "You should avoid any strenuous exercise or heavy lifting until your doctor gives you the clearance to do so.",
+            "When can I start exercising again?",
+            "Again, it's important to talk to your doctor about when it's safe for you to start exercising again based on your specific surgery and recovery process.",
+            "What kind of diet should I follow?",
+            "A healthy diet with plenty of fruits and vegetables is important for a speedy recovery. Your doctor can provide more specific dietary recommendations.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Post-operative care Post-operative care  After surgery, it's important to follow your doctor's orders for post-operative care.  This may include bed rest, wound care, pain management, and avoiding certain activities.  You should not start any physical activity until your doctor clears you to do so.  A healthy diet with plenty of fruits and vegetables can help with recovery.  It's important to keep all follow-up appointments with your doctor to ensure proper healing Post-operative care Post-operative care",
+        "response": "You should avoid any strenuous exercise or heavy lifting until your doctor gives you the clearance to do so and a healthy diet with plenty of fruits and vegetables is important for a speedy recovery. You should follow your doctor's orders for post-operative care."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a rash on my arm that won't go away.",
+            "It sounds like you may have a skin infection. Keep the area clean and dry.",
+            "What kind of skin infections are there?",
+            "There are many types of skin infections, such as impetigo, cellulitis, and fungal infections.",
+            "Is it contagious?",
+            "Some skin infections can be contagious, so it's important to avoid contact with other people until the infection clears up.",
+            "How can I treat it?",
+            "Your doctor may prescribe antibiotics or antifungal medication. It's important to follow their instructions for treatment and to keep the area clean and dry.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Skin infections Skin infections  Skin infections are caused by bacteria, viruses, fungi, or parasites.  Symptoms can include redness, swelling, and/or pus-filled blisters.  Some skin infections can be contagious, so it's important to avoid contact with other people until the infection clears up.  Treatment may include antibiotics or antifungal medication.  It's important to keep the area clean and dry and to follow all instructions for treatment Skin infections Skin infections",
+        "response": "Your doctor may prescribe antibiotics or antifungal medication. It's important to follow their instructions for treatment and to keep the area clean and dry."
+    }
+]

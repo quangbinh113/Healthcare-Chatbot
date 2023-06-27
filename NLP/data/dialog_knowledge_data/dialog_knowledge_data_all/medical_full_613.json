@@ -1,0 +1,361 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have a fever, cough and headache.",
+            "I am sorry to hear that. Those symptoms indicate you might have the flu.",
+            "What should I do now ?",
+            "You should rest and stay hydrated. You can take medicine to reduce the fever, but you don't need to take antibiotics.",
+            "How can I prevent the flu from spreading?",
+            "You can cover your mouth and nose when you cough or sneeze, wash your hands frequently, and avoid close contact with others.",
+            "Thank you for your advice, Medi. Do you have any recommendation for flu medicine?",
+            "Yes, you can take acetaminophen or ibuprofen for fever and pain, and cough medicine if needed.",
+            "Okay, I got it. How long does it take to recover from the flu ?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It typically takes about a week to recover from the flu, but it can take longer in some cases."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about flu vaccines.",
+            "Of course, I am happy to help. What would you like to know?",
+            "How do flu vaccines work?",
+            "Flu vaccines work by exposing your body to a weakened or inactive form of the flu virus, which helps your immune system develop antibodies to fight the virus.",
+            "Are flu vaccines effective?",
+            "Yes, flu vaccines are effective at reducing your risk of getting the flu and reducing the severity of the flu if you do get it.",
+            "When should I get a flu vaccine?",
+            "It's best to get a flu vaccine before the start of flu season, which usually begins in October and peaks from December to February.",
+            "Is there anyone who should not get a flu vaccine?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain killed viruses and live attenuated influenza vaccines that contain weakened viruses Influenza Influenza",
+        "response": "People who are severely allergic to any component of the flu vaccine or have had a severe reaction to the flu vaccine in the past should not get a flu vaccine."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had the flu and want to know how to prevent it from happening again. ",
+            "I'm sorry to hear that. There are a few things you can do to prevent getting the flu again.",
+            "What are they?",
+            "You can get a flu vaccine every year, practice good hygiene by washing your hands frequently, and avoid close contact with people who are sick.",
+            "Is there anything else I can do?",
+            "Yes, you can also take care of your overall health by getting enough sleep, eating healthy, and exercising regularly. A strong immune system can help prevent getting sick.",
+            "That's helpful advice. Thank you. Does getting the flu vaccine guarantee that I won't get the flu?",
+            "Getting the flu vaccine can significantly reduce your risk of getting the flu, but it doesn't guarantee that you won't get it.",
+            "I understand. How long does the flu vaccine last?"
+        ],
+        "knowledge": "Influenza Influenza  In humans, a sizeable antibody response occurs ~1 week after viral exposure.  This antibody response is typically robust and long-lasting, especially for ICV and IDV.  In other words, people exposed to a certain strain in childhood still possess antibodies to that strain at a reasonable level later in life, which can provide some protection to related strains.  There is, however, an original antigenic sin, in which the first HA subtype a person is exposed to influences the antibody-based immune response to future infections and vaccines. Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups. Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain killed viruses and live attenuated influenza vaccines that contain weakened viruses Influenza Influenza",
+        "response": "The flu vaccine typically lasts for one flu season, which is about six to eight months."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel like I have a fever and a headache.",
+            "I'm sorry to hear that. How long have you been feeling this way?",
+            "About a day or two. I also feel very tired and my throat hurts.",
+            "Based on your symptoms, you might have the flu. Have you gotten a flu shot?",
+            "No, I haven't. Is it too late to get one?",
+            "It's not too late. Annual flu shots are the most effective way to prevent the flu.",
+            "Okay, I'll make sure to get one. Do you have any other advice for me?",
+            "Resting and drinking plenty of fluids can help ease your symptoms. If they persist, seek medical attention.",
+            "Thank you, Medi. How long will it take for me to start feeling better?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Your symptoms suggest that you might have the flu. Getting an annual flu shot is the most effective way to prevent it, but resting and drinking fluids can help ease your symptoms in the meantime. If they persist, seek medical attention. The standard flu lasts for 2-8 days."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about the flu shot?",
+            "Of course. The flu shot is a vaccine that helps protect against the flu virus.",
+            "How does it work?",
+            "The vaccine contains dead or weakened flu viruses, which help your body develop immunity to the virus.",
+            "Does it work for all types of the flu virus?",
+            "No, it doesn't. The flu shot protects against the most common strains of the virus, but it may not protect against every strain.",
+            "How often do I need to get it?",
+            "You should get a flu shot every year, as the virus mutates and changes over time.",
+            "I see. Can anyone get the flu shot?"
+        ],
+        "knowledge": "Influenza Influenza  In humans, a sizeable antibody response occurs ~1 week after viral exposure.  This antibody response is typically robust and long-lasting, especially for ICV and IDV.  In other words, people exposed to a certain strain in childhood still possess antibodies to that strain at a reasonable level later in life, which can provide some protection to related strains.  There is, however, an 'original antigenic sin', in which the first HA subtype a person is exposed to influences the antibody-based immune response to future infections and vaccines. Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain 'killed'  viruses and live attenuated influenza vaccines  that contain weakened viruses Influenza Influenza",
+        "response": "The flu shot is a vaccine that helps protect against the flu virus by containing dead or weakened flu viruses to help your body develop immunity. It protects against the most common strains but not all of them. You should get one every year, and it's important to consult with your doctor to see if you're eligible."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from the flu. Can you give me some advice on how to stay healthy?",
+            "Sure, I'm happy to help. One way to stay healthy is by practicing good hygiene, such as washing your hands frequently.",
+            "What else can I do?",
+            "Eating a healthy diet and exercising regularly can also help keep your immune system strong and reduce your risk of getting sick.",
+            "Are there any foods that are particularly good for my immune system?",
+            "Foods rich in vitamin C, such as citrus fruits and leafy greens, can boost your immune system. Probiotics, found in foods like yogurt, can also help.",
+            "What about supplements? Should I take any to stay healthy?",
+            "It's always best to get your nutrients from whole foods, but if you're not getting enough from your diet, supplements can help. Talk to your doctor to see which ones are right for you.",
+            "Thank you for the advice, Medi. I'll make sure to follow it."
+        ],
+        "knowledge": "Influenza Influenza  In humans, a sizeable antibody response occurs ~1 week after viral exposure.  This antibody response is typically robust and long-lasting, especially for ICV and IDV.  In other words, people exposed to a certain strain in childhood still possess antibodies to that strain at a reasonable level later in life, which can provide some protection to related strains.  There is, however, an 'original antigenic sin', in which the first HA subtype a person is exposed to influences the antibody-based immune response to future infections and vaccines. Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain 'killed'  viruses and live attenuated influenza vaccines  that contain weakened viruses Influenza Influenza",
+        "response": "Practicing good hygiene, eating a healthy diet, and exercising regularly can help keep your immune system strong and reduce your risk of getting sick. Foods rich in vitamin C and probiotics can boost your immune system. If you're not getting enough nutrients from your diet, supplements can help, but talk to your doctor first."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been exposed to someone with influenza. What should I do?",
+            "Don't panic. You should monitor your symptoms and isolate yourself if you feel ill.",
+            "How long should I monitor my symptoms?",
+            "You should monitor your symptoms for at least 14 days after being exposed",
+            "Okay, what if I do get influenza? What can I do to treat it?",
+            "Rest, stay hydrated, and take over-the-counter medicines to relieve symptoms.",
+            "What over-the-counter medicines should I take?",
+            "You can take fever reducers like acetaminophen or ibuprofen, and decongestants to help with congestion.",
+            "Thanks for the information, Medi. What are some preventative measures I can take?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Some preventative measures include getting vaccinated, washing your hands often, and avoiding close contact with sick individuals."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about the flu vaccine.",
+            "Of course, what would you like to know?",
+            "How effective is the flu vaccine?",
+            "The flu vaccine is typically 40-60% effective in preventing the flu, but it can also reduce the severity of symptoms if you do get sick.",
+            "When should I get the flu vaccine?",
+            "It's best to get the flu vaccine before the flu season starts, usually in the fall.",
+            "Can anyone get the flu vaccine?",
+            "Most people can get the flu vaccine, but it's especially important for high-risk individuals like the elderly, pregnant women, and those with chronic medical conditions.",
+            "Thank you for the information, Medi. What are some side effects of the flu vaccine?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain 'killed'  viruses and live attenuated influenza vaccines  that contain weakened viruses Influenza Influenza",
+        "response": "Common side effects of the flu vaccine include soreness at the injection site, fever, and muscle aches. These are usually mild and go away within a few days."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently recovered from influenza. What can I do to prevent getting it again?",
+            "Good to hear you have recovered. One way to prevent getting the flu again is to get the flu vaccine.",
+            "Are there any other ways to prevent getting the flu again?",
+            "Yes, you can also practice good hygiene by washing your hands often and avoiding close contact with sick individuals.",
+            "What about my diet and lifestyle?",
+            "Maintaining a healthy diet and exercising regularly can also help boost your immune system and lower your risk of getting sick.",
+            "What foods should I eat?",
+            "Foods high in vitamin C, like citrus fruits, and zinc, like nuts and seeds, can help boost your immune system.",
+            "Thank you for the advice, Medi. Is there anything else I should know?"
+        ],
+        "knowledge": "Influenza Influenza  In humans, a sizeable antibody response occurs ~1 week after viral exposure.  This antibody response is typically robust and long-lasting, especially for ICV and IDV.  In other words, people exposed to a certain strain in childhood still possess antibodies to that strain at a reasonable level later in life, which can provide some protection to related strains.  There is, however, an 'original antigenic sin', in which the first HA subtype a person is exposed to influences the antibody-based immune response to future infections and vaccines. Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain 'killed'  viruses and live attenuated influenza vaccines  that contain weakened viruses Influenza Influenza",
+        "response": "No problem, remember to also stay hydrated and get plenty of rest to help your body recover fully."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling a bit sick today. Can you help me out?",
+            "Of course, I'll do my best. What are your symptoms?",
+            "I have a fever, cough and feel very tired.",
+            "Okay, based on your symptoms, it's likely that you have the flu.",
+            "What should I do next?",
+            "Rest and drink plenty of fluids, and avoid contact with others to prevent spreading the virus.",
+            "Should I take any medication for it?",
+            "Over-the-counter medication like acetaminophen or ibuprofen can help relieve your symptoms.",
+            "Is there anything else I can do to feel better?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common",
+        "response": "Rest and drink plenty of fluids, and avoid contact with others to prevent spreading the virus. Over-the-counter medication like acetaminophen or ibuprofen can help relieve your symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain to me about the flu vaccine?",
+            "Sure, what do you want to know?",
+            "How often do I need to get vaccinated?",
+            "It's recommended to get vaccinated annually before flu season.",
+            "Why is it important to get vaccinated?",
+            "Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups like the elderly, pregnant women, and people with certain medical conditions.",
+            "What types of flu vaccines are available?",
+            "There are inactivated vaccines that contain 'killed' viruses and live attenuated influenza vaccines that contain weakened viruses.",
+            "Is it safe to get vaccinated?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain 'killed' viruses and live attenuated influenza vaccines that contain weakened viruses Influenza Influenza",
+        "response": "Yes, it's safe to get vaccinated. The benefits of vaccination outweigh the risks. It's recommended for everyone 6 months and older to get vaccinated annually before flu season."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from the flu and want to know how to prevent getting sick again.",
+            "Great to hear that. One thing you can do is wash your hands frequently.",
+            "What else can I do?",
+            "You should also avoid close contact with people who are sick and avoid touching your face.",
+            "Are there any vitamins or foods that can boost my immune system?",
+            "Eating a balanced diet with plenty of fruits and vegetables can help boost your immune system.",
+            "What about exercising?",
+            "Regular exercise can also help boost your immune system and reduce your risk of getting sick.",
+            "Thanks for the advice. Is there anything else I should know?"
+        ],
+        "knowledge": "Influenza Influenza  In humans, a sizeable antibody response occurs ~1 week after viral exposure.  This antibody response is typically robust and long-lasting, especially for ICV and IDV.  In other words, people exposed to a certain strain in childhood still possess antibodies to that strain at a reasonable level later in life, which can provide some protection to related strains.  There is, however, an 'original antigenic sin', in which the first HA subtype a person is exposed to influences the antibody-based immune response to future infections and vaccines. Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain 'killed' viruses and live attenuated influenza vaccines that contain weakened viruses Influenza Influenza",
+        "response": "Washing your hands frequently, avoiding close contact with sick people, eating a balanced diet, and regular exercise can help boost your immune system and reduce your risk of getting sick again."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and a runny nose.",
+            "I see. Do you have any other symptoms?",
+            "Yes, I also have a headache and a sore throat.",
+            "Based on your symptoms, it seems like you have the flu.",
+            "What should I do next?",
+            "You should rest, drink plenty of fluids, and take over-the-counter medication for fever and pain.",
+            "Thanks for your advice. How can I prevent getting the flu in the future?",
+            "The best way to prevent the flu is to get an annual flu vaccine.",
+            "Is there anything else I should know about the flu vaccine?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain 'killed' viruses and live attenuated influenza vaccines that contain weakened viruses Influenza Influenza",
+        "response": "Inactivated vaccines contain 'killed' viruses, while live attenuated influenza vaccines contain weakened viruses."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I want to learn more about the flu.",
+            "Sure, what do you want to know?",
+            "What is the 'original antigenic sin'?",
+            "The 'original antigenic sin' is when the first HA subtype a person is exposed to influences the antibody-based immune response to future infections and vaccines.",
+            "How long do flu symptoms typically last?",
+            "Flu symptoms usually last for 2-8 days.",
+            "Can the flu cause other health problems?",
+            "Yes, the flu can lead to complications such as pneumonia, bronchitis, and sinus or ear infections.",
+            "Thanks for the information. How can I protect myself from getting the flu?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain 'killed' viruses and live attenuated influenza vaccines that contain weakened viruses Influenza Influenza",
+        "response": "The best way to protect yourself from the flu is to get an annual flu vaccine."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had the flu and I'm wondering what I can do to prevent getting sick again.",
+            "The best way to prevent getting the flu again is to get a flu vaccine.",
+            "What if I don't want to get a flu vaccine?",
+            "You can also practice good hygiene habits, such as washing your hands regularly and avoiding close contact with sick people.",
+            "Are there any other ways to prevent the flu?",
+            "You can also keep your immune system strong by eating a healthy diet, getting enough sleep, and exercising regularly.",
+            "Thanks for the advice. How long should I wait to get the flu vaccine after recovering from the flu?",
+            "You should wait until you are feeling better and your symptoms have resolved before getting the flu vaccine.",
+            "Got it. Is there anything else I should know about the flu vaccine?"
+        ],
+        "knowledge": "Influenza Influenza  Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain 'killed' viruses and live attenuated influenza vaccines that contain weakened viruses Influenza Influenza",
+        "response": "Inactivated vaccines contain 'killed' viruses, while live attenuated influenza vaccines contain weakened viruses."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and cough, can you help me diagnose?",
+            "Sure, based on your symptoms, it may be influenza. Have you had a flu shot recently?",
+            "No, I didn't get the vaccine. What should I do?",
+            "You should rest, drink lots of fluids, and take over-the-counter medications for fever. Consider getting vaccinated annually to prevent future cases.",
+            "Thanks for the advice. Can you tell me more about the flu vaccine?",
+            "The flu vaccine protects against the three or four strains of the flu virus that are predicted to be most common in the upcoming season. There are two types of vaccines: inactivated and live attenuated. They both work by stimulating the body's immune system to produce antibodies against the virus.",
+            "I see. Are there any side effects?",
+            "Common side effects include soreness at the injection site, fever, and body aches. These usually resolve within a day or two. Severe side effects are rare.",
+            "Got it. Thank you."
+        ],
+        "knowledge": "Influenza Influenza  In humans, a sizeable antibody response occurs ~1 week after viral exposure.  This antibody response is typically robust and long-lasting, especially for ICV and IDV.  In other words, people exposed to a certain strain in childhood still possess antibodies to that strain at a reasonable level later in life, which can provide some protection to related strains.  There is, however, an 'original antigenic sin', in which the first HA subtype a person is exposed to influences the antibody-based immune response to future infections and vaccines. Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain 'killed'  viruses and live attenuated influenza vaccines  that contain weakened viruses Influenza Influenza",
+        "response": "You're welcome. Take care and feel better soon!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had the flu vaccine and was wondering how long it lasts.",
+            "The flu vaccine lasts for one flu season, which typically lasts from October to May. It's important to get vaccinated annually to ensure protection against the most common strains of the virus.",
+            "Okay, thank you. Can you tell me more about the flu season?",
+            "The flu season is the time of year when the flu virus is most active and spreads easily from person to person. It typically starts in the fall and continues through the winter months, peaking in January or February. During this time, it's especially important to practice good hygiene, such as washing your hands frequently and covering your mouth and nose when coughing or sneezing, to prevent the spread of the virus.",
+            "I see. How can I tell if I have the flu?",
+            "The flu typically causes symptoms such as fever, cough, sore throat, body aches, and fatigue. These symptoms usually come on suddenly and can be quite severe. It's important to see a healthcare provider if you suspect you may have the flu, as antiviral medications can help reduce the severity and duration of symptoms.",
+            "Thanks for the information. Is there anything else I should know?",
+            "Just remember to stay home if you're sick, cover your mouth and nose when coughing or sneezing, and practice good hygiene to prevent the spread of the virus. And don't forget to get vaccinated annually!",
+            "Great advice, thank you."
+        ],
+        "knowledge": "Influenza Influenza  In humans, a sizeable antibody response occurs ~1 week after viral exposure.  This antibody response is typically robust and long-lasting, especially for ICV and IDV.  In other words, people exposed to a certain strain in childhood still possess antibodies to that strain at a reasonable level later in life, which can provide some protection to related strains.  There is, however, an 'original antigenic sin', in which the first HA subtype a person is exposed to influences the antibody-based immune response to future infections and vaccines. Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain 'killed'  viruses and live attenuated influenza vaccines  that contain weakened viruses Influenza Influenza",
+        "response": "You're welcome. Stay healthy and get vaccinated every year!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had the flu and was wondering if there's anything I can do to prevent getting sick again.",
+            "Sure, the best way to prevent getting sick again is to get vaccinated annually and practice good hygiene. Avoid close contact with people who are sick, wash your hands frequently, and cover your mouth and nose when coughing or sneezing.",
+            "Okay, thank you. Are there any other precautions I should take?",
+            "Yes, you should also avoid touching your face, especially your eyes, nose, and mouth, as this is a common way for viruses to enter the body. And if you do get sick again, be sure to rest and stay home to avoid spreading the virus to others.",
+            "Got it. Can you tell me more about the flu virus?",
+            "The flu virus is a highly contagious respiratory virus that spreads easily from person to person through droplets when an infected person talks, coughs, or sneezes. It can also spread by touching a surface contaminated with the virus and then touching your mouth or nose. The virus can cause mild to severe illness, and in some cases, can lead to complications such as pneumonia or hospitalization.",
+            "I see. Thank you for the information.",
+            "You're welcome. Stay healthy and take care!",
+            "Thanks, you too."
+        ],
+        "knowledge": "Influenza Influenza  In humans, a sizeable antibody response occurs ~1 week after viral exposure.  This antibody response is typically robust and long-lasting, especially for ICV and IDV.  In other words, people exposed to a certain strain in childhood still possess antibodies to that strain at a reasonable level later in life, which can provide some protection to related strains.  There is, however, an 'original antigenic sin', in which the first HA subtype a person is exposed to influences the antibody-based immune response to future infections and vaccines. Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain 'killed'  viruses and live attenuated influenza vaccines  that contain weakened viruses Influenza Influenza",
+        "response": "You're welcome. Stay healthy and get vaccinated every year!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel like I might have flu symptoms",
+            "I'm here to help. Can you tell me more about your symptoms?",
+            "I have a fever and sore throat and I feel very tired",
+            "Based on your symptoms, it's possible that you have the flu. Have you been vaccinated recently?",
+            "No, I haven't had the flu shot this season",
+            "I recommend you get the flu shot as soon as possible. It's the best way to prevent the flu",
+            "Thanks, Medi. Is there anything else I can do to feel better?",
+            "Rest, drink plenty of fluids, and take over-the-counter pain relievers like acetaminophen",
+            "Got it, thanks for your help"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Take care of yourself and get vaccinated as soon as possible"
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you help me understand more about the flu vaccine?",
+            "Of course, I'm here to help. What do you want to know?",
+            "I'm curious about how it works and what strains it protects against",
+            "The flu vaccine works by exposing your immune system to a harmless part of the flu virus, which helps your body build up immunity to the disease. The vaccine protects against the H1N1 and H3N2 strains of the flu, as well as one or two strains of Influenza B depending on whether it's a trivalent or quadrivalent vaccine",
+            "That's interesting. Does it protect against all strains of the flu?",
+            "No, the vaccine only protects against certain strains of the flu that are predicted to be the most common during the upcoming flu season",
+            "I see. Is it safe to get the flu vaccine?",
+            "Yes, it's safe for most people. The flu shot is recommended for everyone over the age of 6 months, especially for high-risk groups like the elderly and young children",
+            "Great, thanks for the information!"
+        ],
+        "knowledge": "Influenza Influenza  In humans, a sizeable antibody response occurs ~1 week after viral exposure.  This antibody response is typically robust and long-lasting, especially for ICV and IDV.  In other words, people exposed to a certain strain in childhood still possess antibodies to that strain at a reasonable level later in life, which can provide some protection to related strains.  There is, however, an 'original antigenic sin', in which the first HA subtype a person is exposed to influences the antibody-based immune response to future infections and vaccines. Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain 'killed'  viruses and live attenuated influenza vaccines  that contain weakened viruses Influenza Influenza",
+        "response": "You're welcome. Let me know if you have any other questions"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had the flu and I want to know what I can do to prevent getting sick again",
+            "I'm sorry to hear that. The flu can be tough. Have you gotten the flu shot this season?",
+            "No, I haven't had the flu shot yet",
+            "I highly recommend getting the flu shot as it's the best way to prevent the flu. Other preventative measures include washing your hands frequently, avoiding close contact with sick people, covering your mouth when you cough or sneeze, and staying home if you're feeling sick",
+            "Got it, thanks for the advice. What should I do if I start feeling flu symptoms again?",
+            "If you start feeling flu symptoms again, it's important to rest, drink plenty of fluids, and take over-the-counter pain relievers like acetaminophen. If your symptoms are severe or you have trouble breathing, it's important to seek medical attention",
+            "Understood. Thanks for your help, Medi",
+            "You're welcome. Stay healthy!"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Let me know if you have any other questions"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a runny nose and feel very tired.",
+            "Thank you for your question. How long have you had these symptoms?",
+            "It\u2019s been three days since I\u2019ve felt like this.",
+            "Based on your symptoms, it could be a common cold. Please get some rest and drink plenty of water.",
+            "Okay, but what should I do if my symptoms persist?",
+            "If they continue for more than a week or two, please contact a doctor.",
+            "How can I prevent getting a cold in the first place?",
+            "Wash your hands often, avoid close contact with people who are sick, and boost your immune system with a healthy diet.",
+            "Thanks, Medi. I'll try to keep these tips in mind."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it could be a common cold. Please get some rest and drink plenty of water."
+    },
+    {
+        "dialog": [
+            "Hello Medi, what is the influenza vaccine and how does it work?",
+            "The influenza vaccine is a vaccine that protects against influenza viruses. It works by causing antibodies to develop in the body to fight the virus.",
+            "How effective is the vaccine?",
+            "The effectiveness of the vaccine depends on the match between the circulating viruses and the viruses in the vaccine. However, even if there is not an exact match, the vaccine can still provide some protection against the virus.",
+            "What are the side effects of the vaccine?",
+            "The most common side effects of the vaccine are soreness at the injection site, headache, and fever. These side effects are usually mild and go away on their own within a few days.",
+            "When is the best time to get vaccinated?",
+            "The best time to get vaccinated is before the influenza season starts, usually around October or November.",
+            "Thanks for the information, Medi. I'll consider getting vaccinated."
+        ],
+        "knowledge": "Influenza Influenza  In humans, a sizeable antibody response occurs ~1 week after viral exposure.  This antibody response is typically robust and long-lasting, especially for ICV and IDV.  In other words, people exposed to a certain strain in childhood still possess antibodies to that strain at a reasonable level later in life, which can provide some protection to related strains.  There is, however, an 'original antigenic sin', in which the first HA subtype a person is exposed to influences the antibody-based immune response to future infections and vaccines. Annual vaccination is the primary and most effective way to prevent influenza and influenza-associated complications, especially for high-risk groups.  Vaccines against the flu are trivalent or quadrivalent, providing protection against an H1N1 strain, an H3N2 strain, and one or two IBV strains corresponding to the two IBV lineages.  Two types of vaccines are in use: inactivated vaccines that contain 'killed'  viruses and live attenuated influenza vaccines  that contain weakened viruses Influenza Influenza",
+        "response": "The influenza vaccine is a vaccine that protects against influenza viruses. It works by causing antibodies to develop in the body to fight the virus."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had the flu and I want to know how to prevent it from happening again.",
+            "Thanks for your question. The best way to prevent the flu is to get vaccinated every year.",
+            "Are there any lifestyle changes that can help prevent the flu?",
+            "Yes, maintaining good hygiene by washing your hands regularly, avoiding close contact with infected individuals, and staying home when you are sick can help prevent the spread of the flu.",
+            "What else can I do to boost my immune system?",
+            "Eating a healthy and balanced diet, regular exercise, and getting enough sleep can also help boost your immune system.",
+            "Is there anything I should avoid doing to prevent getting the flu?",
+            "Avoid touching your face, especially your eyes, nose, and mouth, and try to keep your home and work environment clean and disinfected.",
+            "Thanks for the advice, Medi. I'll try to keep these tips in mind."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The best way to prevent the flu is to get vaccinated every year and maintain good hygiene by washing your hands regularly, avoiding close contact with infected individuals, and staying home when you are sick."
+    }
+]

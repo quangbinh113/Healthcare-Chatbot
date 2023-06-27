@@ -1,0 +1,406 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I need your advice.",
+            "Please tell me your symptoms, and I will do my best to help.",
+            "I feel very tired and weak, and I have a high fever.",
+            "Okay, those symptoms are concerning. Have you been traveling recently?",
+            "Yes, I just came back from a trip abroad.",
+            "Based on your symptoms and recent travel, it's possible you have contracted COVID-19. I recommend getting tested as soon as possible.",
+            "What should I do while I wait for my test results?",
+            "It's important to self-isolate and avoid contact with others to prevent the potential spread of the virus.",
+            "Thank you for your help, Medi. I will get tested right away."
+        ],
+        "knowledge": "COVID-19 COVID-19 COVID-19 is a highly contagious respiratory illness caused by the SARS-CoV-2 virus. Common symptoms include fever, cough, fatigue, and shortness of breath. It is primarily spread through respiratory droplets from an infected person, often through close contact or touching a contaminated surface. The best way to prevent the spread of COVID-19 is through frequent hand washing, wearing a mask, and practicing physical distancing. If you experience symptoms or have been in contact with someone who has tested positive, it is important to get tested and self-isolate to prevent the spread of the virus.",
+        "response": "You should self-isolate and avoid contact with others while waiting for your test results to prevent the potential spread of COVID-19."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about tuberculosis.",
+            "Sure, what would you like to know about TB?",
+            "What are the symptoms of tuberculosis?",
+            "Common symptoms of TB include coughing that lasts for more than three weeks, chest pain, coughing up blood, sweating at night, fever, and weight loss.",
+            "Is it contagious?",
+            "Yes, TB is highly contagious and can spread through the air when someone with TB coughs, sneezes, or talks.",
+            "How is it treated?",
+            "TB is typically treated with a combination of antibiotics taken for several months. It's important to take all of the antibiotics as prescribed, even if you start feeling better.",
+            "Thank you, Medi. That's very helpful."
+        ],
+        "knowledge": "Tuberculosis Tuberculosis Tuberculosis (TB) is a bacterial infection that primarily affects the lungs, although it can also affect other parts of the body. It is spread through the air when someone with TB coughs, sneezes, or talks. Common symptoms of TB include coughing that lasts for more than three weeks, chest pain, coughing up blood, sweating at night, fever, and weight loss. TB is highly contagious and can be spread easily in crowded or poorly ventilated areas. TB is typically treated with a combination of antibiotics taken for several months. It's important to take all of the antibiotics as prescribed, even if you start feeling better.",
+        "response": "TB is highly contagious and can be spread through the air when someone with TB coughs, sneezes, or talks. It is typically treated with a combination of antibiotics taken for several months."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery and I'm not sure what to do next.",
+            "I'm here to help. What kind of surgery did you have?",
+            "I had knee surgery to repair a torn ligament.",
+            "After your surgery, it's important to rest, apply ice to the affected area, and keep your leg elevated to reduce swelling.",
+            "What about physical therapy?",
+            "Physical therapy can be very helpful to regain strength and range of motion. You should ask your doctor for a referral.",
+            "What about my diet?",
+            "A healthy diet can help you recover more quickly. You should eat plenty of fruits, vegetables, and lean proteins, and avoid processed and high-fat foods.",
+            "Thank you for your help, Medi. I feel much better now that I know what to do next."
+        ],
+        "knowledge": "Post-operative care Post-operative care After surgery, it's important to follow your doctor's instructions for post-operative care. This may include rest, applying ice to the affected area, keeping the affected area elevated, and taking pain medication as prescribed. Physical therapy can also be very helpful to regain strength and range of motion. A healthy diet can also help you recover more quickly. You should eat plenty of fruits, vegetables, and lean proteins, and avoid processed and high-fat foods.",
+        "response": "After your knee surgery, it's important to rest, apply ice to the affected area, keep your leg elevated to reduce swelling, and physical therapy can help you regain strength and range of motion. A healthy diet can also help you recover more quickly."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a sore throat and fever.",
+            "I suggest you rest, drink fluids, and use pain relievers for your fever.",
+            "Do I need antibiotics?",
+            "Antibiotics are not needed if your sore throat is caused by a virus.",
+            "How long will it take to get better?",
+            "Most people with a sore throat feel better within a week.",
+            "Thanks for the advice, Medi.",
+            "You're welcome. Take care of yourself.",
+            "What can I do to prevent getting sick?"
+        ],
+        "knowledge": "Sore throats Sore throats A sore throat is a common symptom of many infections.  Viruses are the most common cause of a sore throat, although bacterial infections can also cause a sore throat.  Antibiotics are not needed if your sore throat is caused by a virus.  Most people with a sore throat feel better within a week.  Rest, drink fluids, and use pain relievers for your fever. Sore throats Sore throats",
+        "response": "You can prevent getting sick by washing your hands frequently, avoiding close contact with sick people, and maintaining a healthy lifestyle."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a cough that won't go away.",
+            "Is the cough wet or dry?",
+            "It's a dry cough.",
+            "You could try using cough suppressants to relieve your cough.",
+            "Is there anything else I can do?",
+            "You should avoid irritants like smoke and fumes as much as possible.",
+            "Thanks for the advice, Medi.",
+            "You're welcome. Feel better soon.",
+            "What else should I keep in mind when dealing with a cough that won't go away?"
+        ],
+        "knowledge": "Coughs Coughs A cough can be caused by many things, including a cold, flu, allergies, or asthma.  A wet cough produces phlegm or mucus, while a dry cough does not.  You could try using cough suppressants to relieve your cough.  You should avoid irritants like smoke and fumes as much as possible.  If your cough lasts for more than a few weeks, you should see a doctor to rule out any underlying conditions. Coughs Coughs",
+        "response": "You should see a doctor if your cough lasts for more than a few weeks to rule out any underlying conditions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery. What should I expect?",
+            "You should expect some pain and discomfort for the first few days.",
+            "What should I do for the pain?",
+            "Your doctor will prescribe pain medication to help manage your pain.",
+            "What about after the pain goes away?",
+            "You should gradually increase your physical activity as you feel able to.",
+            "What kind of physical activity should I do?",
+            "Your doctor will give you specific instructions, but walking is usually a good starting point.",
+            "How long will it take to recover?"
+        ],
+        "knowledge": "Post-surgery Post-surgery After surgery, you should expect some pain and discomfort for the first few days, but your doctor will prescribe pain medication to help manage your pain.  You should gradually increase your physical activity as you feel able to, starting with walking.  Your doctor will give you specific instructions about when you can return to work or other normal activities.  Recovery time can vary depending on the type of surgery you had and your individual circumstances. Post-surgery Post-surgery",
+        "response": "Recovery time can vary depending on the type of surgery you had and your individual circumstances."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm experiencing some symptoms that I'm worried about.",
+            "Sure, I'm here to help. What symptoms are you experiencing?",
+            "I have a sore throat, a cough, and a fever. I feel fatigued too.",
+            "Based on your symptoms, you might have a viral infection. Have you been in contact with anyone who has been sick recently?",
+            "Yes, my coworker has been out sick with similar symptoms. What should I do?",
+            "I recommend you stay home and rest, drink plenty of fluids, and take over-the-counter medication as needed for your fever and pain.",
+            "Okay, thank you for your advice. Should I see a doctor if my symptoms persist?",
+            "Yes, if your symptoms persist or worsen, you should definitely go see a doctor.",
+            "Thanks, Medi. I appreciate your help."
+        ],
+        "knowledge": "Viral infections Viral infections Symptoms of a viral infection can include fever, cough, sore throat, runny nose, body aches, and fatigue. Viral infections are spread through contact with an infected person or by exposure to respiratory droplets from an infected person's cough or sneeze. Getting plenty of rest, drinking fluids, and taking over-the-counter medication can help manage symptoms of a viral infection. Most viral infections go away on their own and do not require medical treatment, but if symptoms persist or worsen, it's important to see a doctor.",
+        "response": "You're welcome. I hope you start feeling better soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about tuberculosis.",
+            "Sure, I can help. What's your question?",
+            "What causes tuberculosis and how is it spread?",
+            "Tuberculosis is caused by a bacterium called Mycobacterium tuberculosis and is spread through the air when a person who has TB disease coughs, sneezes, or talks. It is an airborne disease.",
+            "What are the symptoms of TB?",
+            "Symptoms of TB include coughing for more than three weeks, chest pain, coughing up blood, fatigue, fever, weight loss, and night sweats.",
+            "Can TB be treated?",
+            "Yes, TB can be treated with several antibiotics, but treatment can take several months or longer.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Tuberculosis Tuberculosis Tuberculosis is a bacterial infection caused by Mycobacterium tuberculosis. It primarily affects the lungs, but it can also affect other parts of the body. TB is spread through the air when a person with TB disease coughs, sneezes, or talks. Symptoms of TB include coughing for more than three weeks, chest pain, coughing up blood, fatigue, fever, weight loss, and night sweats. TB can be treated with antibiotics, but treatment can take several months or longer.",
+        "response": "No, that's all. Thank you again, Medi."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what kind of physical activity I can do.",
+            "Hi there. Congrats on your surgery. What kind of surgery did you have and when was it?",
+            "I had knee surgery three days ago.",
+            "Okay, after knee surgery, it's important to rest and take it easy for a while until your knee has healed. You should avoid any activity that puts too much strain on your knee, like running or jumping.",
+            "What kind of physical activity can I do?",
+            "You can do gentle exercises that don't put too much strain on your knee, like walking, swimming, or cycling. It's important to follow your doctor's instructions and not to push yourself too hard.",
+            "What should I do if I experience pain or discomfort while exercising?",
+            "If you experience pain or discomfort while exercising, stop immediately and rest. You should also let your doctor know.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Postoperative care Postoperative care After surgery, it's important to rest and take it easy until your body has fully healed. You should avoid any activity that puts too much strain on your body and follow your doctor's instructions. Depending on the type of surgery you had, your doctor may recommend certain exercises or physical therapy to help you recover. It's important to listen to your body and not to push yourself too hard too soon.",
+        "response": "You're welcome. Let me know if you have any other questions about postoperative care."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am not feeling well and I don't know why",
+            "I'm here to help. Can you tell me your symptoms?",
+            "I have a fever, headache, and sore throat. I'm also experiencing fatigue.",
+            "Based on your symptoms, it's possible that you have a cold or the flu. Rest and drink plenty of fluids.",
+            "That's helpful. Is there anything else I can do to feel better?",
+            "Over-the-counter medications can help with symptoms. Consult with your doctor if your symptoms persist.",
+            "Thank you for your help, Medi.",
+            "You're welcome. Take care of yourself.",
+            "What are some common treatments for the flu and colds?"
+        ],
+        "knowledge": "Influenza and the Common Cold Influenza and the Common Cold are both viral respiratory illnesses. The flu usually causes more severe symptoms than the common cold. Symptoms of the flu include fever, body aches, fatigue, and cough. Symptoms of the common cold include a runny or stuffy nose, cough, and sore throat. Treatment for the flu and the common cold includes rest, drinking plenty of fluids, and over-the-counter medications for symptom relief.",
+        "response": "Treatment for the flu and the common cold includes rest, drinking plenty of fluids, and over-the-counter medications for symptom relief."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm wondering how I can stay healthy during the pandemic.",
+            "Good question. The best way to stay healthy is to practice social distancing and wear a mask.",
+            "I already do that, but is there anything else I can do?",
+            "Yes, you can also wash your hands frequently and avoid touching your face. These measures can help prevent the spread of the virus.",
+            "That makes sense. What should I do if I think I have COVID-19?",
+            "If you have symptoms such as fever, cough, and difficulty breathing, you should contact your doctor and get tested.",
+            "Thank you for your advice, Medi.",
+            "You're welcome. Stay safe!",
+            "How can I get a COVID-19 test?"
+        ],
+        "knowledge": "COVID-19 COVID-19 is a viral respiratory illness caused by the SARS-CoV-2 virus. Symptoms include fever, cough, and difficulty breathing. To prevent the spread of the virus, it is important to practice social distancing, wear a mask, wash your hands frequently, and avoid touching your face. If you have symptoms, you should contact your doctor and get tested for COVID-19.",
+        "response": "You can get a COVID-19 test by contacting your doctor or a testing center in your area. Some places may require an appointment, so it's best to call ahead."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what to expect during my recovery.",
+            "I'm here to help. What type of surgery did you have?",
+            "I had a hip replacement.",
+            "After a hip replacement, it's important to rest and avoid strenuous activity. Physical therapy can also help with recovery.",
+            "How long does recovery take?",
+            "Recovery time varies, but it can take several weeks to several months. Your doctor can give you a better idea of what to expect based on your specific case.",
+            "Are there any lifestyle changes I should make during my recovery?",
+            "You should avoid smoking and limit alcohol consumption. Eating a healthy diet can also help with recovery.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Hip Replacement Recovery After a hip replacement, it's important to rest and avoid strenuous activity. Physical therapy can also help with recovery. Recovery time varies, but it can take several weeks to several months. Lifestyle changes such as avoiding smoking and limiting alcohol consumption can also aid recovery. Eating a healthy diet is also important. Your doctor or physical therapist can recommend exercises to do during recovery.",
+        "response": "Your doctor or physical therapist can recommend exercises to do during your recovery. These exercises may include range-of-motion exercises, strengthening exercises, and aerobic exercises."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and cough.",
+            "Sorry to hear that. How long have you had these symptoms?",
+            "It's been a few days now. I'm worried it might be something serious.",
+            "Based on your symptoms, it could be a respiratory infection. You should see a doctor.",
+            "What should I do in the meantime?",
+            "Get plenty of rest, drink lots of fluids, and take over-the-counter cough medicine.",
+            "Thank you, Medi. I will go to the doctor soon.",
+            "That's a good idea. Keep me posted on how things go.",
+            "What kind of respiratory infection do you think I have?"
+        ],
+        "knowledge": "Respiratory infections Respiratory infections Respiratory infections are infections that occur in the respiratory tract. They can be caused by a virus, bacteria, or fungus. Common respiratory infections include the common cold, flu, bronchitis, and pneumonia. Symptoms of a respiratory infection may include fever, cough, sore throat, runny nose, nasal congestion, and difficulty breathing. Respiratory infections can be spread from person to person through the air, by touching a contaminated surface and then touching your nose or mouth, or by having contact with someone who is infected. Respiratory infections Respiratory infections",
+        "response": "It's difficult to say without a proper diagnosis, but it could be the common cold or flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I need to know more about HIV.",
+            "Of course, I'm here to help. What would you like to know?",
+            "What is HIV exactly?",
+            "HIV is a virus that attacks the immune system, specifically the CD4 cells. Over time, HIV can destroy so many of these cells that the body can't fight off infections and disease.",
+            "How is HIV transmitted?",
+            "HIV is transmitted through blood, semen, vaginal fluids, anal mucus, and breast milk. It can be spread through sexual contact, sharing needles or syringes, mother-to-child transmission during childbirth or breastfeeding, and less commonly through blood transfusions or organ transplants.",
+            "Is there a cure for HIV?",
+            "There is no cure for HIV, but there are treatments that can help manage the virus and prevent progression to AIDS.",
+            "What is AIDS?"
+        ],
+        "knowledge": "HIV HIV HIV stands for human immunodeficiency virus. It is a virus that attacks the immune system, specifically the CD4 cells. Over time, HIV can destroy so many of these cells that the body can't fight off infections and disease. HIV is transmitted through blood, semen, vaginal fluids, anal mucus, and breast milk. It can be spread through sexual contact, sharing needles or syringes, mother-to-child transmission during childbirth or breastfeeding, and less commonly through blood transfusions or organ transplants. HIV can be managed with antiretroviral therapy, which can slow or stop the progression of the virus. Without treatment, HIV can lead to acquired immunodeficiency syndrome (AIDS). HIV HIV",
+        "response": "You're welcome. Do you have any more questions on the topic?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery and I'm not sure what I can and can't do.",
+            "Sure, I can help with that. What kind of surgery did you have?",
+            "I had a knee replacement.",
+            "After knee replacement surgery, it's important to rest and elevate your leg. You should avoid any activities that put too much stress on your knee, such as running or jumping. Walking and light exercise, such as cycling or swimming, can help with recovery. It's also important to follow any instructions given by your doctor or physical therapist.",
+            "What about my diet?",
+            "You should aim for a healthy, balanced diet that includes plenty of fruits and vegetables, whole grains, lean protein, and healthy fats. You may also want to consider taking a calcium supplement to help with bone health.",
+            "Thank you, Medi. That's very helpful.",
+            "You're welcome. Let me know if you have any other questions.",
+            "Actually, yes. How long will recovery take?"
+        ],
+        "knowledge": "Knee replacement Knee replacement Knee replacement surgery is a procedure in which a damaged knee joint is replaced with an artificial joint. After surgery, it's important to rest and elevate your leg. You should avoid any activities that put too much stress on your knee, such as running or jumping. Walking and light exercise, such as cycling or swimming, can help with recovery. It's also important to follow any instructions given by your doctor or physical therapist. You should aim for a healthy, balanced diet that includes plenty of fruits and vegetables, whole grains, lean protein, and healthy fats. You may also want to consider taking a calcium supplement to help with bone health. Knee replacement Knee replacement",
+        "response": "You're welcome. Is there anything else you would like to know about knee replacement surgery?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been experiencing a high fever for two days.",
+            "I'm sorry to hear that, have you been experiencing any other symptoms?",
+            "Yes, I also have body aches and chills.",
+            "Based on your symptoms, it is possible that you have contracted an infectious disease.",
+            "What should I do next?",
+            "I suggest that you visit your doctor immediately and get a proper diagnosis and treatment.",
+            "Okay, I will do that. Thank you for your advice.",
+            "You're welcome. Take care of yourself.",
+            "What are some ways to prevent contracting infectious diseases?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases A basic form of contagion theory was proposed by Persian physician Ibn Sina in The Canon of Medicine, which later became the most authoritative medical textbook in Europe up until the 16th century. In Book IV of the Canon, Ibn Sina discussed epidemics, outlining the classical miasma theory and attempting to blend it with his own early contagion theory. He mentioned that people can transmit disease to others by breath, noted contagion with tuberculosis, and discussed the transmission of disease through water and dirt. The concept of invisible contagion was later discussed by several Islamic scholars in the Ayyubid Sultanate who referred to them as najasat. The fiqh scholar Ibn al-Haj al-Abdari, while discussing Islamic diet and hygiene, gave warnings about how contagion can contaminate water, food, and garments, and could spread through the water supply, and may have implied contagion to be unseen particles. When the Black Death bubonic plague reached Al-Andalus in the 14th century, the Arab physicians Ibn Khatima and Ibn al-Khatib hypothesized that infectious diseases were caused by \"minute bodies\" and described how they can be transmitted through garments, vessels and earrings. Ideas of contagion became more popular in Europe during the Renaissance, particularly through the writing of the Italian physician Girolamo Fracastoro Infectious diseases Infectious diseases ",
+        "response": "You can prevent infectious diseases by washing your hands regularly, avoiding close contact with sick people, and getting vaccinated."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I was wondering if you could give me some information on tuberculosis.",
+            "Sure, I'd be happy to help. What would you like to know?",
+            "What are the symptoms of tuberculosis?",
+            "The symptoms of tuberculosis include coughing up blood or sputum, chest pain, fever, fatigue, and unintentional weight loss.",
+            "How is tuberculosis transmitted?",
+            "Tuberculosis is spread through the air when an infected person coughs or sneezes.",
+            "Is tuberculosis treatable?",
+            "Yes, tuberculosis is treatable with antibiotics, but it is important to begin treatment as soon as possible.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Tuberculosis Tuberculosis Tuberculosis (TB) is an infectious disease usually caused by the bacterium Mycobacterium tuberculosis (MTB).  Tuberculosis generally affects the lungs, but can also affect other parts of the body.  Most infections show no symptoms, in which case it is known as latent tuberculosis.  Active tuberculosis, which may be symptomatic, is treated with a combination of several antibiotics.  Antibiotic resistance is a growing problem with increasing rates of multiple drug resistant tuberculosis (MDR-TB) and extensively drug-resistant tuberculosis (XDR-TB).  Prevention relies on screening programs and vaccination with the bacillus Calmette\u2013Gu\u00e9rin vaccine. Tuberculosis Tuberculosis",
+        "response": "You're welcome. Let me know if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently underwent a surgical procedure and I want to know what I can do to aid in my recovery process.",
+            "Of course, I'm here to help. What kind of procedure did you have?",
+            "I had a procedure to remove my appendix.",
+            "After the surgery, it is important to get plenty of rest and avoid exerting yourself. You should also eat a balanced diet and stay hydrated.",
+            "Are there any specific foods or drinks that I should consume or avoid?",
+            "You should eat foods that are high in fiber, protein, and vitamins to aid in the healing process. Avoid sugary and fatty foods.",
+            "What about physical activity?",
+            "It is important to avoid strenuous physical activity for a few weeks after the surgery and gradually increase your activity level as you feel better.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Surgery Surgery Surgery is a medical specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological condition such as a disease or injury, to help improve bodily function, and sometimes for cosmetic reasons.  An act of performing surgery may be called a surgical procedure, operation, or simply surgery.  Patients who have undergone surgery require postoperative care, which may include monitoring of vital signs, pain management, wound care, and physical therapy.  Common surgical procedures include appendectomy, gallbladder removal, and hernia repair Surgery Surgery",
+        "response": "Procedures such as gallbladder removal and hernia repair require similar post-surgery care."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I need your help.",
+            "Sure, I'm here to help you. Can you tell me more about your symptoms?",
+            "I have a fever and sore throat. I also feel tired and have a headache.",
+            "It seems like you might have a viral infection. Take a rest, drink plenty of fluids, and take some over-the-counter medication to relieve the symptoms.",
+            "What kind of medication should I take?",
+            "You can take acetaminophen or ibuprofen. But I suggest you consult with a doctor if your condition does not improve.",
+            "Ok Medi, thanks. Can you tell me more about viral infections?",
+            "A viral infection is caused by a virus and can range from mild to severe. It can cause symptoms such as fever, sore throat, cough, and body aches. Most viral infections will go away on their own, but some require medical treatment.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Viral Infections: Viral Infections are caused by a virus. They can range from mild to severe and may cause flu-like symptoms such as fever, cough, sore throat, and body aches. They are spread from person to person through the air, or by touching an infected surface. Most viral infections will go away on their own, but some require medical treatment. Treatment may include antiviral medication or supportive care. Common viral infections include the flu, common cold, and COVID-19.",
+        "response": "You're welcome, feel free to come back if you have other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure and I am not sure what I should do now.",
+            "Hi, I'm here to help. Can you tell me more about the procedure?",
+            "I had surgery on my knee and now I am not sure how much I should rest or move around.",
+            "You should follow the instructions given to you by your doctor. Rest is important for the healing process, but some movement and exercise is also beneficial for recovery.",
+            "What kind of exercise should I do?",
+            "You should do some physical therapy exercises that your doctor or therapist has recommended for you.",
+            "Is there anything I should avoid doing?",
+            "You should avoid any high-impact activities or any activities that cause pain or discomfort. Also, make sure to keep the surgical area clean and dry to prevent infection.",
+            "Thanks for your help, Medi. I will make sure to follow my doctor's instructions."
+        ],
+        "knowledge": "Medical Procedures: After a medical procedure, it is important to follow the instructions given to you by your doctor. Rest is important for the healing process, but some movement and exercise is also beneficial for recovery. Physical therapy exercises may be recommended for you. Avoid any high-impact activities or any activities that cause pain or discomfort. Also, make sure to keep the surgical area clean and dry to prevent infection.",
+        "response": "You're welcome, feel free to come back if you have other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am curious about the history of contagious diseases.",
+            "Hi, I'm here to help. What would you like to know?",
+            "I am interested in how people discovered that diseases can be contagious.",
+            "The concept of contagious diseases has been known for centuries. In the 10th century, the Persian physician Ibn Sina discussed epidemics and transmission of diseases through breath and water. Later, several Islamic scholars referred to contagious diseases as najasat. In the 14th century, Arab physicians Ibn Khatima and Ibn al-Khatib hypothesized that infectious diseases were caused by 'minute bodies' and described how they can be transmitted through garments, vessels, and earrings. Ideas of contagion became more popular in Europe during the Renaissance.",
+            "That's interesting. Has there been progress in controlling contagious diseases?",
+            "Yes, there has been significant progress in controlling contagious diseases. Advances in medicine and public health have led to vaccines, antibiotics, and better sanitation. These developments have helped to prevent and treat many contagious diseases.",
+            "Thanks for your help, Medi.",
+            "You're welcome, feel free to come back if you have other questions."
+        ],
+        "knowledge": "Contagious Diseases: The concept of contagious diseases has been known for centuries. In the 10th century, the Persian physician Ibn Sina discussed epidemics and transmission of diseases through breath and water. Later, several Islamic scholars referred to contagious diseases as najasat. In the 14th century, Arab physicians Ibn Khatima and Ibn al-Khatib hypothesized that infectious diseases were caused by 'minute bodies' and described how they can be transmitted through garments, vessels, and earrings. Ideas of contagion became more popular in Europe during the Renaissance. Advances in medicine and public health have led to vaccines, antibiotics, and better sanitation, which have helped to prevent and treat many contagious diseases.",
+        "response": "You're welcome, feel free to come back if you have other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms that concern me.",
+            "Sure, I am here to help you. Please tell me more details.",
+            "I have a fever, cough, and difficulty breathing.",
+            "Based on your symptoms, you may have contracted COVID-19.",
+            "What should I do next, Medi?",
+            "You should get tested immediately and follow the recommended protocol for quarantine and medical treatment.",
+            "Thank you, Medi. I will follow your advice.",
+            "I am glad to help. Let me know if you need further assistance.",
+            "What are the most common precautions to prevent the spread of COVID-19, Medi?"
+        ],
+        "knowledge": "COVID-19 COVID-19 COVID-19 is a contagious respiratory illness caused by the SARS-CoV-2 virus.  Symptoms include fever, cough, and shortness of breath.  The virus is primarily spread through respiratory droplets when an infected person talks, coughs, or sneezes.  The best way to prevent infection is to avoid exposure to the virus.  This can be done by wearing a mask, practicing social distancing, washing hands regularly, and avoiding large gatherings.  If you feel sick, stay home and seek medical attention if necessary.  Vaccines are also available to prevent infection and reduce the severity of symptoms.",
+        "response": "The most common precautions to prevent the spread of COVID-19 are wearing a mask, practicing social distancing, washing hands regularly, and avoiding large gatherings."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about tuberculosis.",
+            "I am happy to help. What would you like to know?",
+            "What are the common symptoms of tuberculosis?",
+            "The common symptoms of TB include coughing, weight loss, fever, and night sweats.",
+            "Is tuberculosis contagious?",
+            "Yes, TB is contagious and can spread from person to person through the air when an infected person talks, coughs, or sneezes.",
+            "How can tuberculosis be treated?",
+            "TB is treated with a combination of antibiotics over a period of several months. It is important to complete the full course of treatment to ensure the infection is fully cured.",
+            "Thank you for the information, Medi. I appreciate your help."
+        ],
+        "knowledge": "Tuberculosis Tuberculosis Tuberculosis is an infectious disease caused by the bacteria Mycobacterium tuberculosis.  The disease primarily affects the lungs, but can also affect other parts of the body.  Symptoms include coughing, weight loss, fever, and night sweats.  TB is spread through the air when an infected person talks, coughs, or sneezes.  TB can be treated with a combination of antibiotics over a period of several months.  It is important to complete the full course of treatment to ensure the infection is fully cured.",
+        "response": "You are welcome. Let me know if you have any further questions about TB."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and want to know how to recover quickly.",
+            "Of course. I can give you some advice on how to ensure a speedy recovery.",
+            "What should I eat to help my body heal?",
+            "It is important to eat a balanced diet with plenty of protein, vitamins, and minerals to support your body's healing process.",
+            "What kind of physical activity should I do, if any?",
+            "You should start with light physical activity such as walking to promote blood circulation and prevent blood clots. It is important to listen to your body and avoid any activity that causes pain.",
+            "Are there any specific things I should avoid?",
+            "You should avoid smoking, alcohol, and any activity that puts stress on the surgical site.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Post-surgical recovery Post-surgical recovery Recovery after surgery depends on many factors, including the type of surgery and your overall health.  It is important to follow your doctor's instructions carefully to ensure a speedy recovery.  Eating a balanced diet with plenty of protein, vitamins, and minerals can support the healing process.  Light physical activity such as walking can promote blood circulation and prevent blood clots.  It is important to listen to your body and avoid any activity that causes pain.  Smoking, alcohol, and any activity that puts stress on the surgical site should be avoided.  The length of recovery time depends on the type of surgery and your specific circumstances.",
+        "response": "That depends on the type of surgery and your specific circumstances. It is best to check with your doctor to determine when it is safe to return to work."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and a cough",
+            "Hello, based on your symptoms, you might have a respiratory infection.",
+            "What should I do now?",
+            "It's a good idea to stay home and rest while drinking plenty of fluids. If your symptoms get worse, you should consult a doctor.",
+            "What kind of medication should I take?",
+            "Over-the-counter medications such as acetaminophen or ibuprofen may help relieve your fever and cough.",
+            "Do I need to do anything else to prevent the spread of infection?",
+            "Yes, wear a mask, wash your hands regularly, and avoid close contact with others. Also, make sure to cover your mouth and nose when coughing or sneezing.",
+            "Okay, I will follow your advice. Thank you Medi."
+        ],
+        "knowledge": "Respiratory infections Respiratory infections The common cold is the most common type of respiratory infection. The flu and pneumonia are other types of respiratory infections. A respiratory infection can be caused by a virus, bacteria, or fungus. Symptoms include fever, cough, sore throat, runny or stuffy nose, and difficulty breathing. Some respiratory infections can be treated with antibiotics. Respiratory infections are spread by respiratory droplets from coughing or sneezing. Respiratory infections can be prevented by washing hands, avoiding close contact with sick people, and covering your mouth and nose when coughing or sneezing. Respiratory infections Respiratory infections",
+        "response": "You're welcome. I'm glad that I could be helpful."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you tell me more about tuberculosis?",
+            "Of course. Tuberculosis is a bacterial infection that primarily affects the lungs.",
+            "What are the symptoms?",
+            "The symptoms include coughing up blood, chest pain, and a cough that lasts more than three weeks. Other symptoms may include fatigue, fever, and night sweats.",
+            "How is it spread?",
+            "It's spread through the air when an infected person coughs or sneezes.",
+            "How can it be treated?",
+            "It can be treated with antibiotics for six to nine months. It's important to take all of the prescribed medication even when feeling better to ensure the infection is completely cured.",
+            "Thank you Medi. Is there any way to prevent tuberculosis?"
+        ],
+        "knowledge": "Tuberculosis Tuberculosis Tuberculosis is a bacterial infection that primarily affects the lungs. Symptoms include coughing up blood, chest pain, and a cough that lasts more than three weeks. Other symptoms may include fatigue, fever, and night sweats. TB is spread through the air when an infected person coughs, sneezes, speaks or sings. TB can be cured with antibiotics for six to nine months. It's important to take all of the prescribed medication even when feeling better to ensure the infection is completely cured. TB is preventable with the BCG vaccine, avoiding close contact with someone who has TB, and living in a clean and well-ventilated environment. Tuberculosis Tuberculosis",
+        "response": "You're welcome. Feel free to ask any other questions you may have about Tuberculosis."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a surgery. What should I do to aid my recovery?",
+            "Hello. It's important to follow your doctor's instructions for post-surgery care. You may need to rest, avoid certain activities, or take medication.",
+            "What about my diet?",
+            "Make sure to eat a healthy, balanced diet with plenty of protein to aid in the healing process.",
+            "Can I exercise?",
+            "You may need to wait a few weeks before exercising. When you do start exercising again, start slowly and gradually increase the intensity and duration over time.",
+            "What about smoking?",
+            "It's best to avoid smoking since it can hinder the healing process and increase the risk of complications.",
+            "Okay, thanks for the advice."
+        ],
+        "knowledge": "Post-surgery care Post-surgery care After surgery, it's important to follow your doctor's instructions for post-surgery care. This may include rest and avoiding certain activities, taking medication, and eating a healthy, balanced diet with plenty of protein to aid in the healing process. It's also important to avoid smoking and to gradually increase exercise over time. Seek medical attention if you experience any complications. Post-surgery care Post-surgery care",
+        "response": "You're welcome. I'm glad I could help."
+    }
+]

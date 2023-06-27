@@ -1,0 +1,450 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have a sore throat and a runny nose",
+            "I see, you could be infected with a common cold or flu. Do you have a fever?",
+            "Yes, I have a fever.",
+            "Alright, you might be having an influenza infection. You should get some rest and stay hydrated.",
+            "Is there anything else I should do?",
+            "You can take over-the-counter medication like ibuprofen for fever and body aches, as well as antihistamines to alleviate your runny nose.",
+            "Thank you for your advice, Medi.",
+            "You're welcome. Make sure to monitor your symptoms and go to the doctor if they get worse.",
+            "What are the symptoms that would indicate that I need to see a doctor?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common",
+        "response": "You should go to the doctor if your fever gets higher than 103 degrees Fahrenheit, if you experience shortness of breath, chest pain, or if your symptoms last longer than a week."
+    },
+    {
+        "dialog": [
+            "Medi, I had a flu shot last week, but I'm still feeling a bit under the weather.",
+            "It's normal to feel a bit unwell after a flu shot, but your symptoms should go away within a few days. What are your symptoms?",
+            "I have a fever, chills, and a headache.",
+            "You could be experiencing a mild reaction to the flu shot. However, if your fever gets higher than 103 degrees Fahrenheit or if your symptoms last for more than a few days, you should see a doctor.",
+            "Should I take any medication?",
+            "You can take over-the-counter medication like ibuprofen to reduce fever and alleviate headaches.",
+            "Thanks, Medi. Is there anything else I can do?",
+            "Make sure to get plenty of rest and fluids, and avoid contact with other people to prevent the spread of the flu.",
+            "How can I prevent getting the flu in the future?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common",
+        "response": "You can prevent getting the flu by getting a flu shot every year, washing your hands regularly, avoiding close contact with people who are sick, and staying home if you are sick."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I just recovered from the flu, and I'm feeling weak. What should I do to regain my strength?",
+            "After an illness, it's important to take care of your body to fully recover your strength. Have you been eating and drinking well?",
+            "I've been eating and drinking, but I haven't been eating very much.",
+            "You should eat more nutrient-rich foods like fruits, vegetables, and lean proteins to help your body recover. Also, make sure to drink plenty of fluids to stay hydrated.",
+            "What else can I do?",
+            "Gentle physical activity like walking or stretching can help improve your circulation and energy levels. However, make sure to avoid strenuous exercise until you fully regain your strength.",
+            "Thank you, Medi. Is there anything else I should be aware of?",
+            "It's important to listen to your body and get enough rest. Don't push yourself too hard and avoid stress as much as possible.",
+            "How long will it take to fully recover my strength?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common",
+        "response": "It can take a few weeks to fully regain your strength after the flu. Listen to your body and take it slow as you recover."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and sore throat.",
+            "I am sorry to hear that. How long have you had these symptoms?",
+            "It started yesterday afternoon and continued till now.",
+            "I see. Do you have any other symptoms?",
+            "Yes, I also have a runny nose and feel very tired.",
+            "Okay, based on your symptoms, it is possible that you have influenza.",
+            "What should I do now?",
+            "I recommend that you rest and take over-the-counter medications for your symptoms. If your symptoms worsen or persist, please see a doctor.",
+            "Okay, thank you for your advice Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it is possible that you have influenza. I recommend that you rest and take over-the-counter medications for your symptoms. If your symptoms worsen or persist, please see a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain to me more about the symptoms of influenza?",
+            "Of course, influenza symptoms include fever, chills, headaches, muscle pain, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2-8 days.",
+            "I see. How can I prevent getting influenza?",
+            "Getting a flu vaccine is the best way to prevent influenza. You can also practice good hygiene, such as washing your hands frequently and avoiding close contact with people who are sick.",
+            "Thanks for your advice Medi. One more question, can influenza lead to other complications?",
+            "Yes, influenza can lead to complications such as pneumonia, bronchitis, sinus infections, and ear infections. It can also worsen existing medical conditions such as asthma and heart disease.",
+            "I understand. Thanks for your help Medi.",
+            "You're welcome. If you have any more questions, feel free to ask."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Getting a flu vaccine is the best way to prevent influenza. You can also practice good hygiene, such as washing your hands frequently and avoiding close contact with people who are sick. Influenza can lead to complications such as pneumonia, bronchitis, sinus infections, and ear infections. It can also worsen existing medical conditions such as asthma and heart disease."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure. Can you give me advice on how to recover?",
+            "Of course. What kind of medical procedure did you have?",
+            "I had a knee replacement surgery.",
+            "Okay. It is important to rest and take it easy for a few days after surgery. You should also follow your doctor's instructions for taking pain medication and caring for your incision.",
+            "What about physical therapy? When can I start?",
+            "Physical therapy is an important part of recovery from knee replacement surgery. Your doctor will let you know when it is safe to start physical therapy, but it is usually recommended within a few days after surgery.",
+            "What kind of exercises should I do?",
+            "Your physical therapist will create a customized exercise plan for you based on your needs and abilities. Generally, exercises will focus on improving range of motion and strength in your knee.",
+            "Thanks for your advice, Medi."
+        ],
+        "knowledge": "Knee replacement surgery Knee replacement surgery  Knee replacement surgery is a procedure to replace a damaged or worn knee joint with an artificial one.  It is most commonly used to treat severe osteoarthritis, but may also be used to treat other conditions such as rheumatoid arthritis and post-traumatic arthritis.  Recovery from knee replacement surgery can take several weeks or even months, and physical therapy is an important part of the recovery process.  Exercises will focus on improving range of motion and strength in the knee joint. Knee replacement surgery Knee replacement surgery",
+        "response": "Your physical therapist will create a customized exercise plan for you based on your needs and abilities. Generally, exercises will focus on improving range of motion and strength in your knee. It is important to rest and take it easy for a few days after surgery. You should also follow your doctor's instructions for taking pain medication and caring for your incision."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel really sick and have a fever.",
+            "I'm sorry to hear that. Do you have any other symptoms?",
+            "Yes, I have a cough and a runny nose as well.",
+            "It sounds like you might have the flu. Make sure to rest and drink plenty of fluids.",
+            "Is there anything else I can do?",
+            "You can take over-the-counter medication to relieve your symptoms and keep yourself isolated to prevent spreading the virus.",
+            "Thanks for your advice. How long should I expect to feel like this?",
+            "Flu symptoms usually last 2-8 days, but make sure to contact a doctor if your symptoms get worse or you have trouble breathing.",
+            "Got it. Thanks for your help."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it seems like you might have the flu. Make sure to rest and drink plenty of fluids. You can take over-the-counter medication to relieve your symptoms and keep yourself isolated to prevent spreading the virus. Flu symptoms usually last 2-8 days, but make sure to contact a doctor if your symptoms get worse or you have trouble breathing."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about how the flu virus works.",
+            "Sure, I'd be happy to help. What would you like to know?",
+            "Can you explain how the virus enters our cells?",
+            "Of course. The virus enters our cells by binding to the sialic acid receptors on the surface of the cell membrane using the HA proteins on the surface of the envelope. For certain types of the virus, the NA protein can also help initiate entry.",
+            "What happens after the virus enters our cells?",
+            "After binding, the virus is internalized into a cell by an endosome that contains the virion inside it. The endosome is acidified by cellular vATPase to have lower pH, which triggers a conformational change in HA that allows fusion of the viral envelope with the endosomal membrane. At the same time, hydrogen ions diffuse into the virion through M2 ion channels, disrupting internal protein-protein interactions to release RNPs into the host cell's cytosol.",
+            "That's really interesting. What are RNPs?",
+            "RNPs are ribonucleoproteins, which are complexes of the viral RNA genome and viral nucleoprotein. The M1 protein shell surrounding RNPs is then degraded, fully uncoating RNPs in the cytosol.",
+            "Thanks for explaining that. It's really helpful to know."
+        ],
+        "knowledge": "Influenza Influenza  Binding is mediated by the viral HA proteins on the surface of the envelope, which bind to cells that contain sialic acid receptors on the surface of the cell membrane.  For N1 subtypes with the 'G147R' mutation and N2 subtypes, the NA protein can initiate entry.  Prior to binding, NA proteins promote access to target cells by degrading mucus, which helps to remove extracellular decoy receptors that would impede access to target cells.  After binding, the virus is internalized into the cell by an endosome that contains the virion inside it.  The endosome is acidified by cellular vATPase to have lower pH, which triggers a conformational change in HA that allows fusion of the viral envelope with the endosomal membrane.  At the same time, hydrogen ions diffuse into the virion through M2 ion channels, disrupting internal protein-protein interactions to release RNPs into the host cell's cytosol.  The M1 protein shell surrounding RNPs is degraded, fully uncoating RNPs in the cytosol Influenza Influenza",
+        "response": "No problem, it's always good to learn more about how the virus works."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from the flu and I want to know how to stay healthy.",
+            "That's great to hear! In order to stay healthy, you should make sure to wash your hands frequently and avoid close contact with people who are sick.",
+            "What about my diet? Are there any foods I should avoid?",
+            "It's a good idea to eat a balanced diet with plenty of fruits and vegetables. You should also avoid processed foods and foods high in sugar and salt.",
+            "That makes sense. What about exercise? How much should I be getting?",
+            "Aim for at least 150 minutes of moderate exercise or 75 minutes of vigorous exercise per week. You can also try to incorporate more physical activity into your daily routine, such as taking the stairs instead of the elevator.",
+            "Thanks for your advice. Is there anything else I should be doing?",
+            "Make sure to get enough sleep and manage your stress levels. These are both important for maintaining a healthy immune system.",
+            "I'll keep that in mind. Thanks for your help, Medi!"
+        ],
+        "knowledge": "Influenza Influenza  Binding is mediated by the viral HA proteins on the surface of the envelope, which bind to cells that contain sialic acid receptors on the surface of the cell membrane.  For N1 subtypes with the 'G147R' mutation and N2 subtypes, the NA protein can initiate entry.  Prior to binding, NA proteins promote access to target cells by degrading mucus, which helps to remove extracellular decoy receptors that would impede access to target cells.  After binding, the virus is internalized into the cell by an endosome that contains the virion inside it.  The endosome is acidified by cellular vATPase to have lower pH, which triggers a conformational change in HA that allows fusion of the viral envelope with the endosomal membrane.  At the same time, hydrogen ions diffuse into the virion through M2 ion channels, disrupting internal protein-protein interactions to release RNPs into the host cell's cytosol.  The M1 protein shell surrounding RNPs is degraded, fully uncoating RNPs in the cytosol Influenza Influenza",
+        "response": "You're welcome. Remember to take care of yourself and contact a doctor if you start to feel sick again."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I'm feeling unwell and can't focus. What can I do?",
+            "Hello. Can you tell me more about your symptoms?",
+            "I have a headache, fever and a sore throat.",
+            "Based on your symptoms, it looks like you may have the flu",
+            "What should I do now?",
+            "You need to rest, drink plenty of fluids and take over-the-counter medication to relieve your symptoms",
+            "Thank you, Medi. How can I prevent the flu in the future?",
+            "The best way to prevent the flu is by getting vaccinated each year",
+            "Thanks for the advice, Medi. I'll make sure to get vaccinated next year."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Be sure to stay hydrated and take care of yourself."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I have a question about Influenza.",
+            "Sure, I'm happy to help. What's your question?",
+            "How does the virus that causes influenza enter my body?",
+            "The virus enters your body by binding to cells that contain sialic acid receptors on the surface of the cell membrane.",
+            "What happens after the virus enters my body?",
+            "The virus is internalized into a cell by an endosome that contains the virion inside it. The endosome is acidified by cellular vATPase to have lower pH, which triggers a conformational change in HA that allows fusion of the viral envelope with the endosomal membrane.",
+            "Wow, that's really interesting. What can I do to prevent getting the flu?",
+            "The best way to prevent the flu is by getting vaccinated each year and practicing good hygiene such as washing your hands frequently and avoiding contact with sick people.",
+            "Thanks, Medi. I'll make sure to do that."
+        ],
+        "knowledge": "Influenza Influenza  Binding is mediated by the viral HA proteins on the surface of the envelope, which bind to cells that contain sialic acid receptors on the surface of the cell membrane.  For N1 subtypes with the 'G147R' mutation and N2 subtypes, the NA protein can initiate entry.  Prior to binding, NA proteins promote access to target cells by degrading mucus, which helps to remove extracellular decoy receptors that would impede access to target cells.  After binding, the virus is internalized into the cell by an endosome that contains the virion inside it.  The endosome is acidified by cellular vATPase to have lower pH, which triggers a conformational change in HA that allows fusion of the viral envelope with the endosomal membrane.  At the same time, hydrogen ions diffuse into the virion through M2 ion channels, disrupting internal protein-protein interactions to release RNPs into the host cell's cytosol.  The M1 protein shell surrounding RNPs is degraded, fully uncoating RNPs in the cytosol Influenza Influenza",
+        "response": "You're welcome. Stay healthy!"
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I just had a flu shot. What should I do now?",
+            "Hi! After getting a flu shot, it's important to keep the injection site clean and dry for at least 24 hours.",
+            "Can I exercise after getting the shot?",
+            "Yes, you can exercise after getting the shot, but it's important to listen to your body and rest if necessary.",
+            "Are there any side effects I should look out for?",
+            "You may experience mild side effects such as soreness, redness, or swelling at the injection site, headache, muscle aches, or fatigue, but these symptoms usually go away on their own within a few days.",
+            "Thanks, Medi. Is there anything else I should know?",
+            "Just remember that getting a flu shot is the best way to prevent the flu and keep yourself healthy.",
+            "Alright, thanks for the advice, Medi."
+        ],
+        "knowledge": "Influenza Influenza  Influenza vaccines are made to protect against the three or four viruses that research suggests will be most common and most dangerous during the upcoming season.  The viruses in the vaccine are based on the most common strains of influenza viruses that are circulating around the world.  The seasonal flu vaccine protects against influenza viruses that research indicates will be most common during the upcoming season.  Flu vaccines are updated annually to keep up with changing viruses and are either inactivated (killed) or attenuated (weakened) Influenza Influenza",
+        "response": "You're welcome. Remember to stay healthy and take care of yourself!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a running nose and sore throat",
+            "Hi, sorry to hear that. How long have you had those symptoms?",
+            "It's been almost a week now",
+            "Have you experienced any fever or cough?",
+            "Yes, I have a low-grade fever and a dry cough",
+            "Based on your symptoms, it seems like you have a cold. You can try over-the-counter medication to help relieve your symptoms",
+            "What kind of medication do you suggest?",
+            "You can try decongestants and pain relievers such as ibuprofen or acetaminophen",
+            "Thanks for your help, Medi. I'll try those medications"
+        ],
+        "knowledge": "Common Cold Common Cold  The common cold is a viral infection of the upper respiratory tract.  It is primarily spread through human contact with nasal secretions or saliva, typically through hand-to-hand contact, rather than through the air.  The most common symptoms include a runny nose, sore throat, cough, and fever.  There is no known cure for the common cold, with treatment directed at relieving symptoms.  Over-the-counter medications, such as decongestants and pain relievers, can help with symptom relief.  Rest and hydration are also important.  Most people recover from a cold within a week, although some symptoms may last longer. Common Cold Common Cold",
+        "response": "What kind of over-the-counter medication would be the most effective for my symptoms?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I have the flu. Can you help me?",
+            "Of course, I'm here to help. What are your symptoms?",
+            "I have a sudden onset of fever, cough, and body aches",
+            "How severe is your fever?",
+            "It's above 100\u00b0F",
+            "Based on your symptoms, it seems like you have the flu. You should rest and drink plenty of fluids",
+            "Do I need to take any medication?",
+            "You can try over-the-counter medications such as acetaminophen to reduce fever and pain, or antiviral medications if prescribed by your doctor",
+            "Thanks for your advice, Medi"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Should I see a doctor for antiviral medications, or can I get them over the counter?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from the flu. What should I do to prevent getting sick again?",
+            "It's great to hear that you have recovered. To prevent getting sick again, make sure to wash your hands frequently",
+            "What else can I do?",
+            "You can also practice good hygiene by avoiding close contact with sick people and covering your mouth and nose when coughing or sneezing",
+            "Is there anything else?",
+            "You should also try to maintain a healthy lifestyle with a balanced diet, regular exercise, and enough sleep",
+            "Thanks for your advice, Medi. I'll make sure to follow them",
+            "You're welcome. Stay healthy!"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "What are some effective ways to boost my immune system to prevent getting sick?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I might have flu",
+            "What are the symptoms you are experiencing?",
+            "I have a fever, runny nose, sore throat and cough.",
+            "You might have the Flu. Please take rest and drink plenty of fluids. You can take acetaminophen or ibuprofen to reduce fever and relieve aches and pains.",
+            "How can I protect myself from the Flu?",
+            "You can get vaccinated every year, avoid close contact with sick people and wash your hands frequently with soap and water to reduce the risk of catching the Flu.",
+            "Is it contagious?",
+            "Yes, it is highly contagious and can spread from person to person through the air, by touching a surface contaminated with the virus and then touching your mouth or nose.",
+            "Thank you for the information Medi. What can I do to prevent its spreading?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "To prevent its spreading, you can cover your nose and mouth when you sneeze or cough, wash your hands frequently with soap and water, avoid close contact with sick people and stay at home if you are sick."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a flu shot and I'm feeling a bit under the weather",
+            "It's normal to have mild symptoms after a flu shot, such as fever, fatigue, and muscle aches but it should go away soon. Drink plenty of fluids and rest.",
+            "How does the Flu shot work?",
+            "The Flu vaccine works by causing your immune system to produce antibodies against the Flu virus, which then protect you from getting infected with the Flu.",
+            "Can I get the Flu from the vaccine?",
+            "No, you cannot get the Flu from the vaccine because the viruses in the vaccine are either dead or weakened.",
+            "How long does the vaccine last?",
+            "The protection from the vaccine can last for up to a year, but the effectiveness can vary depending on the match between the vaccine and the circulating virus strains.",
+            "Thanks for the information Medi. Is there anything else I should know?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. It's always better to get vaccinated every year to stay protected against the Flu virus."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had the Flu and I want to know how to boost my immune system",
+            "To boost your immune system, you should get plenty of sleep, eat a balanced diet rich in fruits and vegetables, exercise regularly, reduce stress, and avoid smoking and alcohol consumption.",
+            "What foods are good for my immune system?",
+            "Foods that are rich in Vitamin C, such as citrus fruits, kiwi, and broccoli can help boost your immune system. Other foods that are rich in Vitamin D, such as fatty fish and fortified milk can also help.",
+            "What about supplements?",
+            "Supplements such as Vitamin C, Vitamin D and Zinc can help support your immune system, but it's important to consult with your doctor before taking any supplements, as they may interact with other medications or have side effects.",
+            "Thanks for the advice Medi. Is there anything else I can do?",
+            "You can also try incorporating probiotics into your diet, such as yogurt or kefir, to help support your gut health, which is important for a healthy immune system.",
+            "Great, thank you Medi. How can I know if my immune system is strong?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Stay healthy by maintaining a healthy lifestyle and incorporating these tips to boost your immune system."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a sore throat and a runny nose.",
+            "Oh, I'm sorry to hear that. You may have caught a cold",
+            "How can I treat it?",
+            "Drink lots of fluids, get plenty of rest, and take over-the-counter medications like acetaminophen or ibuprofen to relieve your symptoms.",
+            "What kind of medications can help me with a blocked nose?",
+            "Decongestants can help. You can try using nasal sprays or drops to relieve congestion.",
+            "Is there anything else I should do?",
+            "You should also avoid close contact with other people to prevent spreading the virus.",
+            "Thank you, Medi. How long do you think it'll take for me to recover?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You may have caught a cold. Drink lots of fluids, get plenty of rest, and take over-the-counter medications like acetaminophen or ibuprofen to relieve your symptoms. Decongestants can help you with your blocked nose. You should also avoid close contact with other people to prevent spreading the virus."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling really tired all the time.",
+            "I'm sorry to hear that. Can you tell me more about your symptoms?",
+            "I feel like I can't get enough sleep, even when I do sleep for a long time. And I can't focus on anything.",
+            "That sounds like you might be suffering from fatigue. Have you been experiencing any stress recently?",
+            "Yes, I've been under a lot of pressure at work lately.",
+            "That might be the cause of your fatigue. It's important to take breaks and make sure you're getting enough rest.",
+            "What else can I do to feel better?",
+            "You could also try incorporating exercise into your daily routine and making sure you're eating a balanced diet.",
+            "Thanks, Medi. I'll try to make some lifestyle changes."
+        ],
+        "knowledge": "Fatigue Fatigue  Fatigue is a feeling of tiredness or lack of energy.  It is not the same as drowsiness, but is often described as a lack of motivation to perform tasks or activities.  Fatigue is a common symptom of many medical conditions and is also a side effect of some medications and treatments.  Fatigue can also be caused by lifestyle factors such as lack of sleep, poor diet, and lack of exercise.  Fatigue is often a symptom of depression, anxiety, and stress.  Treatment for fatigue depends on the underlying cause.  It may include lifestyle changes, medications, or other therapies Fatigue Fatigue",
+        "response": "You might be suffering from fatigue due to stress at work. It's important to take breaks and make sure you're getting enough rest. You could also try incorporating exercise into your daily routine and making sure you're eating a balanced diet."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what I should be doing now.",
+            "Congratulations on your surgery! What kind of surgery did you have?",
+            "I had a procedure on my knee.",
+            "After surgery, it's important to rest and keep the affected area elevated to reduce swelling.",
+            "How long should I do that for?",
+            "You should rest and keep your knee elevated for the first few days after surgery. After that, you can start doing light exercises to help with your recovery.",
+            "What kind of exercises should I do?",
+            "Your surgeon may have given you specific exercises to do, but generally, you should start with simple exercises like ankle pumps and quad sets.",
+            "Thanks, Medi. Is there anything else I should be doing?"
+        ],
+        "knowledge": "Surgery Surgery  Surgery is the medical specialty that uses operative manual and instrumental techniques on a patient to investigate or treat a pathological condition such as a disease or injury.  Surgical procedures are classified into various types, depending on the body part or system under examination or treatment.  Recovery from surgery depends on the type of surgery and the individual patient.  After surgery, it is important to follow your doctor's instructions for care and treatment, including rest, medications, and physical therapy.  Complications from surgery can occur and may require additional treatment. Surgery Surgery",
+        "response": "After your knee surgery, it's important to rest and keep the affected area elevated to reduce swelling. You should rest and keep your knee elevated for the first few days after surgery. After that, you can start doing light exercises to help with your recovery. Your surgeon may have given you specific exercises to do, but generally, you should start with simple exercises like ankle pumps and quad sets."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm feeling very sick today.",
+            "I'm sorry to hear that. Tell me what symptoms you have?",
+            "I have a fever, cough, and difficulty breathing.",
+            "Okay, based on your symptoms, it's possible you have contracted COVID-19.",
+            "What should I do now?",
+            "You should immediately self-isolate and contact your healthcare provider for further instructions or testing.",
+            "What else can I do to protect myself?",
+            "Wash your hands frequently, wear a mask, and avoid close contact with others.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "COVID-19 COVID-19 COVID-19 is a highly infectious respiratory disease caused by the SARS-CoV-2 virus. Common symptoms include fever, dry cough, fatigue, and shortness of breath. It spreads mainly through respiratory droplets produced when an infected person talks, coughs or sneezes. To prevent the spread of COVID-19, it is recommended to wash your hands frequently, wear a mask in public, practice social distancing, and self-isolate if you have symptoms or have been exposed to someone with the disease.",
+        "response": "You're welcome. Please take care and follow the recommended precautions to prevent the spread of the disease."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing persistent chest pain.",
+            "I'm sorry to hear that. Can you describe your symptoms in more detail?",
+            "The pain is a tightness in my chest that comes and goes, especially when I'm active.",
+            "Based on your symptoms, you may be experiencing angina.",
+            "What is angina?",
+            "Angina is chest pain or discomfort that occurs when your heart is not getting enough oxygen-rich blood.",
+            "What can I do to alleviate my symptoms?",
+            "You should rest and avoid strenuous activities, take medications prescribed by your doctor, and make lifestyle changes such as quitting smoking and managing your weight.",
+            "Thank you, Medi. I will talk to my doctor about this."
+        ],
+        "knowledge": "Angina Angina Angina is a type of chest pain caused by reduced blood flow to the heart. It's a symptom of coronary artery disease, which occurs when the arteries that supply blood to the heart become narrowed or blocked. Symptoms of angina include chest pain or discomfort, shortness of breath, and lightheadedness. Treatment for angina may include medications to improve blood flow, lifestyle changes, and procedures to open blocked arteries.",
+        "response": "You're welcome. I hope you get the help you need to manage your symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery and I'm not sure what I can do to aid in my recovery.",
+            "I'm glad you reached out. What type of surgery did you have?",
+            "I had a knee replacement.",
+            "After a knee replacement, it's important to stay active and do physical therapy exercises to improve mobility.",
+            "Are there any exercises I should avoid?",
+            "Avoid high-impact activities such as running and jumping, and consult with your doctor or physical therapist before starting any new exercises.",
+            "What about my diet?",
+            "Make sure to maintain a healthy and balanced diet to support healing and recovery.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Knee Replacement Knee Replacement Knee replacement surgery involves replacing the damaged or diseased parts of the knee joint with artificial components. After surgery, it's important to do physical therapy exercises to improve strength and mobility. Avoid high-impact activities and consult with your doctor or physical therapist before starting any new exercises. A healthy and balanced diet is also important for healing and recovery.",
+        "response": "You're welcome. I hope this information helps you in your recovery process."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing headache and fatigue for the last few days.",
+            "Hello! Sorry to hear that. Could you tell me more about your symptoms?",
+            "Well, I feel tired even after getting plenty of rest and my head has been aching for a while now.",
+            "I see. Do you have any other symptoms that you would like to tell me about?",
+            "No, not really. Just the headache and fatigue.",
+            "Okay, based on your symptoms, it is possible that you could be suffering from a common cold or flu.",
+            "What should I do about it?",
+            "Make sure to rest, stay hydrated, and take over-the-counter pain medication if necessary. If your symptoms persist or get worse, please see a doctor.",
+            "Got it. Thank you, Medi!"
+        ],
+        "knowledge": "Influenza Influenza Binding is mediated by the viral HA proteins on the surface of the envelope, which bind to cells that contain sialic acid receptors on the surface of the cell membrane.  For N1 subtypes with the \"G147R\" mutation and N2 subtypes, the NA protein can initiate entry.  Prior to binding, NA proteins promote access to target cells by degrading mucus, which helps to remove extracellular decoy receptors that would impede access to target cells.  After binding, the virus is internalized into the cell by an endosome that contains the virion inside it.  The endosome is acidified by cellular vATPase to have lower pH, which triggers a conformational change in HA that allows fusion of the viral envelope with the endosomal membrane.  At the same time, hydrogen ions diffuse into the virion through M2 ion channels, disrupting internal protein-protein interactions to release RNPs into the host cell's cytosol.  The M1 protein shell surrounding RNPs is degraded, fully uncoating RNPs in the cytosol Influenza Influenza",
+        "response": "Based on your symptoms, it is possible that you could be suffering from a common cold or flu."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have been hearing a lot about the flu. What exactly is it?",
+            "Hello! The flu is a viral infection that affects the respiratory system. It is caused by the influenza virus.",
+            "What are the symptoms of the flu?",
+            "Common symptoms of the flu include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.",
+            "Is the flu contagious?",
+            "Yes, the flu is highly contagious. It can spread through droplets when an infected person coughs or sneezes, or by touching a surface contaminated with the virus and then touching your mouth or nose.",
+            "How can I prevent getting the flu?",
+            "The best way to prevent getting the flu is to get a flu vaccine each year. You should also practice good hand hygiene, avoid close contact with sick people, cover your cough or sneeze with a tissue, and stay home if you are sick.",
+            "Thanks for explaining that, Medi!"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The flu is a viral infection that affects the respiratory system. Common symptoms include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue. It is highly contagious but can be prevented by getting a flu vaccine each year and practicing good hand hygiene."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery and I'm not sure how to take care of myself post-surgery.",
+            "Hello! What kind of surgery did you have?",
+            "I had an appendectomy.",
+            "Okay. After your surgery, you should get plenty of rest, eat a healthy and balanced diet, and drink plenty of fluids.",
+            "What kind of physical activity can I do post-surgery?",
+            "It's important to start with light activity and gradually increase it as you feel comfortable. Walking is a good form of exercise to start with.",
+            "Are there any foods that I should avoid eating?",
+            "You should avoid foods that are high in fat, sugar, and salt, as well as alcohol and caffeine. It's important to eat foods that are high in protein, fiber, and vitamins.",
+            "Thank you for your advice, Medi!"
+        ],
+        "knowledge": "Influenza Influenza Binding is mediated by the viral HA proteins on the surface of the envelope, which bind to cells that contain sialic acid receptors on the surface of the cell membrane.  For N1 subtypes with the \"G147R\" mutation and N2 subtypes, the NA protein can initiate entry.  Prior to binding, NA proteins promote access to target cells by degrading mucus, which helps to remove extracellular decoy receptors that would impede access to target cells.  After binding, the virus is internalized into the cell by an endosome that contains the virion inside it.  The endosome is acidified by cellular vATPase to have lower pH, which triggers a conformational change in HA that allows fusion of the viral envelope with the endosomal membrane.  At the same time, hydrogen ions diffuse into the virion through M2 ion channels, disrupting internal protein-protein interactions to release RNPs into the host cell's cytosol.  The M1 protein shell surrounding RNPs is degraded, fully uncoating RNPs in the cytosol Influenza Influenza",
+        "response": "After an appendectomy, it's important to get plenty of rest, eat a healthy and balanced diet, and gradually increase physical activity. Avoid foods that are high in fat, sugar, and salt, as well as alcohol and caffeine. It's best to wait until your doctor clears you to return to work, which is usually around 2-3 weeks after the surgery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel really sick. Can you help me?",
+            "Yes, of course! What symptoms are you experiencing?",
+            "I have a high fever, sore throat, and a dry cough.",
+            "Okay. Do you have any difficulty breathing?",
+            "Yes, I feel out of breath and my chest feels heavy.",
+            "Based on your symptoms, you may have COVID-19. You should get tested and self-isolate until you get your results.",
+            "Should I take any medication?",
+            "You can take over-the-counter medication for your fever and cough, but it's important to get tested and follow the advice of your healthcare provider.",
+            "Thank you, Medi. I will do that. "
+        ],
+        "knowledge": "COVID-19 COVID-19 COVID-19 is caused by the SARS-CoV-2 virus and primarily spreads through respiratory droplets when an infected person coughs, sneezes, talks, or breathes. Symptoms can range from mild to severe and may include fever, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, new loss of taste or smell, sore throat, congestion or runny nose, nausea or vomiting, or diarrhea. COVID-19 can lead to severe respiratory illness, pneumonia, acute respiratory distress syndrome, and death, particularly in older adults or those with underlying medical conditions. There is currently no specific treatment for COVID-19, but supportive care can help relieve symptoms. COVID-19 COVID-19",
+        "response": "You're welcome! Please take care and get tested as soon as possible."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I think I might have the flu. What should I do?",
+            "Hello! What symptoms are you experiencing?",
+            "I have a high fever, a headache, body aches, and a dry cough.",
+            "Okay, it's possible you have the flu. The best thing to do is to rest, drink plenty of fluids, and take over-the-counter medication to relieve your symptoms.",
+            "How long will it take for me to get better?",
+            "Most people recover from the flu within a week or two. However, if your symptoms worsen or don't improve after a few days, you should see a healthcare provider.",
+            "Is there anything I can do to prevent getting the flu in the future?",
+            "Yes, getting an annual flu vaccine is the best way to prevent getting the flu. You should also practice good hygiene, such as washing your hands frequently and avoiding close contact with sick people.",
+            "Thank you for your help, Medi!"
+        ],
+        "knowledge": "Influenza Influenza The flu is a viral respiratory illness caused by the influenza virus. Symptoms can include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue. The flu is highly contagious and can spread through the air when an infected person talks, coughs, or sneezes, or by touching a surface contaminated with the virus and then touching your mouth, nose, or eyes. Most people recover from the flu within a week or two with rest and supportive care, but some may develop complications such as pneumonia. The flu vaccine is the best way to prevent getting the flu. Influenza Influenza",
+        "response": "You're welcome! I hope you feel better soon."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I recently had surgery and I'm not sure what I should be eating.",
+            "Hello! It's important to eat a healthy, balanced diet after surgery to help with healing. What kind of surgery did you have?",
+            "I had my gallbladder removed.",
+            "Okay. After gallbladder surgery, you should avoid fatty, greasy, or fried foods, as well as spicy foods, as they can cause digestive problems. Instead, focus on eating lean proteins, whole grains, fruits, and vegetables.",
+            "Should I be avoiding any other foods?",
+            "You should also avoid alcohol and caffeine, as they can irritate your digestive system. It's also important to drink plenty of water to stay hydrated.",
+            "What about physical activity?",
+            "You should aim to get up and move around as soon as possible after surgery, even if it's just walking around your house. This can help prevent complications and improve your recovery time.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Gallbladder Surgery Gallbladder Surgery Gallbladder surgery, or cholecystectomy, is a procedure to remove the gallbladder, typically due to gallstones or other problems. After surgery, it's important to eat a healthy, balanced diet to help with healing. Foods to avoid after gallbladder surgery include fatty, greasy, or fried foods, as well as spicy foods, as they can cause digestive problems. Instead, focus on eating lean proteins, whole grains, fruits, and vegetables. It's also important to avoid alcohol and caffeine and to drink plenty of water to stay hydrated. Physical activity can also help improve recovery time. Gallbladder Surgery Gallbladder Surgery",
+        "response": "You're welcome! I hope this advice helps with your recovery."
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing some symptoms lately",
+            "Hello, I am here to help. Can you tell me what symptoms you are having?",
+            "I have been having headaches and feel very tired all the time",
+            "How long have you been experiencing these symptoms?",
+            "For about a week now. They just don't seem to go away",
+            "Have you been experiencing any other symptoms?",
+            "Yes, I have lost my appetite and I can't taste anything",
+            "Based on your symptoms, it appears that you may have contracted a respiratory illness. You should see a doctor soon.",
+            "Thanks for your help Medi. I will schedule an appointment with my doctor."
+        ],
+        "knowledge": "Respiratory Illness Respiratory Illness Influenza is a respiratory illness that is caused by a virus.  The symptoms of influenza include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills and fatigue.  It is highly contagious and can be spread through the air by coughing or sneezing.  The best way to prevent the flu is to get vaccinated every year.  Other ways to prevent the spread of the flu include washing your hands frequently, covering your mouth and nose when you cough or sneeze, and staying away from people who are sick. Respiratory Illness Respiratory Illness",
+        "response": "What can I do to prevent contracting a respiratory illness?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been diagnosed with leukemia",
+            "I'm sorry to hear that. Do you have any questions about leukemia?",
+            "Yes, I do. What exactly is leukemia?",
+            "Leukemia is a cancer that affects the blood and bone marrow. It is characterized by the production of abnormal white blood cells, which can interfere with the production of normal blood cells.",
+            "What causes leukemia?",
+            "The exact cause is unknown, but certain risk factors such as exposure to high levels of radiation or certain chemicals, genetic factors, and certain medical treatments can increase the risk of developing leukemia.",
+            "Is it treatable?",
+            "Yes, it is treatable. The treatment depends on the type of leukemia and other factors, and can include chemotherapy, radiation therapy, and bone marrow transplant.",
+            "Thanks for the information Medi."
+        ],
+        "knowledge": "Leukemia Leukemia Leukemia is a cancer that affects the blood and bone marrow.  It is characterized by the production of abnormal white blood cells, which can interfere with the production of normal blood cells.  The exact cause of leukemia is unknown, but certain risk factors such as exposure to high levels of radiation or certain chemicals, genetic factors, and certain medical treatments can increase the risk of developing leukemia.  The symptoms of leukemia include fatigue, weakness, weight loss, frequent infections, fever, and easy bruising or bleeding.  Leukemia is treatable, and the treatment depends on the type of leukemia and other factors.  Treatment can include chemotherapy, radiation therapy, and bone marrow transplant. Leukemia Leukemia",
+        "response": "What are the symptoms of leukemia?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have just undergone chemotherapy for my cancer treatment",
+            "Hello, how are you feeling after the chemotherapy?",
+            "I feel very weak and tired, and I'm experiencing some nausea and vomiting",
+            "These are common side effects of chemotherapy, and they can be managed with medication. In addition, you should make sure to get plenty of rest and eat a healthy diet.",
+            "Are there any other lifestyle changes I can make to help me feel better?",
+            "Yes, exercising regularly and maintaining a healthy diet can help you feel better during and after chemotherapy. It can also help boost your immune system and minimize the risk of infection.",
+            "Thanks for your advice Medi. I will make sure to follow it.",
+            "You're welcome. Don't hesitate to reach out if you have any more questions or concerns.",
+            "I will. Thank you."
+        ],
+        "knowledge": "Chemotherapy Chemotherapy Chemotherapy is a treatment for cancer that uses drugs to destroy cancer cells.  Chemotherapy works by stopping or slowing the growth of cancer cells, which can help prevent the cancer from spreading to other parts of the body.  However, chemotherapy can also damage healthy cells in the body, which can cause side effects such as fatigue, nausea, vomiting, and hair loss.  The side effects of chemotherapy can be managed with medication, and there are also lifestyle changes you can make to help minimize the side effects.  These include exercising regularly, eating a healthy diet, and getting plenty of rest. Chemotherapy Chemotherapy",
+        "response": "What are some lifestyle changes I can make to help manage the side effects of chemotherapy?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling unwell lately and I'm worried I might have cancer.",
+            "Hello. Can you describe your symptoms?",
+            "I've been experiencing an unusual loss of weight and appetite lately.",
+            "I see. Do you feel pain or discomfort in any part of your body?",
+            "I've been having a persistent chest pain and a chronic cough.",
+            "Based on what you said, it's advisable to consult a doctor and get a checkup.",
+            "What type of cancer could it possibly be?",
+            "It's hard to say without proper diagnosis. But based on the symptoms you've described, it could be lung cancer.",
+            "What are the possible treatments for lung cancer?"
+        ],
+        "knowledge": "Cancer Cancer Large-scale mutations involve the deletion or gain of a portion of a chromosome. Genomic amplification occurs when a cell gains copies of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material. Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location. A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product. Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants. Replication of the data contained within the DNA of living cells will probabilistically result in some errors Cancer Cancer",
+        "response": "The possible treatments for lung cancer include surgery, chemotherapy, radiation therapy or immunotherapy, depending on the type and stage of cancer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just underwent a medical procedure and I'm looking for some advice.",
+            "Hello. What kind of medical procedure did you undergo?",
+            "I had a surgery to remove a tumor in my spine.",
+            "I see. After a surgery like that, it's important to take enough rest and avoid strenuous activities.",
+            "How long should I rest?",
+            "It usually takes weeks to months to fully recover from a spine surgery. Your doctor can give you a more specific estimate based on your case.",
+            "What kind of physical activities can I do?",
+            "In the initial phase of recovery, it's advisable to avoid lifting heavy objects or doing any activity that puts strain on your spine. You can gradually increase your physical activities as your doctor advises.",
+            "How about my diet?"
+        ],
+        "knowledge": "Cancer Cancer Large-scale mutations involve the deletion or gain of a portion of a chromosome. Genomic amplification occurs when a cell gains copies of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material. Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location. A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product. Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants. Replication of the data contained within the DNA of living cells will probabilistically result in some errors Cancer Cancer",
+        "response": "You should maintain a healthy and balanced diet with enough protein and vitamins to support your recovery and help fight off possible infections."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm a bit confused about the different types of genetic mutations that can cause cancer.",
+            "Hello. I'm here to help you. What kind of mutations do you want to know?",
+            "I'm curious about large-scale mutations and small-scale mutations.",
+            "Large-scale mutations involve the deletion or gain of a portion of a chromosome. Genomic amplification occurs when a cell gains copies of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material. Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product.",
+            "I see. So what causes these mutations?",
+            "These mutations can be caused by various factors such as exposure to radiation, chemicals or viruses, or inherited genetic mutations.",
+            "Is there any way to prevent these mutations?",
+            "It's hard to prevent mutations entirely, but some lifestyle changes such as avoiding tobacco use and exposure to harmful chemicals or radiation can reduce the risk of mutations.",
+            "Thanks for your help. Can mutations be reversed?"
+        ],
+        "knowledge": "Cancer Cancer Large-scale mutations involve the deletion or gain of a portion of a chromosome. Genomic amplification occurs when a cell gains copies of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material. Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location. A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product. Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants. Replication of the data contained within the DNA of living cells will probabilistically result in some errors Cancer Cancer",
+        "response": "It's hard to reverse mutations, but some genetic mutations can be repaired by the body's natural repair systems. However, some mutations are permanent and can lead to cancer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm experiencing some symptoms recently.",
+            "Sure, I'm here to help. Can you please elaborate on your symptoms?",
+            "I feel very tired and lethargic all the time. I have also been losing weight rapidly.",
+            "Okay, based on your symptoms, you could be experiencing a condition called cancer.",
+            "Cancer? What's that? Is it serious?",
+            "Yes, cancer is a serious condition that requires immediate medical attention. It is caused by the uncontrolled growth of abnormal cells in the body. There are different types of cancers, and treatments may vary depending on the type and stage of cancer.",
+            "What should I do now? How can I prevent it?",
+            "You should consult with a doctor as soon as possible to get a proper diagnosis and treatment plan. In terms of prevention, maintaining a healthy lifestyle, such as eating a balanced diet, exercising regularly, and avoiding harmful habits such as smoking, can reduce your risk of developing cancer.",
+            "Thanks for your help, Medi. I will see a doctor right away."
+        ],
+        "knowledge": "Cancer Cancer Large-scale mutations involve the deletion or gain of a portion of a chromosome.  Genomic amplification occurs when a cell gains copies  of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material.  Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location.  A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product.  Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants. Replication of the data contained within the DNA of living cells will probabilistically result in some errors  Cancer Cancer",
+        "response": "You're welcome. I hope everything goes well for you. Take care and stay healthy."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I was diagnosed with cancer recently.",
+            "I'm sorry to hear that. What type of cancer have you been diagnosed with?",
+            "I have been diagnosed with lung cancer.",
+            "I see. Lung cancer is a serious condition, but there are different treatment options available depending on the stage and type of cancer.",
+            "What are my options for treatment?",
+            "There are different types of treatments for lung cancer, including surgery, chemotherapy, radiation therapy, and targeted therapy. The treatment plan will depend on the type and stage of cancer, as well as your overall health and medical history.",
+            "What can I do to improve my chances of recovery?",
+            "In addition to following your doctor's treatment plan, maintaining a healthy lifestyle, such as eating a balanced diet, exercising regularly, and avoiding harmful habits such as smoking, can improve your chances of recovery.",
+            "Thank you, Medi, for your help and advice. I will do my best to follow your recommendations."
+        ],
+        "knowledge": "Cancer Cancer Large-scale mutations involve the deletion or gain of a portion of a chromosome.  Genomic amplification occurs when a cell gains copies  of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material.  Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location.  A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product.  Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants. Replication of the data contained within the DNA of living cells will probabilistically result in some errors  Cancer Cancer",
+        "response": "You're welcome. I wish you all the best in your treatment and recovery. Please take care and keep me updated on your progress."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery for cancer.",
+            "I'm glad to hear that you have received medical treatment. How are you feeling?",
+            "I'm feeling better now, but I'm a little worried about what I can do to prevent the cancer from coming back.",
+            "That's a valid concern. In addition to following your doctor's recommended treatment plan, there are some lifestyle changes you can make to reduce your risk of cancer recurrence.",
+            "What kind of lifestyle changes can I make?",
+            "You can maintain a healthy weight, eat a balanced diet that includes plenty of fruits and vegetables, exercise regularly, and avoid harmful habits such as smoking and excessive alcohol consumption. It's also important to manage stress and get enough rest and sleep.",
+            "Thank you, Medi, for your advice. I will do my best to follow these recommendations.",
+            "You're welcome. Remember that making these changes can not only reduce your risk of cancer recurrence, but also improve your overall health and well-being.",
+            "I will definitely keep that in mind. Thanks again for your help, Medi."
+        ],
+        "knowledge": "Cancer Cancer Large-scale mutations involve the deletion or gain of a portion of a chromosome.  Genomic amplification occurs when a cell gains copies  of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material.  Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location.  A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product.  Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants. Replication of the data contained within the DNA of living cells will probabilistically result in some errors  Cancer Cancer",
+        "response": "You're welcome. I hope you continue to feel better and stay healthy. Take care."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm having some symptoms.",
+            "Sure, I'm here to help. What are your symptoms?",
+            "I'm feeling very tired and I have a persistent headache.",
+            "How long have you been feeling this way?",
+            "I've been feeling this way for a few days now.",
+            "Okay, have you been experiencing any other symptoms?",
+            "Yes, I've also been feeling nauseous.",
+            "Based on your symptoms, it's possible that you have a viral infection.",
+            "What should I do next?"
+        ],
+        "knowledge": "Viral Infection Viral Infection The symptoms of a viral infection can include fever, fatigue, muscle aches, headache, and nausea.  Other symptoms may include coughing, a runny nose, sore throat, and diarrhea.  Symptoms can last anywhere from a few days to several weeks.  Treatment typically involves rest, hydration, and over-the-counter pain relievers.  You may also need antiviral medication if the infection is severe.  To prevent the spread of viral infections, make sure to wash your hands frequently and avoid contact with people who are sick.  If you do get sick, avoid close contact with others until you have recovered. Viral Infection Viral Infection",
+        "response": "What kind of viral infection could it be?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I had a medical procedure recently.",
+            "I'm here to help. What kind of procedure did you have?",
+            "I had a surgery on my knee.",
+            "How are you feeling after the procedure?",
+            "I'm still experiencing some pain and swelling.",
+            "That's normal after a surgical procedure. Have you been following the post-surgery instructions?",
+            "Yes, I've been resting and doing my physical therapy exercises.",
+            "Good, you should also be mindful of your diet.",
+            "What kind of diet should I follow?"
+        ],
+        "knowledge": "Post-Surgical Care Post-Surgical Care After a surgical procedure, it's important to follow your doctor's instructions for post-surgical care.  This may include resting, taking medication to manage pain, and performing physical therapy exercises to help with recovery.  You should also be mindful of your diet.  A healthy diet can help with healing and recovery, while an unhealthy diet can slow down the healing process.  You should focus on eating nutrient-rich foods like fruits, vegetables, and whole grains, and avoid foods that are high in sugar, saturated fat, and processed carbohydrates. Post-Surgical Care Post-Surgical Care",
+        "response": "What kind of foods should I avoid?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about cancer.",
+            "Of course, I'm here to help. What do you want to know?",
+            "Can you explain what causes cancer?",
+            "Cancer is caused by changes in the DNA within cells that can cause them to grow and divide uncontrollably.",
+            "Can cancer be caused by a virus?",
+            "Yes, some types of cancer can be caused by viruses, such as human papillomavirus (HPV).",
+            "What are some common types of cancer?",
+            "There are many types of cancer, but some of the most common include breast cancer, lung cancer, and prostate cancer.",
+            "What kind of treatment options are available for cancer? "
+        ],
+        "knowledge": "Cancer Cancer Large-scale mutations involve the deletion or gain of a portion of a chromosome.  Genomic amplification occurs when a cell gains copies  of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material.  Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location.  A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product.  Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants. Replication of the data contained within the DNA of living cells will probabilistically result in some errors  Cancer Cancer",
+        "response": "The treatment options depend on the type and stage of cancer, but they can include surgery, chemotherapy, radiation therapy, and immunotherapy."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been experiencing some unusual symptoms lately.",
+            "Sure, let me know about those symptoms so I can help you better.",
+            "I have been feeling extremely fatigued and weak, and I have also noticed some unexplained weight loss.",
+            "These symptoms may indicate a serious health condition. I recommend you to see a doctor as soon as possible.",
+            "What could be the possible health conditions these symptoms indicate?",
+            "These symptoms could be a sign of cancer. However, only a medical examination can confirm the diagnosis.",
+            "How is cancer diagnosed in patients?",
+            "Cancer is diagnosed through various tests like imaging tests, blood tests, and biopsies.",
+            "Alright, thank you for your help. I will see a doctor soon."
+        ],
+        "knowledge": "Cancer Cancer Large-scale mutations involve the deletion or gain of a portion of a chromosome.  Genomic amplification occurs when a cell gains copies  of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material.  Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location.  A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product.  Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants. Replication of the data contained within the DNA of living cells will probabilistically result in some errors  Cancer Cancer",
+        "response": "You're welcome, please visit your doctor as soon as possible to confirm the diagnosis."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a medical procedure and I'm not sure what to do next.",
+            "Don't worry, I'm here to help you. Can you tell me what kind of procedure you had?",
+            "I had a surgery to remove a tumor from my lungs.",
+            "In this case, it's important to get a proper rest and follow the post-surgery instructions given to you by your doctor.",
+            "What kind of instructions should I follow?",
+            "The instructions may vary depending on the type of surgery you've had. Generally, you need to take proper rest, avoid strenuous activities, follow a healthy diet and take medications prescribed by your doctor.",
+            "Will I be able to recover fully from this?",
+            "Yes, with proper care and follow-up, you will be able to recover fully from the surgery.",
+            "Thank you for your help, Medi. I will follow these instructions carefully."
+        ],
+        "knowledge": "Cancer Cancer Large-scale mutations involve the deletion or gain of a portion of a chromosome.  Genomic amplification occurs when a cell gains copies  of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material.  Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location.  A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product.  Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants. Replication of the data contained within the DNA of living cells will probabilistically result in some errors  Cancer Cancer",
+        "response": "You're welcome, take care and follow the instructions given to you by your doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I want to know more about cancer and its prevention.",
+            "Sure, I can help you with that. What specifically would you like to know?",
+            "How can we reduce the risk of cancer?",
+            "You can reduce your risk of cancer by adopting a healthy lifestyle, avoiding tobacco and alcohol, getting vaccinated, and having regular screenings for cancer.",
+            "What should we do for a healthy lifestyle?",
+            "A healthy lifestyle includes a balanced diet, regular physical activity, maintaining a healthy weight, taking adequate rest, and avoiding stress.",
+            "Is there any specific diet that can help prevent cancer?",
+            "A balanced diet that includes plenty of fruits, vegetables, whole grains, and lean protein sources can help prevent cancer.",
+            "Thanks for your advice, Medi. What else can we do to help prevent cancer?"
+        ],
+        "knowledge": "Cancer Cancer Large-scale mutations involve the deletion or gain of a portion of a chromosome.  Genomic amplification occurs when a cell gains copies  of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material.  Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location.  A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product.  Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants. Replication of the data contained within the DNA of living cells will probabilistically result in some errors  Cancer Cancer",
+        "response": "You're welcome. In addition to these measures, it's important to avoid exposure to harmful chemicals and radiation, and to get regular check-ups with your doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about cancer.",
+            "Sure, what do you want to know about cancer?",
+            "What are the causes of cancer?",
+            "Cancer is caused by mutations in the DNA within cells.",
+            "Is cancer a genetic disease?",
+            "Yes, cancer can be caused by inherited genetic mutations.",
+            "Can cancer be caused by lifestyle factors?",
+            "Yes, some lifestyle factors such as smoking, lack of exercise, and poor diet can increase the risk of developing cancer.",
+            "What are the common symptoms of cancer?"
+        ],
+        "knowledge": "Cancer Cancer Large-scale mutations involve the deletion or gain of a portion of a chromosome.  Genomic amplification occurs when a cell gains copies  of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material.  Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location.  A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product.  Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants. Replication of the data contained within the DNA of living cells will probabilistically result in some errors  Cancer Cancer",
+        "response": "The common symptoms of cancer include fatigue, unexplained weight loss, persistent pain, and changes in the skin."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been recently diagnosed with cancer.",
+            "I'm sorry to hear that, which type of cancer have you been diagnosed with?",
+            "I have been diagnosed with breast cancer.",
+            "What stage is your breast cancer?",
+            "The stage of breast cancer is 2A.",
+            "What are the treatment options for breast cancer?",
+            "The treatment options for breast cancer include surgery, radiation therapy, chemotherapy, hormone therapy, and targeted therapy.",
+            "What are the side effects of chemotherapy for breast cancer?",
+            "The side effects of chemotherapy for breast cancer can include hair loss, nausea, vomiting, fatigue, and increased risk of infections."
+        ],
+        "knowledge": "Breast Cancer Breast Cancer The most common symptom of breast cancer is a new lump or mass.  Other possible symptoms include breast pain, nipple discharge, or a change in the shape or size of the breast.  In those with distant spread of the disease, there may be bone pain, swollen lymph nodes, shortness of breath, or yellow skin (jaundice).  Breast cancer is diagnosed by biopsy of the concerning lump.  Medical imaging may also be used to detect the amount of spread. Treatment of breast cancer depends on the stage of the disease and may include surgery, radiation therapy, chemotherapy, hormone therapy, and targeted therapy. Breast Cancer Breast Cancer",
+        "response": "Yes, there are some things you can do to reduce the side effects of chemotherapy such as getting enough rest, drinking plenty of fluids, eating a healthy diet, and talking to your doctor about medications that can help with nausea and vomiting."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just finished my cancer treatment.",
+            "Congratulations! What type of cancer did you have?",
+            "I had colon cancer.",
+            "That's great to hear. What advice would you like about your lifestyle after treatment?",
+            "I want to know how to reduce the risk of cancer recurrence.",
+            "You can reduce the risk of cancer recurrence by maintaining a healthy weight, eating a healthy diet, not smoking, and getting regular exercise.",
+            "What kind of diet should I have?",
+            "A healthy diet after cancer treatment should include plenty of fruits, vegetables, whole grains, and lean protein. You should also limit your intake of processed and red meats, sugary foods, and refined grains.",
+            "How often should I get checked for cancer recurrence?"
+        ],
+        "knowledge": "Colon Cancer Colon Cancer Colon cancer is the third most common cancer in men and women.  It is the second leading cause of cancer deaths in the United States.  The most common symptoms are rectal bleeding, change in bowel habits, weight loss, and anemia.  Colon cancer is diagnosed by biopsy of the concerning colon mass.  Treatment may include surgery, radiation therapy, chemotherapy, targeted therapy, or immunotherapy.  After treatment, lifestyle changes such as maintaining a healthy weight, eating a healthy diet, not smoking, and getting regular exercise can reduce the risk of cancer recurrence. Colon Cancer Colon Cancer",
+        "response": "You're welcome. I'm glad to be of help."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a lump in my breast. What should I do?",
+            "Hello, I suggest you get a mammogram to determine if it's cancerous or benign.",
+            "What is a mammogram?",
+            "A mammogram is a low-dose X-ray procedure that can detect any abnormalities in your breast tissue.",
+            "Is it painful?",
+            "It might be a little uncomfortable, but the procedure only takes a few minutes.",
+            "What should I do if it's cancerous?",
+            "If it is cancerous, there are a number of treatment options available, including surgery, radiation therapy, and chemotherapy.",
+            "Which option would you recommend?"
+        ],
+        "knowledge": "Breast cancer Breast cancer The most common symptoms of breast cancer are a lump in the breast, nipple discharge, and changes in breast shape or size.  Mammography can detect breast cancer up to two years before a lump can be felt.  Breast cancer is treated with surgery, radiation therapy, chemotherapy, targeted therapy, and/or hormone therapy.  Breast cancer screening is recommended for women aged 50-74.  Women aged 40-49 should talk to their doctor about when to start and how often to be screened. Breast cancer Breast cancer",
+        "response": "The treatment of breast cancer depends on the stage and the type of cancer, which needs to be determined by further tests. "
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have just had a bone marrow biopsy, what should I expect now?",
+            "Hello, you may experience some discomfort and bruising at the biopsy site for a few days.",
+            "What should I do to reduce the pain?",
+            "You can take over-the-counter pain medications such as acetaminophen or ibuprofen. You should also rest and avoid any strenuous activities for a few days.",
+            "What should I eat?",
+            "You should eat a healthy diet high in iron, protein, and vitamin C to support your body in producing new blood cells.",
+            "How long does it take to get the results?",
+            "It usually takes several days to get the results. Your doctor will discuss the results with you as soon as they are available.",
+            "What if the results are not good?"
+        ],
+        "knowledge": "Bone marrow biopsy Bone marrow biopsy A bone marrow biopsy involves the removal of a small sample of bone marrow and/or bone.  It is usually done to diagnose or monitor certain conditions, such as anemia, leukemia, lymphoma, or other types of cancer.  The procedure is done with a large needle inserted into the hipbone, and can cause some discomfort and bruising.  Recovery typically takes a few days, and pain medication may be recommended. Bone marrow biopsy Bone marrow biopsy",
+        "response": "The treatment of your condition depends on the type of disease you have, which needs to be determined by further tests. "
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have just been diagnosed with leukemia. What should I do?",
+            "Hello, I understand this is a difficult time for you. The first step is to discuss your treatment options with your doctor.",
+            "What are my options?",
+            "The treatment options for leukemia depend on the type and stage of the disease. They may include chemotherapy, radiation therapy, targeted therapy, or a bone marrow transplant.",
+            "What should I expect from the treatment?",
+            "The treatment can be intense and can cause side effects such as nausea, fatigue, and hair loss. Your doctor will work with you to manage these side effects.",
+            "What should I eat?",
+            "It is important to eat a healthy diet with plenty of fruits, vegetables, whole grains, and lean protein to support your body during treatment.",
+            "What should I avoid?"
+        ],
+        "knowledge": "Leukemia Leukemia Leukemia is a cancer of the blood or bone marrow, characterized by an abnormal increase of immature white blood cells.  Symptoms may include fatigue, shortness of breath, fever, night sweats, weight loss, and bone pain.  Treatment options include chemotherapy, radiation, targeted therapy, and bone marrow transplant.  The choice of treatment depends on the type and stage of the leukemia, as well as individual factors such as age and overall health. Leukemia Leukemia",
+        "response": "The prognosis for leukemia varies depending on the type and stage of the disease, as well as individual factors such as age and overall health. Your doctor can provide more information. "
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about cancer.",
+            "Sure, what is your question?",
+            "What are the causes of cancer?",
+            "There are many factors that can cause cancer. Some of them include lifestyle choices, genetics, environmental factors, and exposure to certain chemicals or radiation.",
+            "That's interesting. How can we prevent cancer?",
+            "There are several ways to reduce the risk of cancer such as avoiding tobacco and excessive alcohol use, maintaining a healthy diet and physical activity, protecting yourself from the sun, and getting vaccinated against certain viruses like human papillomavirus and hepatitis B.",
+            "Thank you for the information. How is cancer diagnosed?",
+            "There are several methods used to diagnose cancer, including physical exams, imaging tests, biopsies, and blood tests.",
+            "Thanks for the explanation, Medi. Can cancer be treated? "
+        ],
+        "knowledge": "Cancer Cancer Large-scale mutations involve the deletion or gain of a portion of a chromosome.  Genomic amplification occurs when a cell gains copies  of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material.  Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location.  A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product.  Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants. Replication of the data contained within the DNA of living cells will probabilistically result in some errors  Cancer Cancer",
+        "response": "Yes, there are many treatments available for cancer like surgery, chemotherapy, radiation therapy, targeted therapy, and immunotherapy depending on the type and stage of cancer."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I had a biopsy recently and I am unsure about the results.",
+            "I understand. What did the biopsy show?",
+            "The doctor said that there was a tumor and they need to do further tests to determine if it is cancerous.",
+            "I see. What type of tests do they need to do?",
+            "They need to do imaging tests like CT scans or MRIs, as well as blood tests and possibly a biopsy of the tumor.",
+            "What are the treatment options if it is cancerous?",
+            "The treatment options depend on the type and stage of the cancer, but common treatments include surgery, radiation therapy, chemotherapy, targeted therapy, and immunotherapy.",
+            "I'm worried about the side effects of treatment. Are there any ways to manage them?",
+            "Yes, there are many ways to manage side effects like medication, lifestyle changes, and supportive care like counseling or physical therapy. Your doctor can work with you to create a treatment plan that minimizes side effects."
+        ],
+        "knowledge": "Cancer Cancer Large-scale mutations involve the deletion or gain of a portion of a chromosome.  Genomic amplification occurs when a cell gains copies  of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material.  Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location.  A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product.  Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants. Replication of the data contained within the DNA of living cells will probabilistically result in some errors  Cancer Cancer",
+        "response": "You can try to manage your stress levels through relaxation techniques like deep breathing or meditation, and focus on maintaining a healthy lifestyle like eating a balanced diet and getting regular exercise."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I was recently diagnosed with cancer and I am feeling overwhelmed.",
+            "I'm sorry to hear that. What type of cancer were you diagnosed with?",
+            "I was diagnosed with breast cancer.",
+            "I understand. What stage is the cancer?",
+            "It is in stage II.",
+            "What are the treatment options for stage II breast cancer?",
+            "Typical treatments for stage II breast cancer include a combination of surgery, radiation therapy, and chemotherapy. Your doctor can work with you to create a treatment plan that is tailored to your specific situation.",
+            "I'm worried about the side effects of treatment. Are there any ways to manage them?",
+            "Yes, there are many ways to manage side effects like medication, lifestyle changes, and supportive care like counseling or physical therapy. Your doctor can work with you to create a treatment plan that minimizes side effects."
+        ],
+        "knowledge": "Cancer Cancer Large-scale mutations involve the deletion or gain of a portion of a chromosome.  Genomic amplification occurs when a cell gains copies  of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material.  Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location.  A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase. Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product.  Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants. Replication of the data contained within the DNA of living cells will probabilistically result in some errors  Cancer Cancer",
+        "response": "During treatment, you can focus on maintaining a healthy lifestyle like eating a balanced diet, getting regular exercise, and getting enough rest. It's also important to ask for help when you need it and to stay in communication with your doctor about any concerns or questions you may have."
+    }
+]

@@ -1,0 +1,407 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I have a problem with my blood sugar level",
+            "Sure, let's talk about it. What are your symptoms?",
+            "I feel thirsty frequently and have to go to the bathroom more often",
+            "There's a chance that you have diabetes, have you checked with your doctor?",
+            "Yes, I've been diagnosed with diabetes. Can you suggest what I should do ?",
+            "You should eat a balanced diet and exercise regularly. Also, follow the exact dosage and timing of your medication",
+            "Is there any penalty when I eat too much sweets?",
+            "Yes, it can cause your blood sugar to spike. Try to limit your sugar intake.",
+            "Thanks for the useful tips, Medi. What kind of food should I consume?"
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "You should consume food that is high in fiber and low in sugar. For example, whole grains, fruits, vegetables, and lean proteins."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you explain to me about insulin resistance?",
+            "Of course. In simple terms, insulin resistance happens when your body doesn't respond properly to insulin",
+            "Okay, but how does it happen?",
+            "It can be caused by genetic and environmental factors, such as obesity, lack of physical activity, and unhealthy diets",
+            "If I have insulin resistance, do I have diabetes?",
+            "Not necessarily, but it can lead to type 2 diabetes if left untreated",
+            "How can I prevent it?",
+            "You can prevent it by maintaining a healthy weight, doing regular exercise, and eating a balanced diet",
+            "Thanks for explaining it to me, Medi. How can I know if I have insulin resistance?"
+        ],
+        "knowledge": "Insulin resistance Insulin resistance Insulin resistance is a pathological condition where cells fail to respond normally to the hormone insulin. The body produces insulin when glucose starts to appear in the bloodstream. The hormone attaches to insulin receptors on the surface of cells, causing them to uptake glucose from the blood. Insulin resistance occurs when insulin binds less effectively to receptors on cells' surfaces, reducing their ability to uptake glucose. Daily physical activity, maintaining a healthy weight, balanced diets, and avoiding smoking are ways to reduce the risk of insulin resistance Insulin resistance Insulin resistance",
+        "response": "You can ask your doctor for a blood test to check your insulin levels. This can help diagnose insulin resistance."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a surgery for my diabetes. What should I do now?",
+            "After surgery, it's important to follow a healthy diet and exercise routine. Additionally, take your medication as prescribed by your doctor",
+            "Can I expect a full recovery after the surgery?",
+            "Yes, with proper care and management, most people with diabetes live long and healthy lives",
+            "Are there any other factors that I should be aware of?",
+            "Yes, pay attention to your blood sugar levels and manage them carefully. Also, make sure to attend regular check-ups with your doctor",
+            "Can pregnancy affect my diabetes?",
+            "Yes, pregnancy can affect your blood sugar levels. Make sure to work closely with your doctor and monitor your blood sugar regularly",
+            "Thank you for the advice, Medi. What else should I know?"
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "It's also important to take care of your feet and skin since people with diabetes are at a higher risk for infections and other complications."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you tell me about diabetes?",
+            "Sure, what do you want to know exactly?",
+            "What are the symptoms of diabetes?",
+            "Increased thirst, frequent urination, hunger, fatigue, blurred vision and slow healing wounds are some common symptoms of diabetes.",
+            "What are the types of diabetes?",
+            "There are three main types of diabetes: type 1, type 2, and gestational diabetes.",
+            "How can diabetes be prevented?",
+            "Maintaining a healthy weight, regular physical activity, and healthy eating habits can prevent or delay type 2 diabetes.",
+            "Thanks, what are the risk factors for diabetes? "
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "The risk factors for diabetes include obesity, unhealthy diet, physical inactivity, smoking, and family history."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have type 2 diabetes and want to know how to manage it",
+            "Sure, what medications you are currently taking?",
+            "I'm taking metformin and insulin. But I want to know about some lifestyle changes",
+            "That's great, include regular exercise into your routine and always take your prescribed medication. Try to maintain a healthy diet and monitor your blood sugar levels regularly.",
+            "What food should I avoid?",
+            "You should avoid sugary drinks, candy, baked goods and fried foods.",
+            "What food should I eat?",
+            "You should eat more whole grains, fruits, vegetables and lean protein.",
+            "Thanks, What should I do if my blood sugar level is too high?"
+        ],
+        "knowledge": "Diabetes Diabetes The defective responsiveness of body tissues to insulin is believed to involve the insulin receptor.  However, the specific defects are not known.  Diabetes mellitus cases due to a known defect are classified separately.  Type 2 diabetes is the most common type of diabetes mellitus accounting for 95% of diabetes.  Many people with type 2 diabetes have evidence of prediabetes  before meeting the criteria for type 2 diabetes.  The progression of prediabetes to overt type 2 diabetes can be slowed or reversed by lifestyle changes or medications that improve insulin sensitivity or reduce the liver's glucose production. Type 2 diabetes is primarily due to lifestyle factors and genetics Diabetes Diabetes",
+        "response": "If your blood sugar level is too high, contact your doctor immediately or take the medication prescribed by your doctor."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have recently been diagnosed with diabetes. What should I do now?",
+            "I understand your concern. Firstly, try to learn as much as you can about diabetes and its treatment. You should take your prescribed medication regularly and maintain a healthy diet and regular exercise.",
+            "What can I eat?",
+            "You should eat more whole grains, fruits, vegetables and lean protein. Avoid sugary drinks, candy, baked goods and fried foods.",
+            "How can I monitor my blood sugar level?",
+            "You can monitor your blood sugar level with a glucose meter.",
+            "What should I do if my blood sugar level is too low?",
+            "If your blood sugar level is too low, try to consume some food or drink a beverage that contains sugar. You should always keep a snack with you in case of a low blood sugar emergency.",
+            "Thanks Medi, what complications can arise from diabetes?"
+        ],
+        "knowledge": "Diabetes Diabetes Complications of diabetes mellitus are acute and long-term.  Acute complications include diabetic ketoacidosis, hyperosmolar hyperglycemic state, and hypoglycemia, while long-term complications include cardiovascular disease, chronic kidney disease, retinopathy, nerve damage, and microvascular damage.  Diabetes mellitus is a major cause of blindness, amputation, and kidney failure.  The prevalence of diabetes is 2-3 times higher in people who smoke.  Many complications can be prevented or delayed by controlling blood sugar levels and maintaining a healthy lifestyle Diabetes Diabetes",
+        "response": "Complications of diabetes include cardiovascular disease, chronic kidney disease, retinopathy, nerve damage, and microvascular damage. These can be prevented or delayed by controlling blood sugar levels and maintaining a healthy lifestyle."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I feel thirsty and need to pee a lot lately.",
+            "Hi, there. How long have you been experiencing these symptoms?",
+            "For about a week now. I am worried that it might be something serious.",
+            "Based on your symptoms, it is possible that you have diabetes. I suggest that you see a doctor for a blood sugar test.",
+            "Oh no, what can I do to lower my blood sugar?",
+            "You can start by maintaining a healthy diet and regular exercise routine. If your blood sugar is too high, your doctor may prescribe medication to help control it.",
+            "Okay, thanks for the advice. Is there any food that I need to avoid?",
+            "Yes, it is best to avoid sugary and processed foods. Instead, focus on whole foods such as fruits, vegetables, and lean protein.",
+            "Thanks, Medi. What are some common complications of diabetes?"
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "Common complications of diabetes include heart disease, nerve damage, kidney damage, and vision problems."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. Can you tell me what diabetes is?",
+            "Yes, diabetes is a chronic disease that affects how your body processes blood sugar.",
+            "What are the different types of diabetes?",
+            "There are three main types: type 1, type 2, and gestational diabetes. Type 1 is often diagnosed in childhood and is caused by the immune system attacking the pancreas, while type 2 is more common in adults and is often linked to lifestyle factors such as obesity.",
+            "What causes diabetes?",
+            "The exact causes are not known, but genetics and lifestyle factors such as poor diet and lack of exercise can increase your risk.",
+            "What are the symptoms of diabetes?",
+            "Common symptoms include increased thirst, frequent urination, fatigue, blurred vision, and slow healing of cuts or bruises. However, some people with diabetes may have no symptoms at all.",
+            "Thanks, Medi. Is there anything I can do to prevent diabetes?"
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "Yes, you can reduce your risk of developing type 2 diabetes by maintaining a healthy weight, eating a balanced diet, and getting regular exercise."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I just had a medical procedure done. Do you have any advice for me?",
+            "Of course, it depends on what type of procedure you had. Can you give me some more information?",
+            "I had a heart procedure done to treat a blockage.",
+            "After a heart procedure, it is important to take it easy and gradually build up your activity level. Your doctor may recommend cardiac rehabilitation to help you recover and regain your strength.",
+            "Are there any dietary restrictions I should be aware of?",
+            "Your doctor may recommend a heart-healthy diet that is low in saturated and trans fats, cholesterol, and sodium. You should also limit your intake of processed foods and sugary drinks.",
+            "Thanks, Medi. Are there any other lifestyle changes I should make?",
+            "Yes, quitting smoking and reducing stress can also help improve heart health.",
+            "Thanks for the advice, Medi. What are some warning signs that I should watch out for after the procedure?"
+        ],
+        "knowledge": "Heart Disease Heart Disease Heart disease is a broad term that covers a range of conditions that affect the heart. Risk factors for heart disease include high blood pressure, high cholesterol, smoking, and a family history of heart disease. Symptoms of heart disease can include chest pain or discomfort, shortness of breath, fatigue, dizziness, and nausea. Treatment may include lifestyle changes, medication, or surgery, depending on the severity of the condition. Cardiac rehabilitation can help improve recovery after a heart procedure Heart Disease Heart Disease",
+        "response": "Some warning signs to watch out for after a heart procedure include chest pain or discomfort, shortness of breath, dizziness, or feeling faint."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a constant thirst and urination problem.",
+            "Hello, can you tell me more about your symptoms?",
+            "I am experiencing an extreme thirst even though I am drinking a lot of water and also have to go to the bathroom frequently.",
+            "Based on your symptoms, you might have diabetes. You should consult a doctor and take a glucose test.",
+            "What are the causes of diabetes?",
+            "There are many factors that can cause diabetes, including genetics, unhealthy diet, and a lack of physical activity.",
+            "Is it curable?",
+            "There is no cure for diabetes, but it can be managed with proper medication, lifestyle changes, and monitoring blood sugar levels.",
+            "Thanks for your advice, Medi."
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "There is no cure for diabetes, but it can be managed with proper medication, lifestyle changes, and monitoring blood sugar levels."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me the difference between type 1 and type 2 diabetes?",
+            "Yes, of course. Type 1 diabetes is a condition in which the body does not produce insulin, while type 2 diabetes is a condition in which the body is resistant to insulin or does not produce enough insulin.",
+            "What are the causes of type 1 diabetes?",
+            "Type 1 diabetes is usually caused by an autoimmune reaction in which the body attacks and destroys the insulin-producing cells in the pancreas.",
+            "What are the causes of type 2 diabetes?",
+            "Type 2 diabetes is caused by a combination of genetic and lifestyle factors, such as obesity, poor diet, and lack of physical activity.",
+            "Can type 2 diabetes be prevented?",
+            "Yes, type 2 diabetes can be prevented or delayed by maintaining a healthy weight, eating a balanced diet, and being physically active.",
+            "Thank you so much, Medi."
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "Type 1 diabetes is a condition in which the body does not produce insulin, while type 2 diabetes is a condition in which the body is resistant to insulin or does not produce enough insulin."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a procedure to remove my gallbladder. What should I eat?",
+            "Hello. After gallbladder removal, it is important to eat a low-fat diet that is rich in fiber, whole grains, and lean protein.",
+            "What should I avoid?",
+            "You should avoid fatty foods, fried foods, and processed foods.",
+            "Can I drink alcohol?",
+            "It is best to avoid alcohol for a few weeks after surgery to allow your body to heal.",
+            "What about physical activity?",
+            "You should wait for a few weeks before resuming physical activity, and make sure to start slowly and gradually increase the intensity.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Gallbladder removal Gallbladder removal Gallbladder removal is a common surgical procedure used to treat gallstones or other conditions that affect the gallbladder.  After gallbladder removal, it is important to eat a low-fat diet that is rich in fiber, whole grains, and lean protein.  You should avoid fatty foods, fried foods, and processed foods, and it is best to avoid alcohol for a few weeks after surgery to allow your body to heal.  You should wait for a few weeks before resuming physical activity, and make sure to start slowly and gradually increase the intensity. Gallbladder removal Gallbladder removal",
+        "response": "After gallbladder removal, it is important to eat a low-fat diet that is rich in fiber, whole grains, and lean protein, and avoid fatty, fried, and processed foods."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I might have diabetes.",
+            "Can you describe your symptoms to me?",
+            "I feel thirsty all the time, and I'm always going to the bathroom.",
+            "These are common symptoms of diabetes, but we need to do some tests to be sure.",
+            "What kind of tests do I need to do?",
+            "You need to do a blood test and a urine test.",
+            "Ok, what's the next step if I do have diabetes?",
+            "If you have diabetes, we'll work together to create a treatment plan.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "It's important to do some tests to be sure, but if you have diabetes, we'll work together to create a treatment plan."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you tell me more about insulin resistance?",
+            "Of course, insulin resistance is when the cells in your body don't respond properly to insulin.",
+            "What causes insulin resistance?",
+            "There are many factors that can cause insulin resistance, such as obesity, lack of physical activity, and genetics.",
+            "How can I prevent insulin resistance?",
+            "You can prevent insulin resistance by maintaining a healthy weight, exercising regularly, and eating a balanced diet.",
+            "Thanks for your advice, Medi.",
+            "You're welcome. Do you have any other questions?",
+            "No, that's all for now."
+        ],
+        "knowledge": "Insulin Resistance Insulin Resistance Insulin resistance is a pathological condition in which cells fail to respond normally to the hormone insulin.  The body produces insulin when glucose starts to flow into the bloodstream after eating. Insulin then attaches to and signals cells to take up sugar from the bloodstream. Insulin resistance is what happens when the body's cells don't respond properly to insulin. Over time, insulin resistance can lead to high blood sugar levels and diabetes. Insulin resistance is often associated with obesity, but it can also be caused by lack of physical activity and genetics Insulin Resistance Insulin Resistance",
+        "response": "You're welcome. Maintaining a healthy weight, exercising regularly, and eating a balanced diet can help prevent insulin resistance."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure and I'm not sure what I should be eating.",
+            "What kind of procedure did you have?",
+            "I had surgery on my stomach.",
+            "After surgery, it's important to start with clear liquids and then gradually add in more solid foods.",
+            "What kind of clear liquids should I be drinking?",
+            "Water, broth, and clear fruit juices are good options.",
+            "When can I start eating solid foods?",
+            "It depends on your doctor's instructions, but usually you can start with soft foods and then move on to regular foods.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Post-Surgery Diet Post-Surgery Diet After surgery, it is important to follow your doctor's instructions regarding your diet.  You will typically start with clear liquids, such as water, broth, and clear fruit juices, before moving on to soft foods and then regular foods.  It is important to eat slowly and chew your food thoroughly to prevent digestive problems.  You should also avoid foods that are high in fat, fiber, or sugar, as they can be difficult to digest.  Drinking plenty of water is also important to prevent dehydration. Post-Surgery Diet Post-Surgery Diet",
+        "response": "You're welcome. It's important to start with clear liquids and then gradually add in more solid foods. Water, broth, and clear fruit juices are good options for clear liquids."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm experiencing some symptoms and I need your help.",
+            "Of course, I'm here to help. What are your symptoms?",
+            "I have been feeling thirsty all the time and going to the bathroom more frequently than usual.",
+            "Okay, based on those symptoms, it's possible that you have diabetes. You should see a doctor as soon as possible for diagnosis and treatment.",
+            "Is there anything I can do to manage it?",
+            "Yes, if you are diagnosed with diabetes, you can manage it by following a healthy diet, exercising regularly, and taking medication as prescribed by your doctor.",
+            "What kind of food should I eat?",
+            "You should eat a balanced diet that includes plenty of fruits and vegetables, whole grains, lean protein, and healthy fats. Your doctor or a registered dietitian can give you more specific guidance.",
+            "Thank you, Medi. What are some common causes of diabetes?"
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin; this form is uncommon. Genetic mutations can lead to defects in beta cell function. Abnormal insulin action may also have been genetically determined in some cases. Any disease that causes extensive damage to the pancreas may lead to diabetes. Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes. Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance. Malnutrition-related diabetes mellitus was deprecated by the World Health Organization when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "The causes of diabetes can include genetic mutations, abnormal insulin action, and any disease that causes damage to the pancreas."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about diabetes.",
+            "Sure, what would you like to know?",
+            "What are the symptoms of diabetes?",
+            "The symptoms of diabetes can include increased thirst, frequent urination, blurred vision, fatigue, and cuts or bruises that are slow to heal. However, some people with diabetes may not experience any symptoms at all.",
+            "What kind of test can diagnose diabetes?",
+            "There are a few different tests that can be used to diagnose diabetes, including a fasting plasma glucose test, a random plasma glucose test, and an oral glucose tolerance test. Your doctor can determine which test is most appropriate for you.",
+            "Is diabetes curable?",
+            "Currently, there is no cure for diabetes. However, with proper management, people with diabetes can live long, healthy lives.",
+            "Thank you, Medi. One more question, is it true that diabetes can lead to blindness?"
+        ],
+        "knowledge": "Diabetes Diabetes Long-term complications of diabetes include damage to the eyes, heart, kidneys, nerves, and blood vessels. Diabetic retinopathy is a leading cause of blindness in adults. ",
+        "response": "Yes, diabetes can lead to blindness in some cases due to damage to the eyes caused by diabetic retinopathy."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a medical procedure and I'm wondering what I can do to help my recovery.",
+            "Of course, I'm happy to help. What kind of procedure did you have?",
+            "I had surgery to remove a cancerous tumor from my kidney.",
+            "I'm sorry to hear that, but I'm glad the surgery was successful. After surgery, it's important to follow your doctor's instructions for recovery. You should get plenty of rest, avoid lifting heavy objects, and take any medication as prescribed.",
+            "Is there anything else I can do to aid in my recovery?",
+            "Yes, you can also eat a healthy diet that includes plenty of fruits and vegetables, lean protein, and healthy fats. Staying hydrated and getting light exercise, such as walking, can also be beneficial.",
+            "What kind of exercise can I do?",
+            "It's important to follow your doctor's instructions regarding exercise. In the early stages of recovery, light exercise such as walking or gentle stretching may be recommended. As you progress in your recovery, your doctor may advise you on other types of exercise that are safe for you.",
+            "Thank you, Medi. What kind of food should I avoid?"
+        ],
+        "knowledge": "Kidney Cancer Kidney Cancer The usual treatment is surgery.  If the cancer has not spread beyond the kidney, the long-term survival rate is about 75%.  Treatment with only partial removal of the kidney is possible in early stages.  For cancers that have spread beyond the kidney, immunotherapy, targeted therapy, chemotherapy, or radiation therapy may be used. Kidney Cancer Kidney Cancer",
+        "response": "After surgery, it's best to avoid processed foods, sugary drinks, and alcohol. Your doctor may also advise you to limit your salt intake to help manage your blood pressure."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. Can you help me? I feel thirsty all the time.",
+            "Sure. Do you have any other symptoms?",
+            "Yes, I often feel tired and hungry. I also urinate more frequently.",
+            "Based on your symptoms, you might have diabetes. You should check your blood sugar level.",
+            "How can I prevent diabetes?",
+            "You can maintain a healthy diet, exercise regularly, and manage your weight.",
+            "Is it curable?",
+            "It can be managed with a healthy lifestyle and medication. You need to see a doctor for further consultation.",
+            "Thanks, Medi. What are the symptoms of diabetes?"
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "The symptoms of diabetes are excessive thirst, hunger, frequent urination, and fatigue."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I have a question about diabetes.",
+            "Of course, what do you want to know?",
+            "Is diabetes curable?",
+            "Diabetes can't be cured, but it can be managed with a healthy lifestyle and medication.",
+            "How can I prevent diabetes?",
+            "You can maintain a healthy diet, exercise regularly, and manage your weight. Regular health check-ups are recommended too.",
+            "What are the types of diabetes?",
+            "There are mainly two types of diabetes- Type 1 diabetes and Type 2 diabetes. Type 1 diabetes occurs when the immune system attacks and destroys insulin-producing cells in the pancreas. Type 2 diabetes is caused by lifestyle factors and genetics.",
+            "Thanks, Medi. How can I manage diabetes?"
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "You can manage diabetes by maintaining a healthy diet, exercising regularly, regularly monitoring your blood sugar level, and taking medication as prescribed by your doctor."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I recently had a medical procedure for diabetes. Can you give me some advice on lifestyle changes?",
+            "Sure. What kind of advice do you need?",
+            "What should I eat?",
+            "You should have a balanced diet, including whole grains, fruits, vegetables, lean protein, and healthy fats. Avoid sugary and processed food.",
+            "Can I still eat sweet things?",
+            "You can still have sweet things but in moderation. You can also use sugar substitutes.",
+            "What about exercise?",
+            "Regular exercise is important to manage diabetes. You should aim for at least 30 minutes of moderate exercise every day.",
+            "Thank you, Medi. How often do I need to check my blood sugar level?"
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "You should check your blood sugar level every day or as advised by your doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a concern about diabetes.",
+            "Sure, I'm here to help. What is your question?",
+            "What are the symptoms of diabetes?",
+            "The common symptoms include frequent urination, excessive thirst, hunger, fatigue, blurred vision, and slow healing of wounds.",
+            "Is there any way to prevent diabetes?",
+            "Yes. Maintaining a healthy weight, eating a balanced diet, and exercising regularly can reduce the risk of developing type 2 diabetes.",
+            "What are the causes of type 1 diabetes?",
+            "It is caused by the immune system attacking and destroying the insulin-producing cells in the pancreas.",
+            "Thank you for the information, Medi. That's all I wanted to know."
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "You're welcome. Feel free to ask me anything else."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure for diabetes. Can you give me any advice?",
+            "Of course. Can you tell me a little more about the procedure and your current symptoms?",
+            "I had a pancreatic transplant, and I'm experiencing some fatigue and nausea.",
+            "It's normal to experience fatigue and nausea after a pancreatic transplant. You should rest and drink plenty of fluids. If your symptoms persist or worsen, contact your doctor.",
+            "What about my diet? Are there any restrictions?",
+            "Yes. You should avoid foods high in fat and sugar and eat a balanced diet with plenty of fruits and vegetables. It's important to follow your doctor's dietary recommendations.",
+            "What kind of exercise can I do?",
+            "You should start with light exercise like walking and gradually increase your activity level as you feel comfortable. Consult with your doctor before starting a new exercise routine.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "You're welcome. If you have any other questions, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about diabetes.",
+            "Sure. What would you like to know?",
+            "What is the difference between type 1 and type 2 diabetes?",
+            "Type 1 diabetes is caused by the immune system attacking and destroying the insulin-producing cells in the pancreas, while type 2 diabetes is caused by insulin resistance or a deficiency in insulin production.",
+            "Can diabetes be cured?",
+            "There is no cure for diabetes, but it can be managed with medication and lifestyle changes.",
+            "What are the risk factors for diabetes?",
+            "The risk factors include obesity, physical inactivity, a family history of diabetes, high blood pressure, and high cholesterol.",
+            "Thank you for the information, Medi."
+        ],
+        "knowledge": "Diabetes Diabetes Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "You're welcome. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am feeling thirsty all the time.",
+            "Hi, Have you been experiencing any other symptoms lately?",
+            "Yes, I have been feeling tired and weak.",
+            "It's possible that you may have high blood sugar. I suggest you visit a doctor for a proper diagnosis.",
+            "What can I do to prevent high blood sugar?",
+            "You can prevent high blood sugar by maintaining a healthy diet and exercise routine.",
+            "Are there any specific foods I should avoid?",
+            "Foods that are high in sugar or carbohydrates should be avoided.",
+            "What about exercise?"
+        ],
+        "knowledge": "Diabetes Diabetes  Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "By maintaining a healthy diet and exercise routine, you can help prevent high blood sugar."
+    },
+    {
+        "dialog": [
+            "Hey Medi, can you tell me more about diabetes?",
+            "Sure, what specific information are you looking for?",
+            "I want to know what causes diabetes.",
+            "There are various factors that can cause diabetes, including genetic mutations and lifestyle factors.",
+            "What are some of the lifestyle factors that can cause diabetes?",
+            "Being overweight or obese, having an unhealthy diet, and not getting enough exercise can all contribute to developing diabetes.",
+            "Can diabetes be cured?",
+            "There is no cure for diabetes, but it can be managed through lifestyle changes and medication.",
+            "What kind of medication is used to treat diabetes?"
+        ],
+        "knowledge": "Diabetes Diabetes  Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "There are several types of medication used to treat diabetes, including insulin and oral medications that help regulate blood sugar levels."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure. Can you give me any advice on how to recover?",
+            "Of course. What kind of procedure did you have?",
+            "I had surgery to remove my gallbladder.",
+            "After surgery, it's important to take it easy and rest for a few days.",
+            "How long should I rest?",
+            "You should rest for at least a week and avoid any strenuous activity.",
+            "What should I eat during my recovery?",
+            "You should eat small, frequent meals that are low in fat and easy to digest.",
+            "Are there any other lifestyle changes I should make during my recovery?"
+        ],
+        "knowledge": "Diabetes Diabetes  Some cases of diabetes are caused by the body's tissue receptors not responding to insulin ; this form is very uncommon.  Genetic mutations  can lead to defects in beta cell function.  Abnormal insulin action may also have been genetically determined in some cases.  Any disease that causes extensive damage to the pancreas may lead to diabetes .  Diseases associated with excessive secretion of insulin-antagonistic hormones can cause diabetes .  Many drugs impair insulin secretion and some toxins damage pancreatic beta cells, whereas others increase insulin resistance .  The ICD-10  diagnostic entity, malnutrition-related diabetes mellitus , was deprecated by the World Health Organization  when the current taxonomy was introduced in 1999 Diabetes Diabetes",
+        "response": "After surgery, it's important to take it easy and rest for a few days. You should eat small, frequent meals that are low in fat and easy to digest. It's important to stay hydrated and get enough rest. You should also avoid smoking and limit your alcohol intake."
+    }
+]

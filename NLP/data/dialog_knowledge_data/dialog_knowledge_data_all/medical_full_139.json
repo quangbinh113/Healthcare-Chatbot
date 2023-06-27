@@ -1,0 +1,452 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have a persistent cough",
+            "Hi. Tell me more about your cough. Do you have any other symptoms?",
+            "I feel a bit of chest tightness and shortness of breath",
+            "Based on your symptoms, you might be suffering from asthma",
+            "What should I do now?",
+            "Visit your doctor for a checkup and get medication for asthma",
+            "What kind of medication is usually given for asthma?",
+            "Typically, bronchodilators and corticosteroids are given to manage asthma symptoms.",
+            "Can exercise help alleviate my symptoms?"
+        ],
+        "knowledge": "Asthma Asthma Asthma is a chronic inflammatory disease of the airways that causes recurrent episodes of wheezing, breathlessness, chest tightness, and coughing.  The episodes are usually associated with airflow obstruction and are often reversible.  Asthma affects people of all ages, but it most often starts during childhood.  In the United States, more than 26 million people are known to have asthma.  Asthma affects people of all ages and ethnicities, but it is more common in children than in adults. Asthma symptoms are usually worse at night, early in the morning, or during exercise.  Asthma attacks can be triggered by allergens, such as pet dander, pollen, or dust mites, or by irritants, such as tobacco smoke, air pollution, or cold air. Asthma Asthma",
+        "response": "Yes, regular exercise can help improve breathing and reduce asthma symptoms. However, consult with your doctor first to determine the best exercise program for you."
+    },
+    {
+        "dialog": [
+            "Hi Medi, is cancer curable?",
+            "Hello. It depends on the type and stage of cancer.",
+            "What is the five-year survival rate for cancer?",
+            "For cancer in the United States, the average five-year survival rate is 66% for all ages.",
+            "What are the most common types of cancer?",
+            "The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer.",
+            "Are there any preventive measures for cancer?",
+            "Yes, some measures include maintaining a healthy diet, avoiding tobacco products, and regular exercise.",
+            "Is the occurrence of cancer increasing?"
+        ],
+        "knowledge": "Cancer Cancer  In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90. 5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23. 6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "Yes, the occurrence of cancer is increasing. In 2019, annual cancer cases grew by 23.6 million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively."
+    },
+    {
+        "dialog": [
+            "Medi, I just had a surgery, what should I do now?",
+            "Hello. First, congratulations on making it through the surgery!",
+            "What should be my diet?",
+            "You should eat foods rich in vitamins and minerals, like fruits and vegetables, and avoid processed foods and sugary drinks.",
+            "How about physical activity?",
+            "Start with light exercises like walking and gradually increase to more intense activities as your body heals.",
+            "What is the best way for me to recover soon?",
+            "Get enough rest and sleep, take your medication on time and follow your doctor's instructions.",
+            "When can I return to work?"
+        ],
+        "knowledge": "Surgery Surgery After surgery, the patient's body needs to rest and heal.  The length of the recovery period depends on the type and extent of surgery.  In general, patients are advised to rest for a few days after surgery and avoid activities that could cause strain or injury. Patients may be advised to follow a special diet and take medication to manage pain and prevent infection.  Patients should also follow their doctor's instructions regarding physical activity and rest.  Recovery times vary depending on the type of surgery, the patient's health, and other factors.  Most patients can return to work within a few weeks to a few months after surgery, depending on the nature of their work and their recovery progress.",
+        "response": "You should ask your doctor for their recommendation, but generally, most patients can return to work within a few weeks to a few months after surgery, depending on the nature of their work and their recovery progress."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a lump in my breast, what should I do?",
+            "First, do not panic. Have you had any other symptoms or pain?",
+            "No, not really. Just the lump.",
+            "Ok, it's important you see a doctor to perform a mammogram or an ultrasound",
+            "What is a mammogram?",
+            "A mammogram is a type of X-ray that checks for changes in breast tissue that may be cancer",
+            "How can I reduce the risk of breast cancer?",
+            "Maintaining a healthy weight and a balanced diet, quitting smoking, limiting alcohol consumption and regular exercise can decrease the risk of breast cancer",
+            "Thanks for your help. What do you think the possibility of the lump being cancerous is?"
+        ],
+        "knowledge": "Breast cancer Breast cancer  Early breast cancer has no symptoms.  Advanced breast cancer can cause pain, swelling, breast skin changes, and other symptoms, but they usually occur after breast cancer has spread.  Mammography is the best screening tool for early breast cancer detection.  A breast biopsy is a test that removes tissue or sometimes fluid from the suspicious area.  If mammography and ultrasound do not provide enough information about the size and location of the cancer, an MRI might be done as well.  Some lifestyle factors can also affect the risk of breast cancer, including weight, physical activity, and diet. Breast cancer is the second-most common cancer in women worldwide and the second most common cause of cancer-related death in women (after lung cancer). Breast cancer Breast cancer",
+        "response": "It's important to see a doctor to confirm but the earlier you detect it, the higher your chances of surviving it. Remember, early breast cancer has no symptoms"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I was just diagnosed with lung cancer, what should I expect?",
+            "I'm sorry to hear that. What stage is the cancer?",
+            "I'm not sure, but my doctor said it's not stage 4",
+            "Ok, that's good news. The treatment options depend on the stage of the cancer",
+            "I've heard that chemotherapy can make you feel really sick, is that true?",
+            "It's possible to experience side effects such as nausea, vomiting, and hair loss. However, there are medications available to manage these side effects",
+            "What can I do to help my body while going through treatment?",
+            "It's important to maintain a balanced diet rich in nutrients to help your body fight the cancer and the effects of treatment. Regular exercise also helps to reduce fatigue and improve mood.",
+            "Thanks for your help. What can I expect in the long term?"
+        ],
+        "knowledge": "Lung cancer Lung cancer  The symptoms of lung cancer include coughing that gets worse or doesn't go away, chest pain, shortness of breath, wheezing, hoarseness, and coughing up blood.  Treatment for lung cancer depends on whether the cancer is non-small cell lung cancer or small cell lung cancer.  Small cell lung cancer is usually treated with chemotherapy.  Radiation therapy may also be used in combination with chemotherapy.  Non-small cell lung cancer is usually treated with surgery, radiation therapy, chemotherapy, or a combination of these treatments.  The five-year survival rate for lung cancer is approximately 19% for all stages combined. Lung cancer is the most common cause of cancer death worldwide. Lung cancer Lung cancer",
+        "response": "It depends on the stage of the cancer and the treatment plan, but it's important to maintain a positive mindset and stay strong. The five-year survival rate is approximately 19% for all stages combined"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I underwent surgery for colon cancer. What should I do next?",
+            "Congratulations on completing the surgery. How are you feeling?",
+            "A little sore but I'm managing. What should I do to recover faster?",
+            "You should rest and avoid strenuous activity for a few weeks. Make sure you follow the dietary recommendations given by your doctor to avoid constipation",
+            "What can I do to prevent a relapse?",
+            "Maintain a healthy weight, eat a balanced diet, exercise regularly, limit your alcohol intake and avoid tobacco consumption",
+            "Thanks for your help. Is it common to have a recurrence?",
+            "Unfortunately, the risk of recurrence is higher for colon cancer patients but with proper treatment, the chances of survival are still high",
+            "Thanks for the information. What should I look out for in case of a recurrence?"
+        ],
+        "knowledge": "Colon cancer Colon cancer  Symptoms of colon cancer include blood in the stool, stomach pain, a change in bowel habits, and unexplained weight loss.  Colon cancer can be diagnosed through a colonoscopy, stool tests, or other imaging tests.  Treatment for colon cancer usually involves surgery to remove the cancerous tissue.  Chemotherapy, radiation therapy, or a combination of these treatments may also be used.  The prognosis for colon cancer depends on various factors, including the stage of the cancer and the patient's overall health.  The five-year survival rate for colon cancer is approximately 65%. Colon cancer Colon cancer",
+        "response": "It's important to monitor any changes in bowel habits, unexplained weight loss, or blood in the stool. If you experience any of these symptoms, contact your doctor immediately. Remember, early detection is key."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling really tired and have lost a lot of weight.",
+            "Hi there, when did you start to feel this way and have you noticed any other symptoms?",
+            "I've been feeling this way for about a month now, and I've also been experiencing some pain in my abdomen.",
+            "It's possible that you may have cancer. Have you seen a doctor yet?",
+            "No, I haven't. I was hoping to get some advice from you first.",
+            "I would suggest that you see a doctor as soon as possible. It's important to get a proper diagnosis.",
+            "What are the most common types of cancer in males?",
+            "The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer.",
+            "What are the survival rates for cancer patients?"
+        ],
+        "knowledge": "Cancer Cancer  In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90. 5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23. 6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "The survival rates for cancer patients vary depending on the type of cancer and the individual's age and overall health. It's best to speak with a doctor about your specific situation."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently underwent chemotherapy. What should I be doing to take care of myself now?",
+            "Hello! After chemotherapy, it's important to focus on maintaining a healthy lifestyle.",
+            "What do you mean by a healthy lifestyle?",
+            "A healthy lifestyle includes eating a balanced diet, getting regular exercise, and getting enough sleep and rest.",
+            "Is there anything specific I should be eating or avoiding?",
+            "It's important to eat a diet that is rich in nutrients and protein. You should also avoid foods that are high in sugar and unhealthy fats.",
+            "What kind of exercise should I be doing?",
+            "You should speak with your doctor about what kind of exercise is safe for you to do after chemotherapy. It's important to start slowly and gradually increase your activity level.",
+            "How long will it take for me to recover from chemotherapy?"
+        ],
+        "knowledge": "Chemotherapy Chemotherapy  Chemotherapy is a type of cancer treatment that uses drugs to destroy cancer cells.  The length of time it takes to recover from chemotherapy varies depending on the individual and the type of chemotherapy they received.  In general, it can take anywhere from a few weeks to several months to recover from chemotherapy.  During this time, it's important to focus on maintaining a healthy lifestyle and getting enough rest and relaxation.",
+        "response": "The length of time it takes to recover from chemotherapy varies depending on the individual and the type of chemotherapy they received. It's important to focus on maintaining a healthy lifestyle and getting enough rest and relaxation during this time."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm worried that I might have cancer. What are some warning signs that I should be aware of?",
+            "Hi there, some common warning signs of cancer include unexplained weight loss, fatigue, pain, changes in the skin or moles, and changes in bowel or bladder habits.",
+            "What should I do if I experience any of these symptoms?",
+            "If you experience any of these symptoms, it's important to see a doctor as soon as possible. Early detection is key when it comes to treating cancer.",
+            "Is there anything I can do to reduce my risk of getting cancer?",
+            "Yes, there are several things you can do to reduce your risk of getting cancer. This includes maintaining a healthy weight, getting regular exercise, eating a balanced diet, and avoiding tobacco and excessive alcohol consumption.",
+            "Are there any screenings or tests that I should be getting regularly?",
+            "Yes, there are several screenings and tests that can help detect cancer early. This includes mammograms for breast cancer, colonoscopies for colon cancer, and Pap tests for cervical cancer.",
+            "How common is cancer?"
+        ],
+        "knowledge": "Cancer Cancer  In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90. 5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23. 6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "Cancer is a very common disease, affecting millions of people worldwide each year. It's important to stay informed and take steps to reduce your risk of getting cancer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm not feeling well. I have some symptoms.",
+            "Sure, I'm here to help. What are your symptoms?",
+            "I have been experiencing fatigue, unexplained weight loss, and a persistent cough.",
+            "Based on your symptoms, it is possible that you have lung cancer.",
+            "Oh no, what can I do now?",
+            "I suggest you see a doctor for a proper diagnosis and treatment.",
+            "Is there any way to prevent lung cancer?",
+            "Yes, quit smoking, avoid exposure to smoke and carcinogens, and maintain a healthy lifestyle.",
+            "Thank you, Medi."
+        ],
+        "knowledge": "Cancer Cancer In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%. For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90.5 million people worldwide had cancer. In 2019, annual cancer cases grew by 23.6 million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "To prevent lung cancer, you should quit smoking, avoid exposure to smoke and carcinogens, and maintain a healthy lifestyle."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about cancer.",
+            "Sure, what would you like to know?",
+            "What causes cancer?",
+            "Cancer is caused by changes (mutations) to the DNA within cells. These mutations can be inherited or acquired.",
+            "How is cancer treated?",
+            "It depends on the type and stage of cancer. Treatment options include surgery, chemotherapy, radiation therapy, immunotherapy, and targeted therapy.",
+            "Is there a cure for cancer?",
+            "There is not yet a cure for cancer, but there are treatments that can help manage the disease and improve quality of life.",
+            "Thank you for the information, Medi."
+        ],
+        "knowledge": "Cancer Cancer In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%. For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90.5 million people worldwide had cancer. In 2019, annual cancer cases grew by 23.6 million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "Cancer is caused by changes to the DNA within cells and can be treated with surgery, chemotherapy, radiation therapy, immunotherapy, and targeted therapy."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery for cancer and I need advice for my lifestyle.",
+            "Of course, what would you like to know?",
+            "What should I eat to improve my health?",
+            "You should eat a balanced diet that includes plenty of fruits and vegetables, whole grains, lean proteins, and healthy fats.",
+            "What kind of physical exercise can I do after the surgery?",
+            "You should start with light exercise, such as walking or stretching, and gradually increase the intensity as you recover.",
+            "Are there any foods or activities I should avoid?",
+            "You should avoid foods high in sugar, salt, and unhealthy fats. You should also avoid activities that may cause injury or strain.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Cancer Cancer In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%. For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90.5 million people worldwide had cancer. In 2019, annual cancer cases grew by 23.6 million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "You should eat a balanced diet, start with light exercise, and avoid foods high in sugar, salt, and unhealthy fats as well as activities that may cause injury or strain."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling tired lately and have lost my appetite.",
+            "I'm sorry to hear that. Have you been experiencing any pain?",
+            "No pain, just fatigue and loss of appetite.",
+            "Based on your symptoms, it's hard to determine the cause. Have you been under any stress lately?",
+            "Yes, actually, I have been feeling very stressed at work.",
+            "Stress can certainly cause fatigue and loss of appetite. Perhaps try to find ways to reduce stress in your life.",
+            "Thank you for the advice, Medi. I will try to take things easier at work.",
+            "You're welcome. Remember to prioritize your health. Let me know if you have any other concerns.",
+            "Will do, thanks!"
+        ],
+        "knowledge": "Cancer Cancer In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90. 5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23. 6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "I have a question, what is the most common type of cancer for women?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm concerned about my risk for cancer.",
+            "Of course, I'm here to help. What specifically are you worried about?",
+            "Well, my family has a history of cancer, so I'm worried about my own risk.",
+            "I see. It's important to get regular check-ups and screenings if you have a family history of cancer.",
+            "Are there any lifestyle changes I can make to reduce my risk?",
+            "Yes, maintaining a healthy diet, exercising regularly, and not smoking can all help lower your risk of cancer.",
+            "That's good to know. What are some common signs of cancer that I should be aware of?",
+            "Common signs of cancer include unexplained weight loss, fatigue, persistent pain, and changes in skin or moles. It's important to see a doctor if you experience any of these symptoms.",
+            "Thank you for the information, Medi. I will make sure to schedule regular check-ups."
+        ],
+        "knowledge": "Cancer Cancer In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90. 5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23. 6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "There are certain foods that are linked to an increased risk of cancer, such as processed meats, fried foods, and sugary drinks."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently underwent surgery for cancer and am wondering what lifestyle changes I should make.",
+            "I'm sorry to hear that. It's important to take care of yourself after surgery. What specifically are you wondering about?",
+            "I'm wondering about diet and exercise changes that can help improve my recovery.",
+            "Eating a healthy diet that includes plenty of fruits and vegetables, and getting regular exercise can certainly help with recovery.",
+            "Are there any specific foods that are particularly good for cancer recovery?",
+            "Foods that are high in antioxidants, such as berries, leafy greens, and nuts, can be beneficial for cancer recovery.",
+            "What about exercise - are there any types of exercise that are better than others?",
+            "Low-impact exercises such as walking, swimming, and yoga can be helpful for recovery. It's important to listen to your body and not push yourself too hard.",
+            "Thank you for the advice, Medi. I will make sure to eat a healthy diet and incorporate low-impact exercise into my routine."
+        ],
+        "knowledge": "Cancer Cancer In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90. 5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23. 6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "I have a question, Medi. Are there any alternative therapies that can be helpful for cancer recovery?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am worried about cancer.",
+            "Okay, let me help you. What's your concern about cancer?",
+            "I want to know about its survival rate",
+            "In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%. For cancer in the United States, the average five-year survival rate is 66% for all ages.",
+            "What about the number of people affected by it?",
+            "In 2015, about 90.5 million people worldwide had cancer. In 2019, annual cancer cases grew by 23.6 million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively.",
+            "Which cancers are the most common in men?",
+            "The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer.",
+            "Are there any symptoms to be aware of? How can I prevent it?"
+        ],
+        "knowledge": "Cancer Cancer  In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90. 5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23. 6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "There are various symptoms depending on the type of cancer, and prevention also varies. You should consult a doctor to get more information."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am a patient who just had chemotherapy. What should I do to prevent side effects?",
+            "Hi, nice to meet you. You can try eating small, frequent meals to prevent nausea, drinking plenty of fluids to stay hydrated, and getting enough rest to help with fatigue.",
+            "What about my diet? Should I avoid any foods?",
+            "Yes, you should avoid spicy and acidic foods, and try to eat foods that are easy to digest, like bananas and rice.",
+            "Is it okay to exercise after chemotherapy?",
+            "Yes, exercise can help with fatigue and improve your mood, but it's important to start with light activities and gradually increase the intensity.",
+            "How long will it take for me to recover?",
+            "It depends on your specific treatment and how your body reacts. Your doctor can give you a better idea of what to expect.",
+            "Thank you for your help. Is there anything else I should know?"
+        ],
+        "knowledge": "Chemotherapy Chemotherapy  Chemotherapy often causes side effects, such as nausea, vomiting, fatigue, and hair loss.  To reduce the severity of these side effects, patients can eat small, frequent meals, drink plenty of fluids, and get enough rest.  Patients should avoid spicy and acidic foods, and try to eat foods that are easy to digest.  Exercise can help with fatigue and improve mood, but it's important to start with light activities and gradually increase the intensity.  Recovery time varies depending on the patient's specific treatment.",
+        "response": "You're welcome. Just make sure to follow your doctor's instructions and take care of yourself."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a history of cancer in my family. What can I do to reduce my risk?",
+            "Hello, I understand your concern. You can lower your risk by maintaining a healthy weight, not smoking, and limiting alcohol consumption.",
+            "What about my diet? Are there any foods I should avoid?",
+            "Yes, you should try to eat plenty of fruits, vegetables, and whole grains, and limit your intake of processed and red meats.",
+            "What kind of exercise should I do?",
+            "You should aim for at least 150 minutes of moderate-intensity exercise per week, like brisk walking or cycling.",
+            "Can you recommend any screenings or tests?",
+            "It's important to talk to your doctor about your family history and any potential risk factors. They may recommend regular screenings like mammograms or colonoscopies.",
+            "Thank you for the advice. Is there anything else I should know?"
+        ],
+        "knowledge": "Cancer Cancer  Cancer risk can be reduced by maintaining a healthy weight, not smoking, limiting alcohol consumption, and eating a healthy diet rich in fruits, vegetables, and whole grains.  It's important to aim for at least 150 minutes of moderate-intensity exercise per week.  Talk to your doctor about your family history and any potential risk factors.  They may recommend regular screenings like mammograms or colonoscopies.",
+        "response": "No problem. Just remember to take care of yourself and talk to your doctor about any concerns you may have."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a lump on my chest.",
+            "Hello! Can you tell me more about the lump's size and shape?",
+            "It's small and circular.",
+            "Does it hurt or feel tender when you touch it?",
+            "No, it doesn't.",
+            "Based on the information provided, I think you should go to a doctor for further examination.",
+            "What could it be?",
+            "It could be a benign lump, but to be sure, a medical examination is necessary.",
+            "Thank you for your advice, Medi. I will seek medical attention."
+        ],
+        "knowledge": "Cancer Cancer  In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90. 5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23. 6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "It's better to have it examined by a doctor to determine the cause of the lump."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I want to know more about cancer.",
+            "Sure! What type of cancer do you want to know about?",
+            "Can you give me an overview of cancer?",
+            "Cancer is a disease that occurs when abnormal cells grow and multiply uncontrollably. It can affect any part of the body and can spread to other parts of the body. There are many different types of cancer, each with its own characteristics and treatment options.",
+            "What are the common types of cancer?",
+            "The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer. In females, the most common types are breast cancer, lung cancer, colorectal cancer, and cervical cancer.",
+            "What are the risk factors for cancer?",
+            "The risk factors for cancer include genetics, age, lifestyle factors such as smoking and excessive alcohol consumption, exposure to certain chemicals and radiation, and certain medical conditions such as chronic inflammation.",
+            "Thank you for your explanation, Medi. That was very helpful."
+        ],
+        "knowledge": "Cancer Cancer  In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90. 5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23. 6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery to remove a tumor. What should I do now?",
+            "Hi! You should follow your doctor's instructions carefully. It's important to rest and take your medication as prescribed.",
+            "Should I change my diet?",
+            "Yes, a healthy diet is important for your recovery. You should eat foods that are high in nutrients and low in fat and sugar. You may also need to avoid certain foods that could interfere with your recovery.",
+            "What about exercise?",
+            "It's important to stay active, but you should avoid any strenuous exercise until your doctor gives you the go-ahead. Walking and light stretching can be beneficial.",
+            "Are there any other lifestyle changes I should make?",
+            "You should avoid smoking and limit your alcohol intake. You should also get plenty of rest and manage your stress levels.",
+            "Thank you for your advice, Medi. I will follow my doctor's instructions carefully."
+        ],
+        "knowledge": "Cancer Cancer  In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90. 5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23. 6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "You're welcome! It's important to take care of yourself after surgery. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am feeling tired and not well lately.",
+            "I understand. Can you tell me some more symptoms?",
+            "Well, I have been losing weight for no reason. I feel nauseous and my throat hurts.",
+            "I see. How long have you been experiencing these symptoms?",
+            "It's been a few weeks now.",
+            "Based on your symptoms, it's best for you to visit a doctor for a check-up.",
+            "What could it be?",
+            "I cannot say for sure, but it's better to see a doctor to diagnose the problem.",
+            "Okay, I will book an appointment. Thanks Medi."
+        ],
+        "knowledge": "Cancer Cancer  In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90. 5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23. 6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "It would be best to get a medical evaluation by a doctor to determine the cause of your symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am curious about cancer and its survival rates.",
+            "Sure, I am ready to help. What would you like to know?",
+            "What is the five-year survival rate of cancer in the developed world for children under 15?",
+            "The average five-year survival rate for children under 15 at diagnosis in the developed world is 80%.",
+            "How about in the United States for all ages?",
+            "In the United States, the average five-year survival rate for all ages is 66%.",
+            "Wow, that's a big difference. How many people worldwide had cancer in 2015?",
+            "In 2015, about 90.5 million people worldwide had cancer.",
+            "That's a lot. How much has the number of cancer cases increased in the last decade?"
+        ],
+        "knowledge": "Cancer Cancer  In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90. 5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23. 6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure. What should I do in terms of diet and exercise?",
+            "Congratulations on completing your procedure. What procedure did you have?",
+            "I had a procedure on my heart.",
+            "For your diet, try eating foods that are low in sodium and saturated fats. Increase your intake of fruits, vegetables, whole grains, and lean protein. As for exercise, start with light physical activity such as walking and gradually increase the intensity and duration.",
+            "What exercises should I avoid?",
+            "Avoid exercises that put a lot of stress on your heart such as heavy weightlifting or high-intensity interval training. Consult with your doctor to decide on the best exercise plan for you.",
+            "Can I resume my normal activities?",
+            "It depends on the type of procedure you had and your doctor's advice. But generally, you should avoid lifting heavy objects and strenuous activities for a while.",
+            "Thank you Medi, this was very helpful."
+        ],
+        "knowledge": "Heart Procedure Heart Procedure  After a heart procedure, it is important to eat a heart-healthy diet that is low in sodium and saturated fats. Increase your intake of fruits, vegetables, whole grains, and lean protein. Start with light physical activity such as walking and gradually increase the intensity and duration. Avoid exercises that put a lot of stress on your heart such as heavy weightlifting or high-intensity interval training. Consult with your doctor to decide on the best exercise plan for you. Avoid lifting heavy objects and strenuous activities for a while. Heart Procedure Heart Procedure",
+        "response": "Thanks again, Medi. I will follow your advice and consult with my doctor regarding my recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I am concerned.",
+            "Don't worry, I am here to help. Can you tell me your symptoms?",
+            "I have been feeling tired and weak recently.",
+            "I see. Have you noticed any other symptoms?",
+            "Yes, I have also been losing weight without trying.",
+            "Okay. Based on your symptoms, I suggest you get tested for cancer.",
+            "Oh no, that's scary. What should I do now?",
+            "You should make an appointment with your doctor and discuss your symptoms with them.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Cancer Cancer In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90.5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23.6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "It's important to take action quickly, so I recommend you make an appointment with your doctor as soon as possible."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about cancer.",
+            "Of course, I'm here to help. What would you like to know?",
+            "What are some common risk factors for developing cancer?",
+            "There are several factors that can increase your risk of developing cancer, such as smoking, exposure to certain chemicals, a family history of cancer, and age.",
+            "What are some symptoms of cancer that I should look out for?",
+            "Some common symptoms of cancer include fatigue, unexplained weight loss, persistent pain, changes in the skin or moles, and unusual bleeding or discharge from the body.",
+            "How is cancer usually treated?",
+            "There are several treatment options for cancer, including surgery, radiation therapy, chemotherapy, and targeted therapy.",
+            "Thank you for your help, Medi. This information has been useful."
+        ],
+        "knowledge": "Cancer Cancer In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90.5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23.6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "You're welcome. Don't hesitate to ask if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently underwent cancer treatment. What lifestyle changes should I make?",
+            "Congratulations on completing your treatment. It's important to maintain a healthy lifestyle after treatment. What changes would you like to make?",
+            "I want to make sure I am eating the right things. What should I focus on?",
+            "It's important to have a balanced diet with plenty of fruits, vegetables, and whole grains. Avoid processed foods and sugary drinks.",
+            "What about physical activity?",
+            "Regular physical activity is important, but it's important to start slowly and listen to your body. Walking, swimming, and yoga are good exercises to start with.",
+            "What about stress management?",
+            "Stress can have a negative impact on your health, so it's important to find ways to manage it. Meditation, deep breathing, and spending time with loved ones are all good stress-management techniques.",
+            "Thank you, Medi. I appreciate your advice."
+        ],
+        "knowledge": "Cancer Cancer In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.  For cancer in the United States, the average five-year survival rate is 66% for all ages. In 2015, about 90.5\u00a0million people worldwide had cancer.  In 2019, annual cancer cases grew by 23.6\u00a0million people and there were 10 million deaths worldwide, representing over the previous decade increases of 26% and 21%, respectively. The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer Cancer Cancer",
+        "response": "You're welcome. Remember to take care of yourself and listen to your body."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a lump in my breast.",
+            "I see. How long have you been experiencing this?",
+            "A few weeks. It's painful and it's getting bigger.",
+            "Based on your symptoms, it may be a breast tumor. I suggest you go to a doctor for further examination.",
+            "Will I need to undergo surgery?",
+            "It depends on the size and type of the tumor. A doctor will recommend the best course of treatment.",
+            "Thank you, Medi. I'll schedule an appointment with a doctor.",
+            "That's a good idea. Early detection is important in treating breast cancer.",
+            "What are the chances of survival for breast cancer patients?"
+        ],
+        "knowledge": "Breast cancer Breast cancer  Breast cancer is the second most common cancer in women after skin cancer and the most common cancer in women in the United States.  Besides lumps, other symptoms include breast pain, nipple discharge, or a change in the shape or texture of the nipple or breast.  Although breast cancer is typically thought of as a disease of older women, in rare cases, men can also develop breast cancer. The five-year survival rate for breast cancer patients in the United States is around 90%.",
+        "response": "The five-year survival rate for breast cancer patients in the United States is around 90%."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a family history of colon cancer. What should I do?",
+            "I suggest you get a colonoscopy to check for any signs of cancer. It's recommended for people with a family history of colon cancer.",
+            "What is a colonoscopy? Will it be painful?",
+            "A colonoscopy is a medical procedure that examines the colon for abnormalities or cancer. It involves inserting a tube with a camera through the rectum. You will be given anesthesia so you won't feel any pain.",
+            "What should I do to lower my risk of colon cancer?",
+            "You can lower your risk by eating a healthy diet high in fiber and low in red meat, exercising regularly, and getting screened regularly if you have a family history of colon cancer.",
+            "Thank you for the advice, Medi.",
+            "You're welcome. It's important to take preventive measures for your health.",
+            "Is colon cancer curable?"
+        ],
+        "knowledge": "Colon cancer Colon cancer  Colon cancer is the third most common cancer in both men and women.  Symptoms may include blood in the stool, abdominal pain, unexplained weight loss, and changes in bowel movements.  The five-year survival rate for early-stage colon cancer is around 90%.  Treatment options include surgery, chemotherapy, and radiation therapy.",
+        "response": "The five-year survival rate for early-stage colon cancer is around 90%."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've just finished chemotherapy for lung cancer. What should I do next?",
+            "Congratulations on completing treatment! You should continue to follow up with your doctor for further monitoring.",
+            "What lifestyle changes should I make to reduce the risk of recurrence?",
+            "You can reduce your risk by quitting smoking, eating a healthy diet, getting regular exercise, and avoiding exposure to secondhand smoke and other toxins.",
+            "Will I need to undergo more treatment?",
+            "It depends on the stage and type of the cancer. Your doctor will recommend the best course of action.",
+            "Thank you for your help, Medi.",
+            "You're welcome. It's important to take care of yourself and your health.",
+            "What is the survival rate for lung cancer patients?"
+        ],
+        "knowledge": "Lung cancer Lung cancer  Lung cancer is the leading cause of cancer death worldwide.  Symptoms may include coughing, chest pain, shortness of breath, and weight loss.  The five-year survival rate for lung cancer is around 20%.  Treatment options include surgery, chemotherapy, radiation therapy, and targeted therapy.",
+        "response": "The five-year survival rate for lung cancer is around 20%."
+    }
+]

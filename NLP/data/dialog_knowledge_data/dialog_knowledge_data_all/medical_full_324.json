@@ -1,0 +1,406 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms of hepatitis.",
+            "Can you describe your symptoms to me?",
+            "I have yellow skin, abdominal pain and loss of appetite.",
+            "Based on your symptoms, it is possible you have hepatitis. We recommend that you see a doctor.",
+            "Is there anything I can do to improve my condition?",
+            "You should rest as much as possible and avoid alcohol and certain medications.",
+            "Which medications should I avoid?",
+            "Some examples are aspirin, ibuprofen and acetaminophen. However, I recommend you speak with your doctor for their recommendations.",
+            "Thank you Medi. Can you give me more information about hepatitis?"
+        ],
+        "knowledge": "Hepatitis Hepatitis Genetic causes of hepatitis include alpha-1-antitrypsin deficiency, hemochromatosis, and Wilson's disease.  In alpha-1-antitrypsin deficiency, a co-dominant mutation in the gene for alpha-1-antitrypsin results in the abnormal accumulation of the mutant AAT protein within liver cells, leading to liver disease.  Hemochromatosis and Wilson's disease are both autosomal recessive diseases involving abnormal storage of minerals.  In hemochromatosis, excess amounts of iron accumulate in multiple body sites, including the liver, which can lead to cirrhosis.  In Wilson's disease, excess amounts of copper accumulate in the liver and brain, causing cirrhosis and dementia. When the liver is involved, alpha-1-antitrypsin deficiency and Wilson's disease tend to present as hepatitis in the neonatal period or in childhood.  Hemochromatosis typically presents in adulthood, with the onset of clinical disease usually after age 50 Hepatitis Hepatitis",
+        "response": "Hepatitis is a disease that inflames and damages the liver. There are many different types of hepatitis, including hepatitis A, B and C, each caused by a different virus. Symptoms include fever, fatigue, abdominal pain, and yellowing of the skin."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have just been diagnosed with hemochromatosis.",
+            "I am sorry to hear that. Do you have any questions?",
+            "Yes, can you tell me more about the disease?",
+            "Hemochromatosis is a condition where there is too much iron in the body, which can damage organs and lead to serious health problems.",
+            "Is there a cure?",
+            "There is no cure for hemochromatosis, but treatment can help manage the symptoms and prevent complications.",
+            "What kind of complications can occur?",
+            "Complications can include liver damage, diabetes, heart problems, and joint pain.",
+            "How can I manage my hemochromatosis?"
+        ],
+        "knowledge": "Hemochromatosis Hemochromatosis Hemochromatosis is a condition where there is too much iron in the body, which can damage organs and lead to serious health problems.  It is a genetic disorder that is most common in people of Northern European descent.  Symptoms can include fatigue, joint pain, and abdominal pain.  Complications can include liver damage, diabetes, heart problems, and joint pain.  Treatment includes phlebotomy to remove excess iron from the body and avoiding iron-rich foods, alcohol, and certain medications that can increase iron absorption. Hemochromatosis Hemochromatosis",
+        "response": "It is recommended that you get checked for hemochromatosis every year or as recommended by your doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a liver transplant. What lifestyle changes should I make?",
+            "After a liver transplant, it is important to maintain a healthy lifestyle.",
+            "What does that involve?",
+            "This involves eating a healthy diet, avoiding alcohol and tobacco, and staying physically active.",
+            "What kind of exercise should I do?",
+            "You should engage in light exercise, such as walking or yoga. It is important to consult with your doctor before starting any exercise regimen.",
+            "Is there anything else I should know?",
+            "You should also take your medication as prescribed and attend all follow-up appointments with your doctor.",
+            "Thank you Medi. How often should I have follow-up appointments?"
+        ],
+        "knowledge": "Liver Transplant Liver Transplant A liver transplant is a surgical procedure in which a damaged or diseased liver is replaced with a healthy liver from a donor.  After a liver transplant, it is important to maintain a healthy lifestyle, including eating a healthy diet, avoiding alcohol and tobacco, and staying physically active.  It is also important to take medication as prescribed and attend all follow-up appointments with your doctor to monitor your progress and prevent complications. Liver Transplant Liver Transplant",
+        "response": "It is recommended that you have follow-up appointments every 3-6 months for the first year and every 6-12 months thereafter, or as recommended by your doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling very tired and nauseated lately.",
+            "I'm sorry to hear that. Can you tell me more about your symptoms?",
+            "Yeah, I feel like I'm going to throw up every time I eat. And I'm always tired no matter how much I sleep.",
+            "Based on your symptoms, it seems like you might have a gastrointestinal issue.",
+            "Is there anything I can do to feel better?",
+            "I recommend that you avoid eating foods that are hard to digest and drink plenty of fluids.",
+            "Alright, I'll try that. By the way, can you tell me more about gastrointestinal issues?",
+            "Certainly! Gastrointestinal issues can include anything from acid reflux to ulcers and irritable bowel syndrome.",
+            "Thanks for the information!"
+        ],
+        "knowledge": "Gastrointestinal Issues Gastrointestinal Issues Gastrointestinal issues can include anything from acid reflux to ulcers and irritable bowel syndrome. Symptoms can include nausea, vomiting, diarrhea, constipation, abdominal pain, and bloating. Treatment options can vary depending on the underlying condition, but may include medications, dietary changes, and lifestyle modifications. Gastrointestinal Issues Gastrointestinal Issues",
+        "response": "You're welcome! Let me know if you have any other questions about gastrointestinal issues."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I've been experiencing some pain in my liver.",
+            "I'm sorry to hear that. Can you tell me more about your symptoms?",
+            "Yeah, I've been feeling a dull ache in the upper right side of my abdomen.",
+            "Based on your symptoms, it's possible that you may have some issues with your liver.",
+            "What can I do to make it better?",
+            "I recommend that you avoid alcohol and foods high in fat. You should also get plenty of rest and stay hydrated.",
+            "Alright, thanks for the advice. Can you tell me more about liver issues?",
+            "Certainly! Liver issues can range from hepatitis to cirrhosis and liver cancer.",
+            "Thanks for the information!"
+        ],
+        "knowledge": "Liver Issues Liver Issues Liver issues can range from hepatitis to cirrhosis and liver cancer. Symptoms can include jaundice, abdominal pain, swelling in the legs, and dark urine. Treatment options can vary depending on the underlying condition, but may include medications, dietary changes, and lifestyle modifications. Liver Issues Liver Issues",
+        "response": "You're welcome! Let me know if you have any other questions about liver issues."
+    },
+    {
+        "dialog": [
+            "Medi, I just had a liver biopsy and I'm not sure what to expect in terms of recovery.",
+            "I can help you with that. What specifically do you want to know?",
+            "Well, how long will it take for me to recover fully?",
+            "It's common to feel some pain or discomfort for a few days after the procedure. However, you should be able to resume your normal activities within a week or two.",
+            "Are there any foods that I should avoid during the recovery process?",
+            "It's best to avoid alcohol and foods high in fat for a few days after the procedure. You should also get plenty of rest and stay hydrated.",
+            "Alright, thanks for the advice. Can you tell me more about liver biopsies?",
+            "Certainly! A liver biopsy is a procedure used to remove a small piece of liver tissue for examination under a microscope. It's typically done to diagnose liver disease.",
+            "Thanks for the information!"
+        ],
+        "knowledge": "Liver Biopsies Liver Biopsies A liver biopsy is a procedure used to remove a small piece of liver tissue for examination under a microscope. It's typically done to diagnose liver disease. The procedure involves inserting a needle through the skin and into the liver to remove a small piece of tissue. After the procedure, it's common to feel some pain or discomfort for a few days. However, you should be able to resume your normal activities within a week or two. Liver Biopsies Liver Biopsies",
+        "response": "You're welcome! Let me know if you have any other questions about liver biopsies."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I may have Hepatitis. What should I do?",
+            "Hello! I can help you with that. What are your symptoms?",
+            "I've been feeling fatigued and my urine is darker than usual.",
+            "Hmm, those could be signs of Hepatitis. Have you been exposed to any risk factors?",
+            "I don't know what you mean by risk factors. Can you explain?",
+            "Sure! Hepatitis is caused by viruses, alcohol or drug use, and sometimes autoimmune disease. Have you had any recent risky behavior?",
+            "I have not been exposed to any of those things. What could be causing it?",
+            "It's possible that it's a viral infection. I suggest getting some blood work done to check for Hepatitis A, B, and C.",
+            "Alright, I will schedule an appointment with my doctor. Thank you, Medi!"
+        ],
+        "knowledge": "Hepatitis Hepatitis Genetic causes of hepatitis include alpha-1-antitrypsin deficiency, hemochromatosis, and Wilson's disease.  In alpha-1-antitrypsin deficiency, a co-dominant mutation in the gene for alpha-1-antitrypsin results in the abnormal accumulation of the mutant AAT protein within liver cells, leading to liver disease.  Hemochromatosis and Wilson's disease are both autosomal recessive diseases involving abnormal storage of minerals.  In hemochromatosis, excess amounts of iron accumulate in multiple body sites, including the liver, which can lead to cirrhosis.  In Wilson's disease, excess amounts of copper accumulate in the liver and brain, causing cirrhosis and dementia. When the liver is involved, alpha-1-antitrypsin deficiency and Wilson's disease tend to present as hepatitis in the neonatal period or in childhood.  Hemochromatosis typically presents in adulthood, with the onset of clinical disease usually after age 50 Hepatitis Hepatitis",
+        "response": "You're welcome! I suggest checking for Hepatitis A, B, and C through blood work."
+    },
+    {
+        "dialog": [
+            "Hi Medi. Can you explain the difference between Hepatitis A, B, and C?",
+            "Of course! Hepatitis A is usually spread through contaminated food or water, while Hepatitis B and C are blood-borne viruses.",
+            "What are the symptoms of each type?",
+            "Hepatitis A usually causes flu-like symptoms, while Hepatitis B and C can cause a more chronic form of the disease with long-term liver damage.",
+            "How can I prevent getting Hepatitis?",
+            "For Hepatitis A, you can get vaccinated or avoid contaminated food and water. For Hepatitis B and C, you can prevent by avoiding sharing needles and practicing safe sex.",
+            "What are the treatment options for Hepatitis?",
+            "It depends on the type of Hepatitis. Hepatitis A usually clears up on its own, while Hepatitis B and C can be treated with antiviral medications and other supportive care.",
+            "Thanks for your help, Medi!"
+        ],
+        "knowledge": "Hepatitis Hepatitis Hepatitis A is usually spread through contaminated food or water, while Hepatitis B and C are blood-borne viruses.  Hepatitis A usually causes flu-like symptoms, while Hepatitis B and C can cause a more chronic form of the disease with long-term liver damage.  For Hepatitis A, you can get vaccinated or avoid contaminated food and water.  For Hepatitis B and C, you can prevent by avoiding sharing needles and practicing safe sex.  Hepatitis A usually clears up on its own, while Hepatitis B and C can be treated with antiviral medications and other supportive care. Hepatitis Hepatitis",
+        "response": "Thanks for the explanation, Medi! It was very helpful."
+    },
+    {
+        "dialog": [
+            "Hi Medi! I just had a liver transplant. What can I do to ensure a healthy recovery?",
+            "Congratulations! After a liver transplant, it's important to eat a healthy diet and get regular exercise.",
+            "What specific foods should I eat?",
+            "You should focus on high-protein foods like lean meats, fish, and beans, as well as complex carbohydrates like whole grains and vegetables.",
+            "What should I avoid eating?",
+            "You should avoid alcohol, and limit your intake of high-fat or high-sugar foods.",
+            "What kind of exercise should I do?",
+            "You should start with light exercise like walking and gradually increase your intensity as you recover. It's important to check with your doctor before starting any exercise program.",
+            "Thanks for the advice, Medi!"
+        ],
+        "knowledge": "Liver Transplant Liver Transplant After a liver transplant, it's important to eat a healthy diet and get regular exercise.  You should focus on high-protein foods like lean meats, fish, and beans, as well as complex carbohydrates like whole grains and vegetables.  You should avoid alcohol, and limit your intake of high-fat or high-sugar foods.  You should start with light exercise like walking and gradually increase your intensity as you recover.  It's important to check with your doctor before starting any exercise program. Liver Transplant Liver Transplant",
+        "response": "Thanks for the advice, Medi! I will make sure to follow it for a healthy recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel very tired and I have a headache.",
+            "Hi, Can you tell me any other symptoms you have?",
+            "I have a fever and my body feels weak.",
+            "Have you traveled recently?",
+            "No, I haven't. ",
+            "Have you been in contact with anyone who has a fever or cough?",
+            "Yes, my friend has the same symptoms.",
+            "Based on your symptoms, it is possible that you have contracted a viral infection. You should stay home and rest, and drink plenty of fluids. ",
+            "What should I do if my condition worsens, Medi?"
+        ],
+        "knowledge": "Viral Infection Viral Infection:  The symptoms of a viral infection are similar to those of a cold or flu and include fever, headache, muscle aches, and fatigue.  Other symptoms may include cough, sore throat, and a runny or stuffy nose.  In some cases, viral infections can also cause diarrhea and vomiting.  Treatment for viral infections typically involves rest, hydration, and over-the-counter medications to relieve symptoms.  In severe cases, hospitalization may be necessary. ",
+        "response": "If your condition worsens or you develop shortness of breath or chest pain, you should seek medical attention immediately."
+    },
+    {
+        "dialog": [
+            "Medi, I just got diagnosed with Hepatitis. What should I do next?",
+            "I'm sorry to hear that. The first thing you should do is rest and avoid alcohol.",
+            "What else should I do?",
+            "It's important to follow a healthy diet and avoid foods that can be hard on your liver, such as fatty or fried foods.",
+            "Can I still exercise?",
+            "Yes, you can still exercise, but you should avoid any exercises that put strain on your liver, such as heavy lifting or contact sports.",
+            "How long will it take for me to recover?",
+            "The length of recovery depends on the type of hepatitis and the severity of the infection. It could take several weeks to several months.",
+            "What are the long-term effects of Hepatitis?"
+        ],
+        "knowledge": "Hepatitis Hepatitis:  Hepatitis is an inflammation of the liver that can be caused by viruses, medications, or alcohol.  Symptoms may include fever, fatigue, abdominal pain, and jaundice.  Treatment varies depending on the cause of the hepatitis and may include antiviral medications, rest, and a healthy diet.  In severe cases, hospitalization may be necessary.  Long-term effects may include liver damage or cirrhosis, which can lead to liver failure or liver cancer.",
+        "response": "Long-term effects of hepatitis may include liver damage or cirrhosis, which can lead to liver failure or liver cancer. It's important to follow your doctor's advice and receive regular check-ups to monitor your liver health."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a liver biopsy. What should I do now?",
+            "Hi, first, you should rest for a few days and avoid any strenuous activity.",
+            "What about my diet?",
+            "It's important to follow a healthy diet and avoid any foods that might be hard on your liver, such as fatty or fried foods.",
+            "How long will it take for me to recover?",
+            "Recovery time varies, but it usually takes a few days to a week for the incision site to heal.",
+            "Are there any complications I should watch out for?",
+            "Complications are rare but possible. You should watch out for symptoms such as bleeding or severe pain and contact your doctor immediately if you experience any.",
+            "When can I return to work?"
+        ],
+        "knowledge": "Liver Biopsy Liver Biopsy:  A liver biopsy is a procedure in which a small piece of liver tissue is removed for examination.  It is typically performed to diagnose liver diseases, such as hepatitis or cirrhosis, or to monitor the progression of a disease.  Recovery time varies, but it is typically only a few days to a week.  Complications are rare but possible and may include bleeding or infection.  You should contact your doctor immediately if you experience any symptoms such as severe pain, fever, or chills.",
+        "response": "The timing of returning to work depends on the type of work you do and how you feel. You should consult your doctor and follow their advice."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I have hepatitis",
+            "Hello! What symptoms do you have?",
+            "I feel very tired and have abdominal pain and jaundice",
+            "With these symptoms, it's important to consult a doctor and get tested",
+            "What's the cause of hepatitis?",
+            "Genetic causes of hepatitis include alpha-1-antitrypsin deficiency, hemochromatosis, and Wilson's disease",
+            "Can hepatitis be treated?",
+            "Yes, treatment depends on the type and severity of hepatitis. You should consult a doctor about your options",
+            "Alright, thank you for your advice Medi"
+        ],
+        "knowledge": "Hepatitis Hepatitis Genetic causes of hepatitis include alpha-1-antitrypsin deficiency, hemochromatosis, and Wilson's disease.  In alpha-1-antitrypsin deficiency, a co-dominant mutation in the gene for alpha-1-antitrypsin results in the abnormal accumulation of the mutant AAT protein within liver cells, leading to liver disease.  Hemochromatosis and Wilson's disease are both autosomal recessive diseases involving abnormal storage of minerals.  In hemochromatosis, excess amounts of iron accumulate in multiple body sites, including the liver, which can lead to cirrhosis.  In Wilson's disease, excess amounts of copper accumulate in the liver and brain, causing cirrhosis and dementia. When the liver is involved, alpha-1-antitrypsin deficiency and Wilson's disease tend to present as hepatitis in the neonatal period or in childhood.  Hemochromatosis typically presents in adulthood, with the onset of clinical disease usually after age 50 Hepatitis Hepatitis",
+        "response": "You're welcome! It's important to get tested and treated as soon as possible. Best of luck to you"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a liver transplant. What should I do to stay healthy?",
+            "Hello! Congratulations on your transplant. You should follow your doctor's advice and take any medication prescribed to prevent rejection",
+            "What about my diet? Can it affect my liver health?",
+            "Yes, a healthy diet is important for your liver health. You should focus on eating a balanced diet with plenty of fruits and vegetables",
+            "Are there any exercises I should do or avoid?",
+            "Moderate exercise is important for your overall health, but you should consult with your doctor about what types of exercise are safe for you. It's important not to put too much stress on your new liver",
+            "Okay, thanks for your help Medi",
+            "You're welcome. Remember to take care of yourself and follow your doctor's advice to ensure a successful recovery",
+            "I will. One more question: how long will it take for me to fully recover?"
+        ],
+        "knowledge": "Liver Transplant Liver Transplant After a liver transplant, it's important to take medication to prevent rejection and follow a healthy lifestyle. A healthy diet with plenty of fruits and vegetables is important for liver health. Moderate exercise is also important, but you should consult with your doctor to determine what types of exercise are safe for you. It can take several months to fully recover from a liver transplant, and it's important to follow your doctor's advice during this time",
+        "response": "Recovery time can vary, but it generally takes several months to fully recover from a liver transplant. You should follow your doctor's advice and take care of yourself to ensure a successful recovery"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been diagnosed with hemochromatosis. What can I do to manage it?",
+            "Hello! Hemochromatosis is a genetic disorder that causes excess iron to build up in your body. The goal of treatment is to reduce iron levels to a healthy range and prevent complications",
+            "What's the best way to reduce iron levels?",
+            "The most effective treatment is phlebotomy, which is like a blood donation. This removes excess iron from your body and reduces iron levels",
+            "Is there anything else I can do?",
+            "You can also reduce iron levels by avoiding iron supplements and limiting iron-rich foods like red meat and fortified cereals. You should also avoid vitamin C supplements, which can increase iron absorption",
+            "Okay, thanks for your help Medi",
+            "You're welcome. Remember to follow your doctor's advice and get regular phlebotomy to manage your hemochromatosis",
+            "I will. One more question: can hemochromatosis be cured?"
+        ],
+        "knowledge": "Hemochromatosis Hemochromatosis Hemochromatosis is a genetic disorder that causes excess iron to build up in the body. The goal of treatment is to reduce iron levels to a healthy range and prevent complications. The most effective treatment is phlebotomy, which is like a blood donation. This removes excess iron from the body and reduces iron levels. You can also reduce iron levels by avoiding iron supplements and limiting iron-rich foods like red meat and fortified cereals. You should also avoid vitamin C supplements, which can increase iron absorption",
+        "response": "Unfortunately, there is no cure for hemochromatosis, but it can be managed with phlebotomy and other lifestyle modifications. It's important to follow your doctor's advice to prevent complications and maintain your health"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a headache and feel nauseous.",
+            "I'm sorry to hear that. Can you tell me more about your symptoms?",
+            "I woke up with a headache and I can't seem to shake it. My stomach is also upset.",
+            "Have you been experiencing any dizziness or sensitivity to light?",
+            "No, just the headache and nausea.",
+            "Based on your symptoms, it could be a simple case of a tension headache and an upset stomach. Try taking some over-the-counter medication for the headache and eating some simple, plain foods for your stomach.",
+            "Thank you, Medi. I'll try that.",
+            "Let me know if you have any other questions or if your symptoms persist.",
+            "Will do. Thanks again, Medi."
+        ],
+        "knowledge": "Headache and Nausea Headache and Nausea Tension headaches are the most common type of headache and can be caused by stress, fatigue, and poor posture. Some symptoms include a dull, aching pain in the head, a sensation of tightness or pressure across the forehead, and tenderness around the scalp, neck, and shoulders. Nausea can be caused by a variety of factors such as motion sickness, anxiety, or a viral infection. It can also be a side effect of medication or a symptom of a chronic condition. In most cases, nausea is not serious and can be treated with home remedies such as ginger, peppermint, or chamomile tea. Headache and Nausea Headache and Nausea",
+        "response": "Your symptoms sound like they could be a tension headache and an upset stomach. Try taking some over-the-counter medication for the headache and eating some simple, plain foods for your stomach."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure done and was wondering what I can do to aid in my recovery.",
+            "Hi there, I'm sorry to hear that. What type of procedure did you have done?",
+            "I had a minor surgery on my knee.",
+            "After a knee surgery, it's important to keep the joint elevated and to ice it for the first few days. You should also try to move around as much as possible to promote blood flow and prevent stiffness.",
+            "Are there any exercises I should avoid?",
+            "You should avoid any high-impact activities such as running or jumping for at least a few weeks. You should also avoid any exercises that cause pain or discomfort in your knee.",
+            "Got it. How about my diet? Are there any foods I should be eating more of?",
+            "You should focus on eating a balanced diet with plenty of protein and fiber to aid in your recovery. You should also stay hydrated and avoid consuming too much salt.",
+            "Thanks for the advice."
+        ],
+        "knowledge": "Knee Surgery Knee Surgery After a knee surgery, it's important to keep the joint elevated and to ice it for the first few days. You should also try to move around as much as possible to promote blood flow and prevent stiffness. Low-impact exercises such as swimming and cycling can also be beneficial. You should avoid any high-impact activities such as running or jumping for at least a few weeks. You should also avoid any exercises that cause pain or discomfort in your knee. A balanced diet with plenty of protein and fiber can aid in recovery, and staying hydrated and avoiding too much salt is also important. Knee Surgery Knee Surgery",
+        "response": "After a knee surgery, it's important to keep the joint elevated and to ice it for the first few days. You should also try to move around as much as possible to promote blood flow and prevent stiffness. You should avoid any high-impact activities such as running or jumping for at least a few weeks. You should focus on eating a balanced diet with plenty of protein and fiber to aid in your recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you give me some information on Hepatitis?",
+            "Of course. What would you like to know?",
+            "What are some of the genetic causes of Hepatitis?",
+            "Alpha-1-antitrypsin deficiency, hemochromatosis, and Wilson's disease are all genetic causes of Hepatitis. In alpha-1-antitrypsin deficiency, a co-dominant mutation in the gene for alpha-1-antitrypsin results in the abnormal accumulation of the mutant AAT protein within liver cells, leading to liver disease. Hemochromatosis and Wilson's disease are both autosomal recessive diseases involving abnormal storage of minerals. In hemochromatosis, excess amounts of iron accumulate in multiple body sites, including the liver, which can lead to cirrhosis. In Wilson's disease, excess amounts of copper accumulate in the liver and brain, causing cirrhosis and dementia.",
+            "When does Hepatitis tend to present as Hepatitis in the neonatal period or in childhood?",
+            "When the liver is involved, alpha-1-antitrypsin deficiency and Wilson's disease tend to present as Hepatitis in the neonatal period or in childhood. Hemochromatosis typically presents in adulthood, with the onset of clinical disease usually after age 50.",
+            "Thanks for the information, Medi.",
+            "You're welcome. Let me know if you have any other questions or concerns.",
+            "Will do."
+        ],
+        "knowledge": "Hepatitis Hepatitis Genetic causes of Hepatitis include alpha-1-antitrypsin deficiency, hemochromatosis, and Wilson's disease. In alpha-1-antitrypsin deficiency, a co-dominant mutation in the gene for alpha-1-antitrypsin results in the abnormal accumulation of the mutant AAT protein within liver cells, leading to liver disease. Hemochromatosis and Wilson's disease are both autosomal recessive diseases involving abnormal storage of minerals. In hemochromatosis, excess amounts of iron accumulate in multiple body sites, including the liver, which can lead to cirrhosis. In Wilson's disease, excess amounts of copper accumulate in the liver and brain, causing cirrhosis and dementia. When the liver is involved, alpha-1-antitrypsin deficiency and Wilson's disease tend to present as Hepatitis in the neonatal period or in childhood. Hemochromatosis typically presents in adulthood, with the onset of clinical disease usually after age 50 Hepatitis Hepatitis",
+        "response": "Alpha-1-antitrypsin deficiency, hemochromatosis, and Wilson's disease are all genetic causes of Hepatitis. In alpha-1-antitrypsin deficiency and Wilson's disease, Hepatitis tends to present in the neonatal period or in childhood. Hemochromatosis typically presents in adulthood, with the onset of clinical disease usually after age 50."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm feeling terrible. I experience nausea and vomiting frequently.",
+            "I'm sorry to hear that. How long have you been experiencing these symptoms?",
+            "I've been experiencing this for the past two weeks.",
+            "Have you experienced any abdominal pain or diarrhea?",
+            "No, I haven't. Just the nausea and vomiting.",
+            "Based on your symptoms, you might be suffering from viral gastroenteritis.",
+            "What can I do to treat this?",
+            "It's important to stay hydrated and rest. Avoid solid foods until the vomiting stops.",
+            "Thanks, Medi. How long will it take for me to start feeling better?"
+        ],
+        "knowledge": "Gastroenteritis Gastroenteritis Gastroenteritis is an infection of the stomach and intestines caused by viruses or bacteria. Symptoms include nausea, vomiting, diarrhea, and abdominal pain. The infection is usually spread through contaminated food or water, or from person to person. The best way to prevent gastroenteritis is to practice good hygiene, including washing your hands regularly and avoiding close contact with people who are sick.",
+        "response": "It varies from person to person, but most people start feeling better within a week."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm wondering if you can provide some information on hepatitis.",
+            "Of course, hepatitis is an inflammation of the liver. There are several types and causes of this condition.",
+            "What are the different types of hepatitis?",
+            "The most common types are hepatitis A, B, and C. There is also hepatitis D and E.",
+            "What are the main causes?",
+            "Hepatitis A is usually caused by consuming contaminated food or water. Hepatitis B and C are usually caused by contact with infected bodily fluids, such as blood or semen. Hepatitis D only occurs in people who are already infected with hepatitis B. Hepatitis E is usually caused by consuming contaminated food or water.",
+            "Thanks, Medi. How can I prevent getting hepatitis?",
+            "There are vaccines available for hepatitis A and B. You should also practice safe sex and avoid sharing needles or other equipment that might be contaminated with blood.",
+            "Got it. Thanks for your help, Medi."
+        ],
+        "knowledge": "Hepatitis Hepatitis Genetic causes of hepatitis include alpha-1-antitrypsin deficiency, hemochromatosis, and Wilson's disease. In alpha-1-antitrypsin deficiency, a co-dominant mutation in the gene for alpha-1-antitrypsin results in the abnormal accumulation of the mutant AAT protein within liver cells, leading to liver disease. Hemochromatosis and Wilson's disease are both autosomal recessive diseases involving abnormal storage of minerals. In hemochromatosis, excess amounts of iron accumulate in multiple body sites, including the liver, which can lead to cirrhosis. In Wilson's disease, excess amounts of copper accumulate in the liver and brain, causing cirrhosis and dementia. When the liver is involved, alpha-1-antitrypsin deficiency and Wilson's disease tend to present as hepatitis in the neonatal period or in childhood. Hemochromatosis typically presents in adulthood, with the onset of clinical disease usually after age 50 Hepatitis Hepatitis",
+        "response": "You're welcome. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a liver biopsy. Can you give me some advice on how to take care of myself after the procedure?",
+            "Of course. After a liver biopsy, it's important to rest for a few hours. Avoid strenuous activities and heavy lifting for the rest of the day.",
+            "How about eating and drinking?",
+            "You can resume your normal diet and fluid intake unless your doctor advises otherwise. It's important to drink plenty of water to help your body flush out the anesthesia and any medications you may have received during the procedure.",
+            "Are there any activities I should avoid?",
+            "Yes, you should avoid driving for the rest of the day and avoid any blood thinners, such as aspirin or ibuprofen, for a few days.",
+            "Thanks for your advice, Medi. I appreciate it.",
+            "You're welcome. Let me know if you have any other questions or concerns."
+        ],
+        "knowledge": "Liver Biopsy Liver Biopsy A liver biopsy is a procedure used to obtain a small piece of liver tissue for laboratory testing. It is usually done to diagnose or monitor liver disease. The procedure involves inserting a needle into the liver through the skin to obtain a tissue sample. After the procedure, it's important to rest and avoid strenuous activities for the rest of the day.",
+        "response": "Thank you, Medi. You've been very helpful."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about hepatitis.",
+            "Sure, I am ready to answer your question as a chatbot medical supporter",
+            "What are the symptoms of hepatitis?",
+            "The symptoms of hepatitis can range from mild to severe including fever, fatigue, loss of appetite, nausea, vomiting, abdominal pain, dark urine, and jaundice.",
+            "What are the causes of hepatitis?",
+            "The genetic causes of hepatitis include alpha-1-antitrypsin deficiency, hemochromatosis, and Wilson's disease.",
+            "What is hemochromatosis and how does it cause hepatitis?",
+            "Hemochromatosis is a genetic condition where excess amounts of iron accumulate in multiple body sites, including the liver, which can lead to cirrhosis and hepatitis.",
+            "How is hemochromatosis diagnosed?"
+        ],
+        "knowledge": "Hepatitis Hepatitis Genetic causes of hepatitis include alpha-1-antitrypsin deficiency, hemochromatosis, and Wilson's disease.  In alpha-1-antitrypsin deficiency, a co-dominant mutation in the gene for alpha-1-antitrypsin results in the abnormal accumulation of the mutant AAT protein within liver cells, leading to liver disease.  Hemochromatosis and Wilson's disease are both autosomal recessive diseases involving abnormal storage of minerals.  In hemochromatosis, excess amounts of iron accumulate in multiple body sites, including the liver, which can lead to cirrhosis.  In Wilson's disease, excess amounts of copper accumulate in the liver and brain, causing cirrhosis and dementia. When the liver is involved, alpha-1-antitrypsin deficiency and Wilson's disease tend to present as hepatitis in the neonatal period or in childhood.  Hemochromatosis typically presents in adulthood, with the onset of clinical disease usually after age 50 Hepatitis Hepatitis",
+        "response": "Hemochromatosis can be diagnosed through a blood test that measures the level of iron in the blood."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just got diagnosed with hepatitis and I am worried.",
+            "I understand. I am here to help you. What type of hepatitis do you have?",
+            "I am not sure, my doctor did not specify. Can you explain the different types?",
+            "Sure. There are three main types of hepatitis: A, B, and C. They are all caused by a virus, but have different modes of transmission and different outcomes.",
+            "What is the mode of transmission for hepatitis A?",
+            "Hepatitis A is usually spread through contaminated food or water, or by close contact with an infected person.",
+            "How is hepatitis B transmitted?",
+            "Hepatitis B is transmitted through the exchange of bodily fluids, such as blood, semen, or vaginal fluids. It can be spread through sexual contact, sharing needles, or from mother to child during birth.",
+            "What is the treatment for hepatitis?"
+        ],
+        "knowledge": "Hepatitis Hepatitis Hepatitis is an inflammation of the liver.  There are three main types of hepatitis: A, B, and C. They are all caused by a virus, but have different modes of transmission and different outcomes.  Hepatitis A is usually spread through contaminated food or water, or by close contact with an infected person.  Hepatitis B is transmitted through the exchange of bodily fluids, such as blood, semen, or vaginal fluids. It can be spread through sexual contact, sharing needles, or from mother to child during birth.  Hepatitis C is most commonly spread through contaminated needles or blood transfusions.  Treatment for hepatitis depends on the type and severity of the disease. Some cases can be managed with rest and a healthy diet, while others may require antiviral medication or even a liver transplant.",
+        "response": "It depends on the severity of the hepatitis and how well you respond to treatment. With proper care and treatment, many people with hepatitis are able to fully recover."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a liver biopsy done.",
+            "I am here to help. What can I do for you?",
+            "How long does it take to recover from a liver biopsy?",
+            "Recovery time can vary from person to person, but most people can resume normal activities within 24-48 hours.",
+            "Are there any precautions I should take after the biopsy?",
+            "You should avoid strenuous activity for at least 24 hours after the biopsy and avoid lifting heavy objects for a week.",
+            "What about my diet? Are there any restrictions?",
+            "You should avoid alcohol for at least a week after the biopsy and eat a healthy, well-balanced diet.",
+            "Are there any complications I should watch out for?"
+        ],
+        "knowledge": "Liver Biopsy Liver Biopsy A liver biopsy is a procedure to remove a small piece of liver tissue for examination under a microscope.  It is typically done to diagnose liver disease or to monitor the progression of a known liver condition.  Recovery time can vary from person to person, but most people can resume normal activities within 24-48 hours.  After the biopsy, you should avoid strenuous activity for at least 24 hours and avoid lifting heavy objects for a week.  You should also avoid alcohol for at least a week after the biopsy and eat a healthy, well-balanced diet.  Complications after a liver biopsy are rare, but you should watch out for signs of bleeding, such as dizziness, fainting, or abdominal pain. If you experience any of these symptoms, you should contact your doctor right away.",
+        "response": "You're welcome. I hope you have a speedy recovery and feel better soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing some symptoms lately.",
+            "Sure, please describe your symptoms to me.",
+            "I have been feeling extremely fatigued and nauseous for the past week.",
+            "Do you have a fever or any other symptoms?",
+            "No, just the fatigue and nausea.",
+            "Based on your symptoms, it is possible that you have Hepatitis. I recommend you visit a doctor for further testing as soon as possible.",
+            "Is Hepatitis a serious condition?",
+            "Yes, it can be serious if left untreated. But it can be treated with proper medical care.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Hepatitis Hepatitis Genetic causes of hepatitis include alpha-1-antitrypsin deficiency, hemochromatosis, and Wilson's disease.  In alpha-1-antitrypsin deficiency, a co-dominant mutation in the gene for alpha-1-antitrypsin results in the abnormal accumulation of the mutant AAT protein within liver cells, leading to liver disease.  Hemochromatosis and Wilson's disease are both autosomal recessive diseases involving abnormal storage of minerals.  In hemochromatosis, excess amounts of iron accumulate in multiple body sites, including the liver, which can lead to cirrhosis.  In Wilson's disease, excess amounts of copper accumulate in the liver and brain, causing cirrhosis and dementia. When the liver is involved, alpha-1-antitrypsin deficiency and Wilson's disease tend to present as hepatitis in the neonatal period or in childhood.  Hemochromatosis typically presents in adulthood, with the onset of clinical disease usually after age 50 Hepatitis Hepatitis",
+        "response": "You're welcome. I highly recommend you visit a doctor as soon as possible for further testing to confirm if you have Hepatitis."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about Hepatitis.",
+            "Of course, what would you like to know?",
+            "What are the symptoms of Hepatitis?",
+            "The symptoms of Hepatitis can vary, but some common symptoms are fatigue, nausea, jaundice, abdominal pain, and loss of appetite.",
+            "Thank you for the information. Can Hepatitis be cured?",
+            "Yes, Hepatitis can be cured with proper medical care and treatment.",
+            "Is there anything I can do to prevent Hepatitis?",
+            "Yes, there are several ways to prevent Hepatitis, such as getting vaccinated, practicing good hygiene, and avoiding contact with infected blood or bodily fluids.",
+            "Thank you, Medi. That was very helpful."
+        ],
+        "knowledge": "Hepatitis Hepatitis Genetic causes of hepatitis include alpha-1-antitrypsin deficiency, hemochromatosis, and Wilson's disease.  In alpha-1-antitrypsin deficiency, a co-dominant mutation in the gene for alpha-1-antitrypsin results in the abnormal accumulation of the mutant AAT protein within liver cells, leading to liver disease.  Hemochromatosis and Wilson's disease are both autosomal recessive diseases involving abnormal storage of minerals.  In hemochromatosis, excess amounts of iron accumulate in multiple body sites, including the liver, which can lead to cirrhosis.  In Wilson's disease, excess amounts of copper accumulate in the liver and brain, causing cirrhosis and dementia. When the liver is involved, alpha-1-antitrypsin deficiency and Wilson's disease tend to present as hepatitis in the neonatal period or in childhood.  Hemochromatosis typically presents in adulthood, with the onset of clinical disease usually after age 50 Hepatitis Hepatitis",
+        "response": "You're welcome. Feel free to ask me any more questions you may have about Hepatitis."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a liver biopsy and I'm not sure what to do now.",
+            "I can help you with that. What advice would you like?",
+            "What should I do to take care of myself after the biopsy?",
+            "It is important to rest and avoid any strenuous activities for the first 24 hours after the biopsy. You may feel some pain or discomfort in the area of the biopsy, so it is also recommended to avoid any heavy lifting or physical exertion for at least a week. In addition, you may be advised to avoid blood thinning medications or supplements that could increase your risk of bleeding.",
+            "What about my diet?",
+            "It is recommended to eat a healthy, balanced diet that includes plenty of fruits and vegetables, lean protein, and whole grains. It is also important to stay hydrated and avoid alcohol and fatty or greasy foods that may be hard on your liver.",
+            "Thank you for the advice, Medi.",
+            "You're welcome. And make sure to follow any specific instructions or advice given to you by your doctor.",
+            "Will do. Thanks again, Medi."
+        ],
+        "knowledge": "Hepatitis Hepatitis Genetic causes of hepatitis include alpha-1-antitrypsin deficiency, hemochromatosis, and Wilson's disease.  In alpha-1-antitrypsin deficiency, a co-dominant mutation in the gene for alpha-1-antitrypsin results in the abnormal accumulation of the mutant AAT protein within liver cells, leading to liver disease.  Hemochromatosis and Wilson's disease are both autosomal recessive diseases involving abnormal storage of minerals.  In hemochromatosis, excess amounts of iron accumulate in multiple body sites, including the liver, which can lead to cirrhosis.  In Wilson's disease, excess amounts of copper accumulate in the liver and brain, causing cirrhosis and dementia. When the liver is involved, alpha-1-antitrypsin deficiency and Wilson's disease tend to present as hepatitis in the neonatal period or in childhood.  Hemochromatosis typically presents in adulthood, with the onset of clinical disease usually after age 50 Hepatitis Hepatitis",
+        "response": "You're welcome. Take care of yourself and follow any specific instructions or advice given to you by your doctor. Let me know if you have any more questions."
+    }
+]

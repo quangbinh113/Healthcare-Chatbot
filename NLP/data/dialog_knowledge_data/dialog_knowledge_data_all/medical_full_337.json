@@ -1,0 +1,406 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I am concerned about hepatitis A",
+            "Hello, what are your concerns about hepatitis A?",
+            "Can you tell me more about the hepatitis A vaccine?",
+            "The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease.",
+            "How many doses of hepatitis A vaccine are required for adults?",
+            "It depends on the type of the vaccine. If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer. If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required.",
+            "Are there any side effects of the hepatitis A vaccine?",
+            "The most common side effect of hepatitis A vaccine is soreness at the injection site. Other side effects may include headache or fatigue.",
+            "Is hepatitis A vaccine safe for children under the age of 2?"
+        ],
+        "knowledge": "Hepatitis A Hepatitis A The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months. \u00a0 The dosing is slightly different for adults depending on the type of the vaccine. \u00a0 If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer. \u00a0 If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. ",
+        "response": "Yes, hepatitis A vaccine is safe for children under the age of 2."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a question about hepatitis B vaccine",
+            "Sure, what can I help you with regarding hepatitis B vaccine?",
+            "Should all children be vaccinated against hepatitis B?",
+            "The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine. They also recommend it for those who desire it or are at high risk.",
+            "How many doses of hepatitis B vaccine are required?",
+            "The number of doses depends on the age of the patient and the type of vaccine used. For example, for children under age 19, 2 or 3 doses may be required depending on the vaccine used.",
+            "Is hepatitis B vaccine safe?",
+            "Yes, hepatitis B vaccine is very safe and effective. The most common side effect is soreness at the injection site.",
+            "Who is at high risk for hepatitis B?"
+        ],
+        "knowledge": "Hepatitis B Hepatitis B The CDC recommends the routine vaccination of all children under age 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk.  The number of doses depends on the age of the patient and the type of vaccine used.  For example, for children under age 19, 2 or 3 doses may be required depending on the vaccine used.  The side effects of the hepatitis B vaccine are usually mild and include soreness at the injection site.  Those at high risk for hepatitis B include healthcare workers, those who live with someone who has hepatitis B, and people traveling to countries where hepatitis B is common.",
+        "response": "Those at high risk for hepatitis B include healthcare workers, those who live with someone who has hepatitis B, and people traveling to countries where hepatitis B is common."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had the hepatitis A vaccine. Can you give me some advice on what to expect?",
+            "Hello, it's great that you got vaccinated. The most common side effect is soreness at the injection site. Other side effects may include headache or fatigue.",
+            "Is there anything I can do to reduce the pain at the injection site?",
+            "You can apply a cool compress to the injection site or take a pain reliever such as acetaminophen or ibuprofen. It is also important to keep the injection site clean and dry.",
+            "Can I get hepatitis A even after getting vaccinated?",
+            "It is possible to get hepatitis A even after getting vaccinated, but the risk is much lower. In addition, if you do get the infection, it is likely to be much milder than if you had not been vaccinated.",
+            "How long does the hepatitis A vaccine provide immunity?",
+            "The hepatitis A vaccine provides long-lasting immunity. Studies have shown that immunity can last for at least 25 years.",
+            "Is it possible to get hepatitis A and hepatitis B at the same time?"
+        ],
+        "knowledge": "Hepatitis A Hepatitis A The most common side effect of hepatitis A vaccine is soreness at the injection site. Other side effects may include headache or fatigue.\u00a0It is possible to get hepatitis A even after getting vaccinated, but the risk is much lower. In addition, if you do get the infection, it is likely to be much milder than if you had not been vaccinated.The hepatitis A vaccine provides long-lasting immunity. Studies have shown that immunity can last for at least 25 years.\u00a0Hepatitis A and hepatitis B are two separate viruses and require different vaccines.",
+        "response": "No, it is not possible to get hepatitis A and hepatitis B at the same time because they are two separate viruses and require different vaccines."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I want to know more about Hepatitis A vaccine.",
+            "Sure, I am happy to help. What do you want to know more about the vaccine?",
+            "I am curious about the dosing schedule for adults, can you tell me?",
+            "For the vaccine of hepatitis A only, two doses are given 6-18 months apart depending on the manufacturer.",
+            "If someone wants a combined vaccine for hepatitis A and hepatitis B, how many doses are required?",
+            "If someone wants a combined vaccine, up to 4 doses may be required.",
+            "At what age should children start vaccinating for hepatitis A?",
+            "The CDC recommends the hepatitis A vaccine for all children beginning at age one. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6-18 months apart and should be started before the age 24 months.",
+            "Thanks, Medi. How about the vaccination for hepatitis B?"
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine. They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis The dosing is slightly different for adults depending on the type of the vaccine.",
+        "response": "For hepatitis B vaccine, the CDC recommends the routine vaccination of all children under the age of 19 and those who desire it or are at high risk."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just got vaccinated for hepatitis A and B. Are there any precautions I should take after the vaccination?",
+            "Congratulations on getting vaccinated. After the vaccination, you may experience some side effects like fever, headache, fatigue, or soreness on the injection site.",
+            "How long will these side effects last?",
+            "Usually, the side effects will disappear within a few days. However, if you feel any unusual symptoms, you should consult a doctor immediately.",
+            "Can I drink alcohol or do physical activities after getting vaccinated?",
+            "You can drink alcohol after the vaccination. But, it's better to avoid excessive alcohol intake. You can also do normal physical activities. However, if you feel any discomfort, please take a rest.",
+            "Thanks for your advice, Medi. How long will the vaccination be effective?",
+            "For the hepatitis A vaccine, the protection lasts at least 15 years and possibly a lifetime after the second dose. For the hepatitis B vaccine, it can provide long-term protection for more than 20 years after the vaccination.",
+            "That sounds great. One last question, what if I missed one dosage?"
+        ],
+        "knowledge": "Hepatitis Hepatitis For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6-18 months apart and should be started before the age 24 months. If the vaccine is for hepatitis A only, two doses are given 6-18 months apart depending on the manufacturer. If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The protection lasts at least 15 years and possibly a lifetime after the second dose for the hepatitis A vaccine. For the hepatitis B vaccine, it can provide long-term protection for more than 20 years after the vaccination.",
+        "response": "You should get the missed dose of hepatitis B vaccination as soon as possible, but for hepatitis A vaccine, you should wait until the next scheduled time for the dose."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I had hepatitis A virus before. Can I still get vaccinated?",
+            "Yes, you can. Although the infection can provide immunity, it's better to get vaccinated because the immunity from the vaccination is longer-lasting and more reliable than the immunity from the infection.",
+            "But, how long should I wait after the infection to get vaccinated?",
+            "You should wait until you recover completely from the infection and the doctor gives you permission to get vaccinated. Usually, it takes around 6-12 months to recover from the infection.",
+            "I see. One more question, can pregnant women get vaccinated?",
+            "Yes, they can. Although there is no evidence of harm from the vaccine, if you are pregnant, you should consult your doctor before getting vaccinated.",
+            "Thank you, Medi. Do you have any advice on how to prevent the hepatitis A virus?",
+            "Yes, of course. You can prevent the hepatitis A virus by maintaining good hygiene, washing your hands frequently, avoiding contaminated food and water, and getting vaccinated if you are at risk of infection.",
+            "I got it. Thanks for your advice."
+        ],
+        "knowledge": "Hepatitis Hepatitis Although the infection can provide immunity, it's better to get vaccinated because the immunity from the vaccination is longer-lasting and more reliable than the immunity from the infection. You should wait until you recover completely from the infection and the doctor gives you permission to get vaccinated. If you are pregnant, you should consult your doctor before getting vaccinated. You can prevent the hepatitis A virus by maintaining good hygiene, washing your hands frequently, avoiding contaminated food and water, and getting vaccinated if you are at risk of infection.",
+        "response": "You are welcome. Do you have any other questions?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about Hepatitis A. What is it?",
+            "Hepatitis A is a viral infection that affects the liver. It is transmitted through contaminated food and water.",
+            "What are the symptoms of Hepatitis A? ",
+            "Symptoms may include fever, nausea, vomiting, abdominal pain, dark urine, and jaundice.",
+            "Is there a vaccine available for Hepatitis A?",
+            "Yes, there is a vaccine available for Hepatitis A. The CDC recommends it for all children beginning at age one.",
+            "How is the vaccine administered?",
+            "It is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.",
+            "Thanks for the information. I will consider getting vaccinated."
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.  \u00a0The dosing is slightly different for adults depending on the type of the vaccine.  \u00a0If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.  \u00a0If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "You're welcome. Feel free to ask me if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just got vaccinated for Hepatitis A, but I still have some questions.",
+            "Sure, what would you like to know?",
+            "Is there anything I should avoid doing after getting vaccinated?",
+            "You should avoid alcohol and medications that may affect the liver for a few days after getting vaccinated.",
+            "How long does it take for the vaccine to be effective?",
+            "The vaccine is effective within two weeks of the first shot.",
+            "Do I need a booster shot?",
+            "If you received the vaccine before age 2, you will need a booster shot at age 18 or older. Otherwise, a booster shot is not needed.",
+            "Thanks for your help Medi. That's all I wanted to know."
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.  \u00a0The dosing is slightly different for adults depending on the type of the vaccine.  \u00a0If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.  \u00a0If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "You're welcome. I'm glad I could help. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently recovered from Hepatitis A. What should I do to maintain a healthy lifestyle?",
+            "Glad to hear you recovered. To maintain a healthy lifestyle, you should focus on eating a balanced diet, getting regular exercise, and avoiding alcohol and drugs that may affect the liver.",
+            "Is there any specific diet I should follow?",
+            "You should eat plenty of fruits, vegetables, and whole grains. Avoid processed foods, high-fat foods, and foods with a lot of sugar.",
+            "What kind of exercise should I do?",
+            "Any kind of exercise that gets your heart rate up is good. You can try walking, jogging, cycling, or swimming.",
+            "Are there any medications I should avoid?",
+            "Yes, you should avoid any medications that may affect your liver. Check with your doctor before taking any new medications.",
+            "Thanks for your help, Medi. I will keep these things in mind."
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.  \u00a0The dosing is slightly different for adults depending on the type of the vaccine.  \u00a0If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.  \u00a0If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "You're welcome. I'm glad I could help. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I might be at risk for Hepatitis A.",
+            "Hello there, what symptoms are you experiencing?",
+            "I haven't experienced any symptoms, but I think I might be at high risk for contracting the disease.",
+            "Okay, based on your risk factors, I would recommend getting vaccinated.",
+            "How many doses of the vaccine do I need, and when should I get them?",
+            "For adults, two doses are given 6-18 months apart depending on the manufacturer. It's important to get vaccinated as soon as possible to protect yourself from the virus.",
+            "Thank you Medi. Is there anything else I can do to prevent Hepatitis A?",
+            "Yes, practicing good hygiene by washing your hands thoroughly and avoiding contaminated food and water can also help reduce your risk of contracting the virus.",
+            "Okay, I'll be sure to keep that in mind. Thank you for your help."
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.   The dosing is slightly different for adults depending on the type of the vaccine.   If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.   If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "You're welcome. Don't forget to get vaccinated as soon as possible and to practice good hygiene to reduce your risk of contracting Hepatitis A."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about the Hepatitis A vaccine.",
+            "Of course! What would you like to know?",
+            "What age should children start getting vaccinated for Hepatitis A?",
+            "Children should begin getting vaccinated at age one.",
+            "How many doses of the vaccine are required for children?",
+            "For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.",
+            "Is the Hepatitis A vaccine recommended for adults?",
+            "Yes, adults who have not previously been vaccinated and are at high risk should consider getting vaccinated as well.",
+            "Thank you for clearing that up, Medi. That's all for now."
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.   The dosing is slightly different for adults depending on the type of the vaccine.   If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.   If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "You're welcome, don't hesitate to reach out if you have any more questions about the Hepatitis A vaccine."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just received the Hepatitis A vaccine. What should I do now to take care of myself?",
+            "After receiving the vaccine, it's important to take care of yourself to ensure the vaccine is effective. Avoid alcohol and non-essential medications for at least a week, and be sure to get plenty of rest.",
+            "What should I eat after receiving the vaccine?",
+            "It's important to maintain a healthy, balanced diet with plenty of fruits and vegetables to help your body build immunity after receiving the vaccine.",
+            "Can I exercise after receiving the vaccine?",
+            "Yes, you can exercise after receiving the vaccine, but be sure to listen to your body and rest if you feel fatigued or weak.",
+            "Thanks for the advice, Medi. Is there anything else I should know?",
+            "It's important to monitor yourself for any side effects after receiving the vaccine. If you experience any severe side effects or have any concerns, be sure to contact your healthcare provider.",
+            "Okay, I'll make sure to do that. Thanks for your help, Medi."
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.   The dosing is slightly different for adults depending on the type of the vaccine.   If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.   If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "You're welcome. Take care of yourself and monitor yourself for any side effects after receiving the vaccine."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about hepatitis A and B vaccines.",
+            "Hi there, I am happy to help you. What do you want to know?",
+            "When should children get vaccinated for hepatitis A?",
+            "The CDC recommends hepatitis A vaccination for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease.",
+            "How many doses is required for hepatitis A vaccine for children?",
+            "The vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age of 24 months.",
+            "What about adults? How is the dosing for hepatitis A vaccine?",
+            "If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer. If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required based on the manufacturer.",
+            "Thanks. One last question: When should children get vaccinated for hepatitis B?"
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine. They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a hepatitis A vaccination. What should I do now?",
+            "Hi, it is normal to experience some side effects after vaccination such as soreness at the injection site, headache, fatigue, and fever.",
+            "What should I do if I have a sore arm or feel tired after the vaccination?",
+            "You can take a pain reliever such as ibuprofen or acetaminophen to reduce pain or discomfort. Drinking plenty of fluids and resting may also help you feel better.",
+            "Can I go back to my normal routine after the hepatitis A vaccination?",
+            "Yes, it is usually safe to return to your normal routine after the vaccination. However, you should avoid any strenuous physical activities for at least 24 hours after the vaccination.",
+            "Should I be worried about allergic reactions?",
+            "While allergic reactions are rare, they can occur. If you have symptoms of an allergic reaction such as difficulty breathing, hives, or swelling of the face or throat, seek medical attention immediately.",
+            "Thank you, Medi. Can you remind me of the dosing schedule for hepatitis A vaccine again?"
+        ],
+        "knowledge": "Hepatitis Hepatitis If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer. If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required based on the manufacturer.",
+        "response": "If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer. If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required based on the manufacturer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure for hepatitis A. What should I do now?",
+            "Hi, it is normal to feel some pain, soreness, or swelling at the injection site after the procedure.",
+            "What should I do if I have a fever or chills after the procedure?",
+            "You can take a pain reliever such as acetaminophen to reduce fever or chills. Drinking plenty of fluids and resting may also help you feel better.",
+            "Can I go back to my normal routine after the medical procedure?",
+            "It depends on the type of procedure you had. Your doctor will give you specific instructions on when you can return to your normal routine.",
+            "Should I be worried about any complications?",
+            "Complications are rare, but they can occur. If you experience symptoms such as severe pain, bleeding, or infection, seek medical attention immediately.",
+            "Thank you, Medi. Can you remind me of the dosing schedule for hepatitis A vaccines again?"
+        ],
+        "knowledge": "Hepatitis Hepatitis If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer. If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required based on the manufacturer.",
+        "response": "If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer. If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required based on the manufacturer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about hepatitis A vaccine.",
+            "Hello, I can help. What's on your mind?",
+            "I heard that the CDC recommends it for all children, but how many shots are needed?",
+            "For children 12 months or older, the vaccination is given in two doses 6-18 months apart.",
+            "I see. What about adults?",
+            "If the vaccine is for hepatitis A only, two doses are given 6-18 months apart depending on the manufacturer.",
+            "What if it's a combination vaccine for hepatitis A and B?",
+            "Up to 4 doses may be required, but your doctor will let you know what's best for you.",
+            "Thank you, Medi. How early should a child get vaccinated?"
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.  \u00a0The dosing is slightly different for adults depending on the type of the vaccine.  \u00a0If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.  \u00a0If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "For children 12 months or older, the vaccination is given in two doses 6-18 months apart and should be started before the age 24 months."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just got vaccinated for hepatitis A. What should I expect?",
+            "Hello, mild side effects are common. What symptoms are you experiencing?",
+            "I have a fever and my arm is sore where I got the shot.",
+            "That's normal and should go away in a few days. Take some acetaminophen for the fever if needed.",
+            "Is there anything else I should look out for?",
+            "In rare cases, a severe allergic reaction can occur. If you have trouble breathing or a fast heartbeat, seek medical attention immediately.",
+            "Okay, I'll keep that in mind. Thanks for the information, Medi.",
+            "You're welcome. Do you have any other questions about hepatitis A?"
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.  \u00a0The dosing is slightly different for adults depending on the type of the vaccine.  \u00a0If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.  \u00a0If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "No, I don't have any other questions. Thanks, Medi."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had hepatitis A and recovered. What should I do now?",
+            "Hello, it's important to take care of yourself after recovering from hepatitis A. What questions do you have?",
+            "What kind of diet should I follow?",
+            "You should focus on staying hydrated and eating a balanced diet with plenty of fruits and vegetables to support your liver. Avoid alcohol and fatty foods.",
+            "Can I exercise?",
+            "Yes, light exercise is recommended as it can help improve your liver function. Start with short walks and gradually increase the length and intensity of your workouts.",
+            "How long will it take for me to fully recover?",
+            "Most people recover within a few weeks to a couple of months, but it can take up to 6 months for some cases. Your doctor can monitor your progress.",
+            "Thanks, Medi. Is there anything else I should know?"
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.  \u00a0The dosing is slightly different for adults depending on the type of the vaccine.  \u00a0If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.  \u00a0If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "No, that's it. Take care of yourself and follow your doctor's instructions. Best of luck to you!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm worried about my child's health.",
+            "Hello, I'm here to help. What seems to be the problem?",
+            "My child is turning one soon, and I'm not sure if they need the hepatitis A vaccine.",
+            "Yes, the CDC recommends the hepatitis A vaccine for all children beginning at age one.",
+            "How many doses do they need?",
+            "The vaccine is given in two doses, 6-18 months apart.",
+            "When should I start the vaccination?",
+            "It's recommended to start before the age of 24 months.",
+            "Thank you, Medi. You've been very helpful."
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.  \u00a0The dosing is slightly different for adults depending on the type of the vaccine.  \u00a0If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.  \u00a0If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "You're welcome. Let me know if you have any more questions about vaccinations."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about hepatitis B.",
+            "Sure, I'm here to help. What would you like to know?",
+            "What is hepatitis B?",
+            "Hepatitis B is a viral infection that attacks the liver and can cause both acute and chronic disease.",
+            "How is hepatitis B transmitted?",
+            "It's transmitted through contact with infected blood or other body fluids, such as semen and vaginal secretions.",
+            "Who is at risk for hepatitis B?",
+            "People who have unprotected sex, share needles, or are exposed to infected blood or body fluids are at risk.",
+            "Thanks, Medi. That's helpful information."
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.  \u00a0The dosing is slightly different for adults depending on the type of the vaccine.  \u00a0If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.  \u00a0If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "If you have any further questions, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had the hepatitis A vaccine. Is there anything I can do to take care of myself?",
+            "Yes, there are some things you can do to take care of yourself after getting vaccinated.",
+            "What should I do?",
+            "You should avoid alcohol and strenuous exercise for the first 24 hours after getting vaccinated.",
+            "What about my diet?",
+            "There are no specific diet restrictions, but it's important to eat a healthy and balanced diet.",
+            "Any other suggestions?",
+            "Just make sure to get enough rest and stay hydrated.",
+            "Thank you, Medi. That's good to know."
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.  \u00a0The dosing is slightly different for adults depending on the type of the vaccine.  \u00a0If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.  \u00a0If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "You're welcome. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm worried about my child's health.",
+            "Hi there, I'm here to help. What's the concern?",
+            "I want to know the recommended hepatitis A vaccine for my child.",
+            "The CDC recommends the hepatitis A vaccine for all children beginning at age one. ",
+            "How is the vaccination given to children?",
+            "It's given as a shot into the muscle in two doses 6\u201318 months apart, and should be started before the age of 24 months.",
+            "What's the dosing like for adults?",
+            "It depends on the type of vaccine. If it's for hepatitis A alone, two doses are given 6\u201318 months apart. If it's combined hepatitis A and hepatitis B, up to 4 doses may be required.",
+            "What about hepatitis B vaccine for children?"
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.  \u00a0The dosing is slightly different for adults depending on the type of the vaccine.  \u00a0If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.  \u00a0If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "The recommended hepatitis A vaccination for children is given as a shot into the muscle in two doses 6\u201318 months apart, and should be started before the age of 24 months. For adults, the dosing depends on the type of vaccine, and up to 4 doses may be required for combined hepatitis A and B vaccine. The CDC recommends the routine vaccination for all children under the age of 19 with the hepatitis B vaccine, and for those who desire it or are at high risk."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had my hepatitis vaccination, what should I do next?",
+            "Hi, that's great to hear! You won't need any special care following the vaccination.",
+            "Is there anything I should be aware of?",
+            "It's normal to experience some mild side effects, such as a low fever, sore arm, or redness in the injection area.",
+            "What can I do to avoid any side effects?",
+            "You can try applying a cool, wet cloth to the injection site or taking an over-the-counter pain reliever. ",
+            "How long will the side effects last?",
+            "The side effects usually disappear within a few days. If they last longer, or if you experience a more severe reaction, consult your healthcare provider.",
+            "Thanks for the advice, Medi. Is there anything else I need to know?"
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.  \u00a0The dosing is slightly different for adults depending on the type of the vaccine.  \u00a0If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.  \u00a0If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "You might experience some mild side effects such as a low fever, sore arm or redness in the injection area. You can apply a cool, wet cloth or take an over-the-counter pain reliever to alleviate the symptoms. The side effects usually disappear within a few days. Remember that the vaccine is not 100% effective, but it is highly effective in preventing the disease."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a hepatitis vaccine. Are there any precautions I should take?",
+            "Hi there! There are no special precautions you need to take after receiving the vaccine.",
+            "Is there a possibility of getting hepatitis A or B even after vaccination?",
+            "While the vaccine is highly effective in preventing the disease, it is not 100% effective. Sometimes, it is possible to get the disease even after vaccination.",
+            "What are some of the symptoms of hepatitis A and B?",
+            "Symptoms of hepatitis A and B can include fatigue, nausea, vomiting, abdominal pain, dark urine, and yellowing of the skin and eyes.",
+            "What can I do if I think I have hepatitis A or B?",
+            "If you think you may have been exposed to hepatitis A or B, or if you are experiencing any of these symptoms, it's important to see your healthcare provider right away for testing and treatment.",
+            "Okay, thanks for the information Medi. I'll keep that in mind."
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months.  \u00a0The dosing is slightly different for adults depending on the type of the vaccine.  \u00a0If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer.  \u00a0If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine.  They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "After receiving the vaccine, there are no special precautions you need to take. However, while the vaccine is highly effective in preventing the disease, it is not 100% effective. If you think you may have been exposed to hepatitis A or B or are experiencing symptoms, it's important to see a healthcare provider for testing and treatment. Remember to always practice good hygiene and food safety to protect yourself from hepatitis A and B."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am worried about getting Hepatitis A. What should I do?",
+            "Hello! The best way to protect yourself from Hepatitis A is to get vaccinated.",
+            "How many doses do I need, and when should I get them?",
+            "For people aged 12 months or older, two doses of the vaccine are given six months apart.",
+            "Do I need the vaccine if I'm not a child?",
+            "It depends on your risk of contracting Hepatitis A. You should consult with your doctor or a healthcare professional.",
+            "Okay, thank you. What are the side effects of the vaccine?",
+            "The side effects are usually mild and short-lived, including soreness at the injection site, headache, fatigue, fever, and loss of appetite.",
+            "Alright. Thank you for your help, Medi."
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months. The dosing is slightly different for adults depending on the type of the vaccine. If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer. If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine. They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "You're welcome! I hope the information was helpful."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just received the Hepatitis A vaccine yesterday. What should I expect?",
+            "Hello! That's great to hear. You may experience some mild side effects, such as soreness or redness at the injection site, headache, fatigue, fever, and loss of appetite.",
+            "Is it normal to feel a little sick after getting the vaccine?",
+            "Yes, it's normal to feel a little sick after getting the vaccine. It's your body's natural response to the vaccine and a sign that your immune system is building protection against Hepatitis A.",
+            "Can I still get Hepatitis A after getting vaccinated?",
+            "It's possible, but the vaccine is highly effective and provides long-lasting protection against Hepatitis A. However, if you do contract Hepatitis A after getting the vaccine, your symptoms will likely be milder than they would be if you hadn't been vaccinated.",
+            "Okay, thank you! Do you have any advice on how to take care of myself after getting the vaccine?",
+            "You're welcome! It's important to drink plenty of fluids and take it easy for a day or two after getting the vaccine. You can also take acetaminophen to relieve any discomfort you may have at the injection site.",
+            "Sounds good. Thank you for your help, Medi!"
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months. The dosing is slightly different for adults depending on the type of the vaccine. If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer. If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine. They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "You're welcome! If you have any more questions or concerns, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just found out that I have Hepatitis A. What should I do?",
+            "Hello! I'm sorry to hear that. Your doctor will provide you with advice on how to manage your symptoms and prevent the spread of Hepatitis A to others.",
+            "What are the symptoms of Hepatitis A, and how long do they last?",
+            "The symptoms of Hepatitis A include fever, fatigue, loss of appetite, nausea, vomiting, abdominal pain, dark urine, and jaundice. The length and severity of the illness can vary, but most people recover within a few weeks to several months.",
+            "How can I prevent spreading Hepatitis A to others?",
+            "The best way to prevent spreading Hepatitis A is to practice good hygiene, such as washing your hands frequently, avoiding close contact with others, and not preparing food for others until you've been cleared by a healthcare professional.",
+            "Is there a cure for Hepatitis A?",
+            "There's no specific treatment for Hepatitis A, but most people recover on their own with proper care and management of symptoms.",
+            "Okay, thank you for your help, Medi."
+        ],
+        "knowledge": "Hepatitis Hepatitis The CDC recommends the hepatitis A vaccine for all children beginning at age one, as well as for those who have not been previously immunized and are at high risk for contracting the disease. For children 12 months of age or older, the vaccination is given as a shot into the muscle in two doses 6\u201318 months apart and should be started before the age 24 months. The dosing is slightly different for adults depending on the type of the vaccine. If the vaccine is for hepatitis A only, two doses are given 6\u201318 months apart depending on the manufacturer. If the vaccine is combined hepatitis A and hepatitis B, up to 4 doses may be required. The CDC recommends the routine vaccination of all children under the age of 19 with the hepatitis B vaccine. They also recommend it for those who desire it or are at high risk Hepatitis Hepatitis",
+        "response": "You're welcome! If you have any more questions or concerns, don't hesitate to ask."
+    }
+]

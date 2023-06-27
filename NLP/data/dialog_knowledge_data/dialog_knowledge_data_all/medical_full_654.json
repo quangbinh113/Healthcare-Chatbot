@@ -1,0 +1,404 @@
+[
+    {
+        "dialog": [
+            "Hello, Medi. I am feeling unwell.",
+            "Hello, I'm here to assist you. Can you explain your symptoms?",
+            "I have a high fever, cough, and body pain.",
+            "Okay, you may have the flu. Do you have any other symptoms?",
+            "I feel tired and have a headache.",
+            "It sounds like you have influenza. Take plenty of fluids and get enough rest.",
+            "Okay, thanks. Do you have any advice on how to prevent the flu?",
+            "Wash your hands regularly and avoid people who are sick.",
+            "Great advice, thank you!"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long-lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. If you have any other questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. Can you explain what HPAI viruses are?",
+            "Hello. HPAI viruses are highly pathogenic avian influenza viruses.",
+            "What kind of HPAI viruses are there?",
+            "Notable HPAI viruses include HPAI H5N1 and HPAI H7N9.",
+            "What problems have HPAI viruses caused?",
+            "HPAI viruses have been a major disease burden in the 21st century, resulting in the death of large numbers of birds.",
+            "How do migratory birds spread influenza?",
+            "Migratory birds can spread influenza across long distances.",
+            "That is very informative, thank you, Medi! Can you tell me more about H7N9? "
+        ],
+        "knowledge": "Influenza Influenza In H7N9's case, some circulating strains were originally LPAI but became HPAI by acquiring the HA multibasic cleavage site. Avian H9N2 is also of concern because although it is LPAI, it is a common donor of genes to H5N1 and H7N9 during reassortment. Migratory birds can spread influenza across long distances. An example of this was when an H5N1 strain in 2005 infected birds at Qinghai Lake, China, which is a stopover and breeding site for many migratory birds, subsequently spreading the virus to more than 20 countries across Asia, Europe, and the Middle East. AIVs can be transmitted from wild birds to domestic free-range ducks and in turn to poultry through contaminated water, aerosols, and fomites Influenza Influenza",
+        "response": "H7N9 circulating strains were originally LPAI but became HPAI by acquiring the HA multibasic cleavage site."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I recently had a medical procedure. Can you give me some advice for my post-operative recovery?",
+            "Hello. I hope your surgery went well. What kind of advice are you looking for?",
+            "I am wondering what kind of physical activities I can do after surgery.",
+            "It is important to start with light activities like walking and gradually increase the intensity and duration of your exercise.",
+            "What about my diet?",
+            "A healthy diet is important for post-operative recovery. Focus on eating whole foods and getting enough protein.",
+            "How much sleep do I need to get?",
+            "Make sure you are getting enough rest. Aim for at least 7 hours of sleep each night.",
+            "That's very helpful, thanks! Is there anything else I should know?"
+        ],
+        "knowledge": "Influenza Influenza Notable HPAI viruses include HPAI H5N1 and HPAI H7N9. HPAI viruses have been a major disease burden in the 21st century, resulting in the death of large numbers of birds. In H7N9's case, some circulating strains were originally LPAI but became HPAI by acquiring the HA multibasic cleavage site. Avian H9N2 is also of concern because although it is LPAI, it is a common donor of genes to H5N1 and H7N9 during reassortment. Migratory birds can spread influenza across long distances. An example of this was when an H5N1 strain in 2005 infected birds at Qinghai Lake, China, which is a stopover and breeding site for many migratory birds, subsequently spreading the virus to more than 20 countries across Asia, Europe, and the Middle East. AIVs can be transmitted from wild birds to domestic free-range ducks and in turn to poultry through contaminated water, aerosols, and fomites Influenza Influenza",
+        "response": "You're welcome. I hope you have a speedy recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms that I need help with.",
+            "Sure, what are your symptoms?",
+            "I have a fever and a dry cough. I also feel really tired",
+            "Based on your symptoms, it is highly likely that you have influenza. You should rest and stay hydrated",
+            "Thank you, Medi. What else can I do to help with my recovery?",
+            "You can take over-the-counter medication to manage your symptoms and get plenty of rest",
+            "Okay, is there anything else I should be aware of?",
+            "If your symptoms worsen or persist for more than a week, you should see a doctor",
+            "Great, thank you Medi. I'll keep that in mind."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It is highly likely that you have influenza. You should rest and stay hydrated. If your symptoms worsen or persist for more than a week, you should see a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about HPAI viruses and their impact?",
+            "Sure. HPAI viruses have been a major disease burden in the 21st century, resulting in the death of large numbers of birds.",
+            "What are some notable HPAI viruses?",
+            "Some notable HPAI viruses include HPAI H5N1 and HPAI H7N9.",
+            "What is LPAI?",
+            "LPAI stands for low pathogenic avian influenza, which is a milder form of the disease.",
+            "Can LPAI become HPAI?",
+            "In some cases, circulating strains can acquire the HA multibasic cleavage site, which causes them to become HPAI",
+            "How do AIVs spread?"
+        ],
+        "knowledge": "Influenza Influenza  Notable HPAI viruses include HPAI H5N1 and HPAI H7N9.  HPAI viruses have been a major disease burden in the 21st century, resulting in the death of large numbers of birds.  In H7N9's case, some circulating strains were originally LPAI but became HPAI by acquiring the HA multibasic cleavage site.  Avian H9N2 is also of concern because although it is LPAI, it is a common donor of genes to H5N1 and H7N9 during reassortment. Migratory birds can spread influenza across long distances.  An example of this was when an H5N1 strain in 2005 infected birds at Qinghai Lake, China, which is a stopover and breeding site for many migratory birds, subsequently spreading the virus to more than 20 countries across Asia, Europe, and the Middle East.  AIVs can be transmitted from wild birds to domestic free-range ducks and in turn to poultry through contaminated water, aerosols, and fomites Influenza Influenza",
+        "response": "Some notable HPAI viruses include HPAI H5N1 and HPAI H7N9. In some cases, circulating strains can acquire the HA multibasic cleavage site, which causes them to become HPAI. Migratory birds can spread influenza across long distances and AIVs can be transmitted from wild birds to domestic free-range ducks and in turn to poultry through contaminated water, aerosols, and fomites."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently underwent a medical procedure and was wondering about lifestyle changes I should make.",
+            "Sure, what kind of procedure did you undergo?",
+            "I had heart surgery",
+            "After heart surgery, it is important to follow a heart-healthy diet and engage in regular exercise",
+            "What should my heart-healthy diet consist of?",
+            "A heart-healthy diet consists of fruits, vegetables, whole grains, lean protein sources, and healthy fats such as olive oil",
+            "What kind of exercise should I engage in?",
+            "You should engage in light to moderate exercise such as walking or swimming, as recommended by your healthcare provider",
+            "Can I resume all my normal activities?"
+        ],
+        "knowledge": "Heart Surgery Heart Surgery  After heart surgery, lifestyle changes such as a heart-healthy diet and regular exercise are important.  A heart-healthy diet consists of fruits, vegetables, whole grains, lean protein sources, and healthy fats such as olive oil.  Exercise should be light to moderate and as recommended by your healthcare provider.  It is important to follow your healthcare provider's recommendations on when it is safe to resume normal activities Heart Surgery Heart Surgery",
+        "response": "After heart surgery, it is important to follow a heart-healthy diet and engage in regular exercise. A heart-healthy diet consists of fruits, vegetables, whole grains, lean protein sources, and healthy fats such as olive oil. You should engage in light to moderate exercise such as walking or swimming, as recommended by your healthcare provider. It is important to follow your healthcare provider's recommendations on when it is safe to resume normal activities."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a running nose and sore throat.",
+            "I see. Based on your symptoms, you may have contracted a flu.",
+            "What should I do?",
+            "I suggest you rest, drink plenty of fluids, and take over-the-counter medication to relieve your symptoms.",
+            "What medication should I take?",
+            "You can take acetaminophen for fever and body aches and ibuprofen for pain and inflammation.",
+            "Can I prevent this in the future?",
+            "Yes, practicing good hygiene such as washing your hands regularly and avoiding close contact with sick people can help.",
+            "Thank you, Medi. Is the flu contagious?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Yes, flu can spread easily through contact with an infected person's respiratory secretions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about avian influenza.",
+            "Sure, what's your question?",
+            "What is avian influenza?",
+            "Avian influenza is a type of influenza that affects birds.",
+            "Can it spread to humans?",
+            "Yes, in some cases, avian influenza can infect humans.",
+            "What are the symptoms of avian influenza in humans?",
+            "Symptoms may include fever, cough, sore throat, and muscle aches, and in severe cases, it can lead to pneumonia and respiratory failure.",
+            "How can I prevent avian influenza?"
+        ],
+        "knowledge": "Influenza Influenza  Notable HPAI viruses include HPAI H5N1 and HPAI H7N9.  HPAI viruses have been a major disease burden in the 21st century, resulting in the death of large numbers of birds.  In H7N9's case, some circulating strains were originally LPAI but became HPAI by acquiring the HA multibasic cleavage site.  Avian H9N2 is also of concern because although it is LPAI, it is a common donor of genes to H5N1 and H7N9 during reassortment. Migratory birds can spread influenza across long distances.  An example of this was when an H5N1 strain in 2005 infected birds at Qinghai Lake, China, which is a stopover and breeding site for many migratory birds, subsequently spreading the virus to more than 20 countries across Asia, Europe, and the Middle East.  AIVs can be transmitted from wild birds to domestic free-range ducks and in turn to poultry through contaminated water, aerosols, and fomites Influenza Influenza",
+        "response": "Practicing good hygiene, avoiding contact with sick birds and their droppings, and thoroughly cooking poultry products can help prevent avian influenza."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have recently had a flu shot and I'm wondering if I still need to worry about getting the flu.",
+            "Getting a flu shot greatly reduces your risk of getting the flu, but it is still possible to get it.",
+            "What should I do if I think I have the flu even though I got a flu shot?",
+            "Even if you got the flu shot, it's still possible to contract the flu. You should rest and drink plenty of fluids and take over-the-counter medication to relieve your symptoms.",
+            "Can I still spread the flu even if I got the flu shot?",
+            "Yes, it's possible to spread the flu even if you got the flu shot.",
+            "How long does it take for the flu shot to become effective?",
+            "It takes about two weeks for the flu shot to become effective in protecting against the flu.",
+            "Thank you, Medi. Is there anything else I need to know about the flu shot?"
+        ],
+        "knowledge": "Influenza Influenza  Influenza vaccination is recommended for people aged 6 months and older.  The vaccine can be given by injection or nasal spray.  The vaccine induces the production of neutralizing antibodies against the influenza virus.  The vaccine needs to be reformulated each year due to the high mutation rate of influenza viruses.  The seasonal influenza vaccine provides partial protection against the circulating strains of influenza viruses in a given season. The vaccine is estimated to be 40-60% effective in preventing symptomatic laboratory-confirmed influenza in healthy adults when the vaccine is well-matched to circulating influenza viruses Influenza Influenza",
+        "response": "Just remember that getting the flu shot greatly reduces your risk of getting the flu, but it's still important to take precautions, such as practicing good hygiene, to prevent the spread of the flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and sore throat. What should I do?",
+            "Hi, you must rest and drink a lot of fluid. You can take paracetamol and gargle salt water to relieve sore throat ",
+            "Oh okay, I'll follow your advice. But do I need antibiotics?",
+            "It depends on the cause of your symptoms. You should see a doctor for a proper diagnosis. ",
+            "Alright, I will. What diseases can cause these symptoms?",
+            "Fever and sore throat can be caused by various diseases, including influenza, strep throat, and COVID-19. ",
+            "That's helpful. How can I prevent getting sick in the future?",
+            "Wash your hands frequently, avoid close contact with sick people, and get vaccinated if possible.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Influenza Strep throat COVID-19 Influenza and COVID-19 are highly contagious respiratory illnesses caused by viruses. Strep throat is caused by Group A Streptococcus bacteria. Fever and sore throat are common symptoms of these illnesses. The best way to prevent getting sick is to practice good hygiene such as washing hands, avoiding close contact with sick people, and getting vaccinated if possible.",
+        "response": "You're welcome. Take care and stay safe."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I want to know more about the H7N9 virus.",
+            "Hi, H7N9 is a subtype of avian influenza virus that can cause severe respiratory illness in humans.",
+            "How does it spread to humans?",
+            "It is primarily transmitted to humans by exposure to infected poultry or contaminated environments.",
+            "What are the symptoms of H7N9?",
+            "Symptoms include fever, cough, and shortness of breath, and in severe cases, it can cause pneumonia and acute respiratory distress syndrome.",
+            "Is there a vaccine for H7N9?",
+            "There is no commercially available vaccine for H7N9 yet, but research is ongoing.",
+            "Thank you for the information, Medi."
+        ],
+        "knowledge": "Influenza H7N9 Avian influenza H7N9 is a subtype of influenza virus that is primarily transmitted to humans by exposure to infected poultry or contaminated environments. Symptoms include fever, cough, and shortness of breath, and in severe cases, it can cause pneumonia and acute respiratory distress syndrome. There is no commercially available vaccine for H7N9 yet, but research is ongoing.",
+        "response": "You're welcome. Stay safe and informed."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure and want to know what I can do to recover faster.",
+            "Hi, it's important to follow the post-procedure instructions given by your doctor. Rest, eat a healthy diet, and avoid strenuous activity.",
+            "Are there any foods that can help me recover faster?",
+            "Foods rich in protein, vitamins, and minerals can help your body heal faster. Examples include lean meats, fish, fruits, and vegetables.",
+            "Can I exercise after the procedure?",
+            "It depends on the nature of the procedure and your doctor's instructions. You should avoid strenuous activity until your doctor gives the green light.",
+            "Okay, thank you for your help, Medi.",
+            "You're welcome. If you have any other questions, don't hesitate to ask."
+        ],
+        "knowledge": "Medical procedures Recovery Rest and a healthy diet are important for recovery after a medical procedure. Foods rich in protein, vitamins, and minerals can help your body heal faster. Strenuous activity should be avoided until your doctor gives the green light.",
+        "response": "You're welcome. Take care of yourself and follow your doctor's instructions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am worried about HPAI viruses.",
+            "What would you like to know about them?",
+            "I would like to know more about the Notable HPAI viruses, such as H5N1 and H7N9.",
+            "HPAI viruses have been a major disease burden in the 21st century and resulted in the death of large numbers of birds.",
+            "How can I prevent being infected?",
+            "Migratory birds can spread influenza across long distances. It is important to avoid contact with infected birds and ensure proper hygiene practices.",
+            "Can humans be infected with these viruses?",
+            "Yes, humans can be infected with HPAI H5N1 and HPAI H7N9. However, human infections are rare and typically occur after exposure to infected birds or contaminated environments.",
+            "Thanks for the advice, Medi. What should I do if I suspect I've been exposed to the virus?"
+        ],
+        "knowledge": "Influenza Influenza  Notable HPAI viruses include HPAI H5N1 and HPAI H7N9.  HPAI viruses have been a major disease burden in the 21st century, resulting in the death of large numbers of birds.  In H7N9's case, some circulating strains were originally LPAI but became HPAI by acquiring the HA multibasic cleavage site.  Avian H9N2 is also of concern because although it is LPAI, it is a common donor of genes to H5N1 and H7N9 during reassortment. Migratory birds can spread influenza across long distances.  An example of this was when an H5N1 strain in 2005 infected birds at Qinghai Lake, China, which is a stopover and breeding site for many migratory birds, subsequently spreading the virus to more than 20 countries across Asia, Europe, and the Middle East.  AIVs can be transmitted from wild birds to domestic free-range ducks and in turn to poultry through contaminated water, aerosols, and fomites Influenza Influenza",
+        "response": "If you suspect you've been exposed to the virus, you should seek medical attention immediately."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a flu shot, do I need to do anything else?",
+            "Great to hear that you have got vaccinated! You should also practice good hygiene such as washing your hands frequently to prevent the spread of influenza.",
+            "What should I do if I start to feel sick?",
+            "If you start to feel sick, it's important to rest and avoid close contact with others to prevent the spread of the virus.",
+            "Is there anything I can do to speed up my recovery?",
+            "You can take over-the-counter medications to relieve your symptoms, such as fever and aches. Drinking plenty of fluids and getting enough rest can also help you recover faster.",
+            "Can you get the flu from the flu shot?",
+            "No, you cannot get the flu from the flu shot. The influenza vaccine contains killed or inactive viruses that cannot cause illness.",
+            "Thank you for the information, Medi. How effective is the flu shot?"
+        ],
+        "knowledge": "Influenza Influenza  The influenza vaccine is the most effective way to prevent influenza infection.  The vaccine contains inactivated or killed influenza viruses that stimulate the immune system to produce antibodies that can fight off the virus.  It typically takes about two weeks for the vaccine to provide full protection.  The effectiveness of the vaccine varies from year to year depending on the match between the circulating viruses and the vaccine, as well as other factors such as the age and health status of the person being vaccinated Influenza Influenza",
+        "response": "You're welcome. The effectiveness of the flu shot varies each year, but overall it is a safe and effective way to protect against influenza."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just recovered from the flu. What can I do to prevent getting sick again?",
+            "It's great that you have recovered! You can prevent getting sick again by practicing good hygiene, such as washing your hands frequently and avoiding close contact with others who are sick.",
+            "What should I eat to help boost my immune system?",
+            "Eating a balanced diet that includes plenty of fruits and vegetables can help support a healthy immune system. You should also try to limit your intake of processed and sugary foods.",
+            "Is there any physical activity that can help prevent getting sick?",
+            "Regular exercise can help boost your immune system and reduce your risk of getting sick.",
+            "What else can I do to prevent getting sick?",
+            "Getting enough sleep, reducing stress, and staying hydrated can also help prevent getting sick.",
+            "Thank you for the advice, Medi. How long should I wait before getting the flu shot?"
+        ],
+        "knowledge": "Influenza Influenza  The influenza vaccine is the most effective way to prevent influenza infection.  The vaccine contains inactivated or killed influenza viruses that stimulate the immune system to produce antibodies that can fight off the virus.  It typically takes about two weeks for the vaccine to provide full protection.  The effectiveness of the vaccine varies from year to year depending on the match between the circulating viruses and the vaccine, as well as other factors such as the age and health status of the person being vaccinated.  In addition to getting vaccinated, other ways to prevent the spread of influenza include practicing good hygiene, such as washing your hands frequently, and avoiding close contact with others who are sick Influenza Influenza",
+        "response": "You're welcome. You should wait until you have fully recovered from the flu and have no fever before getting the flu shot."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel very tired and have a fever",
+            "I'm sorry to hear that. How high is your fever?",
+            "It's around 38.5 degree Celsius",
+            "You might have the flu. Get some rest and stay hydrated.",
+            "Are there any medications I can take?",
+            "You can take over-the-counter medications like paracetamol or ibuprofen for fever and body aches.",
+            "Thanks for your help. How long should I rest?",
+            "You should rest until your fever is gone and you feel better. If your symptoms persist, please see a doctor.",
+            "Okay, thank you for your advice."
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, you might have the flu. Rest and stay hydrated, and you can take over-the-counter medications like paracetamol or ibuprofen for fever and body aches."
+    },
+    {
+        "dialog": [
+            "Medi, what is the bird flu?",
+            "Bird flu, or avian influenza, is a viral infection that can infect not only birds, but also humans and other animals.",
+            "Is it a common disease?",
+            "No, it's not very common, but it can be very serious when it does occur.",
+            "How is bird flu transmitted?",
+            "Bird flu is usually spread from birds to humans through contact with infected bird feces, nasal secretions, or saliva.",
+            "What are the symptoms of bird flu in humans?",
+            "Symptoms can include fever, cough, sore throat, muscle aches, and eye infections.",
+            "Is there a vaccine for bird flu?"
+        ],
+        "knowledge": "Influenza Influenza Notable HPAI viruses include HPAI H5N1 and HPAI H7N9.  HPAI viruses have been a major disease burden in the 21st century, resulting in the death of large numbers of birds.  In H7N9's case, some circulating strains were originally LPAI but became HPAI by acquiring the HA multibasic cleavage site.  Avian H9N2 is also of concern because although it is LPAI, it is a common donor of genes to H5N1 and H7N9 during reassortment. Migratory birds can spread influenza across long distances.  An example of this was when an H5N1 strain in 2005 infected birds at Qinghai Lake, China, which is a stopover and breeding site for many migratory birds, subsequently spreading the virus to more than 20 countries across Asia, Europe, and the Middle East.  AIVs can be transmitted from wild birds to domestic free-range ducks and in turn to poultry through contaminated water, aerosols, and fomites Influenza Influenza",
+        "response": "Bird flu is a viral infection that can infect birds, humans, and other animals. It's usually spread from birds to humans through contact with infected bird feces, nasal secretions, or saliva. Symptoms can include fever, cough, sore throat, muscle aches, and eye infections. There is a vaccine for some types of bird flu, but it's not widely available."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a flu shot and I'm wondering if there are any side effects.",
+            "It's common to experience soreness, redness, or swelling at the injection site.",
+            "How long do these symptoms last?",
+            "Usually these symptoms will go away within a few days. They can be relieved with a cold compress and over-the-counter pain relievers.",
+            "What about other side effects?",
+            "Other side effects are rare, but can include fever, fatigue, headache, and muscle aches.",
+            "Are there any serious side effects I should worry about?",
+            "Serious side effects are very rare. If you have any concerns, talk to your doctor.",
+            "Thanks for your advice Medi."
+        ],
+        "knowledge": "Influenza Influenza The influenza vaccine is a vaccine that protects against infection with influenza viruses.  The vaccine is usually given by injection into a muscle.  Side effects of the vaccine are generally mild and include soreness, redness, or swelling at the injection site.  Systemic side effects may include fever, fatigue, headache, and muscle aches. Serious side effects from the vaccine are very rare.  The effectiveness of the vaccine varies depending on the match between the vaccine and the circulating strains of the virus.  In general, the vaccine reduces the risk of influenza infection by about 50-60%.  The vaccine is recommended for most people over the age of 6 months. Influenza Influenza",
+        "response": "Soreness, redness, or swelling at the injection site are common side effects of the flu shot, and usually go away within a few days. Other rare side effects can include fever, fatigue, headache, and muscle aches. Serious side effects are very rare. If you have any concerns, talk to your doctor."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I think I might have influenza. Can you help me diagnose it?",
+            "Sure, tell me about your symptoms",
+            "I have a fever, headache, muscle and body aches, runny nose, sore throat, and fatigue",
+            "Based on your symptoms, it sounds like you may have influenza",
+            "What should I do now?",
+            "Rest, drink plenty of fluids, and take over-the-counter pain relievers to manage your symptoms",
+            "Thank you for your help, Medi",
+            "You're welcome. Let me know if you have any other questions",
+            "What are some common ways that influenza spreads?"
+        ],
+        "knowledge": "Influenza Influenza  Influenza is caused by a virus that spreads easily from person to person through respiratory droplets, which are produced when an infected person talks, coughs, or sneezes. You can also catch the virus by touching a contaminated surface and then touching your nose or mouth.",
+        "response": "Influenza is caused by a virus that spreads easily from person to person through respiratory droplets and contact with contaminated surfaces."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure done. What advice do you have for my recovery?",
+            "What type of procedure did you have?",
+            "I had a minor surgery on my knee",
+            "To aid in your recovery, it's important to rest, keep the surgical site clean and dry, and take any prescribed medications as directed by your doctor",
+            "Are there any lifestyle changes I should make?",
+            "It may be beneficial to engage in physical therapy exercises as directed by your doctor to help with your recovery and prevent future injuries",
+            "Thank you for the advice, Medi",
+            "You're welcome. Let me know if you have any questions",
+            "How long should I expect my recovery to take?"
+        ],
+        "knowledge": "Medical Procedures Medical Procedures  Recovery time after a medical procedure can vary depending on the type of procedure done and the individual's overall health. It's important to follow your doctor's instructions for post-operative care and attend any follow-up appointments to monitor your progress.",
+        "response": "Recovery time after a medical procedure can vary depending on the type of procedure and individual's overall health. Your doctor can provide you with more specific information about your recovery time."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a family history of obesity. What can I do to prevent it?",
+            "There are several steps you can take to prevent obesity, such as maintaining a healthy diet and engaging in regular physical activity",
+            "Can you be more specific about what I should eat?",
+            "Try to incorporate more fruits, vegetables, whole grains, and lean proteins into your diet. Limit your intake of sugary and processed foods",
+            "What kind of physical activity should I do?",
+            "It's important to engage in both cardiovascular exercise and strength training. Consider activities like walking, jogging, swimming, or weight lifting",
+            "Thank you for the advice, Medi",
+            "You're welcome. Let me know if you have any other questions",
+            "What is the most common cause of obesity?"
+        ],
+        "knowledge": "Obesity Obesity  The most common cause of obesity is an imbalance between energy intake (calories consumed) and energy expenditure (calories burned). This can be due to a variety of factors, including unhealthy diet, sedentary lifestyle, genetics, and certain medical conditions and medications.",
+        "response": "The most common cause of obesity is an imbalance between energy intake and energy expenditure, which can be due to a variety of factors such as unhealthy diet, sedentary lifestyle, genetics, and certain medical conditions and medications."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been experiencing some symptoms lately.",
+            "Hi, I'm here to help. Can you please describe your symptoms?",
+            "I have been feeling very fatigued, with a cough and sore throat.",
+            "I understand. Have you been experiencing any fever or chills?",
+            "No, not really.",
+            "Alright. Based on your symptoms, it could be a mild case of influenza.",
+            "I see. What should I do now, Medi?",
+            "I suggest that you get some rest, drink plenty of fluids, and take over-the-counter pain relievers if necessary. If your symptoms worsen, please consult a doctor.",
+            "Thanks, Medi. I'll do that."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it could be a mild case of influenza."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I heard that HPAI viruses are a major disease burden. Can you tell me more about it?",
+            "Sure, HPAI viruses are highly pathogenic avian influenza viruses that have caused significant outbreaks in birds and even human infections in some cases.",
+            "What are some notable HPAI viruses that I should be aware of?",
+            "Some notable HPAI viruses include HPAI H5N1 and HPAI H7N9.",
+            "How does HPAI virus affect birds?",
+            "HPAI viruses have been a major disease burden in the 21st century, resulting in the death of large numbers of birds.",
+            "Is there anything else I should know about avian influenza?",
+            "Yes, migratory birds can spread influenza across long distances. An example of this was when an H5N1 strain in 2005 infected birds at Qinghai Lake, China, which is a stopover and breeding site for many migratory birds, subsequently spreading the virus to more than 20 countries across Asia, Europe, and the Middle East.",
+            "Wow, that's quite concerning. How can avian influenza be transmitted to poultry?"
+        ],
+        "knowledge": "Influenza Influenza Notable HPAI viruses include HPAI H5N1 and HPAI H7N9.  HPAI viruses have been a major disease burden in the 21st century, resulting in the death of large numbers of birds.  In H7N9's case, some circulating strains were originally LPAI but became HPAI by acquiring the HA multibasic cleavage site.  Avian H9N2 is also of concern because although it is LPAI, it is a common donor of genes to H5N1 and H7N9 during reassortment. Migratory birds can spread influenza across long distances.  An example of this was when an H5N1 strain in 2005 infected birds at Qinghai Lake, China, which is a stopover and breeding site for many migratory birds, subsequently spreading the virus to more than 20 countries across Asia, Europe, and the Middle East.  AIVs can be transmitted from wild birds to domestic free-range ducks and in turn to poultry through contaminated water, aerosols, and fomites Influenza Influenza",
+        "response": "Migratory birds can spread influenza across long distances, and AIVs can be transmitted from wild birds to domestic free-range ducks and in turn to poultry through contaminated water, aerosols, and fomites"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure and I want to know how I can take care of myself afterwards.",
+            "Of course. Can you tell me more about the procedure you had?",
+            "I had a minor surgery on my wrist.",
+            "I see. After any surgery, it's important to get enough rest and avoid any strenuous activities that may affect the affected area.",
+            "Are there any specific exercises or physical therapy I can do to aid in the recovery process?",
+            "Yes, your doctor may recommend some specific exercises or physical therapy to help with your recovery.",
+            "What about my diet? Should I make any changes?",
+            "It's important to eat a balanced and nutritious diet to aid in the healing process. You should also avoid consuming alcohol and smoking as they can slow down the recovery process.",
+            "Thanks, Medi. Should I have any concerns about the wound itself?"
+        ],
+        "knowledge": "Influenza Influenza  Notable HPAI viruses include HPAI H5N1 and HPAI H7N9.  HPAI viruses have been a major disease burden in the 21st century, resulting in the death of large numbers of birds.  In H7N9's case, some circulating strains were originally LPAI but became HPAI by acquiring the HA multibasic cleavage site.  Avian H9N2 is also of concern because although it is LPAI, it is a common donor of genes to H5N1 and H7N9 during reassortment. Migratory birds can spread influenza across long distances.  An example of this was when an H5N1 strain in 2005 infected birds at Qinghai Lake, China, which is a stopover and breeding site for many migratory birds, subsequently spreading the virus to more than 20 countries across Asia, Europe, and the Middle East.  AIVs can be transmitted from wild birds to domestic free-range ducks and in turn to poultry through contaminated water, aerosols, and fomites Influenza Influenza",
+        "response": "It's important to eat a balanced and nutritious diet to aid in the healing process, as well as avoiding strenuous activities that may affect the affected area. If you notice any abnormal discharge or a fever, it's important to contact your doctor immediately."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I have a cough for a week with fever",
+            "Hello. Please tell me more about your cough. Is it dry or productive?",
+            "It's productive, and yellowish-green, and it's difficult to breathe",
+            "Based on your condition, it could be pneumonia. You need to visit a doctor.",
+            "Is it dangerous, Medi?",
+            "It could be very dangerous if you don't get treatment. Please, take care of yourself.",
+            "Alright, thank you for your advice.",
+            "You're welcome. Please take care.",
+            "What about the symptoms of pneumonia, Medi?"
+        ],
+        "knowledge": "Pneumonia Pneumonia Symptoms of pneumonia vary from mild to severe.  The most common symptoms include cough with phlegm or pus, fever, chills, and difficulty breathing.  The difficulty breathing can range from mild to severe, often depending on the extent of the lung tissue involved.  Other symptoms can include fatigue, loss of appetite, chest pain, and confusion or delirium in the elderly.  In severe cases, respiratory failure can occur, sometimes requiring mechanical ventilation.  The diagnosis of pneumonia is typically based on a combination of physical examination findings, laboratory tests, and imaging studies, such as a chest X-ray. Pneumonia Pneumonia",
+        "response": "The symptoms of pneumonia include coughing with phlegm, fever, chills, and difficulty breathing. Other symptoms can include fatigue, loss of appetite, chest pain and confusion or delirium in the elderly"
+    },
+    {
+        "dialog": [
+            "Medi, I feel so tired and have a headache all day long.",
+            "Hello. Do you have any other symptoms?",
+            "I have a fever and a sore throat.",
+            "You could have the flu. Rest and drink plenty of fluids. You may need antiviral medication.",
+            "Is it dangerous, Medi?",
+            "The flu can be dangerous for certain individuals, such as the elderly and those with weakened immune systems. Please take care of yourself.",
+            "Okay, I will. Thank you, Medi.",
+            "You're welcome. Please take care.",
+            "How long does the flu last, Medi?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The standard flu symptoms typically last for 2-8 days, but the duration can vary depending on the individual"
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I had a flu vaccine last week. How long does it protect me?",
+            "Hello. The flu vaccine can provide protection for six months to a year.",
+            "That's great. Will there be any side effects?",
+            "You may experience mild side effects such as soreness, redness, or swelling at the injection site, fever, and muscle aches. These side effects should subside within a few days.",
+            "Okay, thank you for the information, Medi.",
+            "You're welcome. If you have any further questions, don't hesitate to contact me.",
+            "What about the effectiveness of flu vaccine, Medi?"
+        ],
+        "knowledge": "Influenza Influenza The effectiveness of the flu vaccine varies from year to year.  The flu vaccine is typically 40%-60% effective in preventing illness.  If you do get the flu after receiving the vaccine, it is typically a milder case than it would have been without the vaccine.  The vaccine can also reduce the risk of hospitalization and death related to the flu.  The flu vaccine is especially important for individuals with weakened immune systems, such as the elderly, young children, and individuals with chronic medical conditions.  It is also important for healthcare workers to receive the flu vaccine to reduce the risk of spreading the flu to vulnerable patients. Influenza Influenza",
+        "response": "The effectiveness of the flu vaccine varies from year to year, but it is typically 40%-60% effective in preventing illness. If you do get the flu after receiving the vaccine, it is typically a milder case than it would have been without the vaccine"
+    }
+]

@@ -1,0 +1,406 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I am experiencing some symptoms",
+            "Hello, please tell me about your symptoms",
+            "I have been experiencing fatigue and malaise for weeks now. What could it be?",
+            "Based on your symptoms, it could be related to Influenza. Have you had any other symptoms?",
+            "I have been experiencing fluid buildup in my lungs and I have asthma. What should I do?",
+            "Based on your symptoms, I suggest seeing a doctor immediately. These symptoms may lead to complications. ",
+            "I see. What are the complications of Influenza?",
+            "Complications and mortality primarily occur in high-risk populations and those who are hospitalized. Severe disease and mortality are usually attributable to pneumonia from the primary viral infection or a secondary bacterial infection, which can progress to ARDS. Other respiratory complications that may occur include sinusitis, bronchitis, bronchiolitis, middle ear infection and croup may occur, most commonly in children.",
+            "I understand now. Thank you for the information."
+        ],
+        "knowledge": "Influenza Influenza  Fatigue and malaise may last for several weeks after recovery, and healthy adults may experience pulmonary abnormalities that can take several weeks to resolve.  Complications and mortality primarily occur in high-risk populations and those who are hospitalized.  Severe disease and mortality are usually attributable to pneumonia from the primary viral infection or a secondary bacterial infection, which can progress to ARDS. Other respiratory complications that may occur include sinusitis, bronchitis, bronchiolitis, excess fluid buildup in the lungs, and exacerbation of chronic bronchitis and asthma.  Middle ear infection and croup may occur, most commonly in children.  Secondary S.  aureus infection has been observed, primarily in children, to cause toxic shock syndrome after influenza, with hypotension, fever, and reddening and peeling of the skin Influenza Influenza",
+        "response": "You're welcome. Take care and see a doctor as soon as possible."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about Influenza",
+            "Hello. I'm happy to answer your questions.",
+            "What is the most common way that Influenza spreads?",
+            "Influenza can spread from person to person through droplets when someone with the virus talks, coughs, or sneezes.",
+            "What are some common symptoms of Influenza?",
+            "Common symptoms include fever, chills, cough, sore throat, runny or stuffy nose, body aches, headache, fatigue, and vomiting and diarrhea, especially in children.",
+            "How can I prevent getting Influenza?",
+            "The best way to prevent getting Influenza is by getting a flu vaccine every year and practicing good hand hygiene.",
+            "Thank you for the information. I will get a flu vaccine."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Getting a flu vaccine is a great way to prevent getting Influenza. Stay healthy!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had Influenza and I am wondering what lifestyle changes I should make",
+            "Hello, I can give you some advice on lifestyle changes",
+            "What should I eat to help my body recover?",
+            "Eating a balanced diet with plenty of fruits and vegetables can help boost your immune system. Lean protein, whole grains, and healthy fats are also important.",
+            "Are there any exercises I should do to help my body recover?",
+            "While you are recovering, it's important to get plenty of rest. Once you feel better, start with light exercises like walking or stretching before gradually adding more strenuous exercises.",
+            "What else can I do to help my body recover?",
+            "Make sure you stay hydrated and get plenty of sleep. Avoid smoking and alcohol, and continue hand hygiene to prevent further infections.",
+            "Thank you for the advice. I will make these changes."
+        ],
+        "knowledge": "Influenza Influenza  Fatigue and malaise may last for several weeks after recovery, and healthy adults may experience pulmonary abnormalities that can take several weeks to resolve.  Complications and mortality primarily occur in high-risk populations and those who are hospitalized.  Severe disease and mortality are usually attributable to pneumonia from the primary viral infection or a secondary bacterial infection, which can progress to ARDS. Other respiratory complications that may occur include sinusitis, bronchitis, bronchiolitis, excess fluid buildup in the lungs, and exacerbation of chronic bronchitis and asthma.  Middle ear infection and croup may occur, most commonly in children.  Secondary S.  aureus infection has been observed, primarily in children, to cause toxic shock syndrome after influenza, with hypotension, fever, and reddening and peeling of the skin Influenza Influenza",
+        "response": "You're welcome. Take care and make these changes to help your body recover."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms and I need your help.",
+            "Sure, I'm here to support you. Please tell me what symptoms you have?",
+            "I have a fever, cough, and feel very tired.",
+            "Okay, those are common symptoms of influenza, but do you have any other symptoms?",
+            "Yes, my nose is congested and I have a headache",
+            "Based on your symptoms, it's possible that you have the flu. You should rest and drink plenty of fluids",
+            "Should I take medicine?",
+            "If your symptoms are severe, you can take over-the-counter medications such as acetaminophen or ibuprofen to relieve your symptoms",
+            "Thank you, Medi. I'll do that. What else should I do?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You should rest and drink plenty of fluids. If your symptoms are severe, you can take over-the-counter medications such as acetaminophen or ibuprofen to relieve your symptoms."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about influenza.",
+            "Sure, I'm here to help you. What would you like to know?",
+            "What causes influenza?",
+            "Influenza is caused by a highly contagious virus that is spread from person to person through the air by coughing or sneezing",
+            "Can influenza be prevented?",
+            "Yes, influenza can be prevented by getting a flu shot each year and practicing good hygiene such as washing your hands frequently, covering your mouth and nose when you cough or sneeze, and avoiding close contact with people who are sick",
+            "What should I do if I get the flu?",
+            "If you get the flu, you should rest, drink plenty of fluids, and take over-the-counter medications to relieve your symptoms. If your symptoms are severe, you should see a healthcare provider.",
+            "Thank you, Medi. That was very helpful. One more question, how long does it take to recover from the flu?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Most people recover from the flu within two weeks, but some people can experience fatigue and malaise for several weeks after recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just recovered from the flu. What should I do now?",
+            "Congratulations on your recovery. After recovering from the flu, it's important to take care of yourself to prevent any complications. ",
+            "What kind of complications?",
+            "Complications from the flu can include pneumonia, sinusitis, bronchitis, and ear infections",
+            "What should I do to prevent these complications?",
+            "You should rest, drink plenty of fluids, and avoid smoking or exposure to secondhand smoke. You should also practice good hygiene such as washing your hands frequently and covering your mouth and nose when you cough or sneeze",
+            "Should I take any medication?",
+            "If your healthcare provider recommends it, you can take antiviral medication to reduce the severity of your symptoms and prevent complications. You should also take over-the-counter medications to relieve your symptoms",
+            "Thank you, Medi. That was very helpful. What kind of physical activities should I do to prevent any complications?"
+        ],
+        "knowledge": "Influenza Influenza  Fatigue and malaise may last for several weeks after recovery, and healthy adults may experience pulmonary abnormalities that can take several weeks to resolve.  Complications and mortality primarily occur in high-risk populations and those who are hospitalized.  Severe disease and mortality are usually attributable to pneumonia from the primary viral infection or a secondary bacterial infection, which can progress to ARDS. Other respiratory complications that may occur include sinusitis, bronchitis, bronchiolitis, excess fluid buildup in the lungs, and exacerbation of chronic bronchitis and asthma.  Middle ear infection and croup may occur, most commonly in children.  Secondary S.  aureus infection has been observed, primarily in children, to cause toxic shock syndrome after influenza, with hypotension, fever, and reddening and peeling of the skin Influenza Influenza",
+        "response": "After recovering from the flu, you can engage in light physical activities such as walking, yoga, or stretching. Avoid strenuous exercises until you have fully recovered."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a really bad cough and feel so tired",
+            "I'm sorry to hear that. Can you give me more information about your symptoms?",
+            "I have a fever and a headache too. My throat is sore and it hurts when I swallow. Also, I'm having trouble breathing.",
+            "Based on your symptoms, it's possible that you have influenza.",
+            "What should I do now?",
+            "It's important to rest and drink plenty of fluids. You can also take over-the-counter medications for fever and pain relief.",
+            "Can I still go to work?",
+            "It's better for you and others to stay at home and avoid spreading the virus.",
+            "How long will it last?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The symptoms usually last for 2-8 days. If your symptoms get worse or don\u2019t improve after a week, you should consult a doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I had pneumonia last month and I'm feeling better now. Are there any precautions that I should take?",
+            "It's good to hear that you're feeling better. Yes, after having pneumonia it's important to take some precautions to prevent it from coming back. Can you tell me what you're worried about?",
+            "I'm worried about getting sick again. I don't want to go through that again.",
+            "Of course, it's important to take care of your health. One thing you can do is to exercise regularly and eat a healthy diet to keep your immune system strong.",
+            "What else can I do?",
+            "Make sure you wash your hands often, especially before eating or touching your face. Also, avoid contact with people who are sick.",
+            "Should I get a pneumonia vaccine?",
+            "It's recommended for people who are at higher risk of getting pneumonia, such as older adults or people with chronic lung diseases. You can consult your doctor about it.",
+            "Thank you for your advice. Is there anything else I should know?"
+        ],
+        "knowledge": "Pneumonia Pneumonia  The classic symptoms of pneumonia are cough, fever, and chest pain.  Other symptoms may include shortness of breath, nausea, vomiting, sweating, headache, and muscle pain.  Symptoms may vary in the elderly and in children.  Bacterial pneumonias tend to have a more sudden onset and more severe symptoms than viral pneumonias.  The incidence of pneumonia varies depending on age and other health conditions.  In general, the incidence of pneumonia is highest in young children, adults over 65, and those with underlying health conditions such as chronic lung disease, heart disease, or weakened immune systems.  Pneumonia can be fatal, especially in high-risk populations.  Prevention includes vaccination, hand hygiene, and avoidance of close contact with people who are sick. Pneumonia Pneumonia",
+        "response": "It's important to get enough rest and avoid smoking or exposure to smoke. If you experience any symptoms, such as cough or fever, you should consult a doctor immediately."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I was hospitalized due to asthma last week. Can you give me some advice to prevent it from happening again?",
+            "I'm sorry to hear that. Yes, there are some things you can do to prevent another asthma attack. Can you tell me if you were exposed to any triggers?",
+            "I'm not sure, but I do have allergies to pollen.",
+            "Avoiding triggers is an important step in preventing asthma attacks. You can also take your medication as prescribed.",
+            "What other precautions can I take?",
+            "Keeping your living space clean and dry can help prevent mold and dust mites from growing. You should also avoid smoking or exposure to smoke.",
+            "Is there anything else I can do?",
+            "Regular exercise can help improve your lung function and reduce the risk of asthma attacks. You should also have an action plan in case of an emergency.",
+            "What should I include in my action plan?"
+        ],
+        "knowledge": "Asthma Asthma  Asthma is characterized by recurrent episodes of wheezing, shortness of breath, chest tightness, and coughing.  Symptoms are usually worse at night or in the early morning.  Asthma can be triggered by a variety of factors, including allergens, irritants, exercise, and infections.  Treatment includes removing or avoiding triggers, medication, and lifestyle changes such as exercise and weight loss.  Asthma can be fatal, especially in severe cases.  Emergency treatment includes medication such as bronchodilators and corticosteroids. Asthma Asthma",
+        "response": "Your action plan should include steps to take if your symptoms worsen, such as using your inhaler or seeking medical help. You should also have a list of emergency contacts and know the signs of a severe asthma attack."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I'm feeling fatigued and have a cough. Can you help?",
+            "Of course. How long have you been experiencing these symptoms?",
+            "It's been a few days now. I have no energy and my cough is getting worse.",
+            "Based on your symptoms, it's possible you have influenza. Have you been vaccinated?",
+            "No, I haven't. What should I do now?",
+            "Rest and drink plenty of fluids. You can also take over-the-counter medications for relief.",
+            "Okay, thanks for your advice. Are there any complications I should be aware of?",
+            "Complications and mortality primarily occur in high-risk populations and those who are hospitalized. Rest and stay hydrated.",
+            "What should I do if my symptoms don't improve?"
+        ],
+        "knowledge": "Influenza Influenza  Fatigue and malaise may last for several weeks after recovery, and healthy adults may experience pulmonary abnormalities that can take several weeks to resolve.  Complications and mortality primarily occur in high-risk populations and those who are hospitalized.  Severe disease and mortality are usually attributable to pneumonia from the primary viral infection or a secondary bacterial infection, which can progress to ARDS. Other respiratory complications that may occur include sinusitis, bronchitis, bronchiolitis, excess fluid buildup in the lungs, and exacerbation of chronic bronchitis and asthma.  Middle ear infection and croup may occur, most commonly in children.  Secondary S.  aureus infection has been observed, primarily in children, to cause toxic shock syndrome after influenza, with hypotension, fever, and reddening and peeling of the skin Influenza Influenza",
+        "response": "If your symptoms persist or worsen, you should seek medical attention."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I have a question about asthma.",
+            "Sure, what is your question?",
+            "Can asthma be cured or is it a lifelong condition?",
+            "Unfortunately, asthma is a lifelong condition, but it can be managed with proper treatment and lifestyle changes.",
+            "What kind of treatment is available?",
+            "There are medications, such as inhalers and steroids, that can help manage symptoms and prevent attacks. Avoiding triggers like smoke and pollution can also help.",
+            "I see. What are some lifestyle changes I can make?",
+            "Regular exercise can improve lung function, and maintaining a healthy weight can also help. Avoiding allergens and irritants is also recommended.",
+            "Thank you for your advice. Can asthma be fatal?"
+        ],
+        "knowledge": "Asthma Asthma  Asthma is a common chronic respiratory disease characterized by episodes of airflow obstruction due to inflammation and constriction of the bronchial tubes.  Asthma affects people of all ages, but onset often occurs in childhood.  The exact cause of asthma is not known and likely involves an interaction between genetic and environmental factors.  Asthma can be classified based on the frequency and severity of symptoms or the degree of airflow limitation.  The primary symptoms include wheezing, cough, shortness of breath, and chest tightness.  Diagnosis is based on symptoms, physical exam, and pulmonary function tests.  Treatment is focused on preventing symptoms and avoiding triggers through lifestyle changes and medications, including inhaled corticosteroids, bronchodilators, and leukotriene modifiers Asthma Asthma",
+        "response": "The frequency of doctor visits will depend on the severity of your asthma, but it is recommended to have regular check-ups with a specialist."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I had pneumonia a few weeks ago and was hospitalized. What lifestyle changes should I make?",
+            "I'm sorry to hear that. It's important to rest and avoid overexertion. Gradually increasing physical activity can help improve lung function.",
+            "What should I eat to support my recovery?",
+            "A diet rich in fruits, vegetables, and lean protein can help support the immune system. Avoiding processed and high-fat foods is also recommended.",
+            "Can I return to my normal routine?",
+            "It's important to listen to your body and gradually return to your normal routine. Avoid exposure to germs and wear a mask in crowded areas.",
+            "I feel anxious about getting sick again. What can I do?",
+            "It's common to feel anxious after a serious illness. Practice deep breathing exercises and seek support from family and friends. Consider therapy if needed.",
+            "Thank you for your advice. How long does it take to fully recover from pneumonia?"
+        ],
+        "knowledge": "Pneumonia Pneumonia  Pneumonia is an inflammatory condition of the lung that primarily affects the microscopic air sacs known as alveoli.  Pneumonia can be caused by a variety of organisms, including bacteria, viruses, and fungi.  Symptoms vary depending on the cause but often include fever, cough, shortness of breath, and chest pain.  Diagnosis is based on symptoms, physical exam, and chest x-ray or CT scan.  Treatment is focused on addressing the underlying cause and preventing complications, such as respiratory failure and sepsis.  Complications and mortality primarily occur in high-risk populations and those who are hospitalized.  Severe disease and mortality are usually attributable to pneumonia from the primary viral infection or a secondary bacterial infection, which can progress to ARDS. Other respiratory complications that may occur include sinusitis, bronchitis, bronchiolitis, excess fluid buildup in the lungs, and exacerbation of chronic bronchitis and asthma.  Middle ear infection and croup may occur, most commonly in children Pneumonia Pneumonia",
+        "response": "Complications and mortality primarily occur in high-risk populations and those who are hospitalized. Listen to your body and seek medical attention if you experience any worsening symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a cough and feel fatigued for a week, can you help me?",
+            "Sure, I can help you. Can you describe your cough?",
+            "It's a dry cough and I feel short of breath sometimes.",
+            "Alright, along with fatigue and dry cough, you might be infected with Influenza.",
+            "What should I do now?",
+            "Take a lot of rest and drink plenty of fluids. You can also take over-the-counter medications like acetaminophen or ibuprofen to relieve your symptoms.",
+            "Got it. Is it a serious disease?",
+            "Normally, it's not serious and will go away within a week or two. But if you have a high fever or difficulty breathing, you should see a doctor immediately.",
+            "Thanks for your help, Medi. How can I prevent it from happening again?"
+        ],
+        "knowledge": "Influenza Influenza  Fatigue and malaise may last for several weeks after recovery, and healthy adults may experience pulmonary abnormalities that can take several weeks to resolve.  Complications and mortality primarily occur in high-risk populations and those who are hospitalized.  Severe disease and mortality are usually attributable to pneumonia from the primary viral infection or a secondary bacterial infection, which can progress to ARDS. Other respiratory complications that may occur include sinusitis, bronchitis, bronchiolitis, excess fluid buildup in the lungs, and exacerbation of chronic bronchitis and asthma.  Middle ear infection and croup may occur, most commonly in children.  Secondary S.  aureus infection has been observed, primarily in children, to cause toxic shock syndrome after influenza, with hypotension, fever, and reddening and peeling of the skin Influenza Influenza",
+        "response": "You can prevent it by washing your hands regularly, avoiding close contact with people who are sick, and getting a flu shot every year."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about pneumonia?",
+            "Of course, what do you want to know?",
+            "What causes pneumonia?",
+            "Pneumonia can be caused by bacteria, viruses, or fungi that infect your lungs.",
+            "What are the symptoms?",
+            "The symptoms include shortness of breath, cough with phlegm, high fever, chills, chest pain, and fatigue.",
+            "How can I prevent pneumonia?",
+            "You can prevent pneumonia by washing your hands frequently, avoiding smoking, and getting vaccinated.",
+            "Thank you. What should I do if I think I have pneumonia?"
+        ],
+        "knowledge": "Pneumonia Pneumonia  Pneumonia can be caused by bacteria, viruses, or fungi that infect your lungs.  Symptoms include shortness of breath, cough with phlegm, high fever, chills, chest pain, and fatigue.  Pneumonia can be diagnosed with a chest x-ray, blood test, or sputum test.  Treatment depends on the cause of pneumonia and includes antibiotics for bacterial pneumonia, antiviral medications for viral pneumonia, and antifungal medications for fungal pneumonia.  Prevention includes washing your hands frequently, avoiding smoking, and getting vaccinated.  Pneumococcal and flu vaccines can prevent some types of pneumonia. Pneumonia Pneumonia",
+        "response": "If you think you have pneumonia, you should see a doctor immediately. They will perform a diagnosis and prescribe the appropriate treatment based on the cause of pneumonia."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a flu shot yesterday, can I eat anything I want?",
+            "Well, certain foods and drinks can strengthen your immune system and help you recover from the flu vaccine side effects.",
+            "Really? What should I eat?",
+            "Foods high in vitamin C, such as citrus fruits, strawberries, and bell peppers, can improve your immune system.",
+            "What about drinks?",
+            "You can drink plenty of water and other fluids like tea and soup to prevent dehydration. Avoid alcoholic and caffeinated drinks.",
+            "Thanks for your advice, Medi. How important is physical exercise?",
+            "Physical exercise can help boost your immune system and increase the effectiveness of flu vaccination.",
+            "That's good to know. How much exercise should I do?"
+        ],
+        "knowledge": "Influenza Influenza  The flu vaccine is the best way to prevent the flu.  After receiving the vaccine, you might experience some side effects such as pain and swelling at the injection site, fever, headache, and fatigue.  Certain foods and drinks can strengthen your immune system and help you recover from the side effects. Foods high in vitamin C, such as citrus fruits, strawberries, and bell peppers, can improve your immune system.  You can also drink plenty of water and other fluids like tea and soup to prevent dehydration. Avoid alcoholic and caffeinated drinks.  Physical exercise can help boost your immune system and increase the effectiveness of flu vaccination. Influenza Influenza",
+        "response": "You're welcome. If you have any further questions or concerns, don't hesitate to ask me, Medi, your chatbot medical supporter."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel very tired and weak lately",
+            "I'm sorry to hear that. Can you describe your symptoms more precisely?",
+            "I have a headache, cough, and feel very weak. I also have difficulty breathing",
+            "Based on your symptoms, it is possible that you have developed complications such as pneumonia from influenza",
+            "What should I do now?",
+            "I suggest you go to the hospital as soon as possible to get a complete diagnosis and proper treatment",
+            "Is there anything else I can do to relieve my symptoms?",
+            "You can try to rest and drink plenty of fluids to stay hydrated. Stay away from others to avoid spreading the infection",
+            "Thanks for your help, Medi. I will go to the hospital now."
+        ],
+        "knowledge": "Influenza Influenza  Fatigue and malaise may last for several weeks after recovery, and healthy adults may experience pulmonary abnormalities that can take several weeks to resolve.  Complications and mortality primarily occur in high-risk populations and those who are hospitalized.  Severe disease and mortality are usually attributable to pneumonia from the primary viral infection or a secondary bacterial infection, which can progress to ARDS. Other respiratory complications that may occur include sinusitis, bronchitis, bronchiolitis, excess fluid buildup in the lungs, and exacerbation of chronic bronchitis and asthma.  Middle ear infection and croup may occur, most commonly in children.  Secondary S.  aureus infection has been observed, primarily in children, to cause toxic shock syndrome after influenza, with hypotension, fever, and reddening and peeling of the skin Influenza Influenza",
+        "response": "I suggest you go to the hospital as soon as possible to get a complete diagnosis and proper treatment"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just want to know what influenza is",
+            "Sure! Influenza is a contagious respiratory illness caused by influenza viruses",
+            "How does it spread?",
+            "It spreads easily from person to person through the air when an infected person coughs or sneezes. It can also spread by touching a surface contaminated with the virus and then touching your mouth or nose",
+            "What are the common symptoms?",
+            "The common symptoms include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue",
+            "How is it treated?",
+            "Most people with influenza do not need medical treatment. But if you have severe symptoms, your doctor may prescribe antiviral medication. Rest, fluids, and over-the-counter pain relievers can help relieve your symptoms",
+            "Thank you for explaining it, Medi"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome! Feel free to ask me anything else."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have recently had the flu and recovered from it. What should I do to regain my strength?",
+            "After having the flu, it is important to rest and drink plenty of fluids to stay hydrated",
+            "Is there any specific diet I should follow?",
+            "It is recommended that you eat a balanced diet with plenty of fruits, vegetables, and lean protein. Avoid sugary and processed foods",
+            "Should I exercise?",
+            "You can begin with light exercise such as walking or yoga to regain your strength. But it's important not to overdo it and listen to your body",
+            "Thank you, Medi. I appreciate your advice",
+            "You're welcome! Take care of yourself and let me know if you have any more questions"
+        ],
+        "knowledge": "Influenza Influenza  Fatigue and malaise may last for several weeks after recovery, and healthy adults may experience pulmonary abnormalities that can take several weeks to resolve.  Complications and mortality primarily occur in high-risk populations and those who are hospitalized.  Severe disease and mortality are usually attributable to pneumonia from the primary viral infection or a secondary bacterial infection, which can progress to ARDS. Other respiratory complications that may occur include sinusitis, bronchitis, bronchiolitis, excess fluid buildup in the lungs, and exacerbation of chronic bronchitis and asthma.  Middle ear infection and croup may occur, most commonly in children.  Secondary S.  aureus infection has been observed, primarily in children, to cause toxic shock syndrome after influenza, with hypotension, fever, and reddening and peeling of the skin Influenza Influenza",
+        "response": "Take care and don't hesitate to contact me again if you need anything."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I might have the flu.",
+            "Hi there, sorry to hear that, what are your symptoms?",
+            "I have a fever, cough, and body aches.",
+            "Okay, those are some common flu symptoms. Have you been in contact with anyone else who has been sick?",
+            "Yes, my coworker had the flu last week.",
+            "That could be the source of your illness. I recommend getting plenty of rest and fluids. Over-the-counter medication can also help with symptoms.",
+            "Thank you for the advice, Medi.",
+            "You're welcome. If your symptoms worsen or persist, don't hesitate to seek medical attention.",
+            "Is there anything else I should be aware of?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Just be aware that fatigue and malaise may last for several weeks after recovery, and healthy adults may experience pulmonary abnormalities that can take several weeks to resolve. It's also important to monitor for any complications, especially if you are at a higher risk population."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I recently recovered from the flu, but I still feel really tired.",
+            "Hi! Fatigue is not an uncommon symptom after recovering from the flu. How long have you been experiencing this symptom?",
+            "It's been about two weeks now.",
+            "That's not unusual. It can take several weeks for fatigue to fully resolve after the flu.",
+            "Is there anything I can do to help speed up my recovery?",
+            "Making sure to get plenty of rest, eating a balanced diet, and staying hydrated can all help with recovery. Light exercise, such as taking short walks, can also be beneficial.",
+            "Thank you, Medi. I'll make sure to take care of myself.",
+            "You're welcome! Don't hesitate to reach out if you have any further concerns.",
+            "Okay, thank you for your time."
+        ],
+        "knowledge": "Influenza Influenza  Fatigue and malaise may last for several weeks after recovery, and healthy adults may experience pulmonary abnormalities that can take several weeks to resolve.  Complications and mortality primarily occur in high-risk populations and those who are hospitalized.  Severe disease and mortality are usually attributable to pneumonia from the primary viral infection or a secondary bacterial infection, which can progress to ARDS. Other respiratory complications that may occur include sinusitis, bronchitis, bronchiolitis, excess fluid buildup in the lungs, and exacerbation of chronic bronchitis and asthma.  Middle ear infection and croup may occur, most commonly in children.  Secondary S.  aureus infection has been observed, primarily in children, to cause toxic shock syndrome after influenza, with hypotension, fever, and reddening and peeling of the skin Influenza Influenza",
+        "response": "It's also important to monitor for any respiratory complications, especially if you have a pre-existing condition related to the respiratory system."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just recovered from the flu and I want to make sure I stay healthy. What can I do to prevent getting the flu again?",
+            "Hi! That's a great question. The best way to prevent the flu is to get an annual flu vaccine. You can also practice good hygiene, such as washing your hands regularly and avoiding close contact with sick individuals.",
+            "What about my diet and exercise?",
+            "Eating a balanced diet that includes plenty of fruits, vegetables, and whole grains can help support your immune system. Regular exercise can also help boost your immune system and overall health.",
+            "That makes sense. Are there any other things I should consider?",
+            "Making sure to get enough sleep and managing stress can also help support your immune system and overall health.",
+            "Thanks, Medi. I'll make sure to take your advice.",
+            "You're welcome! Let me know if you have any other concerns.",
+            "Sure, thanks again."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It's always a good idea to take care of your overall health, as a healthy immune system can help prevent the flu and other illnesses."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am feeling very weak with a dry cough.",
+            "Hello, I am sorry to hear that. When did you start feeling this way?",
+            "It started 3 days ago. I think I may have a fever too.",
+            "Based on your symptoms, it seems you may have caught a virus. It is important to rest and stay hydrated.",
+            "Should I be worried about anything?",
+            "If you experience difficulty breathing or chest pain, please seek medical attention immediately.",
+            "Alright, thank you for your help Medi.",
+            "You're welcome. Take care of yourself and get plenty of rest.",
+            "What measures should I take to avoid spreading the virus?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You should wear a mask, wash your hands frequently and avoid public gatherings or physical contact with others when possible. Cover your mouth and nose while coughing or sneezing with a tissue or your elbow to prevent the spread of the virus."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just recovered from influenza. What should I do now?",
+            "Great to hear that. Fatigue and malaise may last for several weeks after recovery, so it is important to take it easy and rest.",
+            "What about the pulmonary abnormalities and complications caused by influenza?",
+            "In healthy adults, pulmonary abnormalities may take several weeks to resolve. However, complications and mortality primarily occur in high-risk populations and those who are hospitalized.",
+            "What kind of complications could occur?",
+            "Severe disease and mortality are usually attributable to pneumonia from the primary viral infection or a secondary bacterial infection, which can progress to ARDS. Other respiratory complications that may occur include sinusitis, bronchitis, bronchiolitis, and excess fluid buildup in the lungs.",
+            "That sounds concerning, what can I do to lower my risk of complications?",
+            "Maintaining a healthy lifestyle, including a balanced diet and regular exercise, can help improve your immune system and reduce your risk of complications. It is also important to seek medical attention if you experience any symptoms that may indicate a complication.",
+            "Thank you for the advice Medi. I will keep that in mind."
+        ],
+        "knowledge": "Influenza Influenza  Fatigue and malaise may last for several weeks after recovery, and healthy adults may experience pulmonary abnormalities that can take several weeks to resolve.  Complications and mortality primarily occur in high-risk populations and those who are hospitalized.  Severe disease and mortality are usually attributable to pneumonia from the primary viral infection or a secondary bacterial infection, which can progress to ARDS. Other respiratory complications that may occur include sinusitis, bronchitis, bronchiolitis, excess fluid buildup in the lungs, and exacerbation of chronic bronchitis and asthma.  Middle ear infection and croup may occur, most commonly in children.  Secondary S.  aureus infection has been observed, primarily in children, to cause toxic shock syndrome after influenza, with hypotension, fever, and reddening and peeling of the skin Influenza Influenza",
+        "response": "You're welcome. Don't hesitate to see a doctor if you're worried about any symptoms. It's always better to be safe than sorry!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had my flu vaccine. What lifestyle changes can I make to improve my immune system?",
+            "Great job for getting vaccinated! You can also try to get enough sleep, eat a balanced diet with plenty of fruits and vegetables, and exercise regularly.",
+            "What type of exercise should I do?",
+            "Any type of exercise is good for your immune system, but cardiovascular exercise like running or swimming can be especially beneficial.",
+            "How about supplements or vitamins?",
+            "There is no supplement or vitamin that can guarantee immunity against a virus. However, taking vitamin C and zinc may help shorten the duration of a cold or flu.",
+            "Alright, I will keep that in mind. Thank you Medi!",
+            "You're welcome. Remember to wash your hands frequently and avoid close contact with others to further protect yourself from infections.",
+            "Sure, I will do that! Thanks again."
+        ],
+        "knowledge": "Influenza Influenza  The influenza vaccine is the most effective way to prevent influenza infection.  Maintaining a healthy lifestyle, including a balanced diet and regular exercise, can also help improve your immune system and reduce your risk of infection.",
+        "response": "You're welcome. Stay healthy and take care!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms that I don't understand.",
+            "Hi there, I'll do my best to help you. Can you tell me the symptoms?",
+            "I've been feeling really fatigued and I have trouble catching my breath.",
+            "Do you have any other symptoms?",
+            "I also have a persistent cough and have been running a low-grade fever.",
+            "Based on your symptoms, you may have contracted the flu. Have you been vaccinated?",
+            "I haven't had a flu shot this season. What should I do?",
+            "You should contact your doctor to see if you need to take antiviral medication.",
+            "Thanks for the advice, Medi. What else can I do to feel better?"
+        ],
+        "knowledge": "Influenza Influenza  Fatigue and malaise may last for several weeks after recovery, and healthy adults may experience pulmonary abnormalities that can take several weeks to resolve.  Complications and mortality primarily occur in high-risk populations and those who are hospitalized.  Severe disease and mortality are usually attributable to pneumonia from the primary viral infection or a secondary bacterial infection, which can progress to ARDS. Other respiratory complications that may occur include sinusitis, bronchitis, bronchiolitis, excess fluid buildup in the lungs, and exacerbation of chronic bronchitis and asthma.  Middle ear infection and croup may occur, most commonly in children.  Secondary S.  aureus infection has been observed, primarily in children, to cause toxic shock syndrome after influenza, with hypotension, fever, and reddening and peeling of the skin Influenza Influenza",
+        "response": "You should get in touch with your doctor and see if you need antiviral medication. Rest, stay hydrated, and take over-the-counter medication for fever and pain as needed."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm curious about the symptoms of the flu.",
+            "Hello! I'd be happy to give you more information. What would you like to know specifically?",
+            "What are some of the most common symptoms of the flu?",
+            "The most common symptoms are fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.",
+            "What sets the flu apart from a common cold?",
+            "The flu usually comes on suddenly, whereas a cold may come on gradually. The flu is also generally more severe than a cold",
+            "How is the flu treated?",
+            "Treatment usually involves rest, hydration, and over-the-counter medication for fever and pain. In some cases, antiviral medication may be necessary.",
+            "Okay, that's good to know. Thanks Medi!"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome! Stay healthy and try to avoid getting sick."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had the flu. What should I do to recover properly?",
+            "Hi there! I'm sorry to hear you're not feeling well. Do you still have symptoms?",
+            "My fever has broken, but I'm still coughing and feeling fatigued.",
+            "It's important to get plenty of rest and stay hydrated. You should also make sure to eat a healthy diet with plenty of vitamins and nutrients.",
+            "What about exercise?",
+            "You should wait until you're feeling better to start exercising again. When you do start, start slowly and don't push yourself too hard.",
+            "What else should I be doing?",
+            "Make sure to wash your hands often, especially after coughing or sneezing, and avoid close contact with others until you're fully recovered.",
+            "Thanks for your help, Medi!"
+        ],
+        "knowledge": "Influenza Influenza  Fatigue and malaise may last for several weeks after recovery, and healthy adults may experience pulmonary abnormalities that can take several weeks to resolve.  Complications and mortality primarily occur in high-risk populations and those who are hospitalized.  Severe disease and mortality are usually attributable to pneumonia from the primary viral infection or a secondary bacterial infection, which can progress to ARDS. Other respiratory complications that may occur include sinusitis, bronchitis, bronchiolitis, excess fluid buildup in the lungs, and exacerbation of chronic bronchitis and asthma.  Middle ear infection and croup may occur, most commonly in children.  Secondary S.  aureus infection has been observed, primarily in children, to cause toxic shock syndrome after influenza, with hypotension, fever, and reddening and peeling of the skin Influenza Influenza",
+        "response": "You're welcome! Remember to take it easy and don't push yourself too hard until you're fully recovered."
+    }
+]

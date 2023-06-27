@@ -1,0 +1,448 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I think I might have caught something. I'm feeling really feverish and weak.",
+            "I'm sorry to hear that. Can you tell me more about your symptoms?",
+            "I have a fever, my head is throbbing, and my throat is sore.",
+            "Based on your symptoms, it sounds like you might have caught the flu.",
+            "What can I do to feel better?",
+            "It's important to rest and stay hydrated. You can also take over-the-counter medication to relieve your symptoms.",
+            "Okay, I'll do that. Thanks for your help!",
+            "You're welcome. I hope you feel better soon."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it sounds like you might have the flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about infectious diseases.",
+            "Sure, I'm here to help. What do you want to know?",
+            "What are the most common infectious diseases?",
+            "The three most common single agent/disease killers are HIV/AIDS, TB, and malaria. Childhood diseases include pertussis, poliomyelitis, diphtheria, measles, and tetanus. ",
+            "That's really interesting. Thanks for letting me know.",
+            "You're welcome. Is there anything else you'd like to know?",
+            "Can you tell me how infectious diseases are typically spread?",
+            "Sure, infectious diseases can be spread through direct contact with an infected person, contact with a contaminated object or surface, or through the air.",
+            "Okay, thanks for the information."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The top three single agent/disease killers are HIV/AIDS, TB and malaria.  While the number of deaths due to nearly every disease have decreased, deaths due to HIV/AIDS have increased fourfold.  Childhood diseases include pertussis, poliomyelitis, diphtheria, measles and tetanus.  Children also make up a large percentage of lower respiratory and diarrheal deaths.  In 2012, approximately 3. 1 million people have died due to lower respiratory infections, making it the number 4 leading cause of death in the world. With their potential for unpredictable and explosive impacts, infectious diseases have been major actors in human history Infectious diseases Infectious diseases",
+        "response": "Infectious diseases can be spread through direct contact with an infected person, contact with a contaminated object or surface, or through the air."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I want to make sure I'm taking care of myself properly.",
+            "Of course, I'm here to help. What specific concerns do you have?",
+            "I'm worried about my diet. Should I be eating anything specific?",
+            "After surgery, it's important to eat a balanced diet that includes plenty of protein, fruits and vegetables, and whole grains to help with the healing process.",
+            "That makes sense. What about exercise?",
+            "It's important to start moving around as soon as possible after surgery, but be sure to follow your doctor's instructions and don't overdo it.",
+            "Okay, that's good to know. What else can I do to help with my recovery?",
+            "Make sure to get plenty of rest and avoid alcohol and tobacco products, as they can slow down the healing process.",
+            "Alright, I'll keep all that in mind. Thanks for your help, Medi!"
+        ],
+        "knowledge": "Surgery Surgery  The patient should follow their surgeon's instructions regarding exercise and activity after surgery.  Pain relief is an important part of recovery, and medication can be given to help manage pain.  Antibiotics may also be prescribed to prevent the development of infections.  Postoperative care may involve monitoring blood pressure, heart rate, and breathing, as well as checking for signs of bleeding or infection. Surgery Surgery",
+        "response": "After surgery, it's important to eat a balanced diet that includes plenty of protein, fruits and vegetables, and whole grains to help with the healing process. It's also important to start moving around as soon as possible after surgery, but be sure to follow your doctor's instructions and don't overdo it."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I'm worried",
+            "Hello, what kind of symptoms are you experiencing?",
+            "I have a fever, a cough and I feel very tired",
+            "Based on your symptoms, it could be a respiratory infection. I recommend you to rest and drink plenty of fluids.",
+            "Should I take any medication?",
+            "You can take over-the-counter pain relievers and fever reducers, such as acetaminophen or ibuprofen, but I suggest you to see a doctor if symptoms persist",
+            "Thank you, I will follow your advice",
+            "You're welcome. Remember to take care of yourself."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The top three single agent/disease killers are HIV/AIDS, TB and malaria.  While the number of deaths due to nearly every disease have decreased, deaths due to HIV/AIDS have increased fourfold.  Childhood diseases include pertussis, poliomyelitis, diphtheria, measles and tetanus.  Children also make up a large percentage of lower respiratory and diarrheal deaths.  In 2012, approximately 3.1 million people have died due to lower respiratory infections, making it the number 4 leading cause of death in the world. With their potential for unpredictable and explosive impacts, infectious diseases have been major actors in human history Infectious diseases Infectious diseases",
+        "response": "You're welcome. Remember to take care of yourself."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about TB?",
+            "Sure, what specifically do you want to know?",
+            "What are the symptoms of TB?",
+            "The symptoms of TB include coughing for 3 weeks or longer, chest pain, coughing up blood, weakness or fatigue, weight loss, no appetite, chills, fever, and sweating at night.",
+            "How is TB transmitted?",
+            "TB is spread through the air when a person with active TB disease in their lungs coughs, speaks, sneezes, sings, or even laughs.",
+            "Can TB be cured?",
+            "Yes, TB can be cured with antibiotics, but it is important to take the full course of antibiotics prescribed by your doctor to prevent drug resistance.",
+            "Thank you for the information, Medi."
+        ],
+        "knowledge": "Tuberculosis Tuberculosis Tuberculosis is a bacterial infection that most often affects the lungs.  It is spread through the air when a person with active TB disease in their lungs coughs, speaks, sneezes, sings, or even laughs.  TB is a serious and potentially deadly disease, but it can be cured with antibiotics.  It is important to take the full course of antibiotics prescribed by your doctor to prevent drug resistance.  Symptoms of TB include coughing for 3 weeks or longer, chest pain, coughing up blood, weakness or fatigue, weight loss, no appetite, chills, fever, and sweating at night. Tuberculosis Tuberculosis",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a surgery and I'm not sure what to do now",
+            "Hello, what kind of surgery did you have?",
+            "I had a knee replacement surgery",
+            "After your surgery, it is important to follow your doctor's instructions for physical therapy and exercise.",
+            "How about my diet?",
+            "You should maintain a healthy and balanced diet that includes plenty of fruits and vegetables, lean protein, whole grains, and low-fat dairy products.",
+            "Can I return to my normal activities?",
+            "You should avoid high-impact activities and sports for several weeks after your surgery, but you can gradually return to your normal activities as long as you follow your doctor's instructions.",
+            "Thank you for the advice, Medi"
+        ],
+        "knowledge": "Orthopedics Orthopedics Orthopedics is the branch of medicine that focuses on the musculoskeletal system.  The musculoskeletal system includes bones, joints, muscles, tendons, ligaments, and nerves.  Orthopedic surgeons specialize in the diagnosis, treatment, and prevention of injuries and disorders of the musculoskeletal system, including joint replacements.  After a surgery, it is important to follow your doctor's instructions for physical therapy and exercise, maintain a healthy and balanced diet, and avoid high-impact activities and sports for several weeks to ensure a full recovery. Orthopedics Orthopedics",
+        "response": "You're welcome. Remember to take care of yourself and follow your doctor's instructions for a full recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms like fever and cough",
+            "Hi, I'm here to help! When did your symptoms start?",
+            "Yesterday evening. And I have a headache too",
+            "I see. It could be a respiratory infection. I recommend seeing a doctor and getting tested for COVID-19.",
+            "What should I do in the meantime?",
+            "Stay home and self-isolate to avoid spreading the virus. Drink plenty of fluids and take over-the-counter medication to relieve your symptoms.",
+            "Okay, thanks for the advice. By the way, what is COVID-19?",
+            "COVID-19 is a highly infectious respiratory illness caused by the novel coronavirus. It can cause severe illness and even death in vulnerable populations like the elderly and those with underlying health conditions.",
+            "Got it. Thanks for letting me know!"
+        ],
+        "knowledge": "COVID-19 COVID-19 COVID-19 is a highly infectious respiratory illness caused by the novel coronavirus. It can cause severe illness and even death in vulnerable populations like the elderly and those with underlying health conditions. The most common symptoms include fever, cough, and shortness of breath, but it can also cause headaches, fatigue, and body aches. COVID-19 is primarily spread through respiratory droplets when an infected person coughs or sneezes. It can also be spread by touching a surface contaminated with the virus and then touching one's mouth, nose, or eyes. The best way to prevent its spread is to wear a mask, practice social distancing, wash hands frequently, and avoid large gatherings COVID-19 COVID-19",
+        "response": "You're welcome! Stay safe and get tested as soon as possible."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me about malaria?",
+            "Hi there! Malaria is a serious tropical disease caused by a parasite transmitted through mosquito bites.",
+            "What are the symptoms of malaria?",
+            "The symptoms usually manifest within a few weeks after being bitten by an infected mosquito. They include fever, chills, headache, muscle aches, and fatigue.",
+            "How is malaria treated?",
+            "Malaria is treated with antimalarial medication. The type of medication used and the duration of treatment depends on the severity of the infection and the type of parasite causing it.",
+            "Is there any way to prevent getting malaria?",
+            "Yes, there are several ways to prevent malaria, such as taking antimalarial medication before, during, and after travel to a malaria-endemic area, wearing protective clothing, using insect repellent, and sleeping under mosquito nets.",
+            "Thanks, that's helpful. How common is malaria?"
+        ],
+        "knowledge": "Malaria Malaria Malaria is a serious tropical disease caused by a parasite transmitted through mosquito bites. The symptoms usually manifest within a few weeks after being bitten by an infected mosquito. They include fever, chills, headache, muscle aches, and fatigue. Malaria is treated with antimalarial medication. The type of medication used and the duration of treatment depends on the severity of the infection and the type of parasite causing it. There are several ways to prevent malaria, such as taking antimalarial medication before, during, and after travel to a malaria-endemic area, wearing protective clothing, using insect repellent, and sleeping under mosquito nets. Malaria is most prevalent in sub-Saharan Africa, but it also occurs in parts of South America, Southeast Asia, and the Indian subcontinent. According to the World Health Organization, in 2019, there were an estimated 229 million cases of malaria worldwide, resulting in 409,000 deaths. Malaria Malaria",
+        "response": "You're welcome! Remember to take precautions if you're traveling to a malaria-endemic area."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery. Can you give me some advice on post-operative care?",
+            "Of course! What type of surgery did you have?",
+            "I had a gallbladder removal surgery.",
+            "I see. After the surgery, it's important to take pain medication as prescribed by your doctor, and to rest as much as possible. You should also avoid lifting heavy objects or doing strenuous activities for several weeks after the surgery.",
+            "What about my diet?",
+            "You should start with clear liquids and then slowly progress to solid foods as tolerated. Avoid fatty or greasy foods, as they can cause digestive problems. Stick to a low-fat, high-fiber diet to help your body recover.",
+            "How soon can I return to work?",
+            "It depends on the nature of your job and how you're feeling. Most people can return to work within 1-2 weeks after gallbladder removal surgery, but it's important to follow your doctor's instructions and take it easy.",
+            "Okay, that makes sense. Thanks for your help!"
+        ],
+        "knowledge": "Gallbladder Removal Surgery Gallbladder Removal Surgery Gallbladder removal surgery, also known as cholecystectomy, is a common surgical procedure used to treat gallstones, inflammation, or infection of the gallbladder. After the surgery, it's important to take pain medication as prescribed by your doctor, and to rest as much as possible. You should also avoid lifting heavy objects or doing strenuous activities for several weeks after the surgery. You should start with clear liquids and then slowly progress to solid foods as tolerated. Avoid fatty or greasy foods, as they can cause digestive problems. Stick to a low-fat, high-fiber diet to help your body recover. Most people can return to work within 1-2 weeks after gallbladder removal surgery, but it's important to follow your doctor's instructions and take it easy. Gallbladder Removal Surgery Gallbladder Removal Surgery",
+        "response": "You're welcome! Take care and follow your doctor's instructions for a successful recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and my throat is sore.",
+            "Hi there! How long have you been experiencing these symptoms?",
+            "For about 2 days now.",
+            "Alright. Have you taken your temperature yet?",
+            "Yes. It's around 38.5\u00b0C.",
+            "I see. Based on your symptoms, you may have a bacterial infection, and I recommend you see a doctor for proper diagnosis and treatment.",
+            "Is there anything I can do to alleviate my symptoms?",
+            "You can try taking some over-the-counter pain relievers and gargling with warm water and salt to soothe your sore throat.",
+            "Thanks for the advice, Medi. One more question, how can I prevent bacterial infections?"
+        ],
+        "knowledge": "Bacterial infections Bacterial infections Bacteria are single-celled microorganisms that can cause a variety of infections, ranging from minor skin infections to more severe illnesses, such as pneumonia and meningitis. Bacterial infections are caused by the spread of harmful bacteria from person to person or from contaminated surfaces or food. Preventing bacterial infections involves good hygiene practices, such as washing your hands frequently, covering your mouth when you cough or sneeze, and avoiding close contact with sick people. It's also important to keep your immune system healthy by eating a balanced diet, getting enough sleep, and staying physically active.",
+        "response": "You can prevent bacterial infections by practicing good hygiene like washing your hands frequently, covering your mouth when you cough or sneeze, and avoiding close contact with sick people. Keeping your immune system healthy by eating a balanced diet, getting enough sleep, and staying physically active is also important."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a rash on my arm. What should I do?",
+            "Hello! Can you describe the rash to me? What does it look like?",
+            "It's red and itchy, and there are small bumps on it.",
+            "Is it painful or swollen?",
+            "No, it's not painful or swollen.",
+            "Alright. Based on your description, it may be an allergic reaction or contact dermatitis. I recommend you avoid whatever may have caused the rash and apply a topical corticosteroid cream.",
+            "Can I use any other home remedies?",
+            "You could try applying a cool, damp cloth to the affected area or taking an oatmeal bath to soothe the itching.",
+            "Thanks for the advice. One more question, how do I know if my rash is serious enough to see a doctor?"
+        ],
+        "knowledge": "Skin rashes Skin rashes There are many causes of skin rashes, including allergies, infections, medications, and autoimmune disorders. Most rashes are not serious and can be treated with over-the-counter creams or medications. However, if a rash is accompanied by other symptoms, such as fever, swelling, or difficulty breathing, it may be a more serious condition and require medical attention. If you are unsure whether your rash requires medical treatment, it's always best to consult a healthcare provider.",
+        "response": "You should see a doctor if your rash is accompanied by other symptoms, such as fever, swelling, or difficulty breathing. If you are unsure whether your rash requires medical treatment, it's always best to consult a healthcare provider."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery, and I'm not sure what to do next. Can you help me?",
+            "Of course! How are you feeling?",
+            "I'm a bit sore, but otherwise okay.",
+            "That's normal. After surgery, it's important to get plenty of rest and avoid any strenuous activity for a while.",
+            "How long should I rest for?",
+            "It depends on the type of surgery you had, but most people need to rest for at least a few days. Your doctor will give you specific instructions based on your individual needs.",
+            "What about my diet?",
+            "It's important to eat a balanced diet with plenty of protein to help your body heal. Your doctor may also recommend specific dietary restrictions depending on your condition.",
+            "Thanks, Medi. One more question, when can I go back to work after my surgery?"
+        ],
+        "knowledge": "Postoperative care Postoperative care After surgery, it's important to follow your doctor's instructions for postoperative care. This may include getting plenty of rest, taking prescribed medications, keeping the surgical wound clean and dry, and avoiding strenuous activity for a period of time. It's also important to eat a balanced diet with plenty of protein to help your body heal. The length of time you need to rest and the specific dietary restrictions you need to follow will depend on the type of surgery you had and your individual needs. Your doctor will give you specific instructions for your postoperative care.",
+        "response": "The length of time you need to rest and the specific dietary restrictions you need to follow will depend on the type of surgery you had and your individual needs. Your doctor will give you specific instructions for your postoperative care, including when you can go back to work."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been having fever and cough for days.",
+            "Okay, I can help you. Can you please tell me more about your symptoms?",
+            "I feel very tired, have difficulty breathing and my chest hurts.",
+            "I suspect you may have contracted COVID-19. You need to isolate yourself and contact your local health authorities for testing.",
+            "What can I do to avoid getting infected?",
+            "Wear a mask, maintain social distancing, and wash your hands frequently. Avoid crowded places and unnecessary travel.",
+            "Thank you for the advice. What is the current situation with COVID-19?",
+            "COVID-19 is a pandemic that has affected millions of people globally. Vaccines are now available to help prevent the spread of the virus.",
+            "Where can I get vaccinated? "
+        ],
+        "knowledge": "COVID-19 COVID-19 COVID-19 is a highly contagious respiratory illness caused by the SARS-CoV-2 virus. Symptoms include fever, cough, fatigue, and difficulty breathing, and can range from mild to severe. The virus is primarily spread through respiratory droplets when an infected person talks, coughs, or sneezes. The best way to prevent infection is to avoid exposure to the virus by wearing a mask, maintaining social distancing, and washing your hands frequently. Vaccines are now available to help prevent the spread of the virus. COVID-19 COVID-19",
+        "response": "You can get vaccinated at your local health center or hospital. Please check with your local health authorities for more information."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a rash on my arm. Can you help me?",
+            "Of course. Can you describe the rash for me?",
+            "It's red, itchy, and has small bumps. It's also spreading to other parts of my body.",
+            "Based on your description, it sounds like you may have an allergic reaction. Have you come into contact with any new substances lately?",
+            "I recently used a new body wash. Could that be the cause?",
+            "Yes, it is possible. I suggest you stop using the body wash and see if the rash improves. You can also take an antihistamine to relieve the itching.",
+            "Thank you for the advice. Do I need to see a doctor?",
+            "If the rash persists or gets worse, you should see a doctor. They may prescribe a topical cream or oral medication to help clear the rash.",
+            "Okay, I will keep that in mind. Can you recommend any other remedies?"
+        ],
+        "knowledge": "Allergic reaction Allergic reaction An allergic reaction is a response of the immune system to a foreign substance, known as an allergen. Symptoms can vary from mild to severe, and can include itching, rash, hives, swollen face or eyes, difficulty breathing, and anaphylaxis. The most common allergens include pollen, dust mites, animal dander, insect stings, and certain foods or medications. In mild cases, over-the-counter antihistamines can provide relief. In more severe cases, treatment may include epinephrine or emergency medical care. Avoiding the allergen is the best way to prevent an allergic reaction Allergic reaction Allergic reaction",
+        "response": "You can try applying a cool compress or taking an oatmeal bath to help relieve the itching. Chamomile or green tea bags can also be placed on the affected area to help soothe the rash."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I want to know how to take care of myself during recovery.",
+            "Sure, I can help you. What kind of surgery did you have?",
+            "I had a knee replacement surgery.",
+            "After surgery, it is important to rest and avoid putting too much weight on your knee. You should also do physical therapy exercises as prescribed by your doctor to help regain strength and mobility.",
+            "Can I resume my normal activities right away?",
+            "No, you need to gradually return to your normal activities as your knee heals. Your doctor will give you instructions on when and how to resume activities such as walking or driving.",
+            "Okay, thanks for the advice. What kind of diet should I follow during recovery?",
+            "You should eat a balanced diet with plenty of protein and vitamins to help your body heal. You should also avoid foods that can cause inflammation, such as processed foods and sugary drinks.",
+            "Got it. How long will it take for me to recover fully?"
+        ],
+        "knowledge": "Knee replacement surgery Knee replacement surgery Knee replacement surgery is a procedure that involves removing damaged or diseased knee joint tissue and replacing it with an artificial joint. Recovery time from knee replacement surgery varies depending on the individual and the extent of the surgery. Generally, patients need to rest and avoid putting too much weight on the knee for several weeks after surgery. Physical therapy exercises are also prescribed to help regain strength and mobility. A balanced diet with plenty of protein and vitamins is also important for recovery. Full recovery can take several months to a year Knee replacement surgery Knee replacement surgery",
+        "response": "Recovery time from knee replacement surgery varies depending on the individual and the extent of the surgery. Generally, it can take several weeks to several months to fully recover from knee replacement surgery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a high fever and cough that doesn't go away",
+            "Based on your symptoms, it could be a respiratory infection. I suggest you get a COVID-19 test.",
+            "I see. But can you give me some home remedy for my fever?",
+            "You can take over-the-counter fever reducers and drink plenty of fluids.",
+            "Alright. What about my cough?",
+            "You can try using cough drops and warm liquids to soothe your throat.",
+            "Got it. One more question, what are the common causes of respiratory infection?",
+            "Respiratory infections are usually caused by viruses, bacteria, or fungi.",
+            "Thanks, Medi. What should I do if my symptoms get worse?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The top three single agent/disease killers are HIV/AIDS, TB and malaria.  While the number of deaths due to nearly every disease have decreased, deaths due to HIV/AIDS have increased fourfold.  Childhood diseases include pertussis, poliomyelitis, diphtheria, measles and tetanus.  Children also make up a large percentage of lower respiratory and diarrheal deaths.  In 2012, approximately 3. 1 million people have died due to lower respiratory infections, making it the number 4 leading cause of death in the world. With their potential for unpredictable and explosive impacts, infectious diseases have been major actors in human history Infectious diseases Infectious diseases",
+        "response": "If your symptoms worsen, you should seek medical help immediately."
+    },
+    {
+        "dialog": [
+            "Hello Medi, what is malaria?",
+            "Malaria is a serious and sometimes fatal disease caused by a parasite that commonly infects a certain type of mosquito.",
+            "How does the parasite infect humans?",
+            "The parasite is transmitted through the bites of infected female Anopheles mosquitoes.",
+            "What are the symptoms of malaria?",
+            "The symptoms of malaria include high fever, chills, headache, and muscle pain, which typically occur a few days after being bitten by an infected mosquito.",
+            "Is there any cure for malaria?",
+            "Yes, malaria can be treated with medications, but it is important to seek medical help as soon as possible.",
+            "I see. Can malaria be prevented?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The top three single agent/disease killers are HIV/AIDS, TB and malaria.  While the number of deaths due to nearly every disease have decreased, deaths due to HIV/AIDS have increased fourfold.  Childhood diseases include pertussis, poliomyelitis, diphtheria, measles and tetanus.  Children also make up a large percentage of lower respiratory and diarrheal deaths.  In 2012, approximately 3. 1 million people have died due to lower respiratory infections, making it the number 4 leading cause of death in the world. With their potential for unpredictable and explosive impacts, infectious diseases have been major actors in human history Infectious diseases Infectious diseases",
+        "response": "If you think you have been infected with malaria, you should seek medical help as soon as possible."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery. What should I do next?",
+            "After surgery, it is important to follow your doctor's instructions carefully to ensure proper healing.",
+            "What kind of foods should I eat after surgery?",
+            "You should eat a healthy and balanced diet that is rich in nutrients to help your body heal.",
+            "Can I exercise after surgery?",
+            "It depends on the type of surgery you had. Your doctor will advise you on when and how to resume physical activity.",
+            "What about my medication?",
+            "You should take your medications as prescribed by your doctor and avoid missing doses.",
+            "Thanks, Medi. What should I do if I experience pain or discomfort?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The top three single agent/disease killers are HIV/AIDS, TB and malaria.  While the number of deaths due to nearly every disease have decreased, deaths due to HIV/AIDS have increased fourfold.  Childhood diseases include pertussis, poliomyelitis, diphtheria, measles and tetanus.  Children also make up a large percentage of lower respiratory and diarrheal deaths.  In 2012, approximately 3. 1 million people have died due to lower respiratory infections, making it the number 4 leading cause of death in the world. With their potential for unpredictable and explosive impacts, infectious diseases have been major actors in human history Infectious diseases Infectious diseases",
+        "response": "If you notice any unusual symptoms, you should contact your doctor immediately."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a high fever and a cough",
+            "I'm sorry to hear that. How long have you been experiencing these symptoms?",
+            "It's been about 3 days now. I also feel very weak and tired.",
+            "Based on your symptoms, it's possible that you have contracted an infectious disease. I suggest that you get a COVID-19 test as soon as possible.",
+            "Oh no, I hope it's not COVID-19. What should I do in the meantime?",
+            "You should rest and drink lots of fluids, especially water. You can also take over-the-counter medication to help reduce your fever and relieve your cough.",
+            "Okay, thank you for your advice. What are some common infectious diseases that I should know about?",
+            "Some common infectious diseases include the flu, pneumonia, and tuberculosis. It's important to take preventive measures such as washing your hands regularly and avoiding contact with people who are sick.",
+            "That's good to know. How can I prevent the spread of infectious diseases to others?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The top three single agent/disease killers are HIV/AIDS, TB and malaria. While the number of deaths due to nearly every disease have decreased, deaths due to HIV/AIDS have increased fourfold. Childhood diseases include pertussis, poliomyelitis, diphtheria, measles and tetanus. Children also make up a large percentage of lower respiratory and diarrheal deaths. In 2012, approximately 3.1 million people have died due to lower respiratory infections, making it the number 4 leading cause of death in the world. With their potential for unpredictable and explosive impacts, infectious diseases have been major actors in human history Infectious diseases Infectious diseases",
+        "response": "You can prevent the spread of infectious diseases by washing your hands regularly, wearing a mask, maintaining social distancing, staying home if you're feeling sick, and avoiding contact with people who are sick."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about tuberculosis?",
+            "Sure. Tuberculosis, or TB, is an infectious disease that usually affects the lungs. It's caused by a bacterium called Mycobacterium tuberculosis.",
+            "What are the symptoms of TB?",
+            "The most common symptoms include a cough that lasts for more than 3 weeks, chest pain, coughing up blood or sputum, fatigue, fever, night sweats, and weight loss.",
+            "How is TB treated?",
+            "TB is treated with a course of antibiotics that lasts for several months. It's important to complete the entire course of treatment to prevent the development of drug-resistant TB.",
+            "Can TB be prevented?",
+            "Yes, TB can be prevented by getting vaccinated with the BCG vaccine, avoiding close contact with people who have TB, and practicing good hygiene such as washing your hands regularly.",
+            "Thank you for the information. What should I do if I think I have TB?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The top three single agent/disease killers are HIV/AIDS, TB and malaria. While the number of deaths due to nearly every disease have decreased, deaths due to HIV/AIDS have increased fourfold. Childhood diseases include pertussis, poliomyelitis, diphtheria, measles and tetanus. Children also make up a large percentage of lower respiratory and diarrheal deaths. In 2012, approximately 3.1 million people have died due to lower respiratory infections, making it the number 4 leading cause of death in the world. With their potential for unpredictable and explosive impacts, infectious diseases have been major actors in human history Infectious diseases Infectious diseases",
+        "response": "If you think you have TB, you should see a healthcare provider as soon as possible to get tested and receive appropriate treatment."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what I should do to take care of myself.",
+            "Hello. After surgery, it's important to follow your doctor's instructions carefully. They may recommend that you rest for a certain amount of time, take medication to manage pain, and perform certain exercises to help with your recovery.",
+            "What should I eat to help with my recovery?",
+            "It's important to eat a balanced diet that includes plenty of lean protein, whole grains, fruits, and vegetables. You should also drink plenty of water to stay hydrated.",
+            "Are there any foods I should avoid?",
+            "You should avoid processed foods, sugary drinks, and foods that are high in saturated fat or sodium. These can slow down your healing process and lead to complications.",
+            "What kind of exercise should I do?",
+            "Your doctor may recommend certain exercises to help you regain strength and mobility. It's important to start slowly and gradually increase the intensity of your workouts as your body heals.",
+            "Thank you for your help. How long will it take for me to fully recover?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The top three single agent/disease killers are HIV/AIDS, TB and malaria. While the number of deaths due to nearly every disease have decreased, deaths due to HIV/AIDS have increased fourfold. Childhood diseases include pertussis, poliomyelitis, diphtheria, measles and tetanus. Children also make up a large percentage of lower respiratory and diarrheal deaths. In 2012, approximately 3.1 million people have died due to lower respiratory infections, making it the number 4 leading cause of death in the world. With their potential for unpredictable and explosive impacts, infectious diseases have been major actors in human history Infectious diseases Infectious diseases",
+        "response": "The amount of time it takes to fully recover after surgery depends on the type of surgery you had and your overall health. Your doctor can give you a better idea of what to expect."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm feeling feverish and have body aches",
+            "Sorry to hear that. Have you checked your temperature?",
+            "Yes, it's 101F",
+            "Based on your symptoms, it could be a viral infection. Stay hydrated and get plenty of rest.",
+            "Is there anything else I can do?",
+            "You can take over-the-counter medications to help with fever and body aches, and monitor your symptoms.",
+            "What if my symptoms get worse?",
+            "If your symptoms worsen or persist, please seek medical attention immediately.",
+            "Okay, thank you for your help."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common. ",
+        "response": "Please take care of yourself and monitor your symptoms. Seek medical attention if your symptoms persist or worsen."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about tuberculosis",
+            "Sure, ask away.",
+            "Is TB contagious?",
+            "Yes, TB is highly contagious and spreads through the air when an infected person coughs or sneezes.",
+            "How is TB diagnosed?",
+            "TB diagnosis involves a TB skin test, blood test, chest x-ray, and sputum culture.",
+            "How is TB treated?",
+            "TB treatment involves a combination of antibiotics taken daily for 6-9 months.",
+            "Thank you for the information, Medi"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases TB is a bacterial infection that typically affects the lungs but can also affect other parts of the body. TB is highly contagious and spreads through the air when an infected person coughs or sneezes. TB diagnosis involves a TB skin test, blood test, chest x-ray, and sputum culture. TB treatment involves a combination of antibiotics taken daily for 6-9 months. ",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery and want to know how to take care of myself",
+            "Congratulations on your surgery being successful. What kind of surgery was it?",
+            "I had a hernia repair surgery",
+            "After surgery, it is important to rest and avoid strenuous activity. Take pain medications as prescribed and follow your doctor's instructions on wound care.",
+            "Are there any foods I should avoid?",
+            "Avoid foods that are spicy, greasy or high in fat. Eat a balanced diet with plenty of fruits and vegetables.",
+            "How long should I take it easy?",
+            "It is important to rest for at least a week and avoid heavy lifting, bending or twisting. Follow up with your doctor to make sure you are healing properly.",
+            "Thanks for the advice."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases After surgery, it is important to rest and avoid strenuous activity. Take pain medications as prescribed and follow your doctor's instructions on wound care. Avoid foods that are spicy, greasy or high in fat. Eat a balanced diet with plenty of fruits and vegetables. It is important to rest for at least a week and avoid heavy lifting, bending or twisting. Follow up with your doctor to make sure you are healing properly. ",
+        "response": "You're welcome. I hope you have a speedy recovery. Remember to follow your doctor's instructions for the best outcome."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am feeling feverish and have a sore throat.",
+            "I am sorry to hear that. Based on your symptoms, you might have a viral or bacterial infection.",
+            "What should I do next?",
+            "You should get plenty of rest and stay hydrated. You can also take over-the-counter pain relief like paracetamol. If your symptoms persist, you should see a doctor for a proper diagnosis.",
+            "Thank you for your advice. Is there anything else I can do to prevent getting sick?",
+            "Yes, you can maintain good hygiene like washing your hands frequently, avoiding close contact with people who are sick, and disinfecting commonly used surfaces like doorknobs and countertops.",
+            "That's helpful. Can you tell me more about the most common infectious diseases?",
+            "Sure, the top three single agent/disease killers are HIV/AIDS, TB and malaria. Childhood diseases include pertussis, poliomyelitis, diphtheria, measles and tetanus.",
+            "Wow, that's a lot of information. Thank you for your help, Medi."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases The top three single agent/disease killers are HIV/AIDS, TB and malaria. While the number of deaths due to nearly every disease have decreased, deaths due to HIV/AIDS have increased fourfold. Childhood diseases include pertussis, poliomyelitis, diphtheria, measles and tetanus. Children also make up a large percentage of lower respiratory and diarrheal deaths. In 2012, approximately 3.1 million people have died due to lower respiratory infections, making it the number 4 leading cause of death in the world. With their potential for unpredictable and explosive impacts, infectious diseases have been major actors in human history Infectious diseases Infectious diseases",
+        "response": "You're welcome. Do you have any other questions?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about malaria.",
+            "Of course, I'm here to help. What is your question?",
+            "What causes malaria?",
+            "Malaria is caused by a parasite called Plasmodium, which is transmitted to humans through the bites of infected mosquitoes.",
+            "How can I prevent getting infected with malaria?",
+            "You can prevent getting infected with malaria by taking antimalarial medication, sleeping under a mosquito net, wearing long-sleeved clothing, and using insect repellent.",
+            "What are the symptoms of malaria?",
+            "The symptoms of malaria include fever, headache, chills, and flu-like symptoms. In severe cases, it can lead to organ failure, coma, and death.",
+            "Thank you for answering my questions, Medi."
+        ],
+        "knowledge": "Malaria Malaria Malaria is caused by a parasite called Plasmodium, which is transmitted to humans through the bites of infected mosquitoes.  Symptoms of malaria include fever, headache, chills, and flu-like symptoms.  In severe cases, it can lead to organ failure, coma, and death.  Malaria is preventable and curable.  Prevention includes taking antimalarial medication, sleeping under a mosquito net, wearing long-sleeved clothing, and using insect repellent. Malaria is a major public health problem in many tropical and subtropical countries, with about half of the world's population at risk.  In 2019, there were an estimated 229 million cases of malaria worldwide and 409,000 deaths.  Most of these deaths occur in sub-Saharan Africa Malaria Malaria",
+        "response": "You're welcome, happy to help. Do you have any other questions?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and was wondering what kind of physical activity I can do.",
+            "Congratulations on your surgery. It's important to take it easy and rest for the first few weeks after surgery.",
+            "When can I start exercising again?",
+            "You should wait until your doctor clears you for physical activity. This usually happens around six to eight weeks after surgery.",
+            "What kind of exercise can I do?",
+            "You should start with light exercise like walking or gentle stretching. As you recover, you can gradually increase the intensity and duration of your workouts.",
+            "What kind of diet should I follow after surgery?",
+            "You should follow a well-balanced diet that includes plenty of fruits, vegetables, whole grains, and lean protein. Avoid processed and high-fat foods, and drink plenty of water.",
+            "Thanks for your advice, Medi."
+        ],
+        "knowledge": "Surgery Surgery After surgery, it's important to rest and allow your body to heal.  Your doctor will give you specific instructions for physical activity, which may include light exercise like walking or gentle stretching.  As you recover, you can gradually increase the intensity and duration of your workouts.  You should also follow a well-balanced diet that includes plenty of fruits, vegetables, whole grains, and lean protein.  Avoid processed and high-fat foods, and drink plenty of water.  If you experience any unusual symptoms after surgery, contact your doctor immediately. Surgery is a major medical procedure that carries some risks, such as bleeding, infection, and complications from anesthesia Surgery Surgery",
+        "response": "You're welcome. Do you have any other questions?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling really sick with a fever and cough.",
+            "I'm sorry to hear that. How high is your fever and how long have you had your cough?",
+            "My fever is 38.5 degrees Celsius and my cough has been persistent for 3 days.",
+            "Based on your symptoms, it sounds like you may have a respiratory infection.",
+            "Is there anything I can do to help relieve my symptoms?",
+            "You can take over-the-counter medication and get lots of rest. Drink plenty of fluids as well.",
+            "Thanks Medi. I'll do that.",
+            "Feel better soon!"
+        ],
+        "knowledge": "Respiratory Infections Respiratory Infections  The most common symptoms of respiratory infections are fever, cough, and shortness of breath.  Respiratory infections can be caused by bacteria, viruses, or other types of microorganisms.  In many cases, respiratory infections can be treated with antibiotics or other medications.  In some cases, however, respiratory infections can be severe and can lead to complications, such as pneumonia or acute respiratory distress syndrome. Respiratory Infections Respiratory Infections",
+        "response": "You can take over-the-counter medication and get lots of rest. Drink plenty of fluids as well."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm concerned about infectious diseases like HIV/AIDS and malaria. What can I do to protect myself?",
+            "That's a great question. One of the best ways to protect yourself is to practice safe sex and use condoms.",
+            "What about malaria? How can I protect myself from that?",
+            "You should avoid mosquito bites by using insect repellent, mosquito nets, and wearing protective clothing.",
+            "Is there anything else I can do to prevent these diseases?",
+            "You can also make sure to get vaccinated for other infectious diseases, like pertussis, polio, diphtheria, and measles.",
+            "That's really helpful, Medi. Thank you!",
+            "You're welcome. Stay healthy!"
+        ],
+        "knowledge": "Infectious Diseases Infectious Diseases The top three single agent/disease killers are HIV/AIDS, TB and malaria.  While the number of deaths due to nearly every disease have decreased, deaths due to HIV/AIDS have increased fourfold.  Childhood diseases include pertussis, poliomyelitis, diphtheria, measles and tetanus.  Children also make up a large percentage of lower respiratory and diarrheal deaths.  In 2012, approximately 3. 1 million people have died due to lower respiratory infections, making it the number 4 leading cause of death in the world. With their potential for unpredictable and explosive impacts, infectious diseases have been major actors in human history Infectious diseases Infectious diseases",
+        "response": "You can also make sure to get vaccinated for other infectious diseases, like pertussis, polio, diphtheria, and measles."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what I should be doing to recover.",
+            "Congratulations on making it through your surgery. Your doctor should have given you specific instructions for recovery.",
+            "Yes, they did, but I'm still feeling a bit lost.",
+            "Well, one important thing to remember is to take your medication as prescribed and not to over-exert yourself.",
+            "What about my diet? Should I be eating anything specific?",
+            "You should follow your doctor's instructions and eat a balanced diet with plenty of protein. Avoid processed foods and sugary drinks.",
+            "Okay, that makes sense. What about exercise? When can I start working out again?",
+            "You should start with light exercise as soon as you feel up to it, but avoid any strenuous activity until your doctor clears you.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Surgery Surgery After surgery, it is important to follow your doctor's instructions for recovery.  This includes taking medication as prescribed, getting plenty of rest, and avoiding over-exertion.  It is also important to eat a balanced diet with plenty of protein and to avoid processed foods and sugary drinks.  Light exercise can be started as soon as you feel up to it, but avoid any strenuous activity until your doctor clears you. Surgery Surgery",
+        "response": "You should start with light exercise as soon as you feel up to it, but avoid any strenuous activity until your doctor clears you."
+    }
+]

@@ -1,0 +1,450 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I've been experiencing some symptoms lately.",
+            "Of course, I'm here to help. Could you please tell me what symptoms you have?",
+            "I've been feeling extremely tired, have no appetite, and experiencing abdominal pain.",
+            "I see. How long have you been experiencing these symptoms?",
+            "It's been going on for about a week now.",
+            "Okay. Have you recently traveled or eaten any specific type of food?",
+            "No, I haven't traveled anywhere and my diet has been normal.",
+            "Based on your symptoms, it's possible that you might have Hepatitis E.",
+            "What can I do about it, Medi?"
+        ],
+        "knowledge": "Hepatitis E, also known as HEV, can cause symptoms such as fatigue, loss of appetite, and abdominal pain. It is usually transmitted through contaminated food or water. Proper rest and hydration are important for recovery.",
+        "response": "It's important to rest and stay hydrated. If your symptoms persist, it's best to consult a healthcare professional for further evaluation and guidance."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about Hepatitis E.",
+            "Sure, I'm here to provide information. What would you like to know?",
+            "What are the common genotypes of Hepatitis E?",
+            "The common genotypes of Hepatitis E are genotypes 1 and 2. These genotypes are responsible for a significant number of infections and cases of symptomatic disease.",
+            "Are there any other genotypes of Hepatitis E?",
+            "Yes, there are genotypes 3 and 4, but the burden of these genotypes was not estimated in the aforementioned paper.",
+            "Thank you for the information, Medi.",
+            "You're welcome. If you have any more questions, feel free to ask.",
+            "What are the main causes of Hepatitis E?"
+        ],
+        "knowledge": "Hepatitis E is primarily caused by food-borne zoonoses, which means it is transmitted through contaminated food. This was evidenced by a study that found an increase in Hepatitis E cases in the U.K. due to food-borne zoonoses.",
+        "response": "The main cause of Hepatitis E is food-borne zoonoses, which refers to the transmission of the virus through contaminated food. This was supported by a study conducted in the U.K."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure. Do you have any advice for me?",
+            "Of course, I can provide some general advice. What kind of procedure did you have?",
+            "I had a liver biopsy.",
+            "After a liver biopsy, it's important to take it easy and avoid strenuous physical activity for a few days.",
+            "Are there any specific dietary recommendations?",
+            "It's best to follow your doctor's instructions regarding your diet after a liver biopsy. They may recommend avoiding certain foods or medications that could interfere with the healing process.",
+            "Thank you for the advice, Medi.",
+            "You're welcome. If you have any more questions or concerns, feel free to ask.",
+            "Is there any specific physical exercise I should avoid?"
+        ],
+        "knowledge": "After a liver biopsy, it's important to avoid strenuous physical activity that may put pressure on the liver. It's best to consult with your doctor for specific exercise recommendations.",
+        "response": "It's recommended to avoid any physical exercises that may put pressure on the liver, such as heavy lifting or vigorous workouts. It's always best to consult with your doctor for personalized advice."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about Hepatitis E.",
+            "Sure, I'm here to assist you. What would you like to know?",
+            "What are the main genotypes of Hepatitis E?",
+            "Hepatitis E has genotypes 1 and 2, but there are also genotypes 3 and 4.",
+            "How did the Department for Environment, Food and Rural Affairs link Hepatitis E with food-borne zoonoses?",
+            "They found evidence indicating that the increase in Hepatitis E in the U.K. was due to food-borne zoonoses.",
+            "That's interesting. Could you explain what food-borne zoonoses are?",
+            "Food-borne zoonoses are diseases that can be transmitted from animals to humans through contaminated food.",
+            "What is the estimated worldwide burden of Hepatitis E infections and symptomatic cases?"
+        ],
+        "knowledge": "Hepatitis E, HEV genotypes 1 and 2 caused around 20.1 million Hepatitis E infections and 3.4 million symptomatic cases in 2005. The burden of genotypes 3 and 4 was not estimated. The Department for Environment, Food and Rural Affairs linked Hepatitis E with food-borne zoonoses.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently underwent a medical procedure for Hepatitis E. What lifestyle changes should I make?",
+            "Congratulations on completing your medical procedure. I can provide some advice on lifestyle changes.",
+            "What kind of diet should I follow now?",
+            "You should focus on maintaining a healthy diet by consuming nutritious foods like fruits, vegetables, and lean proteins.",
+            "Are there any specific foods I should avoid?",
+            "It's best to avoid foods that are high in fat, salt, and sugar, as they can negatively impact your health.",
+            "What about physical exercise? Should I start exercising regularly?",
+            "Yes, regular physical exercise is beneficial for your overall health. Start with light exercises and gradually increase intensity.",
+            "Should I consult a nutritionist or a fitness trainer for a personalized plan?"
+        ],
+        "knowledge": "Hepatitis E requires lifestyle changes after a medical procedure. A healthy diet with fruits, vegetables, and lean proteins is recommended. Avoiding foods high in fat, salt, and sugar is advised. Regular physical exercise is beneficial, starting with light exercises and gradually increasing intensity. Consulting a nutritionist or fitness trainer for a personalized plan is beneficial.",
+        "response": "You're welcome! If you have any more questions or need further assistance, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Medi, I'm curious about Hepatitis E. Can you provide some information?",
+            "Certainly! I'm here to help. What would you like to know about Hepatitis E?",
+            "How common is Hepatitis E worldwide?",
+            "Hepatitis E is quite common worldwide, with millions of infections and symptomatic cases reported annually.",
+            "Are there different genotypes of Hepatitis E?",
+            "Yes, Hepatitis E has different genotypes, including genotypes 1, 2, 3, and 4.",
+            "What are the symptoms of Hepatitis E?",
+            "The symptoms of Hepatitis E can include fatigue, jaundice, abdominal pain, and loss of appetite.",
+            "Is Hepatitis E a life-threatening disease?"
+        ],
+        "knowledge": "Hepatitis E is a common viral infection worldwide. It has different genotypes: 1, 2, 3, and 4. Symptoms include fatigue, jaundice, abdominal pain, and loss of appetite. While most cases resolve on their own, it can be severe in pregnant women.",
+        "response": "You're welcome! If you have any more questions or concerns, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms that worry me.",
+            "Of course, I'm here to help. Can you tell me more about your symptoms?",
+            "I've been feeling extremely tired lately, and I've noticed a loss of appetite as well.",
+            "Hmm, those are concerning symptoms. Have you experienced any other symptoms?",
+            "Yes, I've been having pain in the upper right side of my abdomen.",
+            "I see. Based on your symptoms, it's possible that you may be experiencing hepatitis E.",
+            "What is hepatitis E exactly?",
+            "Hepatitis E is a viral infection that affects the liver. It can cause symptoms like fatigue, loss of appetite, and abdominal pain.",
+            "Is there any treatment for hepatitis E?"
+        ],
+        "knowledge": "Hepatitis E, also known as HEV, is caused by HEV genotypes 1 and 2. It can lead to hepatitis E infections, symptomatic disease, and even deaths. In 2005, there were around 20.1 million hepatitis E infections and 70,000 deaths. The increase in hepatitis E in the UK has been attributed to food-borne zoonoses. In the UK, there have been cases of hepatitis E caused by HEV.",
+        "response": "Treatment for hepatitis E is mainly focused on supportive care, as the infection usually resolves on its own. It's important to rest, stay hydrated, and avoid alcohol."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I heard about hepatitis E. Can you tell me more about it?",
+            "Of course! I'm here to provide information. What would you like to know?",
+            "What are the symptoms of hepatitis E?",
+            "Common symptoms of hepatitis E include fatigue, loss of appetite, abdominal pain, and sometimes jaundice.",
+            "How is hepatitis E transmitted?",
+            "Hepatitis E is usually transmitted through contaminated water or food. It can also be transmitted through direct contact with an infected person's blood or bodily fluids.",
+            "Is there a vaccine for hepatitis E?",
+            "Yes, there is a vaccine for hepatitis E, but it is not widely available in all countries. It's primarily used in high-risk populations.",
+            "Is hepatitis E a serious disease?"
+        ],
+        "knowledge": "Hepatitis E is a viral infection that primarily affects the liver. It can cause symptoms like fatigue, loss of appetite, abdominal pain, and jaundice. The virus is transmitted through contaminated water or food, or through direct contact with infected individuals. In some cases, hepatitis E can lead to severe liver damage or even death, particularly in pregnant women.",
+        "response": "Hepatitis E can be a serious disease, especially for certain high-risk groups such as pregnant women or individuals with pre-existing liver conditions. It's important to seek medical attention if you suspect you may have hepatitis E."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure related to hepatitis E. Can you give me some advice on what to do now?",
+            "Of course! I'm here to provide guidance. Can you tell me more about the procedure you had?",
+            "I underwent a liver biopsy to diagnose hepatitis E. What should I do in terms of lifestyle and diet?",
+            "After a liver biopsy, it's important to take it easy and allow your body to heal. Avoid strenuous activities for a few days and follow any specific instructions given by your healthcare provider.",
+            "What about my diet? Are there any restrictions?",
+            "In terms of diet, it's generally recommended to eat a well-balanced and nutritious diet. Avoid excessive alcohol consumption and limit foods high in fat or processed sugars, as they can put additional stress on the liver.",
+            "Should I be taking any medications?",
+            "That would depend on the specific recommendations of your healthcare provider. They may prescribe antiviral medications or other supportive treatments to manage your hepatitis E.",
+            "Is there anything else I should be aware of after the procedure?"
+        ],
+        "knowledge": "After a liver biopsy, it's important to take it easy and allow the body to heal. Strenuous activities should be avoided for a few days. In terms of diet, a well-balanced and nutritious diet is recommended, while avoiding excessive alcohol consumption and foods high in fat or processed sugars. Medications may be prescribed based on the specific needs of the patient.",
+        "response": "It's important to monitor any post-procedure symptoms or signs of infection. If you experience severe pain, fever, or any unusual symptoms, it's best to contact your healthcare provider immediately."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms and I need your help.",
+            "Of course, I'm here to assist you. What are your symptoms?",
+            "I've been experiencing fatigue, loss of appetite, and yellowing of the skin.",
+            "Based on your symptoms, it's possible that you have hepatitis E.",
+            "Is hepatitis E a serious condition? What are the treatment options?",
+            "Hepatitis E can range from mild to severe. Treatment involves rest, staying hydrated, and managing symptoms.",
+            "Is there anything specific I should avoid in my diet?",
+            "It's best to avoid alcohol and fatty foods to reduce strain on your liver.",
+            "Thank you, Medi. How long does it usually take to recover from hepatitis E?"
+        ],
+        "knowledge": "Hepatitis E, caused by HEV genotypes 1 and 2, can lead to symptoms such as fatigue, loss of appetite, and yellowing of the skin. Treatment involves rest, staying hydrated, and managing symptoms. Alcohol and fatty foods should be avoided to reduce strain on the liver.",
+        "response": "The recovery time for hepatitis E varies, but it typically takes a few weeks to a couple of months."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about hepatitis E.",
+            "Of course, I'm here to help. What would you like to know?",
+            "What are the different genotypes of hepatitis E and their impact?",
+            "HEV genotypes 1 and 2 are responsible for the majority of hepatitis E infections. The burden of genotypes 3 and 4 is not estimated in the given context.",
+            "Are there any specific factors that contribute to the increase of hepatitis E?",
+            "According to the Department for Environment, Food and Rural Affairs, evidence suggests that the increase in hepatitis E in the U.K. is due to food-borne zoonoses.",
+            "Can you explain what food-borne zoonoses are?",
+            "Food-borne zoonoses are diseases that can be transmitted from animals to humans through contaminated food, such as consuming undercooked or raw meat.",
+            "Thank you, Medi. Is hepatitis E preventable?"
+        ],
+        "knowledge": "Hepatitis E, caused by HEV genotypes 1 and 2, can lead to millions of infections and symptomatic cases. The burden of genotypes 3 and 4 is not estimated. The increase in hepatitis E in the U.K. is attributed to food-borne zoonoses.",
+        "response": "Hepatitis E can be prevented by practicing good hygiene, such as washing hands thoroughly before handling food and avoiding consumption of undercooked or raw meat."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I recently had a medical procedure related to hepatitis E. Any advice?",
+            "Of course, I can provide you with lifestyle and diet recommendations. What procedure did you have?",
+            "I had a liver biopsy to diagnose my liver condition.",
+            "After a liver biopsy, it's important to rest and avoid strenuous physical activity for a few days. You should also follow your doctor's instructions for pain management.",
+            "Are there any specific foods I should include in my diet to support my liver health?",
+            "A diet rich in fruits, vegetables, and whole grains can support liver health. It's also important to stay hydrated by drinking plenty of water.",
+            "Can I continue my regular exercise routine?",
+            "It's best to avoid intense physical exercise for a few days after the biopsy. You can gradually resume your regular exercise routine once your doctor gives you the green light.",
+            "Thank you, Medi. Is there anything else I should keep in mind after the procedure?"
+        ],
+        "knowledge": "After a liver biopsy, it's important to rest and avoid strenuous physical activity for a few days. A diet rich in fruits, vegetables, and whole grains can support liver health. It's important to stay hydrated and follow your doctor's instructions for pain management.",
+        "response": "It's important to follow your doctor's instructions for post-procedure care, take any prescribed medications, and contact your healthcare provider if you experience any unusual symptoms or complications."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling really tired and nauseous lately.",
+            "I'm here to help. Could you tell me more about your symptoms?",
+            "I feel exhausted all the time, and I've been having bouts of nausea throughout the day.",
+            "I see. How long have you been experiencing these symptoms?",
+            "It's been going on for about a week now.",
+            "Okay. Have you been in contact with anyone who's been sick recently?",
+            "Not that I'm aware of. I've been staying at home mostly.",
+            "I understand. Based on your symptoms, it's possible that you have a viral infection.",
+            "What could be causing these symptoms, Medi?"
+        ],
+        "knowledge": "Viral Infection: Viral infections can cause symptoms such as fatigue, nausea, and body aches. They are usually spread through respiratory droplets or direct contact with an infected person. Common viral infections include the common cold, flu, and stomach viruses.",
+        "response": "Your symptoms are consistent with a viral infection, which could be caused by a common cold or flu virus."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I recently had a liver function test and my results came back abnormal.",
+            "I'm here to help. Can you tell me more about your test results?",
+            "The doctor said my liver enzymes were elevated. I'm not sure what that means.",
+            "Elevated liver enzymes could indicate liver damage or inflammation. Did you experience any symptoms?",
+            "I haven't noticed any specific symptoms related to my liver.",
+            "That's good. Elevated liver enzymes can be caused by various factors, such as alcohol consumption or certain medications.",
+            "I don't drink alcohol excessively, but I do take some medications. Could they be the cause?",
+            "It's possible. Some medications can affect liver function. I recommend discussing this with your doctor to determine the cause.",
+            "I'll make sure to follow up with my doctor. Thanks, Medi."
+        ],
+        "knowledge": "Liver Function Test: A liver function test measures levels of various enzymes and proteins in the blood. Abnormal results can indicate liver damage, inflammation, or other liver-related conditions. Elevated liver enzymes can be caused by factors such as alcohol consumption, medication side effects, viral hepatitis, or liver diseases.",
+        "response": "Elevated liver enzymes could be caused by factors such as medication side effects or liver diseases. I recommend discussing this with your doctor for further evaluation."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently recovered from Hepatitis E. What should I do now to maintain my health?",
+            "Congratulations on your recovery! I can provide you with some general guidelines. What specifically would you like advice on?",
+            "I'm concerned about my diet. Are there any specific foods I should avoid or include?",
+            "A balanced diet is important for overall health. I recommend consuming plenty of fruits, vegetables, lean proteins, and whole grains. Limit your intake of processed foods and sugary beverages.",
+            "That's helpful. How about physical exercise? Are there any restrictions or recommendations?",
+            "Regular physical exercise is beneficial for maintaining overall health. Start with low-impact activities, and gradually increase intensity as tolerated. It's always a good idea to consult with your doctor before starting a new exercise program.",
+            "I'll keep that in mind. Lastly, are there any additional precautions I should take to prevent a relapse?",
+            "While Hepatitis E typically resolves on its own, it's important to practice good hygiene and safe food handling to prevent future infections. Wash your hands frequently and ensure that food is properly cooked and stored.",
+            "Thank you for the advice, Medi. I'll take these steps to maintain my health."
+        ],
+        "knowledge": "Hepatitis E: Hepatitis E is a viral infection that affects the liver. After recovering from Hepatitis E, it's important to focus on maintaining overall health. This includes following a balanced diet, engaging in regular physical exercise, and practicing good hygiene and safe food handling to prevent reinfection.",
+        "response": "Following a balanced diet, engaging in regular physical exercise, and practicing good hygiene and safe food handling can help you maintain your health after recovering from Hepatitis E."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been experiencing some symptoms lately.",
+            "Sure, I'm here to help. Can you describe your symptoms to me?",
+            "I've been feeling extremely tired and have been experiencing loss of appetite.",
+            "I see. Have you noticed any other symptoms?",
+            "Yes, I've also been having abdominal pain and dark-colored urine.",
+            "Based on your symptoms, it's possible that you might have hepatitis E.",
+            "Oh no, what should I do next?",
+            "I recommend consulting a doctor for further evaluation and diagnosis.",
+            "What are the treatment options for hepatitis E?"
+        ],
+        "knowledge": "Hepatitis E, also known as HEV, is a viral infection that can cause symptoms such as fatigue, loss of appetite, abdominal pain, and dark-colored urine. It is important to consult a doctor for proper diagnosis and treatment of hepatitis E.",
+        "response": "The treatment options for hepatitis E include rest, fluids, and monitoring. In some cases, antiviral medications may be prescribed."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a question about hepatitis E.",
+            "Of course, I'm here to answer your questions. What would you like to know?",
+            "What are the common causes of hepatitis E?",
+            "Hepatitis E is usually caused by consuming contaminated food or water.",
+            "Is it a common infection?",
+            "Hepatitis E is a common infection worldwide, especially in developing countries.",
+            "Is there a way to prevent hepatitis E?",
+            "Practicing good hygiene, such as washing hands thoroughly, and avoiding consuming uncooked or undercooked meat can help prevent hepatitis E.",
+            "Thank you for the information, Medi."
+        ],
+        "knowledge": "Hepatitis E is caused by HEV, which is usually transmitted through contaminated food or water. It is a common infection, especially in areas with poor sanitation. Practicing good hygiene and avoiding consuming uncooked or undercooked meat can help prevent hepatitis E.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure related to hepatitis E.",
+            "I hope the procedure went well. How can I assist you?",
+            "I'm wondering if there are any lifestyle changes I should make after the procedure.",
+            "After a medical procedure for hepatitis E, it's important to focus on maintaining a healthy diet and lifestyle.",
+            "Can you give me some examples of lifestyle changes?",
+            "Sure, examples include eating a balanced diet, exercising regularly, avoiding alcohol, and getting enough rest.",
+            "Are there any specific dietary recommendations?",
+            "A diet rich in fruits, vegetables, whole grains, and lean proteins is generally recommended for hepatitis E recovery.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "After a medical procedure for hepatitis E, it is important to maintain a healthy lifestyle. This includes eating a balanced diet, exercising regularly, avoiding alcohol, and getting enough rest. A diet rich in fruits, vegetables, whole grains, and lean proteins is generally recommended for hepatitis E recovery.",
+        "response": "You're welcome! If you have any more questions or concerns, don't hesitate to reach out."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been experiencing symptoms related to hepatitis E. Can you help me?",
+            "Of course, I'm here to assist you. Please describe the symptoms you're experiencing.",
+            "I've been feeling extremely fatigued, have a loss of appetite, and my urine has turned dark.",
+            "Based on your symptoms, it's possible that you have hepatitis E. You should get a blood test to confirm the diagnosis.",
+            "Is hepatitis E a serious disease? What are the potential complications?",
+            "Hepatitis E can be serious, especially for pregnant women or those with weakened immune systems. It can lead to liver failure.",
+            "I see. What can I do to manage the symptoms and promote recovery?",
+            "There isn't a specific treatment for hepatitis E, but you should get plenty of rest, stay hydrated, and avoid alcohol. Follow your doctor's advice for monitoring and managing the condition.",
+            "Thank you for your help. Just one more question: How is hepatitis E transmitted?"
+        ],
+        "knowledge": "Hepatitis E is typically transmitted through contaminated food or water. It can also be spread through close contact with an infected person. Good hygiene practices and safe food handling can help prevent transmission.",
+        "response": "Hepatitis E is usually transmitted through contaminated food or water, and can also spread through close contact with an infected person."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I've heard about hepatitis E, but I don't know much about it. Can you explain?",
+            "Certainly! Hepatitis E is a viral infection that affects the liver. It can cause symptoms such as fatigue, loss of appetite, jaundice, and dark urine.",
+            "Is hepatitis E a common disease?",
+            "Hepatitis E is not as common as some other types of hepatitis, but it can occur worldwide. It is more prevalent in developing countries with poor sanitation.",
+            "How is hepatitis E transmitted? Can I prevent it?",
+            "Hepatitis E is primarily transmitted through contaminated food or water. You can reduce your risk by practicing good hygiene, drinking safe water, and eating well-cooked food.",
+            "Thank you for the information, Medi. Is there a vaccine available for hepatitis E?",
+            "There is a vaccine for hepatitis E, but it is not widely available in all countries. You should consult with your healthcare provider to see if it's recommended for you.",
+            "I appreciate your help, Medi. One last question: How long does it take for symptoms of hepatitis E to appear?"
+        ],
+        "knowledge": "The incubation period for hepatitis E is usually between 2 to 6 weeks. However, some people may not develop symptoms or may have only mild symptoms.",
+        "response": "The symptoms of hepatitis E typically appear within 2 to 6 weeks after exposure to the virus."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I recently had a medical procedure related to hepatitis E. Any advice for my recovery?",
+            "Certainly! After a medical procedure, it's important to take care of your body. Make sure to get plenty of rest, eat a healthy diet, and follow any post-procedure instructions given by your healthcare provider.",
+            "Are there any specific foods I should include in my diet to support my recovery?",
+            "Foods that are good for liver health, such as fruits, vegetables, whole grains, and lean proteins, can support your recovery. It's also important to stay well-hydrated.",
+            "Can I resume my normal physical activities after the procedure?",
+            "It's best to consult with your healthcare provider regarding physical activities. They will be able to advise you on when it's safe to resume your normal activities.",
+            "Thank you for the advice, Medi. Will I need any follow-up appointments or tests?",
+            "Your healthcare provider will let you know if any follow-up appointments or tests are necessary. It's important to attend these appointments to monitor your recovery and ensure any potential complications are addressed.",
+            "I appreciate your guidance, Medi. One more thing: Are there any lifestyle changes I should consider for long-term health?"
+        ],
+        "knowledge": "For long-term health, it's important to maintain a healthy lifestyle. This includes regular exercise, a balanced diet, avoiding excessive alcohol consumption, and practicing good hygiene to prevent further infections.",
+        "response": "For long-term health, it's important to maintain a healthy lifestyle with regular exercise, a balanced diet, and practicing good hygiene to prevent further infections."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been experiencing some symptoms lately.",
+            "Of course, I'm here to help. Can you tell me what symptoms you're experiencing?",
+            "I've been feeling very fatigued and have been having a loss of appetite.",
+            "I see. How long have you been experiencing these symptoms?",
+            "It's been going on for about a week now.",
+            "Okay. Have you noticed any other symptoms?",
+            "Yes, I've also been having some abdominal pain and dark urine.",
+            "Based on your symptoms, it's possible that you may have hepatitis E.",
+            "What causes hepatitis E?"
+        ],
+        "knowledge": "Hepatitis E, HEV genotypes 1 and 2 caused some 20.1 million hepatitis E infections, along with 3.4 million cases of symptomatic disease, and 70,000 deaths in 2005; however, the aforementioned paper did not estimate the burden of genotypes 3 and 4. According to the Department for Environment, Food and Rural Affairs, evidence indicated the increase in hepatitis E in the U.K. was due to food-borne zoonoses, citing a study that found in the U.K Hepatitis E",
+        "response": "Hepatitis E is caused by HEV genotypes 1 and 2. In the U.K, it has been linked to food-borne zoonoses."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about hepatitis E.",
+            "Sure, I'll do my best to provide an answer. What would you like to know?",
+            "What are the symptoms of hepatitis E?",
+            "The symptoms of hepatitis E can include fatigue, loss of appetite, abdominal pain, dark urine, and jaundice.",
+            "Is it a serious disease?",
+            "Hepatitis E can be serious, especially for pregnant women and people with weakened immune systems.",
+            "How is it transmitted?",
+            "Hepatitis E is usually transmitted through contaminated food or water.",
+            "Can it be treated?"
+        ],
+        "knowledge": "Hepatitis E, HEV genotypes 1 and 2 caused some 20.1 million hepatitis E infections, along with 3.4 million cases of symptomatic disease, and 70,000 deaths in 2005; however, the aforementioned paper did not estimate the burden of genotypes 3 and 4. According to the Department for Environment, Food and Rural Affairs, evidence indicated the increase in hepatitis E in the U.K. was due to food-borne zoonoses, citing a study that found in the U.K Hepatitis E",
+        "response": "There is no specific treatment for hepatitis E, but the symptoms can be managed and most people recover on their own."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure done. Can you give me some advice?",
+            "Of course, I'm here to help. What kind of advice are you looking for?",
+            "I'm wondering if there are any lifestyle changes I should make after the procedure.",
+            "It depends on the specific procedure you had. Can you tell me more about it?",
+            "I had a surgery to remove a tumor from my liver.",
+            "After a liver surgery, it's important to follow a healthy diet, get regular exercise, and avoid alcohol and smoking.",
+            "Are there any specific foods I should focus on?",
+            "Foods that are good for liver health include fruits, vegetables, whole grains, lean proteins, and foods rich in antioxidants.",
+            "Thank you, Medi. One last question. How long does it usually take to recover from liver surgery?"
+        ],
+        "knowledge": "Hepatitis E, HEV genotypes 1 and 2 caused some 20.1 million hepatitis E infections, along with 3.4 million cases of symptomatic disease, and 70,000 deaths in 2005; however, the aforementioned paper did not estimate the burden of genotypes 3 and 4. According to the Department for Environment, Food and Rural Affairs, evidence indicated the increase in hepatitis E in the U.K. was due to food-borne zoonoses, citing a study that found in the U.K Hepatitis E",
+        "response": "The recovery time after liver surgery can vary depending on the individual and the specific procedure, but it can take several weeks to months."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about Hepatitis E.",
+            "Sure, I'm here to help. What would you like to know?",
+            "What are the genotypes of Hepatitis E?",
+            "Hepatitis E has genotypes 1 and 2, but the burden of genotypes 3 and 4 is not estimated.",
+            "I see. How is Hepatitis E transmitted?",
+            "Hepatitis E can be transmitted through food-borne zoonoses, according to the Department for Environment, Food and Rural Affairs.",
+            "Interesting. Are there any symptoms of Hepatitis E?",
+            "Yes, Hepatitis E can cause hepatitis infections and symptomatic diseases.",
+            "What are the symptoms of symptomatic Hepatitis E?"
+        ],
+        "knowledge": "Hepatitis E, HEV genotypes 1 and 2 caused 20.1 million hepatitis E infections, along with 3.4 million cases of symptomatic disease, and 70,000 deaths in 2005. The burden of genotypes 3 and 4 is not estimated. According to the Department for Environment, Food and Rural Affairs, evidence indicated the increase in hepatitis E in the U.K. was due to food-borne zoonoses.",
+        "response": "Symptomatic Hepatitis E can cause a range of symptoms including fatigue, jaundice, dark urine, abdominal pain, and loss of appetite."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I'm concerned about Hepatitis E. Can you provide some information?",
+            "Of course! I'm here to help with any questions you have.",
+            "How many cases of Hepatitis E were there in 2005?",
+            "In 2005, there were approximately 20.1 million hepatitis E infections and 3.4 million cases of symptomatic disease.",
+            "Wow, that's a lot. What caused the increase of Hepatitis E in the U.K.?",
+            "The increase in Hepatitis E in the U.K. was attributed to food-borne zoonoses, according to the Department for Environment, Food and Rural Affairs.",
+            "I see. Is Hepatitis E a dangerous disease?",
+            "Hepatitis E can be a serious disease, leading to hepatitis infections and even death in some cases.",
+            "What are the genotypes of Hepatitis E?"
+        ],
+        "knowledge": "Hepatitis E, HEV genotypes 1 and 2 caused 20.1 million hepatitis E infections, along with 3.4 million cases of symptomatic disease, and 70,000 deaths in 2005. The burden of genotypes 3 and 4 is not estimated. According to the Department for Environment, Food and Rural Affairs, evidence indicated the increase in hepatitis E in the U.K. was due to food-borne zoonoses.",
+        "response": "Hepatitis E has genotypes 1 and 2, but the burden of genotypes 3 and 4 is not estimated."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I need some advice after enduring a medical procedure for Hepatitis E.",
+            "I'm here to help. What kind of advice are you looking for?",
+            "What lifestyle changes should I make after the medical procedure?",
+            "After a medical procedure for Hepatitis E, it's important to maintain a healthy lifestyle by eating a balanced diet, exercising regularly, and avoiding alcohol and substances that can harm the liver.",
+            "Got it. Are there any specific dietary recommendations?",
+            "It's recommended to eat a diet rich in fruits, vegetables, lean proteins, and whole grains. Avoid processed and fatty foods.",
+            "I see. What kind of physical exercise is recommended?",
+            "Engaging in moderate aerobic exercises like walking, swimming, or cycling can be beneficial for your overall health and recovery.",
+            "Thank you, Medi. One last question. How long will it take to recover from the medical procedure?"
+        ],
+        "knowledge": "Hepatitis E, HEV genotypes 1 and 2 caused 20.1 million hepatitis E infections, along with 3.4 million cases of symptomatic disease, and 70,000 deaths in 2005. The burden of genotypes 3 and 4 is not estimated. According to the Department for Environment, Food and Rural Affairs, evidence indicated the increase in hepatitis E in the U.K. was due to food-borne zoonoses.",
+        "response": "The recovery time after a medical procedure for Hepatitis E can vary depending on the individual, but it may take several weeks to a few months for complete recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been experiencing some symptoms lately and I need your help.",
+            "Of course, I'm here to assist you. What are the symptoms you've been having?",
+            "I've been feeling very tired, and I've been having headaches as well.",
+            "I see. How long have you been experiencing these symptoms?",
+            "It started a few days ago, and it's been consistent since then.",
+            "Okay. Have you done anything out of the ordinary recently?",
+            "Not really, just my usual daily routine.",
+            "Got it. Based on your symptoms, it's possible that you're experiencing the flu.",
+            "What should I do about it, Medi?"
+        ],
+        "knowledge": "Influenza, also known as the flu, is an infectious respiratory illness caused by the influenza virus. Symptoms include fever, headache, fatigue, cough, sore throat, and body aches. It is usually spread through respiratory droplets from infected individuals. Resting, staying hydrated, and taking over-the-counter pain relievers can help alleviate symptoms. If symptoms worsen or persist, it's best to consult a healthcare professional.",
+        "response": "Based on your symptoms of fatigue and headaches, it's possible that you're experiencing the flu. I recommend getting plenty of rest, staying hydrated, and taking over-the-counter pain relievers to alleviate the symptoms. If they worsen or persist, it's best to consult a healthcare professional."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I've recently been diagnosed with Hepatitis E. Can you tell me more about it?",
+            "Of course, I can provide information about Hepatitis E. What would you like to know?",
+            "Firstly, what are the causes of Hepatitis E?",
+            "Hepatitis E is caused by the Hepatitis E virus (HEV). It is mainly transmitted through contaminated water or food, especially in areas with poor sanitation.",
+            "I see. Are there different genotypes of the Hepatitis E virus?",
+            "Yes, there are different genotypes of the Hepatitis E virus. Genotypes 1 and 2 are known to cause a significant number of infections and symptomatic cases, but the burden of genotypes 3 and 4 is not well estimated.",
+            "Interesting. Is Hepatitis E on the rise in the UK?",
+            "Yes, evidence suggests that there has been an increase in Hepatitis E cases in the UK. It is believed to be due to food-borne zoonoses, as indicated by a study.",
+            "Thank you for the information. One last question, how serious is Hepatitis E?"
+        ],
+        "knowledge": "Hepatitis E is a viral infection that affects the liver. It can cause symptoms such as jaundice, fatigue, abdominal pain, and loss of appetite. While most cases of Hepatitis E resolve on their own within a few weeks, it can be more severe in pregnant women and individuals with underlying liver disease. In rare cases, it can lead to acute liver failure, which can be life-threatening. It's important to follow your healthcare provider's advice for managing and treating Hepatitis E.",
+        "response": "Hepatitis E can vary in severity. While most cases resolve on their own within a few weeks, it can be more serious in certain populations such as pregnant women and individuals with underlying liver disease. It's important to follow your healthcare provider's advice for managing and treating Hepatitis E."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I recently had a medical procedure done and I'd like some advice on my lifestyle post-procedure.",
+            "Of course, I'm here to help. What specific advice are you looking for?",
+            "I'm wondering about my diet. Are there any dietary recommendations after a medical procedure?",
+            "After a medical procedure, it's important to follow your healthcare provider's instructions regarding your diet. They may recommend a balanced diet that includes plenty of fruits, vegetables, lean proteins, and whole grains.",
+            "That makes sense. How about physical exercise? Is it safe to exercise after a medical procedure?",
+            "Physical exercise after a medical procedure should be discussed with your healthcare provider. They will be able to provide guidance based on your specific condition and recovery process. It's important to start slowly and gradually increase activity levels as recommended.",
+            "Thank you for the advice. One last question, are there any lifestyle changes I should consider post-procedure?"
+        ],
+        "knowledge": "After a medical procedure, it's important to make certain lifestyle changes to support your recovery. These may include getting adequate rest and sleep, avoiding smoking and excessive alcohol consumption, managing stress levels, and following your healthcare provider's instructions regarding medication and follow-up appointments. It's also important to listen to your body and prioritize self-care during the recovery process.",
+        "response": "After a medical procedure, there are several lifestyle changes you should consider. These include getting adequate rest, avoiding smoking and excessive alcohol consumption, managing stress levels, and following your healthcare provider's instructions regarding medication and follow-up appointments. It's important to prioritize self-care and listen to your body during the recovery process."
+    }
+]

@@ -1,0 +1,404 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have been feeling very sick lately",
+            "I'm sorry to hear that. Can you describe your symptoms to me?",
+            "I've been feeling very tired and weak, and I have a fever",
+            "Okay, based on your symptoms, it's possible that you have the flu",
+            "What should I do if I have the flu?",
+            "You should rest, drink fluids, and take over-the-counter medication to manage your symptoms",
+            "Okay, thank you for your help",
+            "No problem. Let me know if you need anything else",
+            "How is the flu transmitted?"
+        ],
+        "knowledge": "Influenza Influenza  People who are infected can transmit influenza viruses through breathing, talking, coughing, and sneezing, which spread respiratory droplets and aerosols that contain virus particles into the air. A person susceptible to infection can then contract influenza by coming into contact with these particles. Respiratory droplets are relatively large and travel less than two meters before falling onto nearby surfaces. Aerosols are smaller and remain suspended in the air longer, so they take longer to settle and can travel further than respiratory droplets",
+        "response": "The flu is transmitted through breathing, talking, coughing, and sneezing, which spread respiratory droplets and aerosols that contain virus particles into the air"
+    },
+    {
+        "dialog": [
+            "Medi, I have a sore throat and a runny nose. What could be the problem?",
+            "Based on your symptoms, you may have a cold or the flu",
+            "What's the difference between a cold and the flu?",
+            "The flu usually comes with a fever and body aches, while a cold does not",
+            "Should I see a doctor?",
+            "If your symptoms are mild, you can try treating them at home. But if they get worse or don't go away after a few days, you should see a doctor",
+            "Okay, thank you for your help",
+            "You're welcome. Let me know if you have any more questions",
+            "Can I still go to work or school if I have a cold or the flu?"
+        ],
+        "knowledge": "Influenza Influenza  If you have the flu, you should stay home and avoid contact with other people until you are feeling better. If you have a cold, you can usually go to work or school as long as you are feeling well enough to do so and you take steps to prevent the spread of the virus",
+        "response": "If you have the flu, you should stay home and avoid contact with other people until you are feeling better. If you have a cold, you can usually go to work or school as long as you are feeling well enough to do so and you take steps to prevent the spread of the virus"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery. What should I do to take care of myself?",
+            "Congratulations on making it through the surgery. You should rest and take it easy for a few days",
+            "Should I be doing any physical activity?",
+            "You should avoid any strenuous physical activity for at least a week or two, depending on your doctor's instructions",
+            "What should I eat?",
+            "You should eat a healthy, balanced diet with plenty of fruits, vegetables, and lean protein. Make sure to stay hydrated as well",
+            "Okay, thank you for your help",
+            "No problem. Let me know if you have any more questions",
+            "How long will it take for me to recover from the surgery?"
+        ],
+        "knowledge": "Surgery Surgery After surgery, it's important to take it easy and rest. You should avoid any strenuous physical activity for at least a week or two, depending on your doctor's instructions. You should eat a healthy, balanced diet with plenty of fruits, vegetables, and lean protein. Make sure to stay hydrated as well. The recovery time will vary depending on the type of surgery and other individual factors",
+        "response": "The recovery time will vary depending on the type of surgery and other individual factors"
+    },
+    {
+        "dialog": [
+            "Hi Medi, lately I have been feeling unwell with a cough, cold and sore throat",
+            "I see, those could be symptoms of a flu, it's best to stay home and drink plenty of fluids",
+            "Should I go to the doctor to get checked?",
+            "You only need to go to the doctor if your symptoms get worse or if you develop a fever above 38\u00b0C",
+            "Alright, what precautions should I take to avoid spreading the flu?",
+            "You should cover your mouth and nose with a tissue when coughing or sneezing, and dispose of the tissue in a bin. Wash your hands regularly to avoid spreading germs.",
+            "Thanks, Medi. One last thing, how long does it usually take for the flu to go away?",
+            "The flu usually lasts for about a week or two, but it's important to rest and take care of yourself to avoid complications",
+            "Alright, thanks for your help Medi"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The flu usually lasts for about a week or two, but it's important to rest and take care of yourself to avoid complications"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I want to know how influenza spreads",
+            "Influenza viruses are mainly spread through respiratory droplets or aerosols that are produced when an infected person talks, coughs, or sneezes. These droplets or aerosols can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs",
+            "What precautions can I take to avoid getting infected with influenza?",
+            "You can reduce your risk of getting the flu by practicing good hand hygiene, avoiding close contact with sick people, and getting an annual flu vaccination.",
+            "Is there any other way to prevent the spread of influenza?",
+            "You can also keep your surroundings clean and disinfected, and wear a mask to avoid inhaling respiratory droplets or aerosols",
+            "Thank you, Medi. One last question, how long is the incubation period for influenza?",
+            "The incubation period for influenza is usually around 1 to 4 days, but it can be as long as 7 days",
+            "Okay, thanks for the information Medi"
+        ],
+        "knowledge": "Influenza Influenza  Pigs, bats, and quails have receptors for both mammalian and avian IAVs, so they are potential 'mixing vessels' for reassortment.  If an animal strain reassorts with a human strain, then a novel strain can emerge that is capable of human-to-human transmission.  This has caused pandemics, but only a limited number have occurred, so it is difficult to predict when the next will happen. People who are infected can transmit influenza viruses through breathing, talking, coughing, and sneezing, which spread respiratory droplets and aerosols that contain virus particles into the air.  A person susceptible to infection can then contract influenza by coming into contact with these particles.  Respiratory droplets are relatively large and travel less than two meters before falling onto nearby surfaces.  Aerosols are smaller and remain suspended in the air longer, so they take longer to settle and can travel further than respiratory droplets Influenza Influenza",
+        "response": "The incubation period for influenza is usually around 1 to 4 days, but it can be as long as 7 days"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a flu shot and I want to know if there are any precautions that I should take after getting vaccinated?",
+            "You might experience some mild side effects such as soreness at the injection site, fever, headache or muscle aches. These usually go away within a few days.",
+            "Can I get the flu from the vaccine?",
+            "No, you can't get the flu from the vaccine as the flu shot contains a dead virus that can't cause infection. However, it takes about two weeks for the vaccine to become effective, so you can still get the flu during this period.",
+            "What should I do if I experience a severe allergic reaction to the flu shot?",
+            "Severe allergic reactions to the flu shot are rare but can occur. If you experience symptoms such as difficulty breathing, swelling of the face or throat, or rapid heartbeat, seek medical attention immediately.",
+            "Thanks, Medi. One last question, how effective is the flu shot?",
+            "The effectiveness of the flu shot varies from year to year, but it can reduce the risk of getting the flu by 40-60%. It's still important to get vaccinated every year as the flu strains change and the vaccine is updated accordingly",
+            "Alright, thanks for your help, Medi"
+        ],
+        "knowledge": "Influenza Influenza  The most effective way to prevent the flu is by getting a flu vaccine every year. The flu shot contains dead virus particles that can't cause infection, but the immune system still produces antibodies to fight off the virus. These antibodies provide protection against the flu strains that are included in the vaccine. The effectiveness of the flu shot varies from year to year, but it can reduce the risk of getting the flu by 40-60%. It's still important to practice good hand hygiene and avoid close contact with sick people, as the vaccine doesn't provide complete protection against all flu strains Influenza Influenza",
+        "response": "The effectiveness of the flu shot varies from year to year, but it can reduce the risk of getting the flu by 40-60%. It's still important to get vaccinated every year as the flu strains change and the vaccine is updated accordingly"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I got flu symptoms.",
+            "Sorry to hear that. What symptoms do you have exactly?",
+            "I have got a headache, muscle ache and a fever.",
+            "Have you been coughing or sneezing?",
+            "Yes, I have both cough and sneeze.",
+            "It sounds like you might have influenza. You should get some rest and drink a lot of fluids.",
+            "Is there anything else I can do to relieve the symptoms?",
+            "Try over-the-counter pain relievers for aches and fever, and use a humidifier or steam to relieve congestion.",
+            "Thanks, Medi. Can influenza be prevented with a vaccine?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Yes, getting vaccinated is the best way to prevent influenza. You should consider getting a flu shot."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I heard that people can get influenza from animals. Is that true?",
+            "Yes, it is possible. Pigs, bats, and quails have receptors for both mammalian and avian IAVs, so they are potential mixing vessels for reassortment. If an animal strain reassorts with a human strain, then a novel strain can emerge that is capable of human-to-human transmission.",
+            "That's worrying. What about bird flu?",
+            "Bird flu is caused by avian influenza viruses, which can spread to humans. The virus is usually found in wild birds such as ducks and geese, but it can also affect domestic poultry like chickens and turkeys.",
+            "How can people get infected with bird flu?",
+            "People can get infected with bird flu by coming into contact with infected birds, their feathers, droppings, or secretions. It can also be spread through contaminated surfaces and objects.",
+            "Is there anything I can do to protect myself?",
+            "Yes, you can minimize your risk of infection by avoiding contact with live poultry and birds, and by cooking poultry and eggs thoroughly.",
+            "Thanks for the information, Medi. You've been very helpful."
+        ],
+        "knowledge": "Influenza Influenza Pigs, bats, and quails have receptors for both mammalian and avian IAVs, so they are potential mixing vessels for reassortment. If an animal strain reassorts with a human strain, then a novel strain can emerge that is capable of human-to-human transmission. This has caused pandemics, but only a limited number have occurred, so it is difficult to predict when the next will happen. People who are infected can transmit influenza viruses through breathing, talking, coughing, and sneezing, which spread respiratory droplets and aerosols that contain virus particles into the air. A person susceptible to infection can then contract influenza by coming into contact with these particles. Respiratory droplets are relatively large and travel less than two meters before falling onto nearby surfaces. Aerosols are smaller and remain suspended in the air longer, so they take longer to settle and can travel further than respiratory droplets Influenza Influenza",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had the flu and I want to know how to prevent getting it again.",
+            "The best way to prevent getting the flu again is to get vaccinated every year.",
+            "What else can I do to help my body fight the flu?",
+            "You should also take care of yourself by getting plenty of rest, drinking fluids, and eating healthy foods. Regular exercise can also help boost your immune system.",
+            "What about avoiding people who are sick?",
+            "Yes, avoiding close contact with sick people is also important. You should also cover your nose and mouth when you cough or sneeze, and wash your hands frequently.",
+            "Thanks for the advice, Medi. I'll definitely take it into consideration.",
+            "You're welcome. Is there anything else you would like to know?",
+            "No, that's all for now. Thanks again for all your help."
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. I'm glad that I could help. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and cough",
+            "I'm sorry to hear that. How long have you been experiencing these symptoms?",
+            "I've had them for two days now",
+            "Okay, Based on your symptoms, it seems you have contracted the flu. You should rest and stay hydrated",
+            "What medication should I take?",
+            "I recommend taking over-the-counter medication such as acetaminophen and ibuprofen for fever and body aches",
+            "Thanks, Medi. How long does it take for the flu to go away?",
+            "It usually takes about a week for the flu to go away, but it can take longer in some cases",
+            "Is there anything else I should be aware of?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It's important to be aware that the flu is highly contagious and you should minimize contact with others to prevent its spread"
+    },
+    {
+        "dialog": [
+            "Medi, I have a fever and a headache. What could be causing this?",
+            "It's difficult to say without additional information. How long have you had these symptoms?",
+            "I've had them for two days now",
+            "Okay, have you recently traveled to a new location or been in contact with someone who is sick?",
+            "No, I haven't. I've just been staying home",
+            "Alright, it's possible that you have a viral infection. You should rest and stay hydrated",
+            "Is there anything I can do to relieve the headache?",
+            "Yes, you can take over-the-counter pain medication such as acetaminophen or ibuprofen",
+            "Thanks, Medi. Do you think I need to see a doctor?"
+        ],
+        "knowledge": "Viral Infection Viral Infection A viral infection is the invasion of the body by a pathogenic virus that multiplies and spreads throughout the body. Many viral infections are mild and resolve on their own, while others can cause serious illness. Symptoms of viral infections can vary depending on the type of virus, but they often include fever, headache, muscle aches, and fatigue. Viral infections can be spread through direct contact with an infected person or by touching a surface contaminated with the virus. Good hygiene practices such as frequent handwashing can help prevent the spread of viral infections Viral Infection Viral Infection",
+        "response": "It's always a good idea to monitor your symptoms and seek medical attention if they persist or worsen"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery and I'm not sure what to do now",
+            "I'm here to help. What kind of surgery did you have?",
+            "I had knee surgery",
+            "Okay, it's important to rest and elevate your leg as much as possible to reduce swelling",
+            "How long should I do that for?",
+            "You should elevate your leg for the first two to three days after surgery. After that, you should gradually start moving your leg to prevent stiffness",
+            "What about physical activity?",
+            "You should avoid strenuous physical activity for at least six weeks after surgery. You can start doing light exercises as soon as you feel comfortable, but it's important not to overdo it",
+            "What about my diet?"
+        ],
+        "knowledge": "Knee Surgery Knee Surgery Knee surgery is a common surgical procedure used to treat various knee injuries and conditions. Recovery from knee surgery can take several weeks or months, depending on the type of surgery and the patient's overall health. After surgery, it's important to rest and elevate the affected leg to reduce swelling and pain. Physical therapy and exercise can help speed up recovery and improve mobility. A healthy, balanced diet rich in protein and nutrients is also important for recovery Knee Surgery Knee Surgery",
+        "response": "It's important to be patient with your recovery and not rush into anything that could jeopardize your healing process"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm not feeling well. I have a cough and a fever.",
+            "Hello, I'm here to help you. Do you have any other symptoms?",
+            "Yes, I also have a headache and some muscle pain.",
+            "Based on your symptoms, you might be suffering from influenza. It's best to rest and drink plenty of fluids.",
+            "Is there anything else I can do to help ease my symptoms?",
+            "You can take some over-the-counter medication for fever and headache. And don't forget to cover your mouth and nose when you cough or sneeze.",
+            "Thank you, Medi. I'll try that.",
+            "You're welcome. I hope you feel better soon."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You might be suffering from influenza. Rest, drink plenty of fluids and take over-the-counter medication for fever and headache."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about influenza.",
+            "Sure, I'm here to help.",
+            "How does influenza spread?",
+            "Influenza viruses are spread through respiratory droplets and aerosols that contain virus particles. These particles can be breathed in by a person who is susceptible to infection.",
+            "What are respiratory droplets and aerosols?",
+            "Respiratory droplets are relatively large droplets that travel less than two meters before falling onto nearby surfaces. Aerosols are smaller and remain suspended in the air longer, so they can travel further than respiratory droplets.",
+            "I see. So is there anything I can do to prevent getting infected?",
+            "Yes, you can protect yourself by washing your hands frequently, avoiding close contact with sick people, wearing a mask, and getting vaccinated every year.",
+            "Thank you, Medi. That's very helpful."
+        ],
+        "knowledge": "Influenza Influenza  Pigs, bats, and quails have receptors for both mammalian and avian IAVs, so they are potential 'mixing vessels' for reassortment.  If an animal strain reassorts with a human strain, then a novel strain can emerge that is capable of human-to-human transmission.  This has caused pandemics, but only a limited number have occurred, so it is difficult to predict when the next will happen. People who are infected can transmit influenza viruses through breathing, talking, coughing, and sneezing, which spread respiratory droplets and aerosols that contain virus particles into the air.  A person susceptible to infection can then contract influenza by coming into contact with these particles.  Respiratory droplets are relatively large and travel less than two meters before falling onto nearby surfaces.  Aerosols are smaller and remain suspended in the air longer, so they take longer to settle and can travel further than respiratory droplets Influenza Influenza",
+        "response": "Influenza is spread through respiratory droplets and aerosols. You can protect yourself by washing your hands frequently, avoiding close contact with sick people, wearing a mask, and getting vaccinated every year."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I underwent a medical procedure yesterday. Do you have any advice for my recovery?",
+            "Of course, I'm here to help. What kind of procedure did you have?",
+            "I had a minor surgery on my leg.",
+            "It's important to rest and avoid putting weight on your leg for a few days. You can use ice on the area to reduce swelling and take pain medication if necessary.",
+            "Are there any exercises I can do to help with my recovery?",
+            "Yes, you can do some gentle stretches to improve circulation in your leg, but avoid any strenuous activity until your doctor gives you the okay.",
+            "What about my diet? Are there any foods I should avoid or eat more of?",
+            "It's important to eat a healthy and balanced diet with plenty of protein to help your body heal. Avoid sugary and processed foods, and try to eat more fruits and vegetables.",
+            "Thank you, Medi. That's very helpful."
+        ],
+        "knowledge": "Influenza Influenza  Pigs, bats, and quails have receptors for both mammalian and avian IAVs, so they are potential 'mixing vessels' for reassortment.  If an animal strain reassorts with a human strain, then a novel strain can emerge that is capable of human-to-human transmission.  This has caused pandemics, but only a limited number have occurred, so it is difficult to predict when the next will happen. People who are infected can transmit influenza viruses through breathing, talking, coughing, and sneezing, which spread respiratory droplets and aerosols that contain virus particles into the air.  A person susceptible to infection can then contract influenza by coming into contact with these particles.  Respiratory droplets are relatively large and travel less than two meters before falling onto nearby surfaces.  Aerosols are smaller and remain suspended in the air longer, so they take longer to settle and can travel further than respiratory droplets Influenza Influenza",
+        "response": "It's important to rest and avoid putting weight on your leg for a few days. You can use ice on the area to reduce swelling and take pain medication if necessary. It's important to eat a healthy and balanced diet with plenty of protein to help your body heal."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling very sick. I have a fever, cough, and sore throat.",
+            "I'm sorry to hear that. When did your symptoms begin?",
+            "I woke up this morning feeling terrible. What could it be?",
+            "It sounds like you might have caught a cold, but it could also be the flu.",
+            "What should I do to feel better?",
+            "Get plenty of rest, drink lots of fluids, and take over-the-counter medication for your symptoms.",
+            "What kind of medication should I take?",
+            "You can take acetaminophen for your fever and sore throat, and dextromethorphan for your cough.",
+            "Thanks for the advice, Medi. How long will it take for me to feel better?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You should start feeling better within a week, but if your symptoms persist or worsen, you should see a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm concerned about the flu. Can you tell me more about the symptoms?",
+            "Of course, the symptoms usually include fever, cough, sore throat, body aches, and fatigue.",
+            "How do I know if I have the flu or just a cold?",
+            "The symptoms of a cold are usually milder and more gradual, while the flu symptoms are sudden and more severe.",
+            "What can I do to prevent getting the flu?",
+            "The best way to prevent the flu is to get a flu shot every year and practice good hand hygiene.",
+            "What if I've already been exposed to someone with the flu?",
+            "You can still get a flu shot, or take antiviral medication if you develop symptoms.",
+            "Thanks for the advice, Medi. I'll make sure to take preventative measures."
+        ],
+        "knowledge": "Influenza Influenza  Pigs, bats, and quails have receptors for both mammalian and avian IAVs, so they are potential 'mixing vessels' for reassortment.  If an animal strain reassorts with a human strain, then a novel strain can emerge that is capable of human-to-human transmission.  This has caused pandemics, but only a limited number have occurred, so it is difficult to predict when the next will happen. People who are infected can transmit influenza viruses through breathing, talking, coughing, and sneezing, which spread respiratory droplets and aerosols that contain virus particles into the air.  A person susceptible to infection can then contract influenza by coming into contact with these particles.  Respiratory droplets are relatively large and travel less than two meters before falling onto nearby surfaces.  Aerosols are smaller and remain suspended in the air longer, so they take longer to settle and can travel further than respiratory droplets Influenza Influenza",
+        "response": "Remember to practice good hand hygiene and get a flu shot every year to help prevent the flu."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had the flu and I want to make sure I don't get it again.",
+            "I'm sorry to hear that you were sick. The best way to prevent getting the flu again is to get a flu shot.",
+            "I'm afraid of needles. Is there any other way to prevent getting the flu?",
+            "You can also practice good hand hygiene, stay away from people who are sick, and avoid touching your face.",
+            "What can I do to boost my immune system and prevent getting sick?",
+            "You can eat a healthy diet, get plenty of sleep, exercise regularly, and manage your stress levels.",
+            "Thanks for the advice, Medi. I'll make sure to take preventative measures.",
+            "You're welcome. Stay healthy!"
+        ],
+        "knowledge": "Influenza Influenza  Pigs, bats, and quails have receptors for both mammalian and avian IAVs, so they are potential 'mixing vessels' for reassortment.  If an animal strain reassorts with a human strain, then a novel strain can emerge that is capable of human-to-human transmission.  This has caused pandemics, but only a limited number have occurred, so it is difficult to predict when the next will happen. People who are infected can transmit influenza viruses through breathing, talking, coughing, and sneezing, which spread respiratory droplets and aerosols that contain virus particles into the air.  A person susceptible to infection can then contract influenza by coming into contact with these particles.  Respiratory droplets are relatively large and travel less than two meters before falling onto nearby surfaces.  Aerosols are smaller and remain suspended in the air longer, so they take longer to settle and can travel further than respiratory droplets Influenza Influenza",
+        "response": "Remember to get a flu shot every year, practice good hand hygiene, and take care of your health by eating well, sleeping enough, exercising regularly, and managing stress."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing a fever and a cough for a few days",
+            "Hello there, It sounds like you could have the flu, you should visit the doctor",
+            "What can I do in the meantime? ",
+            "You should drink plenty of fluids and take rest, and take antiviral medication if prescribed by the doctor",
+            "How did I get the flu?",
+            "The flu is highly contagious, you probably came into contact with someone who had it or touched a surface with the virus on it",
+            "How can I prevent myself from getting the flu in the future?",
+            "The best way to prevent the flu is to get the flu vaccine every year and practice good hygiene like washing your hands regularly",
+            "Thanks for the advice, Medi!"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You are welcome, don't hesitate to visit the doctor for medication and make sure to get the flu vaccine in the future to prevent another flu infection"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I read an article about the flu and I'm curious about the risk of pandemics",
+            "Hello, there is a risk of pandemics when the flu virus reassorts with animal strains and becomes capable of human-to-human transmission",
+            "How often do pandemics happen, Medi?",
+            "Pandemics are rare, but have occurred in the past. It's difficult to predict when the next one will happen",
+            "How do people usually catch the flu?",
+            "People who are infected can transmit influenza viruses through breathing, talking, coughing, and sneezing, which spread respiratory droplets and aerosols that contain virus particles into the air. ",
+            "What is the difference between respiratory droplets and aerosols?",
+            "Respiratory droplets are larger and fall onto nearby surfaces within 2 meters, while aerosols are smaller and can travel further and remain suspended in the air for longer periods of time",
+            "That was really helpful, thanks Medi!"
+        ],
+        "knowledge": "Influenza Influenza  Pigs, bats, and quails have receptors for both mammalian and avian IAVs, so they are potential 'mixing vessels' for reassortment.  If an animal strain reassorts with a human strain, then a novel strain can emerge that is capable of human-to-human transmission.  This has caused pandemics, but only a limited number have occurred, so it is difficult to predict when the next will happen. People who are infected can transmit influenza viruses through breathing, talking, coughing, and sneezing, which spread respiratory droplets and aerosols that contain virus particles into the air.  A person susceptible to infection can then contract influenza by coming into contact with these particles.  Respiratory droplets are relatively large and travel less than two meters before falling onto nearby surfaces.  Aerosols are smaller and remain suspended in the air longer, so they take longer to settle and can travel further than respiratory droplets Influenza Influenza",
+        "response": "You're welcome. Don't hesitate to ask me if you have any more questions"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a flu shot and was wondering if there were any other precautions I should take",
+            "Hello, that's great that you got the flu shot. You should also practice good hygiene like washing your hands regularly and avoiding close contact with people who are sick",
+            "What else can I do to protect myself from the flu?",
+            "You can also boost your immune system with a healthy diet and exercise regularly",
+            "What should I eat and what exercises should I do?",
+            "You should eat a balanced diet with plenty of fruits and vegetables and exercise for at least 30 minutes a day, doing activities such as jogging, cycling, or swimming",
+            "What about sleep? Does that affect my immunity?",
+            "Yes, getting enough sleep is also important for your immune system to function properly",
+            "Thanks for the advice, Medi!"
+        ],
+        "knowledge": "Influenza Influenza  Vaccination is the most effective way to prevent influenza, but good hygiene practices can also help prevent the spread of the virus. These practices include washing hands, avoiding close contact with people who are sick, covering your nose and mouth when you cough or sneeze, and avoiding touching your face with unwashed hands.  Regular exercise and a healthy diet can also help boost your immune system and reduce the risk of infection.  Sleep is also important for the immune system to function properly Influenza Influenza",
+        "response": "You're welcome. Remember to practice good hygiene, exercise, eat well and get enough sleep to help protect yourself from the flu"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a sore throat and a fever.",
+            "I'm sorry to hear that. Have you been experiencing these symptoms for long?",
+            "Yes, it started yesterday and has gotten worse today.",
+            "Okay, based on what you told me, it sounds like you might have a cold or the flu.",
+            "What should I do to feel better?",
+            "You can try resting, taking over-the-counter pain relievers for your fever and sore throat, and drinking plenty of fluids.",
+            "Thank you. How do I know if it's the flu or just a cold?",
+            "The flu usually comes on faster and more severe than a cold, and can also cause body aches and fatigue.",
+            "Okay, thank you for your help."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it sounds like you might have a cold or the flu. Rest, over-the-counter pain relievers, and plenty of fluids should help you feel better."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I'm curious about the flu. What causes it?",
+            "The flu is caused by a virus that infects the respiratory system.",
+            "How does the virus spread?",
+            "The virus spreads through respiratory droplets when an infected person talks, coughs, or sneezes.",
+            "Can I get the flu by touching a surface that has the virus on it?",
+            "It's possible, but less likely. The flu virus can survive on surfaces for a short time, but you're more likely to get it by inhaling the virus.",
+            "What can I do to prevent getting the flu?",
+            "The best way to prevent the flu is by getting a flu shot. You should also wash your hands frequently and avoid close contact with people who are sick.",
+            "Thanks for the information."
+        ],
+        "knowledge": "Influenza Influenza  Pigs, bats, and quails have receptors for both mammalian and avian IAVs, so they are potential 'mixing vessels' for reassortment.  If an animal strain reassorts with a human strain, then a novel strain can emerge that is capable of human-to-human transmission.  This has caused pandemics, but only a limited number have occurred, so it is difficult to predict when the next will happen. People who are infected can transmit influenza viruses through breathing, talking, coughing, and sneezing, which spread respiratory droplets and aerosols that contain virus particles into the air.  A person susceptible to infection can then contract influenza by coming into contact with these particles.  Respiratory droplets are relatively large and travel less than two meters before falling onto nearby surfaces.  Aerosols are smaller and remain suspended in the air longer, so they take longer to settle and can travel further than respiratory droplets Influenza Influenza",
+        "response": "The flu is caused by a virus that spreads through respiratory droplets when an infected person talks, coughs, or sneezes. The best way to prevent it is by getting a flu shot, washing your hands frequently, and avoiding close contact with sick people."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a flu shot. What else can I do to prevent getting sick?",
+            "That's great! In addition to getting vaccinated, you should wash your hands frequently, avoid close contact with people who are sick, and clean and disinfect surfaces often.",
+            "Are there any lifestyle changes that can help prevent the flu?",
+            "Yes, there are. Eating a healthy diet, getting plenty of sleep, staying physically active, and managing stress can all help boost your immune system and reduce your risk of getting sick.",
+            "Thanks for the advice. Is there anyone who should not get a flu shot?",
+            "Yes. People who are allergic to any of the components of the flu vaccine, or who have had a severe allergic reaction to a previous flu shot, should not get vaccinated.",
+            "I see. Thanks for your help, Medi.",
+            "You're welcome. Stay healthy!"
+        ],
+        "knowledge": "Influenza Influenza  Pigs, bats, and quails have receptors for both mammalian and avian IAVs, so they are potential 'mixing vessels' for reassortment.  If an animal strain reassorts with a human strain, then a novel strain can emerge that is capable of human-to-human transmission.  This has caused pandemics, but only a limited number have occurred, so it is difficult to predict when the next will happen. People who are infected can transmit influenza viruses through breathing, talking, coughing, and sneezing, which spread respiratory droplets and aerosols that contain virus particles into the air.  A person susceptible to infection can then contract influenza by coming into contact with these particles.  Respiratory droplets are relatively large and travel less than two meters before falling onto nearby surfaces.  Aerosols are smaller and remain suspended in the air longer, so they take longer to settle and can travel further than respiratory droplets Influenza Influenza",
+        "response": "In addition to getting vaccinated, you should wash your hands frequently, avoid close contact with sick people, clean and disinfect surfaces often, and make sure to get enough sleep and exercise to help boost your immune system. Some people, such as those with severe allergies to the flu vaccine, should not get vaccinated."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have flu-like symptoms. Can you diagnose me?",
+            "Let me ask you some questions first. What are your symptoms?",
+            "I have a fever, cough, runny nose, and sore throat.",
+            "Based on your symptoms, it's possible that you have the flu.",
+            "What should I do next?",
+            "You should rest, drink lots of fluids, and take over-the-counter medication to relieve your symptoms.",
+            "Thank you, Medi. What are the ways to prevent the spread of flu?",
+            "Washing your hands frequently, covering your mouth when you cough or sneeze, and staying away from people who are sick.",
+            "Got it. Thank you, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Rest, drink lots of fluids, and take over-the-counter medication to relieve your symptoms. Washing your hands frequently, covering your mouth when you cough or sneeze, and staying away from people who are sick can help prevent the spread of flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about flu. How is it transmitted?",
+            "Flu is transmitted through respiratory droplets and aerosols.",
+            "What does that mean?",
+            "When someone with the flu talks, coughs, or sneezes, they release droplets and aerosols containing the flu virus into the air.",
+            "How can I prevent myself from getting the flu?",
+            "Wash your hands frequently, cover your mouth when you cough or sneeze, and avoid close contact with people who are sick.",
+            "Is there a vaccine for the flu?",
+            "Yes, there is a flu vaccine. It's recommended that everyone six months and older get vaccinated every year.",
+            "Thank you, Medi. That's very helpful."
+        ],
+        "knowledge": "Influenza Influenza  Pigs, bats, and quails have receptors for both mammalian and avian IAVs, so they are potential 'mixing vessels' for reassortment.  If an animal strain reassorts with a human strain, then a novel strain can emerge that is capable of human-to-human transmission.  This has caused pandemics, but only a limited number have occurred, so it is difficult to predict when the next will happen. People who are infected can transmit influenza viruses through breathing, talking, coughing, and sneezing, which spread respiratory droplets and aerosols that contain virus particles into the air.  A person susceptible to infection can then contract influenza by coming into contact with these particles.  Respiratory droplets are relatively large and travel less than two meters before falling onto nearby surfaces.  Aerosols are smaller and remain suspended in the air longer, so they take longer to settle and can travel further than respiratory droplets Influenza Influenza",
+        "response": "Flu is transmitted through respiratory droplets and aerosols. You can prevent yourself from getting the flu by washing your hands frequently, covering your mouth when you cough or sneeze, and avoiding close contact with people who are sick. There is a flu vaccine available."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had the flu. What should I do now to prevent it in the future?",
+            "You should get vaccinated against the flu every year.",
+            "What else can I do?",
+            "Wash your hands frequently, cover your mouth when you cough or sneeze, and avoid close contact with people who are sick.",
+            "Are there any lifestyle changes I can make to help prevent the flu?",
+            "Yes, eating a healthy diet, getting enough sleep, and exercising regularly can boost your immune system and help prevent the flu.",
+            "What if I start to feel sick again?",
+            "Rest, drink lots of fluids, and take over-the-counter medication to relieve your symptoms. If your symptoms worsen or you develop complications, see a doctor.",
+            "Thank you, Medi. That's very helpful."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "To prevent the flu in the future, you should get vaccinated every year, wash your hands frequently, cover your mouth when you cough or sneeze, and avoid close contact with people who are sick. Eating a healthy diet, getting enough sleep, and exercising regularly can boost your immune system. If you start to feel sick again, rest, drink lots of fluids, and take over-the-counter medication to relieve your symptoms. If your symptoms worsen or you develop complications, see a doctor."
+    }
+]

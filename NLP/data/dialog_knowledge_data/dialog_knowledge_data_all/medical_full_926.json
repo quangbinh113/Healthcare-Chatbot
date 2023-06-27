@@ -1,0 +1,496 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling unwell lately. I have a cough and difficulty breathing.",
+            "I'm here to help. Have you noticed any other symptoms along with the cough and difficulty breathing?",
+            "Yes, I also have a fever and fatigue.",
+            "Based on your symptoms, it's possible that you have pneumonia. I recommend seeing a doctor for a proper diagnosis.",
+            "What tests are usually done to confirm pneumonia?",
+            "In mild cases, investigations are not needed in adults. However, if the symptoms persist or worsen, a doctor may order tests such as chest X-ray or blood tests to confirm the diagnosis.",
+            "I see. What are the treatment options for pneumonia?",
+            "The treatment for pneumonia usually involves antibiotics. However, for cases with CRP less than 20 mg/L and no convincing evidence of pneumonia, antibiotics are not recommended.",
+            "Thank you for the information, Medi. I appreciate your help."
+        ],
+        "knowledge": "Pneumonia In general, investigations are not needed in mild cases. Antibiotics are not recommended for those with CRP less than 20 mg/L without convincing evidence of pneumonia.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about pneumonia.",
+            "Sure, I'm here to help. What would you like to know?",
+            "What are the common symptoms of pneumonia?",
+            "Common symptoms of pneumonia include cough, fever, difficulty breathing, chest pain, fatigue, and sometimes sputum production.",
+            "Can pneumonia be diagnosed without any tests?",
+            "In mild cases, investigations are usually not needed in adults. However, if the symptoms persist or worsen, a doctor may order tests such as chest X-ray or blood tests to confirm the diagnosis.",
+            "I see. Are there any preventive measures for pneumonia?",
+            "Maintaining good overall health, practicing good hygiene, getting vaccinated, and avoiding smoking can help reduce the risk of pneumonia.",
+            "Thank you, Medi. That clarifies my doubts."
+        ],
+        "knowledge": "Pneumonia In general, investigations are not needed in mild cases. Common symptoms include cough, fever, difficulty breathing, chest pain, fatigue, and sometimes sputum production. Preventive measures include maintaining good overall health, practicing good hygiene, getting vaccinated, and avoiding smoking.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had pneumonia and I'm looking for advice on how to recover.",
+            "I'm here to help. After recovering from pneumonia, it's important to take care of your health. What specific advice are you looking for?",
+            "Are there any dietary recommendations for recovering from pneumonia?",
+            "Eating a balanced diet rich in fruits, vegetables, whole grains, and lean proteins can support your recovery. It's also important to stay hydrated.",
+            "Should I avoid any specific foods or drinks?",
+            "It's best to avoid foods and drinks that can irritate your respiratory system, such as spicy foods, sugary drinks, and excessive caffeine.",
+            "Are there any recommended exercises or physical activities?",
+            "Engaging in light exercises and gradually increasing physical activity can help improve your lung function and overall strength. However, it's important to consult with your doctor or a physiotherapist for personalized recommendations.",
+            "Thank you, Medi. Your advice is much appreciated."
+        ],
+        "knowledge": "Pneumonia In general, after recovering from pneumonia, it's important to take care of your health by maintaining a balanced diet, staying hydrated, avoiding irritants, and gradually increasing physical activity.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been experiencing some symptoms lately.",
+            "I'm here to help. Can you describe your symptoms?",
+            "I've been feeling tired, with a cough and shortness of breath.",
+            "Based on your symptoms, it's possible you have pneumonia.",
+            "Is there any test or investigation needed for mild cases?",
+            "In mild cases with normal vital signs and auscultation, investigations are usually not needed.",
+            "What about antibiotics? Should I take them?",
+            "If your C-reactive protein (CRP) is less than 20 mg/L and there's no convincing evidence of pneumonia, antibiotics are not recommended.",
+            "Got it. Thanks for the information, Medi. What is CRP and how does it help in diagnosis?"
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "C-reactive protein (CRP) is a test that can support the diagnosis of pneumonia."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been having a persistent cough. Can you help?",
+            "Of course. Please provide more details about your symptoms.",
+            "I have a cough, fever, and my throat feels sore.",
+            "Based on your symptoms, it's possible you have influenza.",
+            "How long do the typical influenza symptoms last?",
+            "Standard influenza symptoms usually last for 2 - 8 days.",
+            "Did you experience any gastrointestinal symptoms?",
+            "No, I didn't have any gastrointestinal symptoms.",
+            "Understood. You might have influenza. Is there anything else you'd like to ask?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long-lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it's possible you have influenza."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had a recent medical procedure. Can you provide some advice?",
+            "Certainly. Can you tell me more about the procedure you had?",
+            "I underwent a procedure for pneumonia. I want to know about post-procedure care.",
+            "After the procedure, it's important to rest and follow the prescribed medication.",
+            "Are there any specific lifestyle changes I should make?",
+            "Maintaining a healthy lifestyle with a balanced diet and regular physical exercise is beneficial.",
+            "What type of diet should I follow?",
+            "A diet rich in vitamins and vegetables while reducing sugar intake is recommended.",
+            "Got it. Thanks, Medi. Are there any specific exercises I should do?"
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "Maintain a healthy lifestyle, including a balanced diet and regular physical exercise."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been experiencing some symptoms lately.",
+            "Sure, I'm here to help. Please describe your symptoms.",
+            "I have a cough, difficulty breathing, and a mild fever.",
+            "Based on your symptoms, it's possible that you have pneumonia.",
+            "Is there any test I should take to confirm the diagnosis?",
+            "In mild cases, investigations are usually not needed in adults. If your vital signs are normal and there are no alarming signs, it's unlikely to be pneumonia.",
+            "I see. What other signs should I look out for?",
+            "If you experience worsening cough, high fever, chest pain, or difficulty breathing, it's important to seek immediate medical attention.",
+            "Thank you, Medi. I'll keep an eye on my symptoms."
+        ],
+        "knowledge": "Pneumonia In general, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. CRP may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0.",
+        "response": "If your symptoms worsen, especially if you experience chest pain or difficulty breathing, seek immediate medical attention."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you provide some information about pneumonia?",
+            "Of course! Pneumonia is an infection that inflames the air sacs in one or both lungs. It can be caused by bacteria, viruses, or fungi.",
+            "How can someone get pneumonia?",
+            "Pneumonia can be acquired by breathing in the bacteria or viruses that cause the infection. It can also occur as a complication of other respiratory infections.",
+            "Are there any specific risk factors for pneumonia?",
+            "Yes, certain factors can increase the risk of developing pneumonia, such as age (very young or older adults), weakened immune system, chronic lung diseases, smoking, and close contact with someone who has pneumonia.",
+            "I see. How can pneumonia be treated?",
+            "Treatment usually involves antibiotics for bacterial pneumonia, while antiviral medications may be used for viral pneumonia. Rest, staying hydrated, and managing symptoms can also help in the recovery process.",
+            "Thank you for the information, Medi."
+        ],
+        "knowledge": "Pneumonia In general, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. CRP may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently recovered from pneumonia. Do you have any advice for me?",
+            "Certainly! It's important to take care of yourself after recovering from pneumonia. Gradually resume your normal activities and listen to your body.",
+            "Are there any specific lifestyle changes I should make?",
+            "Yes, maintaining a healthy lifestyle can help prevent recurrent pneumonia. Eat a balanced diet, exercise regularly, get enough rest, and avoid smoking or exposure to secondhand smoke.",
+            "Should I take any precautions to avoid reinfection?",
+            "Washing your hands frequently, avoiding close contact with sick individuals, and staying up to date with vaccinations (such as the pneumococcal vaccine) can help reduce the risk of reinfection.",
+            "Thank you, Medi. I'll make sure to follow your advice.",
+            "You're welcome! Take care of yourself and stay healthy."
+        ],
+        "knowledge": "Pneumonia In general, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. CRP may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling unwell lately. Can you help me?",
+            "Of course! I'm here to assist you. Please describe your symptoms.",
+            "I've been experiencing coughing, shortness of breath, and fatigue.",
+            "Based on your symptoms, it's possible that you have pneumonia.",
+            "Is pneumonia a serious condition? What should I do?",
+            "Pneumonia can be serious, but it depends on the severity. Rest and stay hydrated. If it worsens, seek medical attention.",
+            "Thank you, Medi. How can I prevent pneumonia in the future?",
+            "To reduce the risk, maintain good hygiene, get vaccinated, and avoid close contact with people who have respiratory infections.",
+            "Got it. What are the common signs of pneumonia?"
+        ],
+        "knowledge": "Pneumonia is characterized by symptoms such as cough, shortness of breath, chest pain, fatigue, fever, and chills. It can be diagnosed through physical examination, medical history, and sometimes imaging tests.",
+        "response": "Common signs of pneumonia include cough, shortness of breath, chest pain, fatigue, fever, and chills."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about pneumonia. Can you help me understand it better?",
+            "Certainly! I'll do my best to provide you with information. What would you like to know?",
+            "How is pneumonia diagnosed? Are there any specific tests?",
+            "In mild cases, investigations may not be needed. However, a physical examination, vital sign assessment, and auscultation can help. C-reactive protein (CRP) test may support the diagnosis.",
+            "Do I need antibiotics if my CRP is below 20 mg/L?",
+            "If your CRP is less than 20 mg/L and there's no convincing evidence of pneumonia, antibiotics are not recommended.",
+            "I see. What about procalcitonin? Is it helpful in determining the cause?",
+            "Yes, procalcitonin can help determine the cause of infection and support decisions about antibiotic use.",
+            "Understood. When are antibiotics encouraged for pneumonia treatment?"
+        ],
+        "knowledge": "Antibiotics are encouraged if procalcitonin level reaches 0.25 \u03bcg/L. They are strongly encouraged if it reaches 0 \u03bcg/L.",
+        "response": "Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L and strongly encouraged if it reaches 0 \u03bcg/L."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I recently had pneumonia and I'd like some advice on my lifestyle.",
+            "Of course! I'm here to assist you. What specific advice do you need?",
+            "I want to know if there are any dietary recommendations after recovering from pneumonia.",
+            "A balanced diet with plenty of fruits, vegetables, whole grains, and lean proteins can help in recovery.",
+            "That's helpful. What about physical exercise? Should I be cautious?",
+            "Physical exercise is beneficial, but start slowly and gradually increase intensity. Listen to your body and rest when needed.",
+            "Got it. Are there any lifestyle factors that increase the risk of pneumonia?",
+            "Smoking, excessive alcohol consumption, poor nutrition, and a weakened immune system can increase the risk of pneumonia.",
+            "I understand. Thank you, Medi!"
+        ],
+        "knowledge": "Lifestyle factors such as smoking, excessive alcohol consumption, poor nutrition, and a weakened immune system can increase the risk of pneumonia.",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been experiencing cough and fatigue lately.",
+            "I'm here to help. Could you provide more details about your symptoms?",
+            "I've been coughing for a week, and I feel tired even after resting.",
+            "Based on your symptoms, you might have a respiratory infection. Have you checked your temperature?",
+            "Yes, I have a mild fever as well.",
+            "In that case, it's advisable to see a healthcare professional for further evaluation and possible treatment.",
+            "Should I take any medication in the meantime?",
+            "I would recommend you rest, stay hydrated, and monitor your symptoms. You can take over-the-counter cough medicine to relieve discomfort.",
+            "Got it. Thank you, Medi. What are the vital signs I should monitor?"
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "It's important to monitor your temperature, heart rate, and breathing rate regularly."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a question about pneumonia.",
+            "Sure, feel free to ask. I'm here to provide information and support.",
+            "Can you explain how pneumonia is diagnosed?",
+            "Pneumonia can be diagnosed based on clinical examination, vital signs assessment, and sometimes additional tests like a chest X-ray or blood tests.",
+            "Is it necessary to do all those tests for every case of pneumonia?",
+            "No, in mild cases with normal vital signs and examination, extensive investigations are usually not needed. However, if symptoms worsen or persist, further evaluation may be required.",
+            "I see. What role does C-reactive protein play in diagnosing pneumonia?",
+            "C-reactive protein (CRP) can help support the diagnosis of pneumonia. If CRP is less than 20 mg/L and there's no convincing evidence of pneumonia, antibiotics may not be recommended.",
+            "I understand. Thanks, Medi. How about procalcitonin?"
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently recovered from pneumonia. Any advice for my lifestyle?",
+            "Certainly! I'm here to help. Congratulations on recovering. Have you completed your antibiotic course?",
+            "Yes, I finished the antibiotics as prescribed by my doctor.",
+            "That's good to hear. It's important to continue taking care of your health. Have you considered incorporating regular exercise into your routine?",
+            "I haven't thought about it. What kind of exercises would you recommend?",
+            "A combination of aerobic exercises like walking, jogging, or swimming, along with strength training exercises, can be beneficial. It's best to start gradually and listen to your body.",
+            "Sounds reasonable. What about my diet? Are there any specific recommendations?",
+            "A balanced diet with plenty of fruits, vegetables, whole grains, and lean proteins is important for overall health. Limiting processed foods and added sugars can also be beneficial.",
+            "I'll make sure to follow those guidelines. Thanks, Medi. Is there anything else I should keep in mind?"
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "You're welcome! If you have any more questions or concerns, feel free to reach out."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms of pneumonia. What should I do?",
+            "Don't worry, in mild cases, investigations are usually not needed. If your vital signs and auscultation are normal, the risk of pneumonia is very low.",
+            "That's good to know. Should I take antibiotics?",
+            "If your C-reactive protein (CRP) level is less than 20 mg/L and there is no convincing evidence of pneumonia, antibiotics are not recommended.",
+            "Got it. What about procalcitonin?",
+            "Procalcitonin can help determine the cause and support decisions regarding antibiotic use. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, and strongly encouraged if it reaches 0.",
+            "I see. Thank you for the information. One last question, how can I check my vital signs?",
+            "You can measure your vital signs like temperature, heart rate, and respiratory rate. If you're unsure, it's best to consult a healthcare professional.",
+            "Understood. Thank you, Medi."
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a question about pneumonia. What is the risk if all vital signs are normal?",
+            "If all vital signs are normal, the risk of pneumonia is very low, so there may not be a need for further investigations.",
+            "That's reassuring. How can C-reactive protein (CRP) help in diagnosing pneumonia?",
+            "C-reactive protein can support the diagnosis of pneumonia. If your CRP level is less than 20 mg/L and there is no convincing evidence of pneumonia, antibiotics are not recommended.",
+            "I see. What about procalcitonin? How does it help?",
+            "Procalcitonin can help determine the cause of infection and support decisions regarding antibiotic use. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, and strongly encouraged if it reaches 0.",
+            "Thanks for explaining, Medi. One last question, what are the vital signs to check for pneumonia?",
+            "The vital signs to check for pneumonia include temperature, heart rate, respiratory rate, and blood pressure. If you're unsure, it's best to consult a healthcare professional.",
+            "Thank you, Medi. You've been very helpful."
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "You're welcome! I'm here to assist you whenever you need."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had pneumonia. Do you have any advice for my lifestyle?",
+            "After recovering from pneumonia, it's important to take care of your lifestyle. You should focus on maintaining a healthy diet and getting regular physical exercise.",
+            "What changes should I make in my diet?",
+            "Include a balanced diet with plenty of fruits, vegetables, and whole grains. Avoid excessive sugar and unhealthy fats.",
+            "Got it. And what about physical exercise?",
+            "Engaging in regular physical exercise can help improve your overall health and strengthen your immune system. Start with light exercises and gradually increase intensity as per your comfort.",
+            "That sounds doable. Are there any specific exercises I should try?",
+            "Walking, jogging, cycling, swimming, and yoga are great exercises to start with. Consult your doctor or a fitness professional for personalized recommendations.",
+            "Thank you, Medi. I appreciate your guidance."
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "You're welcome! Take care and have a healthy lifestyle."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling unwell lately. Can you help me?",
+            "Of course, I'm here to assist you. What are the symptoms you're experiencing?",
+            "I have a persistent cough, difficulty breathing, and chest pain. It's been going on for a few days now.",
+            "Based on your symptoms, it's possible that you might have pneumonia. I recommend getting a medical evaluation.",
+            "Is pneumonia a serious condition? What should I do if I have it?",
+            "Pneumonia can be serious, especially for certain individuals. It's important to see a doctor for a proper diagnosis. They will guide you on the appropriate treatment, which may involve antibiotics.",
+            "I see. What are the risk factors for pneumonia?",
+            "Common risk factors for pneumonia include smoking, weakened immune system, age (especially for young children and older adults), and chronic lung diseases.",
+            "Thank you for the information, Medi. What tests are usually done to diagnose pneumonia?"
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "Typically, a doctor will evaluate your symptoms, conduct a physical examination, and may order tests such as a chest X-ray or blood tests to diagnose pneumonia."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I have some questions about pneumonia.",
+            "Sure, feel free to ask. I'm here to provide information and answer your questions.",
+            "What are the common symptoms of pneumonia?",
+            "Common symptoms of pneumonia include cough, shortness of breath, chest pain, fever, chills, fatigue, and sputum production.",
+            "Got it. Are there different types of pneumonia?",
+            "Yes, pneumonia can be classified into several types based on the cause, such as bacterial pneumonia, viral pneumonia, and fungal pneumonia.",
+            "Are antibiotics always necessary for treating pneumonia?",
+            "Antibiotics are not always necessary for every case of pneumonia. The need for antibiotics depends on various factors, including the severity of the infection and the suspected cause.",
+            "Thank you for the clarification, Medi. How long does it take to recover from pneumonia?"
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "The recovery time for pneumonia can vary depending on the individual and the severity of the infection. It usually takes about one to three weeks to recover fully."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I recently had pneumonia. Can you provide some advice for my recovery?",
+            "Certainly! I'm here to help. After recovering from pneumonia, it's important to take care of your health. What specific advice are you looking for?",
+            "Are there any dietary recommendations to support my recovery?",
+            "A balanced diet rich in nutrients can aid in your recovery. Focus on consuming fruits, vegetables, lean proteins, and whole grains. Stay hydrated by drinking plenty of water.",
+            "That sounds good. How about physical activity?",
+            "Gradually reintroduce physical activity based on your doctor's recommendations. Start with light exercises and gradually increase intensity as your strength improves.",
+            "What can I do to prevent future episodes of pneumonia?",
+            "To reduce the risk of pneumonia, practice good hand hygiene, maintain a healthy lifestyle, get vaccinated (especially for influenza and pneumococcal infections), and avoid exposure to smoke and pollutants.",
+            "Thank you, Medi. Your advice is really helpful. Is there anything else I should know?"
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "Remember to follow your doctor's instructions, complete any prescribed medications, and attend follow-up appointments to ensure a full recovery. If you have any further concerns or questions, don't hesitate to reach out."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling unwell lately.",
+            "I'm here to help. Can you describe your symptoms to me?",
+            "I have a cough, difficulty breathing, and chest pain.",
+            "Based on your symptoms, it's possible that you have pneumonia.",
+            "What tests should I undergo to confirm the diagnosis?",
+            "In mild cases, investigations may not be necessary. If your vital signs are normal, the risk of pneumonia is low.",
+            "I see. Are there any specific signs that indicate the need for antibiotics?",
+            "If your C-reactive protein (CRP) level is less than 20 mg/L and there is no convincing evidence of pneumonia, antibiotics are not recommended.",
+            "Got it. What about procalcitonin? Can it help determine the need for antibiotics?"
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "If you experience worsening chest pain, high fever, or severe shortness of breath, you should seek immediate medical attention."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have some questions about pneumonia.",
+            "Sure, I'm here to provide answers. What would you like to know?",
+            "What are the common symptoms of pneumonia?",
+            "The common symptoms include cough, fever, difficulty breathing, chest pain, and fatigue.",
+            "I see. How is pneumonia diagnosed?",
+            "Diagnosis is usually based on physical examination, chest X-ray, and sometimes additional tests like blood tests or sputum culture.",
+            "Okay. Can pneumonia be prevented?",
+            "There are preventive measures such as getting vaccinated against bacterial pneumonia and practicing good hand hygiene.",
+            "Thank you, Medi. One last question: Is pneumonia contagious?"
+        ],
+        "knowledge": "Pneumonia Pneumonia Pneumonia is an infection that inflames the air sacs in one or both lungs. The most common symptoms include cough, fever, difficulty breathing, chest pain, and fatigue. Diagnosis is usually based on physical examination, chest X-ray, and sometimes additional tests like blood tests or sputum culture. Pneumonia can be prevented by getting vaccinated against bacterial pneumonia and practicing good hand hygiene. Contagiousness depends on the cause of pneumonia; some forms can be contagious Pneumonia Pneumonia",
+        "response": "Yes, some forms of pneumonia can be contagious, especially those caused by bacteria or viruses."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had pneumonia. Any advice for my recovery?",
+            "Certainly! After pneumonia, it's important to take care of your health. What would you like advice on?",
+            "Are there any dietary recommendations?",
+            "A healthy diet rich in fruits, vegetables, lean proteins, and whole grains can support your recovery.",
+            "What about physical exercise?",
+            "Start with gentle activities and gradually increase intensity. Consult your healthcare provider for personalized recommendations.",
+            "That makes sense. How long does it take to fully recover from pneumonia?",
+            "Recovery time can vary, but it may take several weeks to a couple of months to fully recover from pneumonia.",
+            "Thank you, Medi. One more question: Can pneumonia recur?"
+        ],
+        "knowledge": "Pneumonia Pneumonia After pneumonia, it's important to focus on your recovery. Maintain a healthy diet with fruits, vegetables, lean proteins, and whole grains. Gradually increase physical activity but consult your healthcare provider for personalized recommendations. Recovery time can vary but may take several weeks to a couple of months. Pneumonia can recur, especially if you have underlying health conditions or a weakened immune system Pneumonia Pneumonia",
+        "response": "Pneumonia can recur, especially if you have underlying health conditions or a weakened immune system."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been experiencing mild symptoms. Do I need any investigations?",
+            "In mild cases, investigations are not needed unless vital signs and auscultation are abnormal.",
+            "That's reassuring. What about C-reactive protein?",
+            "C-reactive protein can help support the diagnosis of pneumonia.",
+            "Good to know. Are antibiotics recommended for all cases?",
+            "Antibiotics are not recommended for those with CRP less than 20 mg/L without convincing evidence of pneumonia.",
+            "I see. How about procalcitonin?",
+            "Procalcitonin can help determine the cause and guide decisions on who should receive antibiotics.",
+            "Got it. When should antibiotics be encouraged?"
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "What are the vital signs and auscultation parameters to consider?"
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I'm curious about the risk factors for pneumonia. Can you explain?",
+            "Certainly! The risk factors for pneumonia include age, smoking, chronic lung diseases, weakened immune system, and recent respiratory tract infections.",
+            "I see. Is there anything I can do to lower my risk?",
+            "Yes, you can reduce the risk of pneumonia by practicing good hand hygiene, avoiding smoking, getting vaccinated, and maintaining a healthy lifestyle.",
+            "That's helpful. What vaccines are available?",
+            "Vaccines such as the pneumococcal vaccine and the influenza vaccine can help protect against pneumonia.",
+            "Great. I'll consider getting vaccinated. How effective are these vaccines?",
+            "The vaccines are effective in reducing the risk of pneumonia, but it's important to discuss with your healthcare provider for personalized recommendations.",
+            "Understood. One last question, how long does it take to recover from pneumonia?"
+        ],
+        "knowledge": "Pneumonia Pneumonia Risk factors for pneumonia include age, smoking, chronic lung diseases, weakened immune system, and recent respiratory tract infections. You can reduce the risk of pneumonia by practicing good hand hygiene, avoiding smoking, getting vaccinated, and maintaining a healthy lifestyle. Vaccines such as the pneumococcal vaccine and the influenza vaccine can help protect against pneumonia. The effectiveness of the vaccines varies, so it's best to consult with your healthcare provider. Recovery time from pneumonia can vary, but most people start to feel better within a week or two with proper treatment and rest Pneumonia Pneumonia",
+        "response": "Are there any specific vaccines for pneumonia?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had pneumonia. Any advice on lifestyle and diet?",
+            "After recovering from pneumonia, it's important to get plenty of rest, stay hydrated, and eat a balanced diet.",
+            "Should I avoid any specific foods?",
+            "There are no specific foods to avoid, but it's generally recommended to eat nutritious foods that support overall health and immune function.",
+            "Got it. Are there any exercises I can do?",
+            "Gentle physical exercises, as tolerated, can help improve lung function and overall fitness. Consult with your doctor for personalized recommendations.",
+            "Okay. How about smoking and alcohol?",
+            "It's best to avoid smoking and limit alcohol intake as they can impair lung function and weaken the immune system.",
+            "I understand. One more thing, when can I return to my normal activities?"
+        ],
+        "knowledge": "Pneumonia Pneumonia After recovering from pneumonia, it's important to get plenty of rest, stay hydrated, and eat a balanced diet. There are no specific foods to avoid, but it's generally recommended to eat nutritious foods that support overall health and immune function. Gentle physical exercises, as tolerated, can help improve lung function and overall fitness. It's best to avoid smoking and limit alcohol intake as they can impair lung function and weaken the immune system. You can gradually return to your normal activities as you regain strength and feel better. Listen to your body and take it at your own pace Pneumonia Pneumonia",
+        "response": "Can you suggest any specific exercises for improving lung function?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling really sick lately. I have a persistent cough and difficulty breathing.",
+            "I'm here to help. Based on your symptoms, it's important to get a proper diagnosis. I recommend seeing a doctor for a thorough examination.",
+            "I'm a bit worried. Is there any way to determine if it could be pneumonia?",
+            "In mild cases, investigations may not be necessary if all vital signs and auscultation are normal. However, a C-reactive protein test can help support the diagnosis. If your CRP level is less than 20 mg/L without convincing evidence of pneumonia, antibiotics may not be recommended.",
+            "That's good to know. Is there any other test that can help determine the cause?",
+            "Procalcitonin can be helpful in determining the cause and supporting decisions about antibiotic treatment. If the procalcitonin level reaches 0.25 \u03bcg/L, antibiotics are encouraged. Strong encouragement is given if it reaches 0.",
+            "Thank you, Medi. One last question, what are the risk factors for pneumonia?",
+            "Risk factors for pneumonia include age (older adults and young children), weakened immune system, smoking, chronic lung diseases, and certain medical conditions. It's important to take care of your health and seek medical attention if needed.",
+            "Understood. I'll make sure to take care of myself. Thanks for your help!"
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "Age, weakened immune system, smoking, chronic lung diseases, and certain medical conditions are risk factors for pneumonia."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about pneumonia. What are the common symptoms of this illness?",
+            "I'm here to provide information. The common symptoms of pneumonia include fever, cough (with or without phlegm), chest pain, shortness of breath, fatigue, and sometimes confusion. If you experience these symptoms, it's important to consult a healthcare professional.",
+            "Thanks for the explanation. Can you tell me more about the complications associated with pneumonia?",
+            "Complications of pneumonia can include pleural effusion (fluid buildup around the lungs), lung abscess, respiratory failure, and sepsis. It's crucial to seek medical attention if you suspect pneumonia to prevent any potential complications.",
+            "I see. How is pneumonia treated?",
+            "Treatment for pneumonia depends on the severity and underlying cause. It may involve antibiotics, antiviral medication (if it's caused by a virus), supportive care, and rest. It's best to follow your healthcare provider's guidance for appropriate treatment.",
+            "Thank you, Medi. One last question, can pneumonia be prevented?",
+            "Prevention measures include getting vaccinated against certain types of pneumonia, practicing good hand hygiene, avoiding close contact with people who have respiratory infections, and maintaining a healthy lifestyle to strengthen the immune system.",
+            "That's helpful advice. I'll keep that in mind. Thanks, Medi!"
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "Vaccination, good hand hygiene, avoiding close contact with respiratory infections, and maintaining a healthy lifestyle can help prevent pneumonia."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently recovered from pneumonia. Can you give me some advice for my lifestyle moving forward?",
+            "Congratulations on your recovery! To maintain good health, it's important to focus on a balanced diet, regular physical exercise, and sufficient rest.",
+            "That sounds reasonable. Is there anything specific I should include or avoid in my diet?",
+            "Including a variety of fruits, vegetables, whole grains, lean proteins, and healthy fats is beneficial. It's also important to limit processed foods, sugary drinks, and excessive salt intake.",
+            "Got it. I'll make sure to adjust my diet accordingly. How about physical exercise?",
+            "Regular physical exercise can strengthen your immune system and improve overall health. It's recommended to engage in moderate-intensity aerobic exercise for at least 150 minutes per week, along with strength training exercises.",
+            "That's helpful advice. I'll start incorporating exercise into my routine. Are there any other lifestyle changes I should consider?",
+            "Adequate sleep, stress management, and avoiding smoking and excessive alcohol consumption are also important factors in maintaining a healthy lifestyle.",
+            "I appreciate the guidance, Medi. One last question, is there any follow-up care I should consider after recovering from pneumonia?"
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "Following a balanced diet, engaging in regular physical exercise, prioritizing rest, and maintaining a healthy lifestyle overall are important for your recovery after pneumonia."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been experiencing some symptoms lately and I need your help.",
+            "Of course, I'm here to assist you. Please let me know your symptoms.",
+            "I've been feeling very tired, have a persistent cough, and sometimes experience chest pain.",
+            "I see. How long have you had these symptoms?",
+            "It's been about a week now.",
+            "Alright. Based on your symptoms, it's possible that you could have pneumonia.",
+            "What should I do if I have pneumonia?",
+            "In mild cases, investigations are usually not needed. However, if your vital signs and auscultation are normal, the risk of pneumonia is very low. It would be advisable to monitor your symptoms and consult a healthcare professional if they worsen.",
+            "Got it. Thank you, Medi. One last question, how can I differentiate pneumonia from other respiratory infections?"
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "The diagnosis of pneumonia can be supported by checking the C-reactive protein (CRP) levels. If the CRP is less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin levels can also help determine the cause and guide decisions about antibiotic treatment."
+    },
+    {
+        "dialog": [
+            "Hi there, Medi. I have a question about pneumonia.",
+            "Sure, I'm here to help. What would you like to know?",
+            "How can C-reactive protein (CRP) help with the diagnosis of pneumonia?",
+            "CRP levels can support the diagnosis of pneumonia. If the CRP is less than 20 mg/L and there is no convincing evidence of pneumonia, antibiotics are generally not recommended.",
+            "I see. What about procalcitonin? How does it help?",
+            "Procalcitonin levels can help determine the cause of the infection and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L and strongly encouraged if it reaches 0.",
+            "I understand now. Thanks for the explanation, Medi. One more question, are antibiotics always necessary for pneumonia?",
+            "Not necessarily. In mild cases, antibiotics may not be needed. It's important to consult a healthcare professional for an accurate diagnosis and appropriate treatment.",
+            "That's good to know. Thanks for your help, Medi."
+        ],
+        "knowledge": "Pneumonia Pneumonia In general, in adults, investigations are not needed in mild cases. There is a very low risk of pneumonia if all vital signs and auscultation are normal. C-reactive protein may help support the diagnosis. For those with CRP less than 20 mg/L without convincing evidence of pneumonia, antibiotics are not recommended. Procalcitonin may help determine the cause and support decisions about who should receive antibiotics. Antibiotics are encouraged if the procalcitonin level reaches 0.25 \u03bcg/L, strongly encouraged if it reaches 0 Pneumonia Pneumonia",
+        "response": "No, antibiotics are not always necessary for pneumonia. In mild cases, they may not be recommended. It's best to consult a healthcare professional for an accurate assessment of your condition."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I recently underwent a medical procedure. Can you give me some advice on post-procedure care?",
+            "Of course! I'm here to help. Could you provide me with some more details about the procedure you had?",
+            "I had a surgical procedure to remove my appendix.",
+            "After an appendectomy, it's important to take it easy and give your body time to heal. Avoid strenuous activities and heavy lifting for a few weeks.",
+            "Are there any specific dietary recommendations?",
+            "It's generally recommended to consume a balanced diet that includes plenty of fruits, vegetables, lean proteins, and whole grains. Stay hydrated and avoid foods that may be difficult to digest or cause discomfort.",
+            "Got it. Should I incorporate any physical exercises into my routine?",
+            "It's important to gradually reintroduce physical activity after surgery. Start with light exercises like walking and gradually increase the intensity as you feel comfortable. Listen to your body and consult your healthcare provider for specific recommendations.",
+            "Thank you, Medi. One last question, are there any signs of complications I should watch out for?"
+        ],
+        "knowledge": "Appendectomy Appendectomy After an appendectomy, it's important to take it easy and give your body time to heal. Avoid strenuous activities and heavy lifting for a few weeks. Follow a balanced diet that includes plenty of fruits, vegetables, lean proteins, and whole grains. Stay hydrated and avoid foods that may be difficult to digest or cause discomfort. Gradually reintroduce physical activity, starting with light exercises like walking. Listen to your body and consult your healthcare provider for specific recommendations Appendectomy Appendectomy",
+        "response": "Some signs of complications after an appendectomy include severe abdominal pain, fever, increased redness or drainage at the incision site, persistent nausea or vomiting, or difficulty passing urine. If you experience any of these symptoms, it's important to seek medical attention."
+    }
+]

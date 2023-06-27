@@ -1,0 +1,450 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I don't know what to do.",
+            "Hi there, I'm here to help. What are your symptoms?",
+            "I have a headache and I'm feeling very tired.",
+            "Okay, those are pretty common symptoms. Have you been getting enough sleep lately?",
+            "No, actually I've been having trouble sleeping.",
+            "That could be the reason for your fatigue and headache. Try to get more rest and see if your symptoms improve.",
+            "Thanks for the advice. Is there anything else I can do to help relieve the headache?",
+            "You can try taking some over-the-counter pain medication like ibuprofen or acetaminophen.",
+            "Great, thanks for your help Medi."
+        ],
+        "knowledge": "Headache Headache A headache is pain or discomfort in the head, scalp, or neck.  It is one of the most common reasons for patients to visit a doctor.  Headaches can occur as a result of many conditions, including tension-type headache, migraine, sinusitis, and brain tumors.  They can also be a symptom of other underlying health issues.  Managing headaches involves identifying the underlying cause, if possible, and treating the symptoms.  Treatment may include medication, lifestyle changes, and relaxation techniques.  Many headaches can be prevented by avoiding triggers such as alcohol, caffeine, and certain foods. Headache Headache",
+        "response": "You're welcome. I hope you feel better soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm worried about my risk for cancer. What can I do to prevent it?",
+            "Hi there, it's great that you're taking preventative measures. What specific concerns do you have?",
+            "My family has a history of cancer, so I'm worried about my own risk.",
+            "That's understandable. One of the best ways to reduce your risk of cancer is to live a healthy lifestyle.",
+            "What are some lifestyle changes I can make?",
+            "You can start by eating a healthy diet that's rich in fruits and vegetables, and low in processed foods and red meat. You should also try to maintain a healthy weight and exercise regularly.",
+            "Is there anything else I can do?",
+            "Yes, you should also avoid smoking and limit your alcohol intake. And it's important to get regular check-ups and cancer screenings as recommended by your healthcare provider.",
+            "Thanks for the advice, Medi."
+        ],
+        "knowledge": "Cancer Cancer There are many different types of cancer, and the causes and risk factors can vary depending on the type.  Some risk factors include genetics, lifestyle factors such as diet and exercise, and exposure to certain environmental factors such as tobacco smoke and radiation.  Preventing cancer involves reducing exposure to these risk factors and taking preventative measures such as getting regular check-ups and cancer screenings.  Treatment for cancer may involve surgery, radiation therapy, chemotherapy, or a combination of these methods.  The best treatment plan depends on the type and stage of cancer, as well as the patient's overall health and preferences. Cancer Cancer",
+        "response": "You're welcome. Remember to always be aware of any changes in your body and talk to your healthcare provider if you have any concerns."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what I should do to recover.",
+            "Hi there, congratulations on completing your surgery. What type of surgery did you have?",
+            "I had a procedure to remove a tumor.",
+            "Okay, it's important to follow your doctor's instructions for recovery. You should get plenty of rest and avoid strenuous activity for a few weeks.",
+            "How long should I expect to be off work?",
+            "That depends on the type of surgery and your specific situation. Your doctor can give you a better estimate based on your recovery progress.",
+            "Should I change my diet or take any medications?",
+            "Again, that depends on your specific situation. Your doctor will give you instructions about any dietary or medication changes you should make. Make sure to follow their instructions carefully.",
+            "Okay, thanks for your help Medi."
+        ],
+        "knowledge": "Surgery Surgery Surgical procedures are often used to treat a variety of health conditions, including cancer.  Recovery time and specific instructions may vary depending on the type of surgery and the patient's overall health and medical history.  It's important to follow all post-operative instructions from your healthcare provider, including getting plenty of rest, avoiding strenuous activity, and taking any medications as prescribed.  You should also be aware of any signs of complications such as fever, pain, or swelling, and contact your healthcare provider if you experience any of these symptoms. Surgery Surgery",
+        "response": "You're welcome. Remember to take it slow and follow your doctor's instructions carefully to ensure a successful recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am feeling very sick and experiencing some symptoms.",
+            "Hi there, I am here to help you. Can you please share your symptoms with me?",
+            "I have a cough, fever, and difficulty breathing.",
+            "Based on your symptoms, it seems like you may have contracted COVID-19. You should get tested as soon as possible.",
+            "What should I do in the meantime?",
+            "You should self-isolate and monitor your symptoms. If your condition worsens, seek medical help immediately.",
+            "Okay, thank you for your help. I will go get tested.",
+            "You're welcome. Stay safe and take care of yourself.",
+            "What should I do if the test comes back positive?"
+        ],
+        "knowledge": "COVID-19 COVID-19 COVID-19 is an infectious disease caused by the SARS-CoV-2 virus. The most common symptoms include fever, cough, and difficulty breathing. It spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes. Most people who contract COVID-19 experience mild to moderate respiratory illness and recover without requiring special treatment. However, some people, particularly those with underlying medical conditions, are at an increased risk of severe illness and death.",
+        "response": "You should follow the guidelines provided by your local health authorities and take measures to protect yourself and others. This includes self-isolating, contacting your doctor, and following their advice."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some concerns about my recent cancer diagnosis.",
+            "I'm here to help. What would you like to know?",
+            "I am concerned about the treatment options available to me.",
+            "There are several treatment options available to you depending on your specific diagnosis and stage of cancer. These include surgery, radiation therapy, chemotherapy, immunotherapy, and targeted therapy.",
+            "Which treatment option is the best?",
+            "The best treatment option for you will depend on several factors including your overall health, the stage of your cancer, and the specific type of cancer you have. Your doctor can help you make an informed decision.",
+            "Will I need to make any lifestyle changes during treatment?",
+            "It is possible that you will need to make lifestyle changes during treatment. This may include changes to your diet, physical activity, and overall lifestyle to help manage side effects and improve your overall health.",
+            "That's helpful to know. Thank you for your advice."
+        ],
+        "knowledge": "Cancer Cancer Western conceptions of patients' rights for people with cancer include a duty to fully disclose the medical situation to the person, and the right to engage in shared decision-making in a way that respects the person's own values. In other cultures, other rights and values are preferred. In general, disclosure of the diagnosis is more common than it was in the 20th century, but full disclosure of the prognosis is not offered to many patients around the world.",
+        "response": "Cancer diagnosis can be a challenging and emotional experience. It is important to seek emotional support from friends, family, or a mental health professional. Your healthcare provider may also be able to connect you with resources to help you cope with the emotional impact of cancer."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and am wondering about my recovery options.",
+            "Hi there, I'm here to help. What surgery did you have?",
+            "I had a knee replacement surgery.",
+            "After knee replacement surgery, it is important to follow your doctor's instructions regarding physical activity and rehabilitation exercises. You may also need to make some lifestyle changes to improve your overall health and well-being.",
+            "What kind of physical activity should I do?",
+            "Your doctor will provide you with a list of physical therapy exercises to do at home. It is important to do them regularly to help improve your mobility and reduce your risk of complications.",
+            "What kind of lifestyle changes should I make?",
+            "You may need to make changes to your diet to ensure you are getting enough nutrients to support your recovery. It is also important to avoid smoking and to limit your alcohol consumption.",
+            "That's helpful to know. Thank you for your advice."
+        ],
+        "knowledge": "Surgery Surgery After surgery, it is important to follow your doctor's instructions regarding physical activity, rehabilitation exercises, and any lifestyle changes you may need to make. Recovery times can vary depending on the type of surgery, your overall health, and other factors. It is important to be patient and to give your body time to heal. Your doctor can provide you with a more accurate estimate of your recovery time.",
+        "response": "Recovery times can vary depending on several factors, including the type of surgery and your overall health. It is important to follow your doctor's instructions carefully and to be patient as your body heals."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a symptom of cancer. Can you help me?",
+            "Sure, what kind of symptom do you have?",
+            "I have an unusual lump on my body. It's painful and I am worried.",
+            "Based on your symptom, it's better to do a proper checkup with a doctor.",
+            "But, what if it's really cancer? What should I do?",
+            "If it really is cancer, you should be open to the proper medical treatment with your doctor.",
+            "Is there any lifestyle change or supplements that can prevent cancer?",
+            "You can reduce the risk of cancer by maintaining a healthy diet and lifestyle, but there's no 100% guarantee to prevent it.",
+            "How can I find the best treatment for cancer?"
+        ],
+        "knowledge": "Cancer Cancer Western conceptions of patients' rights for people with cancer include a duty to fully disclose the medical situation to the person, and the right to engage in shared decision-making in a way that respects the person's own values.  In other cultures, other rights and values are preferred.  For example, most African cultures value whole families rather than individualism.  In parts of Africa, a diagnosis is commonly made so late that cure is not possible, and treatment, if available at all, would quickly bankrupt the family.  As a result of these factors, African healthcare providers tend to let family members decide whether, when and how to disclose the diagnosis, and they tend to do so slowly and circuitously, as the person shows interest and an ability to cope with the grim news.  People from Asian and South American countries also tend to prefer a slower, less candid approach to disclosure than is idealized in the United States and Western Europe, and they believe that sometimes it would be preferable not to be told about a cancer diagnosis.  In general, disclosure of the diagnosis is more common than it was in the 20th century, but full disclosure of the prognosis is not offered to many patients around the world Cancer Cancer",
+        "response": "Your doctor will provide you with the best treatment options after examining your cancer."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about cancer. What exactly is cancer?",
+            "Cancer is a disease that occurs when abnormal cells divide uncontrollably and destroy body tissue.",
+            "What are the symptoms of cancer?",
+            "The symptoms of cancer vary depending on the type of cancer and may include unexplained weight loss, fatigue, pain, and abnormal growths.",
+            "Can cancer be cured?",
+            "Cancer can be cured if detected and treated early enough, but it's not always curable.",
+            "How can I prevent cancer?",
+            "You can prevent cancer by maintaining a healthy lifestyle, avoiding tobacco and excessive alcohol consumption, and getting regular health checkups.",
+            "What is the most common type of cancer?"
+        ],
+        "knowledge": "Cancer Cancer Western conceptions of patients' rights for people with cancer include a duty to fully disclose the medical situation to the person, and the right to engage in shared decision-making in a way that respects the person's own values.  In other cultures, other rights and values are preferred.  For example, most African cultures value whole families rather than individualism.  In parts of Africa, a diagnosis is commonly made so late that cure is not possible, and treatment, if available at all, would quickly bankrupt the family.  As a result of these factors, African healthcare providers tend to let family members decide whether, when and how to disclose the diagnosis, and they tend to do so slowly and circuitously, as the person shows interest and an ability to cope with the grim news.  People from Asian and South American countries also tend to prefer a slower, less candid approach to disclosure than is idealized in the United States and Western Europe, and they believe that sometimes it would be preferable not to be told about a cancer diagnosis.  In general, disclosure of the diagnosis is more common than it was in the 20th century, but full disclosure of the prognosis is not offered to many patients around the world Cancer Cancer",
+        "response": "The most common type of cancer is skin cancer."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've recently undergone chemotherapy. What lifestyle changes do I need to make?",
+            "After chemotherapy, it is important to maintain a healthy diet, get enough rest, and exercise regularly.",
+            "What foods should I eat?",
+            "You should eat a balanced diet with plenty of fruits, vegetables, whole grains, and lean proteins.",
+            "What about physical activity?",
+            "You should try to engage in regular physical activity, but make sure to talk to your doctor first to determine what level of activity is safe for you.",
+            "What about rest?",
+            "It's important to get enough rest after chemotherapy to help your body heal and recover.",
+            "Are there any supplements or vitamins that can help me recover?"
+        ],
+        "knowledge": "Cancer Cancer Western conceptions of patients' rights for people with cancer include a duty to fully disclose the medical situation to the person, and the right to engage in shared decision-making in a way that respects the person's own values.  In other cultures, other rights and values are preferred.  For example, most African cultures value whole families rather than individualism.  In parts of Africa, a diagnosis is commonly made so late that cure is not possible, and treatment, if available at all, would quickly bankrupt the family.  As a result of these factors, African healthcare providers tend to let family members decide whether, when and how to disclose the diagnosis, and they tend to do so slowly and circuitously, as the person shows interest and an ability to cope with the grim news.  People from Asian and South American countries also tend to prefer a slower, less candid approach to disclosure than is idealized in the United States and Western Europe, and they believe that sometimes it would be preferable not to be told about a cancer diagnosis.  In general, disclosure of the diagnosis is more common than it was in the 20th century, but full disclosure of the prognosis is not offered to many patients around the world Cancer Cancer",
+        "response": "Talk to your doctor before taking any supplements or vitamins, as some may interfere with your chemotherapy treatment."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a lump on my neck. Can you help me?",
+            "Sure. When did you first notice the lump?",
+            "I noticed it a week ago but it's getting bigger.",
+            "Does the lump hurt when you touch it?",
+            "No, it doesn't hurt when I touch it, but it's making me worried",
+            "I understand your concern. Based on what you've told me, it's best to see a doctor and get it checked.",
+            "I see. Do you have any ideas about what it might be?",
+            "It's difficult to tell without a proper check-up, but it's always best to be safe than sorry.",
+            "Okay, thank you Medi."
+        ],
+        "knowledge": "Lump Lump A lump is a localized swelling, bump, bulge, or protuberance in the skin. Depending on the cause, lumps may be single or multiple, soft or firm, painful or painless. Common causes of lumps include infection, inflammation, trauma or injury, abnormal tissue growth, and cancer. Lumps can occur anywhere in the body and may be located on or under the skin, in the muscles or tendons, in the bones or joints, or in the organs. Treatment for lumps depends on the underlying cause and may include rest, ice, compression, elevation, medication, surgery, radiation therapy, chemotherapy, or other treatments. Lump Lump",
+        "response": "You're welcome. It's difficult to tell without proper check-up, but it's best to see a doctor and get it checked."
+    },
+    {
+        "dialog": [
+            "Medi, what is cancer exactly?",
+            "Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells in the body.",
+            "What are the symptoms of cancer and how is it diagnosed?",
+            "The symptoms of cancer depend on the type and stage of the disease. Some common symptoms include fatigue, unexplained weight loss, pain, skin changes, and changes in bowel or bladder habits. Cancer can be diagnosed through various tests including imaging tests, biopsy, and blood tests.",
+            "Can cancer be prevented?",
+            "There are many ways to reduce the risk of developing cancer, including maintaining a healthy lifestyle, getting regular screenings, avoiding exposure to harmful chemicals and substances, and getting vaccinated against certain viruses.",
+            "What are the treatment options for cancer?",
+            "The treatment options for cancer depend on the type and stage of the disease. Some common treatments include surgery, radiation therapy, chemotherapy, targeted therapy, immunotherapy, and hormone therapy.",
+            "Thank you for the explanation."
+        ],
+        "knowledge": "Cancer Cancer Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells in the body. Cancer can develop in almost any organ or tissue, including the lungs, liver, colon, breast, skin, and prostate. The causes of cancer are complex and may include genetic factors, environmental factors, lifestyle factors, and viral infections. The symptoms of cancer depend on the type and stage of the disease and may include fatigue, unexplained weight loss, pain, skin changes, and changes in bowel or bladder habits. Treatment for cancer depends on the type and stage of the disease and may include surgery, radiation therapy, chemotherapy, targeted therapy, immunotherapy, and hormone therapy. Cancer Cancer",
+        "response": "You're welcome. Do you have any other questions related to cancer?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery for my cancer. What should I do now to recover?",
+            "Congratulations on completing your surgery. It is important to follow your doctor's instructions for recovery. This may include resting, eating a healthy diet, and avoiding certain activities. You may also need to attend follow-up appointments and take medications as prescribed.",
+            "Can you give me some tips on a healthy diet?",
+            "Of course. A healthy diet after surgery should include plenty of protein, fruits and vegetables, whole grains, and healthy fats. It is also important to stay hydrated and avoid processed foods and added sugars.",
+            "What about physical activity? Should I exercise?",
+            "Your doctor will advise you on when it is safe to start exercising after surgery. Gentle exercise such as walking can be helpful for recovery, but it is important to avoid any activities that may strain the incision site.",
+            "Thank you for the advice, Medi.",
+            "You're welcome. Is there anything else I can help you with?"
+        ],
+        "knowledge": "Cancer Surgery Cancer surgery is a common treatment for many types of cancer. After surgery, it is important to follow your doctor's instructions for recovery, which may include resting, eating a healthy diet, and avoiding certain activities. A healthy diet after surgery should include plenty of protein, fruits and vegetables, whole grains, and healthy fats. It is also important to stay hydrated and avoid processed foods and added sugars. Exercise can be helpful for recovery, but it is important to avoid any activities that may strain the incision site. Follow-up appointments and medications may also be necessary for optimal recovery.",
+        "response": "No, that's all. Thank you for your help, Medi."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms that worry me.",
+            "Sure, I'm here to help. What are your symptoms?",
+            "I have a persistent cough, chest pain and difficulty breathing.",
+            "Given your symptoms, you might have lung cancer or pneumonia. You should see a doctor as soon as possible.",
+            "What are the causes of lung cancer?",
+            "The primary risk factor is smoking, but it can also be caused by exposure to radon, secondhand smoke or air pollution.",
+            "Are there any symptoms of pneumonia that I should be aware of?",
+            "Pneumonia symptoms include fever, cough, chest pain, rapid breathing, sweating and fatigue, among others.",
+            "Thanks, Medi. I'll go see a doctor."
+        ],
+        "knowledge": "Lung Cancer Pneumonia Lung cancer is a type of cancer that begins in the lungs. Most cases of lung cancer are caused by smoking, but it can also be caused by exposure to radon, secondhand smoke or air pollution. Symptoms of lung cancer include a persistent cough, chest pain and difficulty breathing. Pneumonia is an inflammatory condition of the lung primarily affecting the tiny air sacs known as alveoli. It is usually caused by infection with bacteria, viruses, fungi or other organisms. Symptoms of pneumonia include fever, cough, chest pain, rapid breathing, sweating and fatigue, among others. Pneumonia can be treated with antibiotics or antiviral medications, depending on the cause. ",
+        "response": "You're welcome. It's good that you're taking action to see a doctor. I wish you the best of luck in your health journey."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about cancer.",
+            "Of course, I'm happy to answer your questions. What do you want to know?",
+            "What are the main types of cancer?",
+            "The main types of cancer include carcinoma, sarcoma, leukemia and lymphoma.",
+            "What are the most common symptoms of cancer?",
+            "The most common symptoms of cancer include fatigue, unexplained weight loss, pain, skin changes, changes in bowel or bladder habits and difficulty swallowing.",
+            "Are there any lifestyle choices that can reduce the risk of cancer?",
+            "Yes, some lifestyle choices like avoiding tobacco, limiting alcohol consumption, eating a healthy diet and staying active can help reduce the risk of cancer.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Cancer Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells in the body. The main types of cancer include carcinoma, sarcoma, leukemia and lymphoma. Symptoms of cancer vary widely depending on the type of cancer, but some common symptoms include fatigue, unexplained weight loss, pain, skin changes, changes in bowel or bladder habits and difficulty swallowing. Lifestyle choices like avoiding tobacco, limiting alcohol consumption, eating a healthy diet and staying active can help reduce the risk of cancer.",
+        "response": "You're welcome. If you have any more questions, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what I should do next.",
+            "Congratulations on completing your surgery. What can I help you with?",
+            "What kind of lifestyle changes should I make after surgery?",
+            "After surgery, you should rest and avoid strenuous activity. You should also eat a healthy diet and take any prescribed medications. Follow your doctor's instructions carefully.",
+            "What kind of diet should I follow after surgery?",
+            "Your diet after surgery should include foods that are high in protein, vitamins and minerals. You should also avoid foods that are high in sugar, salt and fat.",
+            "How long will it take for me to fully recover from surgery?",
+            "The recovery time after surgery varies depending on the type of surgery and the patient's overall health. Your doctor can give you a better idea of your recovery time.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Surgery Surgery is a medical procedure that involves cutting into the body to repair, remove or replace damaged or diseased tissue. After surgery, patients should rest and avoid strenuous activity. They should also eat a healthy diet and take any prescribed medications. The recovery time after surgery varies depending on the type of surgery and the patient's overall health.",
+        "response": "You're welcome. Remember to follow your doctor's instructions carefully and take good care of yourself. If you have any more questions, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms. Can you help me?",
+            "Sure, I am here to help you. Please tell me your symptoms?",
+            "I am experiencing fatigue, weakness, and easy bruising",
+            "Okay, have you noticed any other symptoms?",
+            "Yes, I have also noticed a loss of appetite and weight loss",
+            "Based on the symptoms you've mentioned, I think you should see a doctor immediately",
+            "What could be the reason for these symptoms?",
+            "It could be a symptom of various diseases like cancer or leukemia. A doctor will be able to diagnose your condition",
+            "Oh, I see. Thank you for your advice"
+        ],
+        "knowledge": "Cancer Leukemia Cancer and leukemia are two diseases that can cause the symptoms you have mentioned. Cancer is a disease where cells grow and divide uncontrollably. Leukemia is a type of cancer that affects the blood and bone marrow. Some symptoms of leukemia are fatigue, weakness, easy bruising, and weight loss. Cancer and leukemia are serious diseases that require prompt medical attention. Early detection and treatment are critical to improving outcomes.",
+        "response": "Thank you for your help Medi. I will see a doctor as soon as possible"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about cancer",
+            "I am happy to help you with your questions. What do you want to know?",
+            "What is cancer exactly?",
+            "Cancer is a disease caused by the uncontrolled growth and division of abnormal cells in the body",
+            "What are the symptoms of cancer?",
+            "The symptoms of cancer depend on the type of cancer and its stage. Some common symptoms include fatigue, unexplained weight loss, pain, and changes in the skin or bowel habits",
+            "Is cancer always deadly?",
+            "No, cancer is not always deadly. Some types of cancer can be cured with prompt treatment. However, some types of cancer are harder to treat and may be fatal",
+            "How can I reduce my risk of getting cancer?"
+        ],
+        "knowledge": "Cancer Cancer is a disease caused by the uncontrolled growth and division of abnormal cells in the body. Cancer can occur in any part of the body and can spread to nearby tissues and organs. The symptoms of cancer depend on the type of cancer and its stage. Some common symptoms include fatigue, unexplained weight loss, pain, and changes in the skin or bowel habits. Cancer is not always deadly. Some types of cancer can be cured with prompt treatment. However, some types of cancer are harder to treat and may be fatal. You can reduce your risk of getting cancer by leading a healthy lifestyle. This includes eating a healthy diet, exercising regularly, avoiding tobacco and excessive alcohol consumption, and practicing safe sun exposure methods",
+        "response": "You're welcome! Do you have any other questions about cancer?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery to remove a tumor. What should I do now?",
+            "Congratulations on completing the surgery. It's important to follow your doctor's instructions carefully to ensure proper healing",
+            "What kind of lifestyle changes should I make?",
+            "You should focus on eating a healthy diet and getting regular exercise. It's important to avoid smoking and excessive alcohol consumption",
+            "What about my diet?",
+            "A healthy diet is essential for recovery from surgery. You should focus on eating plenty of fruits, vegetables, and whole grains. It's also important to eat lean proteins and healthy fats",
+            "What kind of exercise should I do?",
+            "You should start with light exercise, like walking, and gradually increase your activity level as your body heals. It's important to avoid strenuous exercise until your doctor clears you for it",
+            "I see. Thanks for your help"
+        ],
+        "knowledge": "Cancer Surgery Cancer surgery is a common treatment for cancer that involves removing cancerous tissue from the body. After surgery, it's important to follow your doctor's instructions carefully to ensure proper healing. This may include lifestyle changes like eating a healthy diet and getting regular exercise. It's important to avoid smoking and excessive alcohol consumption. A healthy diet is essential for recovery from surgery. You should focus on eating plenty of fruits, vegetables, and whole grains. It's also important to eat lean proteins and healthy fats. You should start with light exercise, like walking, and gradually increase your activity level as your body heals. It's important to avoid strenuous exercise until your doctor clears you for it",
+        "response": "Thank you for the advice, Medi. I will follow my doctor's instructions closely"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a lump in my breast",
+            "Alright, based on your symptoms, I strongly recommend you see a healthcare professional as soon as possible",
+            "Is it a sign of breast cancer?",
+            "It could be, but there is no need to worry until a professional has diagnosed you",
+            "Okay, I will do that. Thanks for your advice.",
+            "You're welcome. Good luck with your diagnosis and stay positive.",
+            "How can I reduce the risk of getting breast cancer?",
+            "You can reduce your risk by maintaining a healthy weight, staying physically active, limiting alcohol consumption, and avoiding tobacco products.",
+            "Is there a genetic component to breast cancer?"
+        ],
+        "knowledge": "Breast Cancer Breast Cancer  There are different types of breast cancer, but most cases develop in the ducts or lobules of the breast.  Symptoms include a lump or thickening in the breast or armpit, a change in shape or size of the breast, nipple discharge, or a change in the appearance of the nipple.  The exact causes of breast cancer are unknown, but factors that increase the risk include a family history of breast cancer, inherited gene mutations, older age, exposure to estrogen, radiation exposure, and certain lifestyle factors such as alcohol consumption, obesity, and lack of physical activity.  Breast cancer can be treated with surgery, radiation therapy, chemotherapy, hormone therapy, targeted therapy, or a combination of these treatments. Breast Cancer Breast Cancer",
+        "response": "Yes, there is a genetic component to breast cancer. People with a family history of breast cancer or inherited gene mutations have an increased risk."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just had a mammogram and it was really uncomfortable",
+            "I'm sorry to hear that. It's normal to experience some discomfort during a mammogram",
+            "Why do I need a mammogram?",
+            "A mammogram is a screening test used to detect breast cancer in its early stages. Early detection can save lives",
+            "How often do I need to get a mammogram?",
+            "It depends on your age and risk factors. You should discuss the frequency of mammograms with your healthcare professional",
+            "Are there any other ways to screen for breast cancer?",
+            "Breast self-exams, clinical breast exams, and MRI scans are other screening methods. However, mammograms are the most effective for detecting breast cancer",
+            "I see. Thank you, Medi."
+        ],
+        "knowledge": "Breast Cancer Breast Cancer  There are different types of breast cancer, but most cases develop in the ducts or lobules of the breast.  Symptoms include a lump or thickening in the breast or armpit, a change in shape or size of the breast, nipple discharge, or a change in the appearance of the nipple.  The exact causes of breast cancer are unknown, but factors that increase the risk include a family history of breast cancer, inherited gene mutations, older age, exposure to estrogen, radiation exposure, and certain lifestyle factors such as alcohol consumption, obesity, and lack of physical activity.  Breast cancer can be treated with surgery, radiation therapy, chemotherapy, hormone therapy, targeted therapy, or a combination of these treatments. Breast Cancer Breast Cancer",
+        "response": "You're welcome. Remember to always prioritize your breast health."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just finished chemotherapy. What kind of diet should I have?",
+            "Congratulations on finishing chemotherapy. A balanced diet is important for your recovery",
+            "What do you mean by balanced diet?",
+            "A balanced diet includes a variety of fruits, vegetables, whole grains, lean proteins, and healthy fats. You should limit your intake of processed and sugary foods",
+            "What about physical activity?",
+            "Physical activity is also important. You should aim to do at least 150 minutes of moderate-intensity exercise per week, but always consult with your healthcare professional before starting any exercise regimen",
+            "Can you give me some examples of moderate-intensity exercise?",
+            "Examples of moderate-intensity exercise include brisk walking, cycling, swimming, and dancing",
+            "Thanks for your advice, Medi."
+        ],
+        "knowledge": "Chemotherapy Chemotherapy  Chemotherapy is a cancer treatment that uses drugs to destroy cancer cells.  Chemotherapy drugs can be given orally, intravenously, or topically.  Chemotherapy can cause a variety of side effects such as nausea, vomiting, hair loss, fatigue, and an increased risk of infection.  To manage these side effects, it is important to maintain a healthy diet, stay hydrated, and get enough rest.  Physical activity can also help manage fatigue and improve mental health during chemotherapy. Chemotherapy Chemotherapy",
+        "response": "You're welcome. Remember to always prioritize your physical and mental health during your recovery."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I'm feeling tired and have been losing weight.",
+            "Hello! I'm here to help. Any other symptoms you've been experiencing?",
+            "I've also been experiencing severe headaches and night sweats.",
+            "Based on your symptoms, you may need to see a doctor as soon as possible to rule out any serious conditions.",
+            "What kind of conditions?",
+            "Your symptoms may be indicative of several conditions, including cancer. But, only a doctor can diagnose you properly after running the necessary tests.",
+            "Oh, I see. Thank you for your advice.",
+            "You're welcome! Remember, it's important to take care of your health and see a doctor if you're experiencing any unusual symptoms."
+        ],
+        "knowledge": "Cancer Cancer Western conceptions of patients' rights for people with cancer include a duty to fully disclose the medical situation to the person, and the right to engage in shared decision-making in a way that respects the person's own values. In other cultures, other rights and values are preferred. For example, most African cultures value whole families rather than individualism. In parts of Africa, a diagnosis is commonly made so late that cure is not possible, and treatment, if available at all, would quickly bankrupt the family. As a result of these factors, African healthcare providers tend to let family members decide whether, when and how to disclose the diagnosis, and they tend to do so slowly and circuitously, as the person shows interest and an ability to cope with the grim news. People from Asian and South American countries also tend to prefer a slower, less candid approach to disclosure than is idealized in the United States and Western Europe, and they believe that sometimes it would be preferable not to be told about a cancer diagnosis. In general, disclosure of the diagnosis is more common than it was in the 20th century, but full disclosure of the prognosis is not offered to many patients around the world Cancer Cancer",
+        "response": "It's important to take care of your health and see a doctor if you're experiencing any unusual symptoms."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I'm curious about cancer. What causes it?",
+            "Hello! Cancer is caused by mutations in genes that regulate cell growth and division.",
+            "What are some factors that increase the risk of getting cancer?",
+            "There are many factors that can increase the risk of getting cancer, such as exposure to tobacco smoke, radiation, certain chemicals, and viruses, as well as unhealthy lifestyle choices like excessive alcohol consumption and a poor diet.",
+            "How can cancer be prevented?",
+            "While not all cases of cancer can be prevented, you can reduce your risk of getting cancer by making healthy lifestyle choices, such as maintaining a healthy weight, eating a nutritious diet, exercising regularly, limiting alcohol consumption, and avoiding exposure to harmful chemicals and radiation.",
+            "Thanks for the tips, Medi. Do you have any suggestions for how to support someone with cancer?",
+            "Yes! Some ways to support someone with cancer include being there to listen, offering practical help like cooking or running errands, and being patient and understanding.",
+            "That's great to know. Thank you, Medi."
+        ],
+        "knowledge": "Cancer Cancer Western conceptions of patients' rights for people with cancer include a duty to fully disclose the medical situation to the person, and the right to engage in shared decision-making in a way that respects the person's own values. In other cultures, other rights and values are preferred. For example, most African cultures value whole families rather than individualism. In parts of Africa, a diagnosis is commonly made so late that cure is not possible, and treatment, if available at all, would quickly bankrupt the family. As a result of these factors, African healthcare providers tend to let family members decide whether, when and how to disclose the diagnosis, and they tend to do so slowly and circuitously, as the person shows interest and an ability to cope with the grim news. People from Asian and South American countries also tend to prefer a slower, less candid approach to disclosure than is idealized in the United States and Western Europe, and they believe that sometimes it would be preferable not to be told about a cancer diagnosis. In general, disclosure of the diagnosis is more common than it was in the 20th century, but full disclosure of the prognosis is not offered to many patients around the world Cancer Cancer",
+        "response": "Remember, cancer is a serious disease that requires proper medical care, so it's important to see a doctor if you have any concerns."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I just had surgery to remove a cancerous tumor. What should I do to prevent cancer from returning?",
+            "Hello! One of the most important things you can do to prevent cancer from returning is to follow your doctor's instructions for follow-up care and monitoring.",
+            "What kind of follow-up care do I need?",
+            "Your follow-up care will depend on the type and stage of cancer you had, as well as the treatment you received. Your doctor may recommend regular blood tests, scans, and physical exams to monitor your condition and check for signs of recurrence.",
+            "What else can I do to prevent cancer from returning?",
+            "Making healthy lifestyle choices can also help reduce your risk of cancer recurrence. This includes maintaining a healthy weight, eating a nutritious diet, exercising regularly, getting enough sleep, and avoiding tobacco and excessive alcohol consumption.",
+            "Thanks for the advice, Medi. What about emotional support?",
+            "Emotional support is also important after a cancer diagnosis and treatment. You may want to consider joining a support group or seeking individual counseling to help you cope with the emotional impact of cancer.",
+            "I appreciate the guidance, Medi."
+        ],
+        "knowledge": "Cancer Cancer Western conceptions of patients' rights for people with cancer include a duty to fully disclose the medical situation to the person, and the right to engage in shared decision-making in a way that respects the person's own values. In other cultures, other rights and values are preferred. For example, most African cultures value whole families rather than individualism. In parts of Africa, a diagnosis is commonly made so late that cure is not possible, and treatment, if available at all, would quickly bankrupt the family. As a result of these factors, African healthcare providers tend to let family members decide whether, when and how to disclose the diagnosis, and they tend to do so slowly and circuitously, as the person shows interest and an ability to cope with the grim news. People from Asian and South American countries also tend to prefer a slower, less candid approach to disclosure than is idealized in the United States and Western Europe, and they believe that sometimes it would be preferable not to be told about a cancer diagnosis. In general, disclosure of the diagnosis is more common than it was in the 20th century, but full disclosure of the prognosis is not offered to many patients around the world Cancer Cancer",
+        "response": "Remember, you're not alone in this journey, and there are many resources available to help you every step of the way."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm concerned about cancer and diagnosis.",
+            "Hi, I'm here to help you. What's on your mind?",
+            "Are there different approaches to cancer diagnosis and disclosure?",
+            "Yes, Western countries usually disclose the full diagnosis, while African and Asian countries tend to disclose it slowly.",
+            "Why is that?",
+            "In African countries, delaying the disclosure is intended to protect the patient from harmful consequences.",
+            "What are the consequences?",
+            "Sometimes the stigma and shock of the diagnosis is too great, so disclosure is done slowly and carefully.",
+            "That makes sense. Thanks for clarifying that, Medi. Could you tell me more about cancer?"
+        ],
+        "knowledge": "Cancer Cancer Western conceptions of patients' rights for people with cancer include a duty to fully disclose the medical situation to the person, and the right to engage in shared decision-making in a way that respects the person's own values.  In other cultures, other rights and values are preferred.  For example, most African cultures value whole families rather than individualism.  In parts of Africa, a diagnosis is commonly made so late that cure is not possible, and treatment, if available at all, would quickly bankrupt the family.  As a result of these factors, African healthcare providers tend to let family members decide whether, when and how to disclose the diagnosis, and they tend to do so slowly and circuitously, as the person shows interest and an ability to cope with the grim news.  People from Asian and South American countries also tend to prefer a slower, less candid approach to disclosure than is idealized in the United States and Western Europe, and they believe that sometimes it would be preferable not to be told about a cancer diagnosis.  In general, disclosure of the diagnosis is more common than it was in the 20th century, but full disclosure of the prognosis is not offered to many patients around the world Cancer Cancer",
+        "response": "Sure, what do you want to know about cancer?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm curious about the most common types of cancer.",
+            "Sure, I am here to help you. What are you curious about?",
+            "What are the most common types of cancer?",
+            "The most common types of cancer include lung cancer, breast cancer and prostate cancer.",
+            "What are the main causes?",
+            "Lung cancer is mainly caused by smoking, while breast and prostate cancer are more influenced by age and genetic factors.",
+            "Is there any way to prevent or reduce the risk of cancer?",
+            "Yes, leading a healthy lifestyle, not smoking, eating a balanced diet and avoiding excessive exposure to radiation can help.",
+            "That's good to know. Are there any early warning signs for cancer?"
+        ],
+        "knowledge": "Cancer Cancer Some of the most common types of cancer include lung cancer, breast cancer, and prostate cancer.  As with most diseases, the causes of cancer are complex.  Lung cancer is mainly caused by smoking tobacco, while breast and prostate cancer are influenced more by age and genetic factors.  Preventing cancer involves reducing exposure to risk factors, leading a healthy lifestyle, and getting screened regularly.  Warning signs of cancer include unusual lumps or growths, changes in the skin, unusual bleeding or discharge, prolonged coughing or hoarseness, and difficulty swallowing Cancer Cancer",
+        "response": "Yes, there are many early warning signs of cancer, such as unusual lumps or growths, changes in the skin, unusual bleeding or discharge, prolonged coughing or hoarseness, and difficulty swallowing."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently went through chemotherapy and want to know what lifestyle changes I can make to aid my recovery.",
+            "Hi there, I'm here to help. What kind of lifestyle changes are you considering?",
+            "What kind of diet should I follow?",
+            "A diet rich in protein, whole grains, and fruits and vegetables can help you stay healthy and maintain your strength during treatment.",
+            "What about physical activity?",
+            "Regular physical activity during and after treatment can help improve your mood, reduce fatigue, and improve your overall quality of life.",
+            "What else can I do?",
+            "Getting enough sleep, reducing stress, and drinking plenty of water can also help.",
+            "Thank you, Medi. How long should I follow these recommendations?"
+        ],
+        "knowledge": "Cancer Cancer Chemotherapy is a common cancer treatment that can cause a range of side effects, such as nausea, fatigue, hair loss, and increased risk of infections.  To help manage side effects and aid in recovery, many healthcare providers recommend that patients undergoing chemotherapy make lifestyle changes, such as eating a nutritious diet, staying physically active, getting enough sleep, reducing stress, and drinking plenty of water.  These lifestyle changes can help patients stay healthy and maintain their strength during treatment, as well as improve their overall quality of life in the long term.  It's important to follow these recommendations for as long as necessary to aid in your recovery. Cancer Cancer",
+        "response": "It's recommended that you follow these lifestyle changes for as long as necessary to aid in your recovery. Your healthcare provider can advise you on the length of time you should follow these recommendations."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms that I am not sure about.",
+            "Sure, I'll do my best to help you. What are your symptoms?",
+            "I have a persistent cough and I feel short of breath",
+            "Have you had a fever?",
+            "Yes, I have had a fever for a few days now",
+            "Based on your symptoms, it might be possible you have COVID-19. It's important to get tested and self-isolate",
+            "Okay, I will go get tested. Thanks for your help.",
+            "You're welcome. Stay safe!",
+            "How can I find a testing center?"
+        ],
+        "knowledge": "COVID-19 COVID-19 COVID-19 is a highly contagious respiratory illness caused by the SARS-CoV-2 virus. Common symptoms include fever, cough, and shortness of breath. It can be spread through respiratory droplets from an infected person when they cough, sneeze, or talk. If you suspect you have COVID-19, it's important to get tested and self-isolate to prevent the spread of the virus. Many testing centers are available in hospitals and other medical facilities. COVID-19 COVID-19",
+        "response": "You can find a testing center in hospitals and medical facilities near your area"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and I'm not sure what I should be doing in terms of recovery.",
+            "Hello! I can definitely help you with that. What kind of surgery did you have?",
+            "I had a knee replacement surgery.",
+            "Okay, it's important to rest and not put too much weight on your knee for the first few weeks.",
+            "How long should I rest?",
+            "You should rest for at least the first two weeks after surgery and only put weight on your knee as instructed by your surgeon or physical therapist",
+            "What kind of exercises should I do?",
+            "You can start with simple exercises to improve your range of motion and then gradually move on to more active exercises to strengthen your knee.",
+            "That makes sense. Thanks for your help!"
+        ],
+        "knowledge": "Knee Replacement Surgery Knee Replacement Surgery Knee replacement surgery is a common procedure performed to replace damaged knee joints with artificial ones. After surgery, it's important to rest and let your knee heal. You should avoid putting too much weight on your knee for the first few weeks and only do exercises as instructed by your surgeon or physical therapist. Simple exercises can improve your range of motion and more active exercises can strengthen your knee. Pain medication may be prescribed to manage the pain during recovery",
+        "response": "Pain medication may be prescribed by your doctor to manage the pain during recovery"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about cancer.",
+            "Of course, what would you like to know?",
+            "Is cancer always fatal?",
+            "No, it's not always fatal. There are many different types of cancer and some are more treatable than others.",
+            "What are some common cancer treatments?",
+            "Common treatments include surgery, radiation therapy, and chemotherapy.",
+            "Do you know of any alternative treatments for cancer?",
+            "There are some alternative treatments such as acupuncture and herbal remedies that some people find helpful. However, it's important to talk to your doctor before trying any alternative treatments.",
+            "Thank you for the information."
+        ],
+        "knowledge": "Cancer Cancer Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells. Not all cancers are fatal and some are more treatable than others. Common treatments include surgery, radiation therapy, and chemotherapy. Alternative treatments such as acupuncture and herbal remedies may also be helpful but should be discussed with a doctor first. Some ways to reduce the risk of getting cancer include maintaining a healthy diet, exercising regularly, avoiding tobacco and excessive alcohol consumption, and getting regular cancer screenings. Cancer Cancer",
+        "response": "Some ways to reduce the risk of getting cancer include maintaining a healthy diet, exercising regularly, avoiding tobacco and excessive alcohol consumption, and getting regular cancer screenings."
+    }
+]

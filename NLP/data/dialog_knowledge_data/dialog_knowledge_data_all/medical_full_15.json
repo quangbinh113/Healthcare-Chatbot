@@ -1,0 +1,406 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I have some irregular heartbeats and I'm worried.",
+            "I understand. Can you tell me more about your symptoms?",
+            "Yes, my heart sometimes beats too fast or too slow, and I feel dizzy and short of breath.",
+            "Based on your symptoms, you may be experiencing arrhythmia. I suggest seeing a doctor to get a proper diagnosis.",
+            "Can arrhythmia be treated?",
+            "Yes, it can. AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node. Atrial fibrillation can also be treated with pulmonary vein isolation, but the results are less reliable.",
+            "Is medication an option too?",
+            "It depends on the type and severity of the arrhythmia. Your doctor can advise you on the best course of treatment.",
+            "Thank you for the advice, Medi. What should I do in the meantime?"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "You should rest and avoid strenuous physical activity until you can see a doctor and get a proper diagnosis."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about arrhythmia.",
+            "Of course, I'm here to help. What would you like to know?",
+            "What are the common causes of arrhythmia?",
+            "Arrhythmias can be caused by various factors, including heart disease, high blood pressure, electrolyte imbalances, and stress.",
+            "Can lifestyle changes help prevent arrhythmia?",
+            "Yes, making healthy lifestyle choices such as exercising regularly, eating a balanced diet, reducing stress, and avoiding smoking can all help reduce the risk of arrhythmia.",
+            "Are there any medications that can cause arrhythmia?",
+            "Yes, some medications such as quinine, antihistamines, and antipsychotics have been known to cause arrhythmias. It's important to always discuss any new medications with your doctor.",
+            "Thank you for the information, Medi. Is there anything else I should know?"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "Always consult with your doctor if you have any concerns about your heart health or if you experience any symptoms of arrhythmia."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just underwent a procedure to treat my arrhythmia.",
+            "I hope everything went well. Do you have any questions about your recovery?",
+            "Yes, I'm not sure what I should and shouldn't do while I'm recovering.",
+            "Your doctor will likely give you specific instructions based on your individual situation, but in general, it's important to rest and avoid strenuous physical activity for a certain period of time after the procedure.",
+            "What about my diet?",
+            "Again, your doctor will give you specific instructions, but in general, it's a good idea to eat a healthy and balanced diet with plenty of fruits, vegetables, and whole grains.",
+            "What about exercise?",
+            "You should avoid strenuous physical activity for a certain period of time after the procedure, but light exercise such as walking is usually encouraged.",
+            "Thank you for the information, Medi. How long will recovery take?"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "Recovery time varies depending on the individual and the type of procedure, so it's best to follow your doctor's specific instructions and ask any questions you have during your follow-up appointments."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a concern about arrhythmia.",
+            "Sure, I am here to help you. What's bothering you?",
+            "I have heard that AV nodal reentrant tachycardia is curable, is that true?",
+            "Yes, it's true. This type of arrhythmia is often curable by ablating one of the pathways in the AV node.",
+            "What about atrial fibrillation?",
+            "It can also be treated, but the results are less reliable. Pulmonary vein isolation is usually performed.",
+            "Are there any medications that cause arrhythmia?",
+            "Yes, arrhythmias due to medications have been reported since the 1920s with the use of quinine. In the 1960s and 1970s, problems with antihistamines and antipsychotics were discovered. It was not until the 1980s that the underlying issue, QTc prolongation was determined.",
+            "Thanks for the information, Medi. Can you give me some tips to prevent arrhythmias?"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "Sure, adopting a healthy lifestyle by exercising regularly, quitting smoking, managing stress, and limiting alcohol and caffeine intake can help prevent arrhythmia."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me what is QTc prolongation?",
+            "Of course, QTc prolongation means that the QT interval, which is a measure of the time between the start of the Q wave and the end of the T wave in the heart's electrical cycle, is extended beyond the normal range.",
+            "What is the normal range for the QT interval?",
+            "In general, the QT interval should be less than 440 milliseconds in men and less than 460 milliseconds in women, but it can vary depending on age and other factors.",
+            "Can QTc prolongation be dangerous?",
+            "Yes, it can be dangerous because it can cause a type of arrhythmia called torsades de pointes, which can lead to fainting or sudden cardiac death in rare cases.",
+            "How do people get QTc prolongation?",
+            "It can be caused by certain medications, such as some antiarrhythmic drugs, antibiotics, antihistamines, and antipsychotics, as well as by some medical conditions, such as congenital long QT syndrome.",
+            "Thanks for your help, Medi. Is there any way to treat QTc prolongation?"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "Yes, there are medications that can help treat QTc prolongation, such as beta-blockers or antiarrhythmic drugs. Sometimes, an implantable cardioverter-defibrillator may also be recommended for people with a high risk of dangerous arrhythmias."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure for arrhythmia. Can you give me some advice on how to take care of myself?",
+            "Sure, I'd be happy to help. What kind of procedure did you have?",
+            "I had ablation therapy for AV nodal reentrant tachycardia.",
+            "That's great. After the procedure, you should rest for a few days and avoid heavy lifting or strenuous exercise for a week or two. You should also avoid soaking in a bath or swimming for at least a week. And be sure to follow your doctor's instructions for any medications you are taking.",
+            "What about my diet?",
+            "You should eat a heart-healthy diet that includes plenty of fruits, vegetables, whole grains, lean protein, and healthy fats. Try to limit your intake of saturated and trans fats, added sugars, and sodium.",
+            "What kind of physical activity can I do?",
+            "You should gradually increase your physical activity as advised by your doctor. Walking is a great low-impact exercise that you can start with. Aim for at least 30 minutes a day or as recommended by your doctor.",
+            "Thanks for your help, Medi. Is there anything else I should know?"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "Just make sure to follow up with your doctor regularly and report any new symptoms or concerns. Take care of yourself!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am not feeling well. I have been experiencing irregular heartbeats.",
+            "Hi! I am here to help you. Have you experienced any other symptoms?",
+            "Yes, I feel dizziness and shortness of breath.",
+            "Based on your symptoms, you may have arrhythmia. You should seek medical attention.",
+            "What is arrhythmia and how is it treated?",
+            "Arrhythmia is a condition where the heart beats irregularly. It can be treated by ablating one of the pathways in the AV node or pulmonary vein isolation, but the results are less reliable.",
+            "Can arrhythmia be caused by medications?",
+            "Yes, arrhythmias due to medications have been reported since the 1920s with the use of quinine.",
+            "Is there any way to prevent arrhythmia?"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "To prevent arrhythmia, you should avoid smoking and excessive alcohol consumption, and follow a healthy diet and exercise regularly."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had an ablation procedure done for my arrhythmia. What should I do after the procedure?",
+            "Hi! It's good to hear that you had the procedure done. You should rest for at least 24 hours and avoid physical activity.",
+            "How long does it take to fully recover from the procedure?",
+            "It usually takes a few days to a few weeks to fully recover from the procedure.",
+            "What kind of lifestyle changes should I make?",
+            "After the procedure, you should follow a heart-healthy diet, exercise regularly, and avoid smoking and excessive alcohol consumption.",
+            "Should I take any medications after the procedure?",
+            "Yes, your doctor may prescribe medications to help prevent arrhythmia.",
+            "Thank you for the advice, Medi. When should I schedule a follow-up appointment with my doctor?"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "You should schedule a follow-up appointment with your doctor in a week or two to check your progress and ensure that your arrhythmia has been successfully treated."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently found out that I have arrhythmia. What lifestyle changes should I make?",
+            "Hi! It's good that you are taking steps to manage your condition. You should follow a heart-healthy diet and exercise regularly.",
+            "What kind of foods should I eat to maintain a healthy heart?",
+            "You should incorporate more fruits, vegetables, whole grains, and lean protein into your diet, while limiting your intake of saturated and trans fats, sodium, and added sugars.",
+            "What kind of exercises are recommended for someone with arrhythmia?",
+            "Low-impact exercises like walking, hiking, cycling, and swimming are good options. You should also avoid high-intensity exercises and activities that can cause a sudden increase in heart rate.",
+            "Should I avoid caffeine and alcohol?",
+            "You don't need to completely avoid caffeine and alcohol, but you should limit your intake as they can trigger arrhythmia in some people.",
+            "Thank you for the helpful advice, Medi. Is there anything else I should do to manage my arrhythmia?"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "You should also avoid smoking and stress, and take any medications prescribed by your doctor to help manage your arrhythmia."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some concerning symptoms, can you help me?",
+            "Of course, what are your symptoms?",
+            "I've been experiencing a fluttering sensation in my chest and it feels like my heart is racing.",
+            "Those are symptoms of arrhythmia. It could be AV nodal reentrant tachycardia or atrial fibrillation.",
+            "What causes arrhythmia?",
+            "It can be caused by medications, underlying heart disease, or lifestyle factors.",
+            "What can I do to prevent it?",
+            "Maintaining a healthy lifestyle, managing stress, and avoiding triggers like caffeine can help.",
+            "Thank you, Medi. What should I do if the symptoms persist?"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node. Atrial fibrillation can also be treated by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine. In the 1960s and 1970s, problems with antihistamines and antipsychotics were discovered. It was not until the 1980s that the underlying issue, QTc prolongation was determined. Arrhythmia Arrhythmia",
+        "response": "You should schedule an appointment with your doctor to determine the best course of treatment."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about arrhythmia.",
+            "Sure, what is your question?",
+            "Can arrhythmia be hereditary?",
+            "Yes, some types of arrhythmia can be caused by genetic mutations.",
+            "How common is it?",
+            "It's estimated that up to 10% of people with arrhythmia have a family history of the condition.",
+            "What should I do if I think it runs in my family?",
+            "You should talk to your doctor about your family history and any concerns you may have.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Arrhythmia Arrhythmia AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node. Atrial fibrillation can also be treated by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine. In the 1960s and 1970s, problems with antihistamines and antipsychotics were discovered. It was not until the 1980s that the underlying issue, QTc prolongation was determined. Arrhythmia Arrhythmia",
+        "response": "You're welcome, feel free to ask me any more questions you might have."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure related to my heart. What lifestyle changes should I make?",
+            "After a medical procedure, it's important to take care of your heart. You should avoid smoking, limit alcohol intake, and eat a heart-healthy diet.",
+            "What kind of diet should I follow?",
+            "A diet rich in fruits, vegetables, whole grains, lean protein, and healthy fats can help lower your risk of heart disease.",
+            "What about physical activity?",
+            "Regular exercise is important for heart health. Your doctor can recommend a safe and appropriate exercise plan for you.",
+            "Thank you for your advice, Medi. Is there anything else I should know?",
+            "It's also important to manage stress and get enough sleep. Follow your doctor's instructions and attend follow-up appointments as recommended.",
+            "Thanks, Medi."
+        ],
+        "knowledge": "Arrhythmia Arrhythmia AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node. Atrial fibrillation can also be treated by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine. In the 1960s and 1970s, problems with antihistamines and antipsychotics were discovered. It was not until the 1980s that the underlying issue, QTc prolongation was determined. Arrhythmia Arrhythmia",
+        "response": "You're welcome, take care of yourself and follow your doctor's recommendations for a healthy recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been experiencing some heart palpitations lately.",
+            "I see. Can you tell me more about your symptoms?",
+            "Well, my heart beats irregularly and I feel like it's skipping a beat sometimes.",
+            "These symptoms could indicate arrhythmia. I suggest making an appointment with a cardiologist.",
+            "What causes arrhythmia?",
+            "Arrhythmia can be caused by various factors including heart disease, high blood pressure, and thyroid problems.",
+            "How is it treated?",
+            "AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node . Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable.",
+            "Thanks for the information. I'll make an appointment with a cardiologist."
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "It's a good idea to make an appointment with a cardiologist to further check for arrhythmia."
+    },
+    {
+        "dialog": [
+            "Hi Medi. I was just wondering, what is arrhythmia?",
+            "Arrhythmia is a condition where the heart beats irregularly or abnormally.",
+            "What are the symptoms of arrhythmia?",
+            "Symptoms can vary but common ones include heart palpitations, shortness of breath, chest pain, and dizziness.",
+            "Can it be life-threatening?",
+            "In some cases, arrhythmia can be dangerous, especially if it causes the heart to beat too fast or too slow for a prolonged period of time.",
+            "Can it be prevented?",
+            "Certain lifestyle changes, such as quitting smoking or reducing alcohol and caffeine intake, can help prevent arrhythmia. It's also important to manage conditions that can contribute to arrhythmia, such as high blood pressure or thyroid problems.",
+            "Thanks for the information, Medi."
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "You're welcome. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had an ablation procedure for my arrhythmia. What lifestyle changes should I make after the procedure?",
+            "After the procedure, it's important to get plenty of rest and avoid strenuous activities for a few days. You should also follow any specific instructions from your doctor.",
+            "What about physical exercise?",
+            "You can gradually resume physical activity as advised by your doctor. It's important to listen to your body and not push yourself too hard.",
+            "What should I eat?",
+            "A healthy diet with plenty of fruits, vegetables, and whole grains can help support heart health. It's also important to limit your intake of saturated and trans fats, sodium, and added sugars.",
+            "Are there any foods that can specifically help with arrhythmia?",
+            "Certain foods, such as those high in omega-3 fatty acids, can help reduce inflammation and support heart health. Examples include fatty fish, nuts, and seeds.",
+            "Thanks for the advice, Medi."
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "You're welcome. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been experiencing palpitations.",
+            "How long have you been experiencing this symptom?",
+            "It started a few days ago and has been recurring",
+            "Have you been feeling lightheaded or dizzy?",
+            "No, I haven't experienced those symptoms.",
+            "Based on your symptoms, it's possible you have AV nodal reentrant tachycardia. You should see your doctor for further evaluation",
+            "What is the treatment for AV nodal reentrant tachycardia?",
+            "It can often be cured by ablating one of the pathways in the AV node.",
+            "Thank you for your help, Medi"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "You're welcome, and I hope you feel better soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about arrhythmia?",
+            "Sure, what would you like to know?",
+            "What causes arrhythmia?",
+            "Arrhythmia can be caused by a number of factors, including heart disease, high blood pressure, and electrolyte imbalances.",
+            "What are the symptoms of arrhythmia?",
+            "The symptoms of arrhythmia can include palpitations, lightheadedness, fainting, and chest pain.",
+            "How is arrhythmia diagnosed?",
+            "Arrhythmia can be diagnosed through an electrocardiogram (ECG), a Holter monitor, or an event monitor.",
+            "Thank you, Medi. That was very informative!"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "You're welcome, feel free to ask any other questions you may have."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a procedure done for arrhythmia. Do you have any advice for me?",
+            "Yes, there are some lifestyle changes you can make to help prevent arrhythmias from occurring, such as reducing stress and avoiding stimulants like caffeine.",
+            "What about diet?",
+            "A healthy diet that is low in sodium and high in fruits and vegetables is also recommended.",
+            "Are there any specific exercises I should do?",
+            "It's important to consult with your doctor before starting any new exercise program, but low-impact activities like walking or swimming can be beneficial.",
+            "Thank you, Medi. I will keep those things in mind.",
+            "You're welcome, and I hope you have a speedy recovery!"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "I'm glad I could help. If you have any other questions, feel free to ask!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about arrhythmia. What is it exactly?",
+            "Arrhythmia is an irregular heartbeat that can make your heart beat too fast, too slow, or unevenly.",
+            "Is there any specific type of arrhythmia that can be cured by ablation?",
+            "Yes, AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node.",
+            "What about atrial fibrillation? Can it also be treated by ablation?",
+            "Yes, it can be treated by performing a pulmonary vein isolation, but the results are less reliable.",
+            "Are there any medications that can cause arrhythmia?",
+            "Yes, arrhythmias due to medications have been reported since the 1920s with the use of quinine. In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered. It was not until the 1980s that the underlying issue, QTc prolongation was determined.",
+            "So, what should I do if I have arrhythmia?"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "You should consult with your doctor and follow their recommendations based on your individual medical history and test results."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had an ablation procedure done for AV nodal reentrant tachycardia. What should I do now?",
+            "It's important to follow your doctor's specific post-procedure instructions, but in general, you should avoid strenuous activities and heavy lifting for a few days, take all prescribed medications, and keep the insertion site clean and dry.",
+            "Is there anything specific I should eat or avoid?",
+            "You may want to avoid heavy meals for a few days after the procedure, and it's important to stay hydrated. Your doctor may also recommend avoiding caffeine and alcohol.",
+            "What about exercise?",
+            "You should gradually return to your normal level of physical activity as recommended by your doctor. It's important to listen to your body and not push yourself too hard too fast.",
+            "Is there anything else I should be aware of?",
+            "You should watch for any signs of complications, such as fever, swelling, redness, or drainage at the insertion site, chest pain, or shortness of breath. If you experience any of these symptoms, you should contact your doctor right away.",
+            "Okay, thank you for your help, Medi."
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "I hope your recovery goes smoothly, and don't hesitate to contact your doctor if you have any concerns."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm concerned about my risk of developing arrhythmia. Are there any lifestyle changes I can make to reduce my risk?",
+            "Yes, there are some lifestyle changes that can help reduce the risk of developing arrhythmias, such as maintaining a healthy weight, quitting smoking, limiting alcohol and caffeine intake, and managing stress.",
+            "What about exercise? Is it safe?",
+            "Yes, exercise is generally safe and even beneficial for heart health, but it's important to talk to your doctor before starting any new exercise program to ensure it's safe for you.",
+            "Are there any specific exercises that are better?",
+            "Any exercise that gets your heart rate up and keeps it there for a sustained period of time is good, such as brisk walking, jogging, cycling, swimming, or dancing.",
+            "What about my diet?",
+            "A heart-healthy diet that is low in saturated and trans fats, cholesterol, sodium, and added sugars and high in fruits, vegetables, whole grains, lean proteins, and healthy fats can help reduce the risk of arrhythmias and other heart-related conditions.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "I'm glad I could help, let me know if you have any other questions or concerns."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some heart palpitations and I'm worried",
+            "Okay, I'll help you diagnose the problem. Can you tell me more about your symptoms?",
+            "Yes, I feel like my heart is racing and skipping beats. I also feel a fluttering sensation in my chest.",
+            "Based on your symptoms, you may have AV nodal reentrant tachycardia. You should see a doctor for an accurate diagnosis.",
+            "Is it dangerous?",
+            "It's not usually dangerous, but it's important to get a diagnosis and treatment to prevent further complications.",
+            "What kind of treatment options are available?",
+            "One option is ablation, which can cure AV nodal reentrant tachycardia. Another option is medication to control the symptoms.",
+            "Thank you, Medi. What can I do to prevent it from happening again?"
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "Maintaining a healthy lifestyle and avoiding triggers such as stress and caffeine can help prevent AV nodal reentrant tachycardia."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about arrhythmias caused by medication?",
+            "Sure, I'd be happy to help. What would you like to know?",
+            "What kind of medications can cause arrhythmias?",
+            "Medications like quinine, antihistamines, and antipsychotics have been known to cause arrhythmias.",
+            "Is it common for medications to cause arrhythmias?",
+            "It's not that common, but it's important to be aware of the risk if you're taking any of these medications.",
+            "Are there any warning signs that I should look out for?",
+            "If you experience chest pain, shortness of breath, or dizziness when taking medication, you should talk to your doctor.",
+            "Thank you, Medi. I'll make sure to talk to my doctor if I experience any of those symptoms."
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "You're welcome. It's always important to talk to your doctor if you're experiencing any symptoms when taking medication."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a pulmonary vein isolation. What can I do to prevent another episode of atrial fibrillation?",
+            "Congratulations on completing the procedure. One way to prevent another episode is to maintain a healthy lifestyle.",
+            "What kind of lifestyle changes can I make?",
+            "You can start by eating a heart-healthy diet, getting regular exercise, and managing your stress levels.",
+            "Are there any specific foods that I should be eating?",
+            "Foods that are high in fiber, vitamins, and minerals are all good options. You should also limit your intake of processed and fatty foods.",
+            "How much exercise should I be getting?",
+            "You should aim for at least 30 minutes of moderate exercise, such as brisk walking, every day.",
+            "Thank you, Medi. I'll make sure to follow your advice."
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "You're welcome. It's important to take care of yourself after a procedure like this to prevent further episodes of atrial fibrillation."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a heart problem. I feel my heartbeat is too fast.",
+            "I see, can you give me more detail about your symptom?",
+            "Yes, my heart beat is irregular and I feel it pounding in my chest",
+            "Based on your symptom, you might have a condition called arrhythmia",
+            "What should I do next?",
+            "You should see a doctor as soon as possible. They can give you a proper diagnosis and treatment",
+            "Is arrhythmia a common heart problem?",
+            "Yes, it is quite common and can affect people of all ages",
+            "Thank you for your advice, Medi. "
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "You're welcome, and I hope you feel better soon. Make sure to see a doctor as soon as possible to get proper treatment for your arrhythmia"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about arrhythmia. Can you explain it to me?",
+            "Sure, arrhythmia is a condition where the heart beats irregularly or too fast. There are different types of arrhythmia.",
+            "What are the causes of arrhythmia?",
+            "Arrhythmia can be caused by many factors including heart disease, high blood pressure, stress, and certain medications.",
+            "What are the symptoms of arrhythmia?",
+            "The symptoms of arrhythmia can include palpitations, chest pain, dizziness, and shortness of breath.",
+            "Can arrhythmia be cured?",
+            "It depends on the type of arrhythmia and its underlying cause. Some types of arrhythmia can be cured with medication or a medical procedure called ablation.",
+            "Thank you for the explanation, Medi."
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "You're welcome. If you have any more questions, feel free to ask me"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a medical procedure to treat my arrhythmia. What should I do now?",
+            "Congratulations on completing the procedure. You should follow your doctor's instructions carefully.",
+            "What can I do to speed up my recovery?",
+            "You can start with some light physical activity as recommended by your doctor. A healthy diet and moderate exercise can help as well.",
+            "Are there any foods I should avoid?",
+            "You should avoid caffeine, alcohol, and tobacco. These substances can increase the risk of arrhythmia.",
+            "Is there anything else I should know?",
+            "Make sure to take any medications your doctor prescribed and attend all follow-up appointments. Contact your doctor if you experience any new symptoms or if your symptoms worsen.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Arrhythmia Arrhythmia  AV nodal reentrant tachycardia is often curable by ablating one of the pathways in the AV node .  Atrial fibrillation can also be treated, by performing a pulmonary vein isolation, but the results are less reliable. Arrhythmias due to medications have been reported since the 1920s with the use of quinine.  In the 1960s and 1970s problems with antihistamines and antipsychotics were discovered.  It was not until the 1980s that the underlying issue, QTc prolongation was determined.  Arrhythmia Arrhythmia",
+        "response": "You're welcome. Take care of yourself and follow your doctor's instructions closely for a successful recovery."
+    }
+]

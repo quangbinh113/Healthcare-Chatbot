@@ -1,0 +1,362 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and cough.",
+            "Hi, I'm here to help. How long have you been experiencing these symptoms?",
+            "It started two days ago. I also feel very tired.",
+            "I think you might have a respiratory infection. You should rest and drink plenty of fluids.",
+            "Is there anything else I can do?",
+            "You can also take acetaminophen to bring down your fever and relieve your symptoms. If your symptoms persist, you should see a doctor.",
+            "Thanks Medi, I'll try that.",
+            "You're welcome. Let me know if you need anything else.",
+            "What should I do if I need to see a doctor?"
+        ],
+        "knowledge": "Respiratory infections Respiratory infections  Respiratory infections are caused by bacteria or viruses that infect the respiratory system.  Symptoms include coughing, fever, and shortness of breath.  Treatment depends on the type of infection, but usually involves rest, fluids, and medication.  In severe cases, hospitalization may be required.  Prevention involves good hygiene, such as washing hands frequently, and avoiding contact with sick people. Respiratory infections are more common during the winter months",
+        "response": "You should call your doctor and let them know about your symptoms. They will give you further instructions on what to do next."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I had a pneumonia shot yesterday. What precautions should I take?",
+            "Hello! You should rest for the remainder of the day and avoid any strenuous activities.",
+            "What should I eat and drink?",
+            "Drink plenty of fluids and eat a healthy, well-balanced meal. Avoid alcohol and caffeine.",
+            "How should I care for the injection site?",
+            "Apply a cold compress to the injection site to reduce any swelling or discomfort. You may also take acetaminophen if you experience any pain or fever.",
+            "How long will it take for the vaccine to start working?",
+            "It usually takes about two weeks for the vaccine to start working. You should also get a follow-up shot in a few years.",
+            "Thanks Medi, I appreciate your help."
+        ],
+        "knowledge": "Pneumonia vaccine Pneumonia vaccine  The pneumonia vaccine is a vaccine that can prevent pneumococcal disease, which is a bacterial infection that causes pneumonia, meningitis, and sepsis.  The vaccine is recommended for people who are at increased risk of developing pneumococcal disease, such as adults over 65 and children under five.  Side effects of the vaccine may include redness, swelling, and soreness at the injection site, as well as fever, fatigue, and muscle pain. Pneumonia vaccine",
+        "response": "Yes, it is normal to experience some mild side effects, such as redness, swelling, and soreness at the injection site, as well as fever, fatigue, and muscle pain. These effects should go away within a few days."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about infectious diseases.",
+            "Hello, I'm here to help. What's your question?",
+            "How are infectious diseases treated?",
+            "The treatment of infectious diseases depends on the type of infection. Antibiotics are often used to treat bacterial infections, while antiviral medications are used to treat viral infections. In some cases, treatment may involve surgery or other procedures.",
+            "Is it possible to prevent infectious diseases?",
+            "Yes, there are many ways to prevent infectious diseases. Washing your hands frequently, practicing good hygiene, getting vaccinated, and avoiding contact with sick people are all effective ways to prevent the spread of infectious diseases.",
+            "Are there any new treatments for infectious diseases?",
+            "There are always new treatments being developed for infectious diseases. Researchers are constantly working to find new drugs and therapies to combat these diseases.",
+            "That's good to know. Thank you for your help, Medi."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Gerhard Domagk developed sulphonamides, the first broad spectrum synthetic antibacterial drugs. The medical treatment of infectious diseases falls into the medical field of Infectious Disease and in some cases the study of propagation pertains to the field of Epidemiology.  Generally, infections are initially diagnosed by primary care physicians or internal medicine specialists.  For example, an \"uncomplicated\" pneumonia will generally be treated by the internist or the pulmonologist .  The work of the infectious diseases specialist therefore entails working with both patients and general practitioners, as well as laboratory scientists, immunologists, bacteriologists and other specialists. An infectious disease team may be alerted when:Several studies have reported associations between pathogen load in an area and human behavior.  Higher pathogen load is associated with decreased size of ethnic and religious groups in an area Infectious diseases Infectious diseases",
+        "response": "Yes, infectious diseases can be spread from animals to humans. This is known as zoonotic transmission. Some examples of infectious diseases that can be spread from animals to humans include rabies, Lyme disease, and West Nile virus."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and a headache. Can you help me?",
+            "Sure, I am here to help. When did your symptoms start?",
+            "Yesterday evening, I felt cold and then my body temperature increased.",
+            "Did you take any medication?",
+            "No, I didn't. I was waiting for your advice.",
+            "I think you might have a viral infection. You should take rest and drink plenty of fluids.",
+            "What about medication?",
+            "You can take acetaminophen to reduce the fever and the headache.",
+            "Can I take this medicine with an empty stomach?"
+        ],
+        "knowledge": "Viral Infections Viral Infections A viral infection is a proliferation of a harmful virus inside the body. Viruses cannot reproduce without the assistance of a host. Viruses infect a host by injecting their genetic material into an organism's cells. Viruses are responsible for causing several diseases such as cold, flu, measles, mumps, and chickenpox. Most viral infections are not treatable with antibiotics. Instead, treatment focuses on reducing symptoms with pain relief medications, decongestants, and cough syrups. Rest and plenty of fluids are also important for recovery. ",
+        "response": "It is recommended that you take acetaminophen with food to reduce the risk of stomach upset."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery and I am not sure what physical activities I can do.",
+            "Hello! What kind of surgery did you have?",
+            "I had a knee replacement surgery.",
+            "You should avoid high-impact activities such as running and jumping. Walking and swimming are good options for low-impact exercise.",
+            "How about cycling? Can I do that?",
+            "Cycling is also a good low-impact exercise for knee replacement patients. Just make sure to adjust your seat height to avoid discomfort.",
+            "What about stretching exercises?",
+            "Gentle stretching exercises can help improve flexibility and reduce stiffness. However, you should avoid any stretching exercise that causes pain.",
+            "Thanks for the advice, Medi. I appreciate it."
+        ],
+        "knowledge": "Knee Replacement Knee Replacement Knee replacement surgery, also known as knee arthroplasty, involves replacing a damaged or worn knee joint with an artificial one. After knee replacement surgery, it is important to exercise regularly to restore strength and flexibility to the knee joint. Low-impact activities such as walking, swimming, and cycling are good options for exercise after knee replacement surgery. Stretching exercises can also improve flexibility and reduce stiffness. It is important to avoid high-impact exercises, such as running and jumping, to prevent damage to the knee joint. ",
+        "response": "You're welcome. Do you have any other questions about knee replacement recovery that I can help with?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a sore throat and a cough. What can I do to reduce my symptoms?",
+            "Hello! How long have you had these symptoms?",
+            "I have had these symptoms for three days now.",
+            "Have you taken any medication?",
+            "No, I haven't. I wanted to try some home remedies first.",
+            "Drinking warm liquids such as tea with honey can help soothe a sore throat. Gargling with salt water can also be helpful. You can take over-the-counter cough medicine to reduce the cough.",
+            "Are there any other home remedies I can try?",
+            "You can try using a humidifier to moisten the air and soothe your throat. Rest and plenty of fluids are also important for recovery.",
+            "Thanks for the advice, Medi. I will try these remedies."
+        ],
+        "knowledge": "Sore Throat and Cough Sore Throat and Cough A sore throat and cough are common symptoms of respiratory infections such as cold or flu. Home remedies like drinking warm liquids, gargling with salt water, and using a humidifier can help soothe a sore throat and reduce cough. Over-the-counter cough medicine can also be helpful for reducing cough. Rest and plenty of fluids are important for recovery. If the symptoms persist or worsen, it is recommended to see a doctor.",
+        "response": "You're welcome. Let me know if the home remedies don't work and you need further assistance."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a sore throat and a headache.",
+            "I'm sorry to hear that. Have you noticed any other symptoms?",
+            "Yes, I have a fever and I'm feeling really tired.",
+            "Based on your symptoms, you might have a viral infection. I suggest you rest and drink plenty of fluids.",
+            "Okay, but do you think I should take any medication?",
+            "You can take over-the-counter pain relievers like ibuprofen or acetaminophen to alleviate your symptoms.",
+            "Thank you, Medi. I appreciate your help.",
+            "You're welcome. I hope you feel better soon.",
+            "One more question, Is there any way to prevent viral infections?"
+        ],
+        "knowledge": "Viral Infections Viral infections are caused by viruses and can affect any part of the body or body system. Common symptoms include fever, headache, sore throat, coughing, and body aches. Viral infections are highly contagious and can be spread through contact with infected individuals or contaminated surfaces. Good hygiene practices like washing hands frequently and avoiding contact with sick people can help prevent the spread of viral infections. Vaccines are also available for some viral infections like influenza.",
+        "response": "Yes, you can prevent viral infections by washing your hands frequently and avoiding contact with sick people. Vaccines are also available for some viral infections like influenza."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had a pneumonia last month. What should I do to prevent it from happening again?",
+            "I'm sorry to hear that. Pneumonia can be a serious condition. Have you fully recovered?",
+            "Yes, I have. But I want to make sure it doesn't happen again.",
+            "To prevent pneumonia, you should practice good hygiene like washing your hands frequently and avoiding contact with sick people.",
+            "Is there anything else I can do?",
+            "Yes, getting vaccinated against pneumococcal disease and the flu can also reduce your risk of developing pneumonia.",
+            "Okay, I'll look into getting vaccinated. Thank you, Medi.",
+            "You're welcome. Don't hesitate to reach out if you have any more questions.",
+            "One more question. Can you tell me more about pneumococcal disease?"
+        ],
+        "knowledge": "Pneumococcal Disease Pneumococcal disease is caused by Streptococcus pneumoniae bacteria and can lead to serious infections like pneumonia, meningitis, and sepsis. Symptoms include fever, cough, chest pain, shortness of breath, and confusion. The disease is highly contagious and can be spread through contact with infected individuals or contaminated surfaces. Treatment involves antibiotics and supportive care like oxygen therapy. Vaccines are available to prevent pneumococcal disease.",
+        "response": "Sure, pneumococcal disease is caused by Streptococcus pneumoniae bacteria and can lead to serious infections like pneumonia, meningitis, and sepsis. Vaccines are available to prevent pneumococcal disease."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and I'm not sure how to take care of myself.",
+            "I'm sorry to hear that. What kind of surgery did you have?",
+            "I had a knee replacement surgery.",
+            "After the surgery, it's important to rest and elevate your leg to reduce swelling. You should also do the exercises that your physical therapist recommends to help improve your range of motion.",
+            "What about my diet? Are there any foods I should avoid?",
+            "You should follow your doctor's dietary recommendations and focus on high-protein foods to help your body heal. You may also need to limit your salt intake to reduce swelling.",
+            "Okay, thank you for the advice. Is there anything else I should be doing?",
+            "You should also take your pain medication as prescribed and attend all follow-up appointments with your doctor and physical therapist.",
+            "One more question, how long will it take for me to recover fully?"
+        ],
+        "knowledge": "Postoperative Care After surgery, patients need to take special care of themselves to ensure proper healing. This includes resting and elevating the affected area, doing recommended exercises to improve range of motion, and following dietary recommendations. Pain management is also an important part of postoperative care, and patients should take their medication as prescribed. Follow-up appointments with doctors and physical therapists are also necessary for a full recovery.",
+        "response": "Recovery time can vary depending on the type of surgery and the individual patient. Your doctor can give you a better estimate based on your specific situation."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and a cough.",
+            "Sorry to hear that. Do you have any other symptoms?",
+            "Yes, I also feel very tired and have a headache.",
+            "Based on your symptoms, it could be a respiratory infection.",
+            "What should I do to feel better?",
+            "You should rest and drink plenty of fluids. If your symptoms persist, you may need to see a doctor.",
+            "Ok, thanks for your advice. Is there anything else I should do?",
+            "You should also avoid contact with others to prevent the spread of the infection.",
+            "Got it. Thank you, Medi."
+        ],
+        "knowledge": "Respiratory infections Respiratory infections Respiratory infections are infections that affect the respiratory system, including the nose, throat, and lungs. They can be caused by viruses, bacteria, or other microorganisms. Symptoms can include fever, cough, sore throat, runny or stuffy nose, body aches, and fatigue. Treatment depends on the cause of the infection and may involve rest, fluids, and over-the-counter medications to relieve symptoms. In some cases, prescription medications may be necessary. Respiratory infections can be prevented by practicing good hygiene, such as washing hands regularly, covering the mouth and nose when coughing or sneezing, and avoiding close contact with people who are sick. ",
+        "response": "You're welcome. Just remember to rest and drink plenty of fluids. If your symptoms persist, you may need to see a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about infectious diseases.",
+            "Sure, I'll do my best to answer your question.",
+            "What is the difference between an infectious disease and a non-infectious disease?",
+            "An infectious disease is caused by a pathogen, such as a virus or bacteria, that can be passed from person to person, while a non-infectious disease is not caused by a pathogen and cannot be spread from person to person.",
+            "That makes sense. Are there any common types of infectious diseases?",
+            "Yes, there are many common types, such as influenza, pneumonia, and tuberculosis.",
+            "How are infectious diseases treated?",
+            "Treatment depends on the specific disease and may involve medications, such as antibiotics or antiviral drugs, as well as rest and plenty of fluids.",
+            "Thank you for the information, Medi. It's helpful to know."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases Gerhard Domagk developed sulphonamides, the first broad spectrum synthetic antibacterial drugs. The medical treatment of infectious diseases falls into the medical field of Infectious Disease and in some cases the study of propagation pertains to the field of Epidemiology.  Generally, infections are initially diagnosed by primary care physicians or internal medicine specialists.  For example, an 'uncomplicated' pneumonia will generally be treated by the internist or the pulmonologist .  The work of the infectious diseases specialist therefore entails working with both patients and general practitioners, as well as laboratory scientists, immunologists, bacteriologists and other specialists. An infectious disease team may be alerted when:Several studies have reported associations between pathogen load in an area and human behavior.  Higher pathogen load is associated with decreased size of ethnic and religious groups in an area Infectious diseases Infectious diseases",
+        "response": "You're welcome. Let me know if you have any other questions about infectious diseases."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure and I'm not sure what I should do next.",
+            "I'm here to help. What kind of procedure did you have?",
+            "I had surgery on my knee.",
+            "After surgery, it's important to rest and allow your body to heal. You should also follow any instructions from your doctor or physical therapist.",
+            "What kind of activities should I avoid?",
+            "You should avoid any activities that could put stress on your knee, such as running or jumping. You should also avoid lifting anything heavy.",
+            "How long will it take to recover?",
+            "Recovery time can vary depending on the type of surgery and your overall health. Your doctor can give you a better idea of what to expect.",
+            "Thanks for the advice. I'll be sure to follow it."
+        ],
+        "knowledge": "Postoperative care Postoperative care After a surgical procedure, it's important to follow your doctor's instructions for postoperative care. This may include resting, taking medications, and avoiding certain activities. You should also keep the surgical area clean and dry and watch for any signs of infection, such as redness, swelling, or fever. It's important to attend all follow-up appointments with your doctor to monitor your progress and ensure that you're healing properly. Your doctor may also recommend physical therapy to help you regain strength and mobility. In some cases, recovery time may be shorter or longer than expected, depending on the type of surgery and your overall health. ",
+        "response": "You're welcome. Just remember to follow your doctor's instructions and attend all follow-up appointments to ensure a speedy recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi. I am having a fever and a sore throat.",
+            "I can help you with that. How long have you been experiencing these symptoms?",
+            "I have had a fever for the past 3 days and a sore throat since yesterday.",
+            "Based on your symptoms, you may have a viral infection. I suggest you rest and drink plenty of fluids.",
+            "Is there anything I should do to relieve my symptoms?",
+            "You can take over-the-counter pain relievers such as paracetamol or ibuprofen to relieve your fever and sore throat.",
+            "Thank you for your advice, Medi.",
+            "You're welcome. Take care and get plenty of rest.",
+            "Can you tell me more about viral infections?"
+        ],
+        "knowledge": "Viral Infections Viral Infections Viral infections are caused by viruses that invade healthy cells and reproduce. Some common viral infections include the common cold, flu, and COVID-19. Symptoms of viral infections include fever, cough, sore throat, runny or stuffy nose, body aches, headache, and fatigue. Treatment for viral infections often involve rest, fluids, and over-the-counter medications to relieve symptoms.",
+        "response": "Viral infections are caused by viruses that invade healthy cells and reproduce. Common symptoms include fever, cough, sore throat, runny or stuffy nose, body aches, headache, and fatigue."
+    },
+    {
+        "dialog": [
+            "Hi Medi. I recently got diagnosed with an infectious disease.",
+            "I'm sorry to hear that. Can you tell me more about your diagnosis?",
+            "I have been diagnosed with pneumonia.",
+            "I see. Pneumonia is an infectious disease that affects the lungs. It can be caused by bacteria, viruses, or fungi.",
+            "What can I do to treat pneumonia?",
+            "Treatment for pneumonia depends on the cause of the infection. If it's bacterial, antibiotics may be prescribed. Rest and drinking plenty of fluids are also important.",
+            "Are there any complications I should be aware of?",
+            "Complications of pneumonia can include respiratory failure, sepsis, and lung abscesses. However, with prompt and proper treatment, most people recover from pneumonia without complications.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Pneumonia Pneumonia Pneumonia is an infectious disease that affects the lungs. The most common symptoms of pneumonia are cough, fever, shaking chills, and shortness of breath. Diagnosis of pneumonia typically involves a physical exam, imaging tests, and laboratory tests to analyze a sample of the infected fluid. Treatment for pneumonia depends on the cause of the infection. If it's bacterial, antibiotics may be prescribed. Rest and drinking plenty of fluids are also important.",
+        "response": "Pneumonia is diagnosed through a physical exam, imaging tests, and laboratory tests to analyze a sample of the infected fluid."
+    },
+    {
+        "dialog": [
+            "Hi Medi. I recently had a medical procedure done.",
+            "I hope everything went well. Can you tell me about the procedure?",
+            "I had surgery to remove my appendix.",
+            "I see. After surgery, it's important to rest and take it easy for a few days. You may experience some pain and discomfort, but this is normal.",
+            "Are there any lifestyle changes I should make after the surgery?",
+            "It's important to avoid strenuous physical activity for a few weeks after surgery. Follow your doctor's instructions for when you can resume normal activities. Eat a balanced diet and drink plenty of fluids to help your body heal.",
+            "Thank you for your advice, Medi.",
+            "You're welcome. Take care and follow your doctor's instructions.",
+            "Can you tell me more about the risks of appendix surgery?"
+        ],
+        "knowledge": "Appendix Surgery Appendix Surgery Appendix surgery is a surgical procedure to remove the appendix. The appendix is a small, finger-shaped organ attached to the large intestine. Appendicitis, an infection of the appendix, is the most common reason for appendix surgery. Risks of appendix surgery include bleeding, infection, and complications from anesthesia. After surgery, it's important to rest and take it easy for a few days. Follow your doctor's instructions for when you can resume normal activities. Eat a balanced diet and drink plenty of fluids to help your body heal.",
+        "response": "Risks of appendix surgery include bleeding, infection, and complications from anesthesia."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and a bad headache.",
+            "Hello, sorry to hear that. Have you taken your temperature?",
+            "Yes, I have. It's 102 degrees Fahrenheit.",
+            "Based on your symptoms, it could be a viral infection. You should rest and drink plenty of fluids.",
+            "Okay. Should I take any medicine?",
+            "Over-the-counter pain relievers like acetaminophen or ibuprofen can help with the fever and headache. But it is better to consult with a doctor.",
+            "All right. Thank you for your advice.",
+            "You're welcome. Take care of yourself.",
+            "Do you have any more information about viral infections?"
+        ],
+        "knowledge": "Viral infections Viral infections are caused by a virus and can affect any part of the body. Common symptoms include fever, cough, sore throat, runny nose, body aches, and fatigue. Treatment is generally supportive and includes rest, hydration, and over-the-counter pain relief. Antibiotics do not treat viral infections. The best way to prevent viral infections is through good hygiene, such as washing hands regularly and avoiding close contact with sick people.",
+        "response": "Yes, viral infections are caused by a virus and can affect any part of the body. Common symptoms include fever, cough, sore throat, runny nose, body aches, and fatigue. Antibiotics do not treat viral infections. The best way to prevent viral infections is through good hygiene, such as washing hands regularly and avoiding close contact with sick people."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had surgery last week and now I need some advice.",
+            "Hello, I'm here to help. What kind of surgery did you have?",
+            "I had a laparoscopic appendectomy.",
+            "After any surgery, it is important to rest and take it easy. You should avoid heavy lifting or strenuous activity for several weeks.",
+            "How about diet? What should I eat?",
+            "It is important to eat a healthy diet with plenty of protein, fruits, and vegetables to support your recovery. Avoid fatty and fried foods, as well as sugary drinks.",
+            "Got it. How long do you think it will take for me to recover completely?",
+            "It varies from person to person, but typically recovery takes a few weeks. Follow your doctor's advice and attend all follow-up appointments.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Laparoscopic Appendectomy Laparoscopic Appendectomy is a surgical procedure that removes the appendix through small incisions in the abdomen. Recovery time is shorter and there is less pain compared to traditional open surgery. Complications are rare, but can include bleeding, infection, and damage to nearby organs. After surgery, it is important to rest and take it easy. Follow your doctor's advice and attend all follow-up appointments.",
+        "response": "Yes, laparoscopic appendectomy is a surgical procedure that removes the appendix through small incisions in the abdomen. Recovery time is shorter and there is less pain compared to traditional open surgery. Complications are rare, but can include bleeding, infection, and damage to nearby organs. After surgery, it is important to rest and take it easy. Follow your doctor's advice and attend all follow-up appointments."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm worried about infectious diseases.",
+            "Hello. What are you concerned about specifically?",
+            "I'm worried about catching a disease like COVID-19, and I don't know how to prevent it.",
+            "The best way to prevent the spread of infectious diseases is through good hygiene. Wash your hands regularly with soap and water for at least 20 seconds. Avoid touching your face. Wear a mask when in public and maintain a safe distance from others.",
+            "Is there anything else I can do to protect myself?",
+            "It is also important to stay home if you feel sick, cover your coughs and sneezes with your elbow, and disinfect frequently touched surfaces.",
+            "Okay. Thanks for your advice, Medi.",
+            "You're welcome. Stay safe and healthy.",
+            "Could you tell me more about COVID-19?"
+        ],
+        "knowledge": "COVID-19 COVID-19 is a highly contagious respiratory illness caused by the novel coronavirus. Symptoms can range from mild to severe and can include fever, cough, and difficulty breathing. The virus is primarily spread through respiratory droplets when an infected person talks, coughs, or sneezes. The best way to prevent the spread of COVID-19 is through good hygiene, such as washing hands regularly, wearing a mask, avoiding close contact with others, staying home if you feel sick, and disinfecting frequently touched surfaces. Vaccines are also available to protect against COVID-19.",
+        "response": "COVID-19 is a highly contagious respiratory illness caused by the novel coronavirus. Symptoms can range from mild to severe and can include fever, cough, and difficulty breathing. The virus is primarily spread through respiratory droplets when an infected person talks, coughs, or sneezes. The best way to prevent the spread of COVID-19 is through good hygiene, such as washing hands regularly, wearing a mask, avoiding close contact with others, staying home if you feel sick, and disinfecting frequently touched surfaces. Vaccines are also available to protect against COVID-19."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I'm not feeling well.",
+            "Please tell me your symptoms so that I can assist you better.",
+            "I have a fever, cough, sore throat and body aches.",
+            "Based on your symptoms, it seems you have viral infection. You should rest and drink plenty of fluids.",
+            "What else should I do?",
+            "You can also take over-the-counter medications to relieve your symptoms. But if the symptoms persist, you should consult a doctor.",
+            "Okay, Thanks for your advice.",
+            "You're welcome. Take care.",
+            "Medi, can you give me more information about viral infection?"
+        ],
+        "knowledge": "Viral infections Viral infections  A viral infection is a type of infection caused by a virus.  There are many types of viruses that can cause a viral infection, including the flu, common cold, and HIV.  Symptoms of a viral infection can include fever, cough, sore throat, body aches, and fatigue.  Treatment for viral infections typically involves rest, drinking fluids, and taking over-the-counter medications to relieve symptoms.  Antibiotics are not effective against viruses, and in some cases, antiviral medications may be prescribed.  Vaccines are available for some viral infections, including the flu and HPV.  Prevention methods include good hygiene practices such as washing hands frequently, covering the mouth and nose when coughing or sneezing, and avoiding close contact with infected individuals. Viral infections Viral infections",
+        "response": "A viral infection is caused by a virus and treatment involves rest, drinking fluids, and taking over-the-counter medications. Antibiotics are not effective against viruses, and in some cases, antiviral medications may be prescribed. Vaccines are available for some viral infections, and prevention methods include good hygiene practices such as washing hands frequently and avoiding close contact with infected individuals."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am recovering from pneumonia. What should I do to prevent it from happening again?",
+            "Good to know that you are recovering. To prevent it from happening again, you should get vaccinated for pneumonia.",
+            "What else can I do?",
+            "You should avoid smoking and secondhand smoke, as well as keep your immune system strong with a healthy diet and regular exercise.",
+            "Thanks, Medi. What are some of the symptoms of pneumonia?",
+            "The symptoms of pneumonia include cough, fever, chills, shortness of breath, and chest pain.",
+            "Okay, I will keep that in mind. Thanks for your help.",
+            "You're welcome. Let me know if you have any other questions.",
+            "Yes, Medi. Can you tell me more about the vaccinations for pneumonia?"
+        ],
+        "knowledge": "Pneumonia Pneumonia  Pneumonia is an infection of the lungs that can be caused by bacteria, viruses, or fungi.  Symptoms of pneumonia can include cough, fever, chills, shortness of breath, and chest pain.  Treatment for pneumonia typically involves antibiotics or antiviral medications, as well as rest and plenty of fluids.  Vaccines are available to prevent some types of pneumonia, including the pneumococcal vaccine, the flu vaccine, and the COVID-19 vaccine.  The pneumococcal vaccine is recommended for adults over the age of 65, as well as individuals with certain health conditions or who smoke.  The flu vaccine is recommended annually, and the COVID-19 vaccine is recommended for all eligible individuals. Pneumonia Pneumonia",
+        "response": "To prevent pneumonia, you should get vaccinated. Vaccines are available to prevent some types of pneumonia, including the pneumococcal vaccine, the flu vaccine, and the COVID-19 vaccine. The pneumococcal vaccine is recommended for adults over the age of 65 and individuals with certain health conditions or who smoke."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am recovering from an infectious disease. What precautions should I take to avoid infecting others?",
+            "Good to hear you are recovering. You should continue to practice good hygiene such as washing your hands frequently and covering your mouth when coughing or sneezing.",
+            "What else can I do?",
+            "You should avoid close contact with others until you are fully recovered and no longer contagious.",
+            "How will I know when I am no longer contagious?",
+            "You should consult with your healthcare provider to determine when it is safe for you to resume normal activities and return to work or school.",
+            "Thanks for your help, Medi.",
+            "You're welcome. Let me know if you have any other questions.",
+            "Yes, Medi. Can you tell me more about the types of infectious diseases?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Infectious diseases are caused by pathogenic microorganisms, such as bacteria, viruses, fungi, or parasites.  Symptoms of infectious diseases can vary depending on the type of microorganism involved and the location and severity of the infection.  Treatment for infectious diseases typically involves antibiotics, antiviral medications, or antifungal medications, as well as rest and plenty of fluids.  Prevention methods include good hygiene practices such as washing hands frequently, covering the mouth and nose when coughing or sneezing, and avoiding close contact with infected individuals.  Vaccines are also available for some infectious diseases, including the flu, measles, and hepatitis. Infectious diseases Infectious diseases",
+        "response": "Infectious diseases are caused by pathogenic microorganisms and treatment involves antibiotics, antiviral medications, or antifungal medications. Prevention methods include good hygiene practices and avoiding close contact with infected individuals. Vaccines are also available for some infectious diseases, including the flu, measles, and hepatitis."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and a runny nose.",
+            "Hi there. Sorry to hear that. Have you checked your temperature?",
+            "Yes, my temperature is 100.4 degrees Fahrenheit.",
+            "Okay, based on your symptoms, it seems like you might have a common cold.",
+            "What should I do to feel better?",
+            "You should rest and stay hydrated. Also, try taking over-the-counter medicines like acetaminophen to reduce your fever and relieve your symptoms.",
+            "Can I still go to work?",
+            "No, it's better for you to stay at home and rest so you don't spread your illness to others.",
+            "Thank you Medi, this is very helpful. What else can I do to prevent getting sick in the future?"
+        ],
+        "knowledge": "Common cold Common cold  The common cold is a viral infection of the upper respiratory tract that primarily affects the nose.  Symptoms include coughing, sore throat, runny nose, and fever which usually resolve in seven to ten days, with some symptoms lasting up to three weeks.  Symptoms are commonly treated with over-the-counter medications, such as acetaminophen or ibuprofen, and over-the-counter cough remedies.  There is no vaccine for the common cold, but the symptoms can be prevented and treated with good hand hygiene, regular hand washing, and avoiding close contact with people who are infected. Common cold Common cold ",
+        "response": "You're welcome. To prevent getting sick in the future, you should practice good hand hygiene, wash your hands regularly, and avoid close contact with people who are infected with a cold or the flu."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just got a cut on my arm and it's bleeding.",
+            "Hi there. I'm sorry to hear that. How deep is the cut?",
+            "It's not very deep, but it's still bleeding a lot.",
+            "Okay, you should clean the wound with soap and water and apply pressure to the area using a clean cloth or bandage to stop the bleeding.",
+            "Should I use hydrogen peroxide or alcohol to clean it?",
+            "No, you shouldn't use hydrogen peroxide or alcohol. They can damage the skin around the wound and delay healing. Just use soap and water.",
+            "What should I do after the bleeding stops?",
+            "Once the bleeding stops, you should apply an antibiotic ointment to the wound and cover it with a sterile bandage. Keep the area clean and dry as it heals.",
+            "Okay, thank you Medi. How long will it take to heal?"
+        ],
+        "knowledge": "Wound care Wound care  Wound care is an important aspect of healthcare, involving the treatment and healing of wounds.  Wound care can be provided by healthcare professionals, or through self-care.  The goals of wound care are to prevent infection and promote healing.  Treatment for wounds can involve a range of techniques, including cleaning the wound with soap and water, applying pressure to stop bleeding, and the use of antibiotics.  The length of time it takes for a wound to heal depends on the depth and severity of the wound, as well as the overall health of the individual. Wound care Wound care ",
+        "response": "It's hard to say exactly how long it will take to heal since it depends on the depth and severity of the wound, but typically it takes a few days to a few weeks. Just make sure to keep the area clean and dry as it heals."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just got back from the doctor and was diagnosed with pneumonia.",
+            "Hi there. I'm sorry to hear that. What did your doctor recommend?",
+            "He prescribed antibiotics for me to take for the next two weeks.",
+            "That's good. In addition to taking your medication, it's important that you get plenty of rest and drink lots of fluids.",
+            "What kind of fluids should I be drinking?",
+            "Water is always a good choice, but you can also drink clear broths, herbal teas, and sports drinks to help replenish electrolytes.",
+            "Okay, thank you. What else can I do to feel better?",
+            "You can use a humidifier or take a hot shower to help ease your cough and loosen mucus in your chest. And make sure to avoid smoking and air pollution, as they can make your symptoms worse.",
+            "Thank you Medi, this is very helpful. How long will it take for me to recover?"
+        ],
+        "knowledge": "Pneumonia Pneumonia  Pneumonia is an inflammatory condition of the lung affecting primarily the tiny air sacs known as alveoli.  Typical symptoms include cough, chest pain, fever, and difficulty breathing.  Treatment is typically with antibiotics and may include supportive care such as oxygen therapy, pain control, and assisted breathing if required.  It is recommended that individuals with pneumonia get plenty of rest, drink lots of fluids, and stay away from smoking and air pollution. Pneumonia Pneumonia ",
+        "response": "Recovery time for pneumonia varies depending on the severity of your symptoms and overall health. Typically, it can take a few weeks to fully recover. Just make sure to take your antibiotics and follow your doctor's instructions closely."
+    }
+]

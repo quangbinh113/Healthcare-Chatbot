@@ -1,0 +1,407 @@
+[
+    {
+        "dialog": [
+            "Hello, Medi. I am not feeling well. I have been experiencing unusual headaches.",
+            "Hi there. I can help with that. Can you describe your headaches in more detail?",
+            "The pain is severe and there is a pressure around my forehead. I feel nauseous.",
+            "Based on your symptoms, you might be suffering from a migraine. Have you had a migraine before?",
+            "No, this is my first time. What can I do to ease the pain?",
+            "You can try taking pain relievers, lying down in a quiet dark room or even taking a warm shower.",
+            "Thank you for your advice, Medi. I appreciate it.",
+            "You're welcome. Please let me know if your condition persists.",
+            "What are the common causes of migraines? Is there anything I can do to prevent them?"
+        ],
+        "knowledge": "Migraine Migraine A migraine is a type of headache that is typically severe and can be accompanied by other symptoms such as sensitivity to light and noise, nausea, vomiting and dizziness. The exact cause of migraines is not known but it is thought to involve abnormal brain activity that affects blood vessels and nerves in the head. There are various triggers that can lead to a migraine such as stress, hormonal changes, certain foods, lack of sleep and physical exertion. There are also some lifestyle changes that can help prevent migraines such as getting enough sleep, managing stress and avoiding known triggers.",
+        "response": "The common causes of migraines include stress, hormonal changes, certain foods, lack of sleep and physical exertion. Some lifestyle changes that can help prevent migraines include getting enough sleep, managing stress and avoiding known triggers."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about cancer screening.",
+            "Hello. What would you like to know?",
+            "Is screening available for all types of cancers?",
+            "No, screening is not available for all types of cancers. It depends on the type of cancer and the individual's risk factors. Can I help with more information?",
+            "Yes, please. How is the decision made on who should undergo cancer screening?",
+            "The decision to undergo cancer screening is based on several factors, including age, gender, family history, and lifestyle choices",
+            "Are there different types of cancer screening?",
+            "Yes, there are two types of cancer screening: universal screening and selective screening. Universal screening is when everyone is screened for a certain type of cancer. Selective screening is when only certain individuals who are at a higher risk of developing cancer are screened.",
+            "Thank you, Medi. That was helpful."
+        ],
+        "knowledge": "Cancer Cancer This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers. Even when tests are available, they may not be recommended for everyone. Universal screening or mass screening involves screening everyone. Selective screening identifies people who are at higher risk, such as people with a family history. Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening. These factors include:The U Cancer Cancer",
+        "response": "Breast cancer is an example of a cancer that can be screened for. Women over 50 are recommended to have a mammogram every two years."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I recently had surgery to remove a tumor. Can you give me advice on my lifestyle and diet?",
+            "Of course. What kind of tumor did you have?",
+            "It was a benign tumor in my liver.",
+            "Okay. After surgery, it is important to take care of your body and give it the nutrients it needs to heal. You should eat a healthy and balanced diet with plenty of fruits, vegetables, whole grains, and lean protein.",
+            "Are there any specific foods that I should avoid?",
+            "You should avoid foods that are high in salt, sugar, and unhealthy fats. You should also avoid alcohol and tobacco products.",
+            "What about physical exercise?",
+            "Physical exercise is important for your overall health and can help with your recovery. You should start with light exercise and gradually increase the intensity as you feel better.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Cancer Cancer This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers. Even when tests are available, they may not be recommended for everyone. Universal screening or mass screening involves screening everyone. Selective screening identifies people who are at higher risk, such as people with a family history. Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening. These factors include:The U Cancer Cancer",
+        "response": "You should wait at least 4 to 6 weeks after surgery before engaging in strenuous physical activity."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about cancer screening.",
+            "Okay, feel free to ask. I will do my best to answer your question.",
+            "Is cancer screening available for all types of cancers?",
+            "No, cancer screening is not available for many types of cancers.",
+            "How is selective screening different from universal screening?",
+            "Selective screening identifies people who are at higher risk, such as people with a family history. Universal screening involves screening everyone.",
+            "What factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening?",
+            "Several factors are considered, including age, medical history, and family history.",
+            "So, what type of cancer screening should I get?"
+        ],
+        "knowledge": "Cancer Cancer  This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:The U Cancer Cancer",
+        "response": "It depends on your risk factors and medical history. I suggest consulting with your doctor for recommendations on cancer screening."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just finished my cancer treatment. What can I do to maintain a healthy lifestyle?",
+            "Congratulations on finishing your treatment! I'm happy to help you with lifestyle advice.",
+            "What type of exercise do you recommend?",
+            "A combination of cardio and strength training exercises is ideal.",
+            "How should I modify my diet?",
+            "Eating a balanced diet with plenty of fruits and vegetables can help you maintain a healthy weight and reduce your risk of cancer recurrence",
+            "Is there anything else I should keep in mind?",
+            "It's important to avoid tobacco and limit alcohol intake.",
+            "Got it. Thanks for your advice, Medi!"
+        ],
+        "knowledge": "Cancer Cancer  This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:The U Cancer Cancer",
+        "response": "You're welcome! Remember to also attend all follow-up appointments with your doctor as scheduled."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am experiencing some symptoms and I am worried about cancer.",
+            "I understand your concern. What are your symptoms?",
+            "I have been experiencing persistent fatigue and unexplained weight loss.",
+            "I recommend seeing a doctor for an evaluation as these symptoms could be related to many different conditions.",
+            "What tests should I expect from the doctor?",
+            "The doctor may perform a physical exam and order blood or urine tests, as well as imaging tests like X-rays, CT scans or MRIs.",
+            "What should I do if the tests come back positive for cancer?",
+            "If the tests come back positive for cancer, your doctor will discuss treatment options with you.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Cancer Cancer  This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:The U Cancer Cancer",
+        "response": "You're welcome. Don't hesitate to see a doctor if you have any concerns about your health. Take care!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some concerns regarding cancer.",
+            "Sure, I am here to help. What would you like to know?",
+            "Can you explain the symptoms of cancer?",
+            "Cancer symptoms depend on the type of cancer but common ones include fatigue, unexplained weight loss, lumps or swellings, changes in the skin, and pain.",
+            "That's helpful. How about the causes of cancer?",
+            "Cancer is caused by changes in the DNA within cells and can be due to genetic factors, lifestyle choices such as smoking, exposure to radiation, or environmental factors.",
+            "What are the risk factors for cancer?",
+            "Some of the risk factors for cancer include smoking, alcohol consumption, poor diet, lack of physical activity, and exposure to certain chemicals or pollutants.",
+            "Thanks Medi, so how can I reduce my risk of getting cancer?"
+        ],
+        "knowledge": "Cancer Cancer  This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:The U Cancer Cancer",
+        "response": "You can reduce your risk of cancer by maintaining a healthy lifestyle, avoiding tobacco and alcohol, staying active, eating a healthy diet, and protecting yourself from the sun."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have just been diagnosed with cancer. What should I do?",
+            "I'm sorry to hear that. First, you should get more information about your specific type of cancer and the treatment options available.",
+            "What are the treatment options for cancer?",
+            "Treatment options for cancer depend on the type, stage, and location of the cancer but can include surgery, chemotherapy, radiation therapy, immunotherapy, and targeted therapy.",
+            "That's helpful. Can you tell me more about chemotherapy?",
+            "Chemotherapy is a treatment that uses drugs to kill cancer cells. It can be given orally or intravenously and can have side effects such as hair loss, nausea, and fatigue.",
+            "What about radiation therapy?",
+            "Radiation therapy is a treatment that uses high-energy radiation to kill cancer cells. It can be used alone or in combination with other treatments and can have side effects such as skin changes and fatigue.",
+            "Okay, thanks. What can I do to prepare for treatment?"
+        ],
+        "knowledge": "Cancer Cancer  This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:The U Cancer Cancer",
+        "response": "You're welcome. Remember to talk to your doctor about any concerns you have and to have a support system in place."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery for cancer. What lifestyle changes should I make?",
+            "Congratulations on completing your surgery. Some lifestyle changes that can be helpful include eating a healthy diet with plenty of fruits and vegetables, staying physically active, getting enough sleep, and reducing stress.",
+            "Are there any specific foods that I should eat?",
+            "You should eat a diet that is low in processed foods and high in fruits, vegetables, whole grains, and lean proteins. You should also limit your alcohol intake.",
+            "What about physical activity?",
+            "Physical activity can help reduce your risk of cancer as well as improve your overall health. You should aim for at least 30 minutes of moderate physical activity most days of the week.",
+            "Thanks Medi. What about follow-up appointments?",
+            "It's important to attend all of your follow-up appointments with your doctor to monitor your progress and to catch any potential issues early.",
+            "Great. What else should I be aware of?"
+        ],
+        "knowledge": "Cancer Cancer  This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:The U Cancer Cancer",
+        "response": "You're welcome. Remember to attend all of your follow-up appointments with your doctor and to talk to them about any potential side effects from your treatment."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel a lump in my breast and it hurts a little",
+            "I am sorry to hear that. Can you tell me more about your symptoms?",
+            "I have a lump in my breast and there's pain when I touch it.",
+            "It's important to get this checked out properly, it could be a sign of breast cancer.",
+            "What should I do now?",
+            "You should see a doctor who specializes in breast cancer. They will examine you and may want to do some tests.",
+            "What kind of tests do they usually do?",
+            "It depends on the doctor and their diagnosis of the lump, but it can include a mammogram, ultrasound, or biopsy, to name a few.",
+            "Okay, thank you Medi."
+        ],
+        "knowledge": "Breast cancer Breast cancer A lump or mass in the breast is the most common symptom of breast cancer.  Other possible symptoms include breast pain, nipple discharge, or a change in the size or shape of the breast.  A lump may be discovered during a breast self-exam or mammogram.  A biopsy may be necessary to determine if the lump is cancerous.  Breast cancer can occur in both men and women, but it is rare in men.  The exact cause of breast cancer is not known, but several factors are believed to increase the risk of developing it.  These factors include age, gender, family history, genetics, and exposure to certain hormones and chemicals. Breast cancer Breast cancer",
+        "response": "You should see a doctor who specializes in breast cancer. They will examine you and may want to do some tests such as a mammogram, ultrasound, or biopsy, to name a few."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I want to know about cancer screening",
+            "Sure, I am here to help you. What do you want to know about cancer screening?",
+            "What is cancer screening and when should I get screened?",
+            "Cancer screening is a way to find cancer before symptoms appear. The time you should start and how often you should be screened depends on many things, including your age, sex, family history, and the type of cancer.",
+            "What are the benefits of cancer screening?",
+            "The benefits of cancer screening depend on the type of cancer and your individual situation. The goal of screening is to find cancer early when it's more treatable.",
+            "Are there any risks to cancer screening?",
+            "Yes, there are some risks associated with screening such as false positive or false negative results can cause anxiety and may lead to more testing or procedures that have risks.",
+            "Okay, thank you Medi."
+        ],
+        "knowledge": "Cancer screening Cancer screening This may involve physical examination, blood or urine tests, or medical imaging.  Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:Cancer Cancer",
+        "response": "The benefits of cancer screening depend on the type of cancer and your individual situation. The goal of screening is to find cancer early when it's more treatable. However, there are some risks associated with screening such as false positive or false negative results can cause anxiety and may lead to more testing or procedures that have risks."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a chemotherapy session. What should I do now for my health?",
+            "I understand how you feel. You should be gentle with yourself and allow your body to rest and recover.",
+            "Are there any foods I should avoid or eat more of?",
+            "It's important to eat a healthy diet during and after chemotherapy. You should aim to eat plenty of fruits and vegetables, whole grains, lean protein, and healthy fats. Avoid processed foods and limit your intake of high-fat, high-sugar, and high-calorie foods.",
+            "Can I exercise after chemotherapy?",
+            "Yes, exercise is an important part of staying healthy. However, you should talk to your doctor before starting any exercise program and follow their advice. Start slowly and gradually increase your activity level as you feel comfortable.",
+            "What about my immune system, is it weakened after chemotherapy?",
+            "Yes, chemotherapy can weaken the immune system, especially if you have had several rounds of treatment. You should take extra precautions to avoid infections, such as washing your hands frequently and avoiding large crowds.",
+            "Okay, thank you Medi."
+        ],
+        "knowledge": "Chemotherapy Chemotherapy chemotherapy is a type of cancer treatment that uses drugs to kill cancer cells.  It is often used in combination with other treatments such as surgery or radiation therapy.  Chemotherapy drugs can have side effects, such as nausea, vomiting, hair loss, fatigue, and increased risk of infection.  After chemotherapy, it is important to take care of your body by eating a healthy diet, getting enough rest, and staying active.  You should also take steps to protect your immune system, which may be weakened by chemotherapy. Chemotherapy Chemotherapy",
+        "response": "It's important to eat a healthy diet during and after chemotherapy. You should aim to eat plenty of fruits and vegetables, whole grains, lean protein, and healthy fats. Avoid processed foods and limit your intake of high-fat, high-sugar, and high-calorie foods. Exercise is an important part of staying healthy. However, you should talk to your doctor before starting any exercise program and follow their advice. Start slowly and gradually increase your activity level as you feel comfortable. You should take extra precautions to avoid infections, such as washing your hands frequently and avoiding large crowds."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am feeling some discomfort in my stomach",
+            "I am here to help you. Can you explain your symptoms?",
+            "I am experiencing bloating and pain in the upper abdomen after eating",
+            "It could be acid reflux or gastritis. It is better to avoid spicy and oily food",
+            "Okay, I will avoid those, but is there anything else I can do?",
+            "Eating small frequent meals and going for a short walk after eating can help",
+            "Okay, thank you for your advice Medi",
+            "You're welcome, do not hesitate to contact me if you need further assistance",
+            "Can you tell me about the medical procedures for diagnosing stomach issues?"
+        ],
+        "knowledge": "Stomach issues Stomach issues Symptoms of stomach problems can vary from person to person. They commonly include bloating, pain in the upper abdomen, nausea, and vomiting. To diagnose stomach disorders, doctors may perform a physical exam or suggest medical tests such as endoscopy, blood tests, stool tests, or imaging tests. Endoscopy helps doctors look inside your digestive system to diagnose conditions like acid reflux or gastritis. Blood tests can identify the presence of bacteria or parasites in your stomach. Stool tests are used to identify digestive problems such as infections, blood, or fat in your stool. Imaging tests like CT scan, MRI, or ultrasound may be used to examine the digestive system in detail. ",
+        "response": "There are several tests that can be done such as endoscopy, blood tests, stool tests and imaging tests"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am worried about cancer and want to get screened.",
+            "I understand your concern. However, not all types of cancer have screening tests.",
+            "Which types of cancer can be screened?",
+            "Cancers like breast, cervical, colon, and lung cancer can be screened through tests.",
+            "What are the screening tests for these types of cancer?",
+            "Mammography is used for breast cancer, Pap test for cervical cancer, Colonoscopy for colon cancer and CT scan for lung cancer.",
+            "Are these tests available for everyone?",
+            "Screening tests are not recommended for everyone since several factors such as age, gender, genetic factors, and lifestyle habits determine whether the benefits outweigh the risks.",
+            "What are the factors to be considered for screening?"
+        ],
+        "knowledge": "Cancer screening Cancer screening Screening tests are used to detect cancer before symptoms appear. Screening tests are not available for all types of cancers. Breast cancer can be screened through mammography, cervical cancer by Pap test, colon cancer through colonoscopy, and lung cancer through CT scan. However, screening tests are not recommended for everyone since factors like age, gender, genetic predisposition, and lifestyle habits determine whether the benefits outweigh the risks. ",
+        "response": "You are welcome. Do let me know if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure. What should I do to recover faster?",
+            "Hello. Depending on the type of procedure, you may need to take certain precautions.",
+            "I had a minor surgery. What should I do now?",
+            "You should avoid heavy physical activity and get plenty of rest. Follow the post-operative instructions of your doctor.",
+            "How long does it take to recover from the surgery?",
+            "The recovery time varies depending on the type of surgery and severity. You should follow the post-operative instructions and take rest.",
+            "Should I be on a special diet?",
+            "Depending on the type of surgery, your doctor may recommend a special diet. You should follow their instructions",
+            "What kind of physical activity can I do?"
+        ],
+        "knowledge": "Post-operative care Post-operative care After a medical procedure, you should take rest and avoid heavy physical activity. Depending on the type of surgery, your doctor may recommend a special diet. You should follow their instructions. You should also follow the post-operative instructions given by your doctor to ensure a speedy recovery. The recovery time varies depending on the type of surgery and severity. You should start with light physical activity like walking and gradually increase it based on your doctor's advice.",
+        "response": "You're welcome. I hope you have a speedy recovery. Contact me if you need further assistance"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I have some symptoms of cancer.",
+            "I can help you. Can you tell me more about your symptoms?",
+            "I have some pain in my abdominal, and I often feel bloated and constipated.",
+            "From your description, it could be colon cancer.",
+            "What should I do now to confirm it?",
+            "You should see a doctor to get a physical examination or some medical imaging.",
+            "Is there any way to prevent cancer?",
+            "Yes, some lifestyle changes can reduce your risk of getting cancer.",
+            "What kind of changes?"
+        ],
+        "knowledge": "Cancer Cancer  This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:The U Cancer Cancer",
+        "response": "Eating a balanced diet, exercising regularly, quitting smoking and reducing alcohol consumption can all reduce your risk of getting cancer."
+    },
+    {
+        "dialog": [
+            "Medi, I have a question about cancer screening.",
+            "Sure, I am here to help you. What do you want to know about it?",
+            "What is cancer screening, and why is it important?",
+            "Cancer screening is a test or examination that is used to detect the presence of cancer before symptoms appear. It is important because early detection of cancer can increase the chances of successful treatment.",
+            "Is cancer screening available for all types of cancer?",
+            "No, cancer screening is not available for many types of cancer.",
+            "What are the factors that determine whether cancer screening is recommended?",
+            "Several factors are considered, including your age, your family history, and your overall health.",
+            "Can you give me some examples of cancer screening tests?"
+        ],
+        "knowledge": "Cancer screening Cancer screening  is a test or examination that is used to detect the presence of cancer before symptoms appear.  Cancer screening tests can involve physical examinations, blood or urine tests, or medical imaging.  Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:",
+        "response": "Some examples of cancer screening tests include mammography for breast cancer, colonoscopy for colon cancer, and Pap smear for cervical cancer."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have just received cancer treatment. What should I do now?",
+            "I can help you. Can you tell me more about the treatment you received?",
+            "I underwent chemotherapy for my cancer.",
+            "After chemotherapy, it is important to maintain a healthy lifestyle and diet to support your recovery.",
+            "What kind of lifestyle changes should I make?",
+            "You should try to exercise regularly, eat a healthy diet that is rich in fruits and vegetables, and avoid smoking and excessive alcohol consumption.",
+            "What kind of diet should I eat?",
+            "You should eat a diet that is low in processed foods and high in nutrients. Focus on eating fruits, vegetables, whole grains, lean protein, and healthy fats.",
+            "How often should I see my doctor after cancer treatment?"
+        ],
+        "knowledge": "Cancer treatment Cancer treatment  may involve surgery, radiation therapy, chemotherapy, targeted therapy, immunotherapy, hormone therapy, or a combination of these.  After cancer treatment, it is important to maintain a healthy lifestyle and diet to support your recovery.  Lifestyle factors that can support your recovery include regular exercise, healthy eating, and avoiding smoking and excessive alcohol consumption.  You should see your doctor for follow-up care and monitoring after cancer treatment, as recommended by your doctor.",
+        "response": "You should see your doctor for follow-up care and monitoring after cancer treatment, as recommended by your doctor. The frequency of visits may depend on the stage of cancer, the type of treatment, and other factors."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms and I'm worried it might be cancer",
+            "I'm here to help. What are the symptoms you're experiencing?",
+            "I have been feeling a lot of pain in my abdomen and I have been losing weight rapidly",
+            "I see. Based on the symptoms you've described, you should see a doctor as soon as possible",
+            "Why do you think I should see a doctor?",
+            "Pain in the abdomen and unexplained weight loss are potential signs of cancer",
+            "What type of tests will the doctor perform?",
+            "The doctor will perform a physical examination and may also order blood or urine tests as well as medical imaging to determine if cancer is present",
+            "Okay, thank you for the help"
+        ],
+        "knowledge": "Cancer Cancer  This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:The U Cancer Cancer",
+        "response": "It's important to see a doctor as soon as possible, as pain in the abdomen and rapid weight loss are potential signs of cancer."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a family history of cancer and I'm worried about my risk",
+            "I'm here to help. What kind of cancer runs in your family?",
+            "Breast cancer runs in my family",
+            "I see. You may be at a higher risk for developing breast cancer. Have you had any symptoms?",
+            "No, I haven't had any symptoms",
+            "Even if you haven't had any symptoms, you may want to consider screening for breast cancer due to your family history",
+            "What type of screening should I get?",
+            "You should speak with your doctor about your family history and they may recommend a mammogram or other tests to screen for breast cancer",
+            "Okay, thank you for the advice"
+        ],
+        "knowledge": "Cancer Cancer  This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:The U Cancer Cancer",
+        "response": "You may want to consider screening for breast cancer due to your family history. Speak with your doctor about recommended tests."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently underwent treatment for cancer and I'm not sure what to do now",
+            "I'm here to help. What kind of cancer did you undergo treatment for?",
+            "I underwent treatment for breast cancer",
+            "I see. After treatment, it's important to maintain a healthy lifestyle including regular exercise and a balanced diet",
+            "What kind of exercise should I do?",
+            "You should speak with your doctor about what types of exercise are safe for you to do post-treatment. Walking, swimming, and yoga are typically good options",
+            "What kind of diet should I follow?",
+            "You should aim for a balanced diet with plenty of fruits and vegetables and limit your intake of processed foods and sugary drinks",
+            "Okay, thank you for the advice"
+        ],
+        "knowledge": "Cancer Cancer  This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:The U Cancer Cancer",
+        "response": "After breast cancer treatment, it's important to maintain a healthy lifestyle including regular exercise and a balanced diet. Speak with your doctor about safe types of exercise and dietary recommendations."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am concerned about cancer symptoms",
+            "Sure, Can you specify your symptoms or pains to me?",
+            "I have had a lump on my neck for a while and recently my voice has changed.",
+            "I advise you to have a doctor examine your lump, It may be a sign of cancer",
+            "What about other symptoms that I might be experiencing?",
+            "Cancer symptoms vary depending on the type of cancer, but fatigue and weight loss are a few general symptoms",
+            "What are the treatments for cancer?",
+            "Cancer treatment depends on the type and stage of cancer such as surgery, radiation therapy or chemotherapy",
+            "How can we prevent cancer?"
+        ],
+        "knowledge": "Cancer Cancer  Physical examination, blood or urine tests, medical imaging, or biopsy may be used to diagnose cancer.  Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include the age of the person being screened, the cancer type and its incidence rate in a population, the risk of cancer, and the harms and benefits of screening Cancer Cancer",
+        "response": "If you want to reduce the risk of cancer, you should maintain a healthy lifestyle, avoid tobacco and alcohol, and get a regular check-up from your doctor"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have received a cancer diagnosis, what should I do next?",
+            "Firstly, I advise you to stay calm and discuss the situation with a cancer specialist",
+            "What treatments are available for cancer?",
+            "Treatment options for cancer depend on the type and stage of cancer, but common ones include surgery, radiation, and chemotherapy",
+            "Will I lose my hair during the treatment?",
+            "Hair loss is a common side effect of chemotherapy, but not all types of chemotherapy cause hair loss",
+            "I am very afraid of pain caused by the treatment. What can I do to reduce it?",
+            "Pain management is an important part of cancer treatment, and there are many options like medication, physical therapy, and psychological support",
+            "How do I cope with the emotional impact of cancer diagnosis?"
+        ],
+        "knowledge": "Cancer Cancer  Cancer treatment depends on the type and stage of cancer.  Treatment may include surgery, radiation therapy, chemotherapy, hormone therapy, targeted therapy (including immunotherapy), or palliative care.  The choice of treatment depends on the location and grade of the tumor and the stage of the disease, as well as the general health of the patient.  Many experimental cancer treatments are also under development.  Pain management and palliative care are important aspects of cancer treatment Cancer Cancer",
+        "response": "You should discuss your options with a specialist and make sure you have a good support system to help you cope with the emotional impact of the diagnosis"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have recently been cancer-free. What should I do to stay healthy?",
+            "I recommend adopting a healthy lifestyle and a balanced diet",
+            "What kind of exercises do you suggest to me?",
+            "Physical activity is essential, and you can choose any activities that you enjoy, but regular exercise is key",
+            "Can you give me some tips on healthy diet?",
+            "A healthy diet includes lots of fruits and vegetables, lean protein, and whole grains",
+            "Do you think meditation and yoga can help me to reduce stress?",
+            "Yes, meditation and yoga can be an effective way to manage stress, which is important for overall health",
+            "What else can I do to prevent cancer?"
+        ],
+        "knowledge": "Cancer Cancer  Adopting a healthy lifestyle, a balanced diet, and regular exercise are important for maintaining good health after cancer.  Regular check-ups with your doctor are important to detect any signs of cancer.  Avoiding risk factors like smoking, excessive alcohol consumption, and exposure to radiation or certain chemicals can also help to prevent cancer.  Some cancers have screening tests available, but not all cancers do Cancer Cancer",
+        "response": "You should maintain a healthy lifestyle, regular exercise, and a balanced diet to stay healthy after cancer, as well as regular check-ups with your doctor to detect any signs of cancer early."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am worried I might have cancer.",
+            "Hi, what symptoms are you experiencing?",
+            "I have been feeling very weak and tired lately.",
+            "I see, are you experiencing any pain or discomfort?",
+            "Yes, I have been feeling pain in my stomach area.",
+            "Based on your symptoms, it's important to speak to your doctor and get a physical examination and tests done.",
+            "What kind of tests?",
+            "Physical examination, blood or urine tests, or medical imaging. Your doctor will advise you on what tests are needed.",
+            "Thank you, Medi. I will make an appointment with my doctor."
+        ],
+        "knowledge": "Cancer Cancer  This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:The U Cancer Cancer",
+        "response": "You're welcome. It's always better to catch any potential health issues early on. Good luck with your appointment!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I was just curious about cancer screening.",
+            "Hi, what would you like to know?",
+            "How does it work and who should get screened?",
+            "Cancer screening involves various tests such as physical exams, medical imaging or blood tests to check for signs of cancer. People who are at higher risk such as those with a family history of cancer should consider screening at an earlier age.",
+            "What are some of the risks of cancer screening?",
+            "The risks of screening include false positives, leading to unnecessary procedures or biopsies. It's important to speak to your doctor to determine if screening is right for you.",
+            "Thank you for explaining it to me, Medi.",
+            "You're welcome. Do you have any other questions?",
+            "No, that's all for now."
+        ],
+        "knowledge": "Cancer Cancer  This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:The U Cancer Cancer",
+        "response": "You're welcome. It's always important to understand the benefits and risks of any medical procedure. Feel free to reach out to me if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery to remove a tumor. What lifestyle changes should I make?",
+            "Hi, congratulations on a successful surgery. It's important to follow your doctor's advice and make healthy lifestyle changes.",
+            "What kind of changes should I make?",
+            "You should make dietary changes such as consuming more fruits and vegetables, and reducing your intake of processed and red meats. Regular exercise is also important.",
+            "Are there any specific exercises I should do?",
+            "Talk to your doctor or a physical therapist to determine what exercises are safe for you to do. Walking, swimming, and yoga are usually recommended.",
+            "Thank you, Medi. Are there any other changes I should make?",
+            "You should also quit smoking, limit your alcohol intake, and practice stress-reducing activities like meditation.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Cancer Cancer  This may involve physical examination, blood or urine tests or medical imaging. Cancer screening is not available for many types of cancers.  Even when tests are available, they may not be recommended for everyone.  Universal screening or mass screening involves screening everyone.  Selective screening identifies people who are at higher risk, such as people with a family history.  Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.  These factors include:The U Cancer Cancer",
+        "response": "You're welcome. It's important to take care of your health after surgery. Good luck with your recovery!"
+    }
+]

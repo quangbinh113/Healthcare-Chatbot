@@ -1,0 +1,452 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have a pain in my stomach",
+            "Sure, I can help you. How long have you had this pain?",
+            "I have had this pain for about 3 days now.",
+            "Ok, can you tell me more about the pain? Is it a sharp pain or a dull pain?",
+            "It's a sharp pain and it feels like something is stabbing me.",
+            "Does the pain come and go, or is it constant?",
+            "It comes and goes, but it's been happening more frequently lately.",
+            "Based on your symptoms, it's possible that you have gastritis.",
+            "What is gastritis, Medi?"
+        ],
+        "knowledge": "Gastritis Gastritis Gastritis is an inflammation or irritation of the lining of the stomach. The most common cause of gastritis is infection with a bacterium called Helicobacter pylori. Other causes include long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs), alcohol abuse, and autoimmune disorders. The symptoms of gastritis can include abdominal pain, bloating, nausea, vomiting, and a feeling of fullness in the upper abdomen. Treatment for gastritis depends on the underlying cause and may include antibiotics, acid-reducing medications, and lifestyle changes. Gastritis can usually be cured with appropriate treatment, but it can lead to complications if left untreated.",
+        "response": "Gastritis is an inflammation or irritation of the lining of the stomach. The most common cause is infection with a bacterium called Helicobacter pylori. Other causes include long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs), alcohol abuse, and autoimmune disorders."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about cancer",
+            "Sure, I am here to help you. What do you want to know?",
+            "I want to know how cancer can be diagnosed.",
+            "There are many ways to diagnose cancer, such as imaging tests, laboratory tests, and biopsies.",
+            "Can you explain imaging tests, Medi?",
+            "Sure, imaging tests include X-rays, CT scans, MRI scans, and PET scans, which can help doctors locate tumors and determine the stage of cancer.",
+            "What are laboratory tests?",
+            "Laboratory tests involve analyzing blood samples, urine samples, or other bodily fluids to look for signs of cancer.",
+            "What is a biopsy, Medi?"
+        ],
+        "knowledge": "Cancer Cancer Treatments that succeeded in one cancer type can be tested against other types.  Diagnostic tests are under development to better target the right therapies to the right patients, based on their individual biology. Cancer research focuses on the following issues:The improved understanding of molecular biology and cellular biology due to cancer research has led to new treatments for cancer since US President Richard Nixon declared the 'War on Cancer' in 1971.  Since then, the country has spent over $200\u00a0billion on cancer research, including resources from public and private sectors.  The cancer death rate  declined by five percent between 1950 and 2005. Competition for financial resources appears to have suppressed the creativity, cooperation, risk-taking and original thinking required to make fundamental discoveries, unduly favoring low-risk research into small incremental advancements over riskier, more innovative research.  Other consequences of competition appear to be many studies with dramatic claims whose results cannot be replicated and perverse incentives that encourage grantee institutions to grow without making sufficient investments in their own faculty and facilities Cancer Cancer",
+        "response": "You're welcome. I'm glad I could help. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had chemotherapy. What can I do to help my body recover?",
+            "After chemotherapy, it's important to take good care of your body and engage in healthy habits.",
+            "What kind of healthy habits, Medi?",
+            "Some healthy habits include eating a balanced diet rich in fruits, vegetables, and lean protein, staying hydrated, getting enough rest and sleep, and engaging in regular physical activity.",
+            "What kind of physical activity, Medi?",
+            "Physical activities such as walking, yoga, and swimming can help improve your energy levels and strengthen your body after chemotherapy.",
+            "What about my mental health?",
+            "It's important to take care of your mental health as well. Consider talking to a therapist or counselor, practicing relaxation techniques, and spending time with loved ones.",
+            "Thank you, Medi. I will make sure to take care of my body and mind."
+        ],
+        "knowledge": "Cancer Cancer Treatments that succeeded in one cancer type can be tested against other types.  Diagnostic tests are under development to better target the right therapies to the right patients, based on their individual biology. Cancer research focuses on the following issues:The improved understanding of molecular biology and cellular biology due to cancer research has led to new treatments for cancer since US President Richard Nixon declared the 'War on Cancer' in 1971.  Since then, the country has spent over $200\u00a0billion on cancer research, including resources from public and private sectors.  The cancer death rate  declined by five percent between 1950 and 2005. Competition for financial resources appears to have suppressed the creativity, cooperation, risk-taking and original thinking required to make fundamental discoveries, unduly favoring low-risk research into small incremental advancements over riskier, more innovative research.  Other consequences of competition appear to be many studies with dramatic claims whose results cannot be replicated and perverse incentives that encourage grantee institutions to grow without making sufficient investments in their own faculty and facilities Cancer Cancer",
+        "response": "You're welcome. I'm glad I could help. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing some symptoms lately and I'm not sure what's wrong.",
+            "Sure thing, tell me more about your symptoms.",
+            "I've been feeling more tired than usual and I've been losing weight unintentionally.",
+            "How long have you had these symptoms for?",
+            "About a month or so.",
+            "Have you noticed any changes in your appetite or thirst?",
+            "Yes, I've been thirsty more often and have had an increased appetite.",
+            "Based on your symptoms, it's possible that you have diabetes. I would recommend seeing a doctor to get a proper diagnosis.",
+            "Is diabetes a serious condition? What are the risks involved?"
+        ],
+        "knowledge": "Diabetes Diabetes  Diabetes is a chronic condition that affects how your body processes blood sugar (glucose). It can lead to a range of health problems, including cardiovascular disease, nerve damage, kidney damage, and vision impairment. Type 1 diabetes is caused by an autoimmune response that destroys cells in the pancreas that produce insulin, whereas type 2 diabetes is characterized by insulin resistance. Risk factors for developing type 2 diabetes include being overweight or obese, having a family history of diabetes, and having metabolic syndrome. Diabetes Diabetes",
+        "response": "Diabetes can be a serious condition if left untreated. It can lead to a range of health problems including nerve damage, kidney damage, and vision impairment. Risk factors for developing type 2 diabetes include being overweight or obese, having a family history of diabetes, and having metabolic syndrome."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure done and I'm not sure what I should do in terms of lifestyle and diet changes.",
+            "Sure thing, what procedure did you have?",
+            "I had a knee replacement surgery.",
+            "After knee replacement surgery, it's important to do physical therapy exercises as directed by your doctor and gradually increase your activity level. It's also important to maintain a healthy diet and avoid foods that are high in sugar and unhealthy fats.",
+            "What types of foods should I be eating?",
+            "You should focus on eating foods that are high in protein to help with muscle recovery, such as lean meats, fish, and legumes. You should also eat plenty of fruits and vegetables to help with overall health and fiber intake.",
+            "Are there any exercises I should avoid?",
+            "You should avoid high-impact exercises such as running or jumping, but low-impact exercises like swimming or cycling can be beneficial for knee health.",
+            "Thank you for the advice, Medi. I appreciate it."
+        ],
+        "knowledge": "Knee Replacement Surgery Knee Replacement Surgery  After knee replacement surgery, it's important to do physical therapy exercises as directed by your doctor and gradually increase your activity level. It's also important to maintain a healthy diet and avoid foods that are high in sugar and unhealthy fats. You should focus on eating foods that are high in protein to help with muscle recovery, such as lean meats, fish, and legumes, and eat plenty of fruits and vegetables to help with overall health and fiber intake. Low-impact exercises like swimming or cycling can be beneficial for knee health. Knee Replacement Surgery Knee Replacement Surgery",
+        "response": "No, that's all I wanted to know. Thank you for your help, Medi."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been experiencing some symptoms that are concerning me.",
+            "What are your symptoms?",
+            "I've been having some abdominal pain and bloating, as well as some nausea.",
+            "How long have you been experiencing these symptoms?",
+            "For the past week or so.",
+            "Have you noticed any changes in your bowel movements?",
+            "Yes, I've been constipated and have had some diarrhea.",
+            "Based on your symptoms, it's possible that you have irritable bowel syndrome (IBS). I would recommend seeing a doctor to get a proper diagnosis.",
+            "Is IBS a serious condition? What are the risks involved?"
+        ],
+        "knowledge": "Irritable Bowel Syndrome Irritable Bowel Syndrome  Irritable bowel syndrome (IBS) is a common condition that affects the large intestine. Symptoms of IBS include abdominal pain or cramping, bloating, gas, and diarrhea or constipation. It's not clear what causes IBS, but it may be related to a mix of factors including muscle contraction in the intestine, inflammation, changes in gut bacteria, and stress. While IBS can be uncomfortable and disruptive, it's not typically a serious condition and doesn't increase the risk of colon cancer or other gastrointestinal diseases. Irritable Bowel Syndrome Irritable Bowel Syndrome",
+        "response": "IBS is generally not a serious condition, but it can be uncomfortable and disruptive. It doesn't increase the risk of colon cancer or other gastrointestinal diseases."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I have a strange lump on my breast.",
+            "I see. Can you tell me more about the lump?",
+            "It's hard and painless. But I'm worried it might be breast cancer.",
+            "I understand why you're worried, but not every lump is cancerous. You need to get it checked by a doctor.",
+            "What will the doctor do to check it?",
+            "The doctor will do a physical exam and may suggest a mammogram or biopsy to confirm the diagnosis.",
+            "If it's cancerous, what are the treatments available?",
+            "There are several treatment options, including surgery, radiation, chemotherapy, and hormone therapy. The best treatment depends on the type and stage of cancer.",
+            "I see. Thank you for your help. How can I prevent breast cancer?"
+        ],
+        "knowledge": "Breast cancer Breast cancer  Not every lump on the breast is cancerous.  Lumps may be benign (not cancerous) or malignant (cancerous).  Women should get mammograms and clinical breast exams to screen for breast cancer.  Treatment may involve surgery, radiation, chemotherapy, and hormone therapy.  The best treatment depends on the type and stage of cancer.  To reduce the risk of breast cancer, women can maintain a healthy weight, exercise, limit alcohol intake, avoid smoking and exposure to second-hand smoke, and breastfeed their babies if possible. Breast cancer is the most common cancer among women. Breast cancer",
+        "response": "You're welcome. In order to reduce the risk of breast cancer, you can maintain a healthy weight, exercise, limit alcohol intake, avoid smoking and exposure to second-hand smoke, and breastfeed your babies if possible."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I feel very tired lately. Can you help me?",
+            "Of course. Can you tell me more about your tiredness?",
+            "I feel exhausted all the time, even after a good night's sleep.",
+            "Do you have any other symptoms?",
+            "Yes, I also have a headache and my muscles hurt.",
+            "It sounds like you might have fibromyalgia. I suggest you see a doctor to get a proper diagnosis.",
+            "What is fibromyalgia?",
+            "Fibromyalgia is a condition that causes widespread pain, fatigue, and other symptoms. It's usually diagnosed by a process of elimination, ruling out other possible conditions.",
+            "Thank you for the information. Is there anything I can do to manage my symptoms?"
+        ],
+        "knowledge": "Fibromyalgia Fibromyalgia  Fibromyalgia is a condition that causes widespread pain, fatigue, and other symptoms.  It may be caused by changes in the way the brain processes pain signals or by imbalances in certain brain chemicals.  It is usually diagnosed by a process of elimination, ruling out other possible conditions.  There is no cure for fibromyalgia, but it can be managed with a combination of medication, exercise, stress management, and other treatments.  People with fibromyalgia may also benefit from cognitive behavioral therapy and other forms of psychotherapy. Fibromyalgia Fibromyalgia",
+        "response": "Yes, there are things you can do to manage your symptoms, such as taking medication, doing gentle exercise, practicing stress management techniques, and seeking out cognitive behavioral therapy or other forms of psychotherapy."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I just had surgery to remove a tumor. What should I do to recover?",
+            "Congratulations on completing your surgery. Can you tell me more about your recovery plan?",
+            "The doctor told me to rest and avoid strenuous activity for a while.",
+            "That's a good start. You should also make sure to follow your doctor's instructions about wound care and taking any medications.",
+            "Is there anything I can do to speed up my recovery?",
+            "Yes, you can follow a healthy diet, get enough rest, and do some gentle exercise if your doctor approves.",
+            "What kind of exercise can I do?",
+            "You can start with walking or other low-impact activities and gradually increase the intensity as your body heals.",
+            "That sounds great. Thank you for your advice."
+        ],
+        "knowledge": "Surgery Surgery  After surgery, it's important to rest and avoid strenuous activity for a while.  It's also important to follow your doctor's instructions about wound care and taking any medications.  To speed up your recovery, you can follow a healthy diet, get enough rest, and do some gentle exercise if your doctor approves.  Walking or other low-impact activities are a good place to start.  You should gradually increase the intensity of your exercise as your body heals. Surgery Surgery",
+        "response": "You're welcome. I'm glad to help. Do you have any other questions or concerns?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am experiencing some symptoms. Can you help me?",
+            "Sure, I'm here to help. What symptoms are you experiencing?",
+            "I have a lump in my breast and it is painful. Is it something serious?",
+            "A lump in the breast can be a sign of breast cancer, but it could also be a benign growth. Have you had a mammogram?",
+            "No, I haven't. What should I do next?",
+            "I suggest you schedule a mammogram as soon as possible. Early detection is key in treating breast cancer.",
+            "Okay, I will schedule a mammogram. Thanks for your help, Medi.",
+            "You're welcome. Don't hesitate to ask me any other questions you may have.",
+            "What other symptoms should I look out for when it comes to breast cancer?"
+        ],
+        "knowledge": "Breast Cancer Breast Cancer A lump in the breast can be a sign of breast cancer, but it could also be a benign growth.  Other symptoms of breast cancer include breast pain, nipple discharge, or a change in breast size or shape.  Breast cancer is the second leading cause of death among women worldwide.  Early detection is key in treating breast cancer.  Women should get a mammogram every one to two years starting at age 40.  Women with a higher risk of breast cancer may need to start getting mammograms earlier or more often. Breast Cancer Breast Cancer",
+        "response": "Other symptoms of breast cancer include breast pain, nipple discharge, or a change in breast size or shape."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about cancer.",
+            "Of course! I'm here to help you with any questions you may have.",
+            "Can you tell me more about cancer research?",
+            "Cancer research focuses on understanding the molecular biology and cellular biology of cancer. This leads to the development of new treatments for cancer.",
+            "What are some treatments for cancer?",
+            "There are many treatments, including chemotherapy, radiation therapy, and surgery. The choice of treatment depends on many factors, including the type and stage of cancer.",
+            "Are there any new treatments for cancer?",
+            "Yes, there are always new treatments being developed. Currently, there is a lot of research being done on immunotherapy, targeted therapy, and gene therapy.",
+            "That's interesting. How can I help support cancer research?"
+        ],
+        "knowledge": "Cancer Cancer Treatments that succeeded in one cancer type can be tested against other types.  Diagnostic tests are under development to better target the right therapies to the right patients, based on their individual biology. Cancer research focuses on the following issues:The improved understanding of molecular biology and cellular biology due to cancer research has led to new treatments for cancer since US President Richard Nixon declared the 'War on Cancer' in 1971.  Since then, the country has spent over $200\u00a0billion on cancer research, including resources from public and private sectors.  The cancer death rate  declined by five percent between 1950 and 2005. Competition for financial resources appears to have suppressed the creativity, cooperation, risk-taking and original thinking required to make fundamental discoveries, unduly favoring low-risk research into small incremental advancements over riskier, more innovative research.  Other consequences of competition appear to be many studies with dramatic claims whose results cannot be replicated and perverse incentives that encourage grantee institutions to grow without making sufficient investments in their own faculty and facilities Cancer Cancer",
+        "response": "Donating to cancer charities or participating in fundraising events are great ways to support cancer research."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just underwent chemotherapy. What should I do for my recovery?",
+            "Chemotherapy can have several side effects, so it's important to take care of yourself during recovery. What kind of side effects are you experiencing?",
+            "I have been feeling very weak and tired, and I have lost my appetite. What can I do?",
+            "It's important to get plenty of rest and eat a healthy diet. Try to eat small, frequent meals throughout the day. Drinking plenty of fluids is also important. Talk to your doctor about any supplements you may need.",
+            "What about physical activity?",
+            "Exercise can be helpful, but it's important to start slowly and listen to your body. Walking or doing light stretching can be a good place to start. Talk to your doctor before starting any exercise program.",
+            "Are there any specific foods I should avoid?",
+            "During chemotherapy, your immune system may be weakened, so it's important to avoid raw or undercooked foods. Also, avoid foods that are high in sugar or fat.",
+            "Thank you, Medi. I will take your advice."
+        ],
+        "knowledge": "Chemotherapy Chemotherapy Chemotherapy can have several side effects, including fatigue, nausea, vomiting, and hair loss.  It's important to take care of yourself during recovery with plenty of rest and a healthy diet.  Exercise can also be helpful, but it's important to start slowly and listen to your body.  During chemotherapy, your immune system may be weakened, so it's important to avoid raw or undercooked foods.  Also, avoid foods that are high in sugar or fat.  Talk to your doctor about any supplements you may need. Chemotherapy Chemotherapy",
+        "response": "Yes, you can drink coffee or tea, but be sure to talk to your doctor about any dietary restrictions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms and I think it may be related to cancer.",
+            "Hi, I'm here to help. Can you tell me more about your symptoms?",
+            "I have been experiencing fatigue, weight loss and a persistent cough.",
+            "I see. These symptoms can be related to several conditions. Have you undergone any tests or check-ups?",
+            "Yes, I had a chest X-ray which showed some abnormalities.",
+            "Based on your symptoms and test results, I recommend consulting a doctor for further evaluation.",
+            "What should I expect from the doctor's visit?",
+            "The doctor may perform more tests and imaging, such as a CT scan or biopsy, to determine the cause of your symptoms and abnormalities.",
+            "Okay, I will do that. Thank you, Medi."
+        ],
+        "knowledge": "Cancer Cancer  Treatments that succeeded in one cancer type can be tested against other types.  Diagnostic tests are under development to better target the right therapies to the right patients, based on their individual biology. Cancer research focuses on the following issues:The improved understanding of molecular biology and cellular biology due to cancer research has led to new treatments for cancer since US President Richard Nixon declared the \"War on Cancer\" in 1971.  Since then, the country has spent over $200 billion on cancer research, including resources from public and private sectors.  The cancer death rate  declined by five percent between 1950 and 2005. Competition for financial resources appears to have suppressed the creativity, cooperation, risk-taking and original thinking required to make fundamental discoveries, unduly favoring low-risk research into small incremental advancements over riskier, more innovative research.  Other consequences of competition appear to be many studies with dramatic claims whose results cannot be replicated and perverse incentives that encourage grantee institutions to grow without making sufficient investments in their own faculty and facilities Cancer Cancer",
+        "response": "I recommend consulting a doctor for further evaluation."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about cancer.",
+            "Sure, I'm here to help. What would you like to know?",
+            "How is cancer diagnosed?",
+            "Cancer is diagnosed through various tests and imaging such as biopsy, CT scans, MRIs or blood tests.",
+            "What are the treatments for cancer?",
+            "The treatments for cancer depend on the type and stage of cancer. They can include surgery, chemotherapy, radiation therapy, targeted therapy, and/or immunotherapy.",
+            "Are there any ways to prevent cancer?",
+            "Although there is no sure way to prevent cancer, following a healthy diet and lifestyle, avoiding tobacco and excessive sun exposure, and getting regular check-ups and screenings can help reduce your risk of developing cancer.",
+            "I see. Thank you, Medi."
+        ],
+        "knowledge": "Cancer Cancer  Treatments that succeeded in one cancer type can be tested against other types.  Diagnostic tests are under development to better target the right therapies to the right patients, based on their individual biology. Cancer research focuses on the following issues:The improved understanding of molecular biology and cellular biology due to cancer research has led to new treatments for cancer since US President Richard Nixon declared the \"War on Cancer\" in 1971.  Since then, the country has spent over $200 billion on cancer research, including resources from public and private sectors.  The cancer death rate  declined by five percent between 1950 and 2005. Competition for financial resources appears to have suppressed the creativity, cooperation, risk-taking and original thinking required to make fundamental discoveries, unduly favoring low-risk research into small incremental advancements over riskier, more innovative research.  Other consequences of competition appear to be many studies with dramatic claims whose results cannot be replicated and perverse incentives that encourage grantee institutions to grow without making sufficient investments in their own faculty and facilities Cancer Cancer",
+        "response": "Following a healthy diet and lifestyle, avoiding tobacco and excessive sun exposure, and getting regular check-ups and screenings can help reduce your risk of developing cancer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure and I'm not sure what lifestyle changes I should make.",
+            "Hi there, I'm here to help. What type of procedure did you have?",
+            "I had surgery to remove a tumor from my breast.",
+            "I see. After surgery, it's important to rest and avoid strenuous activities. You should also follow your doctor's instructions for wound care and take any prescribed medications as directed.",
+            "Are there any specific foods I should be eating or avoiding?",
+            "Yes, a diet rich in nutrients and antioxidants can help promote healing and reduce inflammation. Foods to include are fruits, vegetables, lean proteins, and whole grains. You should also limit your intake of processed foods and sugar.",
+            "What about exercise?",
+            "Light exercise, such as walking or yoga, can help improve circulation and promote healing. However, you should avoid any activities that may strain the surgical site or cause pain.",
+            "Great, thank you for your advice, Medi."
+        ],
+        "knowledge": "Cancer Cancer  Treatments that succeeded in one cancer type can be tested against other types.  Diagnostic tests are under development to better target the right therapies to the right patients, based on their individual biology. Cancer research focuses on the following issues:The improved understanding of molecular biology and cellular biology due to cancer research has led to new treatments for cancer since US President Richard Nixon declared the \"War on Cancer\" in 1971.  Since then, the country has spent over $200 billion on cancer research, including resources from public and private sectors.  The cancer death rate  declined by five percent between 1950 and 2005. Competition for financial resources appears to have suppressed the creativity, cooperation, risk-taking and original thinking required to make fundamental discoveries, unduly favoring low-risk research into small incremental advancements over riskier, more innovative research.  Other consequences of competition appear to be many studies with dramatic claims whose results cannot be replicated and perverse incentives that encourage grantee institutions to grow without making sufficient investments in their own faculty and facilities Cancer Cancer",
+        "response": "After surgery, it's important to rest, follow wound care instructions, eat a diet rich in nutrients and antioxidants, and avoid strenuous activities. Light exercise, such as walking or yoga, can also help promote healing."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm feeling really tired lately.",
+            "I see. Have you been sleeping well?",
+            "Not really. I've been having trouble falling asleep at night.",
+            "That could be a reason why you're feeling tired. Have you tried any techniques to help you sleep?",
+            "No, I haven't. What do you suggest, Medi?",
+            "You can try establishing a relaxing bedtime routine, avoiding caffeine and electronics before bed, and creating a comfortable sleep environment.",
+            "Thank you for the advice, Medi. I'll try that.",
+            "You're welcome. Let me know if you need any further assistance.",
+            "I will. Can you tell me more about how lack of sleep affects health?"
+        ],
+        "knowledge": "Sleep Sleep  Lack of sleep can lead to a number of health issues, such as obesity, high blood pressure, diabetes, and depression. It can also weaken the immune system and impair cognitive function. Adults should aim for 7-9 hours of sleep per night. Establishing a consistent sleep routine and creating a comfortable sleep environment can help improve sleep quality. Sleep Sleep",
+        "response": "Lack of sleep can lead to obesity, high blood pressure, diabetes, and depression. It can also weaken the immune system and impair cognitive function."
+    },
+    {
+        "dialog": [
+            "Medi, I have a persistent cough and sore throat.",
+            "I'm sorry to hear that. How long have you been experiencing these symptoms?",
+            "For about a week now.",
+            "Do you have a fever or difficulty breathing?",
+            "No, just the cough and sore throat.",
+            "Based on your symptoms, it's possible that you have a viral infection. I recommend getting some rest and drinking plenty of fluids. If your symptoms persist or worsen, please seek medical attention.",
+            "Thank you for the advice, Medi.",
+            "You're welcome. Take care.",
+            "One more question, Medi. Can you tell me more about viral infections?"
+        ],
+        "knowledge": "Viral Infections Viral infections are caused by viruses and can lead to a range of symptoms including fever, cough, sore throat, and body aches. Common viral infections include the common cold, flu, and COVID-19. Treatment for viral infections typically involves rest, hydration, and medication to alleviate symptoms. Some viral infections can be prevented through vaccination. Viral Infections Viral Infections",
+        "response": "Viral infections are caused by viruses and can lead to a range of symptoms including fever, cough, sore throat, and body aches. Common viral infections include the common cold, flu, and COVID-19."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery and I'm not sure what I should be doing during my recovery.",
+            "I understand. It's important to follow your doctor's instructions and avoid strenuous activity during your recovery period.",
+            "How long should I wait before returning to my normal activities?",
+            "That depends on the type of surgery you had and your individual recovery process. Your doctor can give you a better idea of when it's safe to resume your normal activities.",
+            "What about my diet? Are there any specific foods I should be eating?",
+            "You should focus on eating a balanced diet with plenty of fruits, vegetables, and lean protein. It's also important to stay hydrated and avoid alcohol and tobacco.",
+            "Thank you for the advice, Medi.",
+            "You're welcome. Don't hesitate to reach out if you have any more questions.",
+            "I will. Can you tell me more about the recovery process after surgery?"
+        ],
+        "knowledge": "Surgery Recovery The recovery process after surgery can vary depending on the type of surgery and individual healing processes. It's important to follow your doctor's instructions and avoid strenuous activity during your recovery period. Your doctor can give you a better idea of when it's safe to resume your normal activities. Eating a balanced diet with plenty of fruits, vegetables, and lean protein is important for recovery. It's also important to stay hydrated and avoid alcohol and tobacco. Surgery Recovery Surgery Recovery",
+        "response": "The recovery process after surgery can vary depending on the type of surgery and individual healing processes. It's important to follow your doctor's instructions and avoid strenuous activity during your recovery period. Your doctor can give you a better idea of when it's safe to resume your normal activities."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am worried about my health.",
+            "Hello, I'm here to help you. What's the matter?",
+            "I have some symptoms which are bothering me.",
+            "Please tell me what symptoms you are experiencing?",
+            "I have a persistent cough, chest pain, and shortness of breath.",
+            "You might have some lung-related issues. You need to see a doctor.",
+            "What could be the possible cause of my symptoms?",
+            "Based on your symptoms, there could be many reasons, including pneumonia or lung cancer.",
+            "What should I do next?"
+        ],
+        "knowledge": "Cancer Cancer  Treatments that succeeded in one cancer type can be tested against other types.  Diagnostic tests are under development to better target the right therapies to the right patients, based on their individual biology. Cancer research focuses on the following issues:The improved understanding of molecular biology and cellular biology due to cancer research has led to new treatments for cancer since US President Richard Nixon declared the \"War on Cancer\" in 1971.  Since then, the country has spent over $200\u00a0billion on cancer research, including resources from public and private sectors.  The cancer death rate  declined by five percent between 1950 and 2005. Competition for financial resources appears to have suppressed the creativity, cooperation, risk-taking and original thinking required to make fundamental discoveries, unduly favoring low-risk research into small incremental advancements over riskier, more innovative research.  Other consequences of competition appear to be many studies with dramatic claims whose results cannot be replicated and perverse incentives that encourage grantee institutions to grow without making sufficient investments in their own faculty and facilities Cancer Cancer",
+        "response": "You should see a doctor as soon as possible to identify the root cause of your symptoms and start appropriate treatment."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I want to know about cancer.",
+            "Hi there! What do you want to know about cancer?",
+            "I want to know about the symptoms of cancer.",
+            "The symptoms of cancer vary depending on the type of cancer. Some common symptoms are unexplained weight loss, fatigue, lumps, and pain.",
+            "How can cancer be diagnosed?",
+            "Cancer can be diagnosed through different methods like physical exams, imaging tests, and blood tests.",
+            "What are the current treatments for cancer?",
+            "The current treatments for cancer include surgery, chemotherapy, radiation therapy, and targeted therapy.",
+            "Is there any way to prevent cancer?"
+        ],
+        "knowledge": "Cancer Cancer  Treatments that succeeded in one cancer type can be tested against other types.  Diagnostic tests are under development to better target the right therapies to the right patients, based on their individual biology. Cancer research focuses on the following issues:The improved understanding of molecular biology and cellular biology due to cancer research has led to new treatments for cancer since US President Richard Nixon declared the \"War on Cancer\" in 1971.  Since then, the country has spent over $200\u00a0billion on cancer research, including resources from public and private sectors.  The cancer death rate  declined by five percent between 1950 and 2005. Competition for financial resources appears to have suppressed the creativity, cooperation, risk-taking and original thinking required to make fundamental discoveries, unduly favoring low-risk research into small incremental advancements over riskier, more innovative research.  Other consequences of competition appear to be many studies with dramatic claims whose results cannot be replicated and perverse incentives that encourage grantee institutions to grow without making sufficient investments in their own faculty and facilities Cancer Cancer",
+        "response": "Yes, there are certain things you can do to lower your risk of cancer, such as maintaining a healthy lifestyle, avoiding tobacco products, and getting a regular medical check-up."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery for cancer.",
+            "Hi there! I hope you're doing well after surgery. Any questions or concerns?",
+            "Yes, I want to know what kind of foods I should be eating.",
+            "You should aim for a healthy and balanced diet with plenty of fruits, vegetables, and whole grains. Also, you should avoid processed foods and sugary drinks.",
+            "What about physical activity? Should I be exercising?",
+            "Yes, physical activity is important for your recovery. You should consult your doctor to determine what exercises are safe and appropriate for you.",
+            "What other lifestyle changes should I make?",
+            "You should avoid tobacco products, limit your alcohol intake, and get plenty of rest.",
+            "Thanks for your advice, Medi. What are the chances of cancer recurrence?"
+        ],
+        "knowledge": "Cancer Cancer  Treatments that succeeded in one cancer type can be tested against other types.  Diagnostic tests are under development to better target the right therapies to the right patients, based on their individual biology. Cancer research focuses on the following issues:The improved understanding of molecular biology and cellular biology due to cancer research has led to new treatments for cancer since US President Richard Nixon declared the \"War on Cancer\" in 1971.  Since then, the country has spent over $200\u00a0billion on cancer research, including resources from public and private sectors.  The cancer death rate  declined by five percent between 1950 and 2005. Competition for financial resources appears to have suppressed the creativity, cooperation, risk-taking and original thinking required to make fundamental discoveries, unduly favoring low-risk research into small incremental advancements over riskier, more innovative research.  Other consequences of competition appear to be many studies with dramatic claims whose results cannot be replicated and perverse incentives that encourage grantee institutions to grow without making sufficient investments in their own faculty and facilities Cancer Cancer",
+        "response": "The chances of cancer recurrence depend on many factors, including the type of cancer, the stage of cancer, and the treatment you received. You should discuss this with your doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms and I need your help.",
+            "Sure, I'll help you. Can you tell me more about your symptoms?",
+            "I feel very tired and have no energy. I also noticed a lump on my chest.",
+            "Based on these symptoms, I suggest you see a doctor immediately",
+            "Why should I see a doctor? What is it?",
+            "These symptoms can be a sign of breast cancer, but only a doctor can confirm it.",
+            "What can be done if a person has breast cancer?",
+            "Treatment options for breast cancer include chemotherapy, radiation, surgery, and hormonal therapy.",
+            "Is breast cancer a common type of cancer?"
+        ],
+        "knowledge": "Breast cancer Breast cancer  Symptoms of breast cancer can include a lump in the breast, bloody discharge from the nipple, and changes in the shape or texture of the breast. If detected early, breast cancer can be treated and cured. Treatment options include chemotherapy, radiation, surgery, and hormonal therapy. Breast cancer is one of the most common types of cancer, and it affects mainly women. Men can also develop breast cancer, but it is much less common in men.",
+        "response": "Yes, breast cancer is one of the most common types of cancer, and it affects mainly women."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a few questions about cancer.",
+            "Of course, I'm here to help. What would you like to know?",
+            "How does cancer develop in the body?",
+            "Cancer occurs when cells in the body begin to grow abnormally and multiply out of control. These abnormal cells can form tumors or invade nearby tissues and organs.",
+            "What are the common symptoms of cancer?",
+            "Common symptoms of cancer include fatigue, unexplained weight loss, pain, skin changes, and changes in bowel or bladder habits. However, the symptoms can vary depending on the type of cancer.",
+            "Are there different types of cancer?",
+            "Yes, there are many different types of cancer, including breast cancer, lung cancer, prostate cancer, and colon cancer, among others.",
+            "What are the treatment options for cancer?"
+        ],
+        "knowledge": "Cancer Cancer  Cancer occurs when cells in the body begin to grow abnormally and multiply out of control. These abnormal cells can form tumors or invade nearby tissues and organs. Symptoms of cancer can vary depending on the type of cancer but may include fatigue, unexplained weight loss, pain, skin changes, and changes in bowel or bladder habits. There are many different types of cancer, including breast cancer, lung cancer, prostate cancer, and colon cancer, among others. Treatment options for cancer include chemotherapy, radiation, surgery, and immunotherapy, among others. The best treatment plan will depend on the type of cancer and how advanced it is.",
+        "response": "The treatment options for cancer include chemotherapy, radiation, surgery, and immunotherapy, among others. The best treatment plan will depend on the type of cancer and how advanced it is."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and I'm not sure what my next steps should be.",
+            "Hi. It's important to follow the instructions given to you by your doctor or surgeon after surgery.",
+            "What should I do to ensure a speedy recovery?",
+            "It's important to rest and avoid any strenuous activities for a certain period of time after surgery. You should also eat a healthy and balanced diet, stay hydrated, and take any medications as prescribed.",
+            "Are there any exercises I can do to help speed up my recovery?",
+            "It's important to start with gentle exercises such as walking or light stretching, and gradually increase the intensity as you feel able. Your doctor or a physical therapist can give you specific exercises to do to aid in your recovery.",
+            "What should I do if I experience any pain or discomfort?",
+            "You should contact your doctor or surgeon if you experience any unexpected pain or discomfort after surgery. They may want to see you for a follow-up visit to ensure that your recovery is going well.",
+            "How long will it take to recover after surgery?"
+        ],
+        "knowledge": "Post-surgery recovery Post-surgery recovery  After surgery, it's important to follow the instructions given to you by your doctor or surgeon. This may include resting and avoiding any strenuous activities for a certain period of time, eating a healthy and balanced diet, staying hydrated, and taking any medications as prescribed. Gentle exercises such as walking or light stretching can also aid in recovery. Contact your doctor or surgeon if you experience any unexpected pain or discomfort after surgery. The length of recovery time will vary depending on the type of surgery and the individual's overall health.",
+        "response": "The length of recovery time will vary depending on the type of surgery and the individual's overall health."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a symptom of cancer, can you help me?",
+            "Of course, I am here to help you. Please tell me about your symptoms.",
+            "I have been experiencing some unusual weight loss and severe fatigue recently.",
+            "I see. There could be many reasons for weight loss and fatigue, but have you noticed any other symptoms?",
+            "Yes, I have also been experiencing persistent pain in my chest and stomach.",
+            "Okay, those symptoms are concerning. I suggest you see a doctor for further examination.",
+            "What could be the cause of my symptoms?",
+            "I cannot give a diagnosis without further examination, but cancer could be one of the possibilities.",
+            "What kind of cancer could it be?"
+        ],
+        "knowledge": "Cancer Cancer  Treatments that succeeded in one cancer type can be tested against other types.  Diagnostic tests are under development to better target the right therapies to the right patients, based on their individual biology. Cancer research focuses on the following issues:The improved understanding of molecular biology and cellular biology due to cancer research has led to new treatments for cancer since US President Richard Nixon declared the 'War on Cancer' in 1971.  Since then, the country has spent over $200\u00a0billion on cancer research, including resources from public and private sectors.  The cancer death rate  declined by five percent between 1950 and 2005. Competition for financial resources appears to have suppressed the creativity, cooperation, risk-taking and original thinking required to make fundamental discoveries, unduly favoring low-risk research into small incremental advancements over riskier, more innovative research.  Other consequences of competition appear to be many studies with dramatic claims whose results cannot be replicated and perverse incentives that encourage grantee institutions to grow without making sufficient investments in their own faculty and facilities Cancer Cancer",
+        "response": "I cannot give a specific answer without further examination. You should see a doctor for a full diagnosis."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about cancer.",
+            "Sure, I am here to help you. What is your question?",
+            "What is cancer and how does it form in the body?",
+            "Cancer is a disease where the body's cells start to divide uncontrollably, forming abnormal growths called tumors.",
+            "What causes cancer?",
+            "Cancer is caused by a variety of factors, including genetic mutations, exposure to carcinogens, and lifestyle choices.",
+            "What are the common treatments for cancer?",
+            "The common treatments for cancer are surgery, radiation therapy, chemotherapy, and immunotherapy.",
+            "Can cancer be cured?"
+        ],
+        "knowledge": "Cancer Cancer  Treatments that succeeded in one cancer type can be tested against other types.  Diagnostic tests are under development to better target the right therapies to the right patients, based on their individual biology. Cancer research focuses on the following issues:The improved understanding of molecular biology and cellular biology due to cancer research has led to new treatments for cancer since US President Richard Nixon declared the 'War on Cancer' in 1971.  Since then, the country has spent over $200\u00a0billion on cancer research, including resources from public and private sectors.  The cancer death rate  declined by five percent between 1950 and 2005. Competition for financial resources appears to have suppressed the creativity, cooperation, risk-taking and original thinking required to make fundamental discoveries, unduly favoring low-risk research into small incremental advancements over riskier, more innovative research.  Other consequences of competition appear to be many studies with dramatic claims whose results cannot be replicated and perverse incentives that encourage grantee institutions to grow without making sufficient investments in their own faculty and facilities Cancer Cancer",
+        "response": "In some cases, cancer can be cured, but it depends on the type of cancer and the stage of the disease."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have recently undergone surgery for cancer.",
+            "Oh, I see. I hope you are recovering well. Is there anything I can help you with?",
+            "Yes, I would like some advice on how to maintain a healthy lifestyle after cancer treatment.",
+            "Certainly. After cancer treatment, it is important to eat a healthy and balanced diet, exercise regularly, and get enough rest.",
+            "Are there any specific foods that are good for cancer survivors?",
+            "Yes, cancer survivors should consume a diet rich in fruits, vegetables, whole grains, and lean protein sources.",
+            "What kind of physical activities are recommended?",
+            "Moderate aerobic exercise such as walking, cycling, and swimming is recommended for cancer survivors.",
+            "Is there anything else I should be aware of?"
+        ],
+        "knowledge": "Cancer Cancer  Treatments that succeeded in one cancer type can be tested against other types.  Diagnostic tests are under development to better target the right therapies to the right patients, based on their individual biology. Cancer research focuses on the following issues:The improved understanding of molecular biology and cellular biology due to cancer research has led to new treatments for cancer since US President Richard Nixon declared the 'War on Cancer' in 1971.  Since then, the country has spent over $200\u00a0billion on cancer research, including resources from public and private sectors.  The cancer death rate  declined by five percent between 1950 and 2005. Competition for financial resources appears to have suppressed the creativity, cooperation, risk-taking and original thinking required to make fundamental discoveries, unduly favoring low-risk research into small incremental advancements over riskier, more innovative research.  Other consequences of competition appear to be many studies with dramatic claims whose results cannot be replicated and perverse incentives that encourage grantee institutions to grow without making sufficient investments in their own faculty and facilities Cancer Cancer",
+        "response": "It is important to be aware of any potential side effects from cancer treatment and to communicate with your doctor about any concerns."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a lump on my breast. Is it cancer?",
+            "I understand your concern. How long have you noticed the lump?",
+            "I found it two days ago and it hasn't gone away.",
+            "Based on your symptoms, it's important to see a doctor to get a diagnosis.",
+            "What are the treatments for breast cancer?",
+            "There are several treatments for breast cancer including chemotherapy, radiation, and surgery.",
+            "How can I prevent breast cancer?",
+            "Regular exercise, a healthy diet, and limiting alcohol consumption have been shown to decrease the risk of breast cancer.",
+            "Okay, thank you for your help. I will see a doctor."
+        ],
+        "knowledge": "Breast Cancer Breast Cancer  Breast cancer is a disease in which cells in the breast grow out of control.  There are several types of breast cancer, but the most common type is invasive ductal carcinoma.  Symptoms of breast cancer include a lump or thickening in the breast, nipple changes, and pain in the breast or nipple.  Risk factors for breast cancer include age, family history, and hormonal factors.  Treatment for breast cancer may include surgery, radiation therapy, chemotherapy, hormone therapy, targeted therapy, or a combination of these.  The best way to prevent breast cancer is to maintain a healthy lifestyle and get regular breast cancer screenings. Breast Cancer Breast Cancer",
+        "response": "It is important to see a doctor for a proper diagnosis of your lump and to discuss potential treatments for breast cancer."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a family history of cancer. Am I at risk?",
+            "I understand your concerns. A family history of cancer can increase your risk.",
+            "What types of cancer should I be concerned about?",
+            "The types of cancer that you should be concerned about depend on your family history. It's important to discuss this with your doctor.",
+            "Are there any lifestyle changes I can make to reduce my risk?",
+            "Yes, maintaining a healthy lifestyle with regular exercise and a balanced diet can help reduce your risk of cancer.",
+            "What about screening tests?",
+            "Regular screening tests for certain types of cancer, such as mammograms for breast cancer, can detect cancer early and increase the chances of successful treatment.",
+            "Thank you for the information, Medi. I will talk to my doctor about my family history."
+        ],
+        "knowledge": "Cancer Cancer  A family history of cancer can increase your risk of developing cancer.  The types of cancer that you may be at risk for depend on your family history.  There are several lifestyle changes that can help reduce your risk of cancer, including maintaining a healthy diet, getting regular exercise, and avoiding tobacco and excessive alcohol consumption.  Screening tests for certain types of cancer can detect cancer early and increase the chances of successful treatment.  It's important to talk to your doctor about your family history of cancer and to discuss potential screening and prevention strategies. Cancer Cancer",
+        "response": "It's important to discuss your family history of cancer with your doctor to determine your specific risk and to discuss potential screening and prevention strategies."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just finished chemotherapy. What should I do next?",
+            "Congratulations on finishing your treatment. It's important to maintain a healthy lifestyle.",
+            "What kind of lifestyle changes should I make?",
+            "Eating a healthy diet, getting regular exercise, and managing stress can help improve your overall health and reduce the risk of cancer recurrence.",
+            "What about follow-up appointments?",
+            "It's important to continue to see your doctor for regular follow-up appointments and to discuss any concerns you may have.",
+            "Are there any support groups I can join?",
+            "Yes, there are many support groups available for cancer survivors and their families. Your doctor or a medical social worker can provide you with information on local support groups.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Chemotherapy Chemotherapy  After completing chemotherapy, it's important to maintain a healthy lifestyle with regular exercise and a balanced diet.  Managing stress can also help improve overall health and reduce the risk of cancer recurrence.  It's important to continue to see your doctor for regular follow-up appointments and to discuss any concerns you may have.  Support groups are available for cancer survivors and their families and can be a valuable source of information and emotional support. Chemotherapy Chemotherapy",
+        "response": "It's important to maintain a healthy lifestyle, continue follow-up appointments with your doctor, and consider joining a support group for cancer survivors."
+    }
+]

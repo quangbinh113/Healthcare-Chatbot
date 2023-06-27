@@ -1,0 +1,362 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I'm having chest pain. What should I do?",
+            "Hello, chest pain can be a serious symptom. Can you describe your pain?",
+            "It's a sharp pain in my chest and it's hard to breathe.",
+            "Based on your symptoms, it may be related to your asthma. You should try to relax and take slow deep breaths",
+            "Okay, thanks. But what are some other symptoms of asthma?",
+            "Asthma symptoms include using accessory muscles of respiration and over-inflation of the chest, as well as a blue color of the skin and nails from lack of oxygen.",
+            "I see. What is the best way to prevent asthma attacks?",
+            "Avoiding triggers such as allergens, air pollution, and smoking. Also taking medications as prescribed by your doctor can help prevent attacks.",
+            "Thanks for the info, Medi. What should I do if my asthma gets worse?"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200 L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200 L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264\u00a080 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "If your asthma gets worse, you should use your rescue inhaler and seek medical attention immediately."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain to me what acute severe asthma is?",
+            "Of course. Acute severe asthma is an acute exacerbation of asthma that doesn't respond to standard treatments of bronchodilators and corticosteroids.",
+            "What are some symptoms of acute severe asthma?",
+            "Symptoms include a paradoxical pulse, using accessory muscles of respiration, and a decrease in peak expiratory flow rate.",
+            "Is acute severe asthma treatable?",
+            "Yes, it is treatable. Treatment involves hospitalization and intravenous medications such as magnesium sulfate and epinephrine.",
+            "Thanks for the info. How can someone prevent getting acute severe asthma?",
+            "Prevention involves avoiding triggers such as allergens and air pollution, as well as taking medications as prescribed by your doctor.",
+            "I see. How common is acute severe asthma?"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200 L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200 L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264\u00a080 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "Acute severe asthma is not common, but it can be life-threatening and requires immediate medical attention."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure and I'm not sure what I should do now.",
+            "Hello, what kind of procedure did you have?",
+            "I had a bronchoscopy.",
+            "After a bronchoscopy, it's important to rest and avoid activities that could cause bleeding such as exercise and heavy lifting. You should also follow any other instructions given to you by your doctor.",
+            "Okay, thanks. Is there anything I should eat or avoid eating?",
+            "You should avoid eating for a few hours after the procedure to allow the anesthesia to wear off. After that, you can eat normally unless your doctor advises otherwise.",
+            "I see. What about medications?",
+            "You should take any medications prescribed by your doctor as directed, and avoid taking aspirin or other blood thinners for a few days after the procedure.",
+            "Thanks for the advice, Medi. How long will it take to recover from the procedure?"
+        ],
+        "knowledge": "Bronchoscopy Bronchoscopy is a procedure to view the airways and diagnose lung disease.  It is carried out using a flexible tube with a camera, called a bronchoscope.  Before the procedure, patients are usually given a sedative or general anesthesia. The procedure itself usually takes 30-60 minutes. After the procedure, patients may experience a sore throat or hoarseness, and they should avoid activities that could cause bleeding such as exercise and heavy lifting. They should follow any other instructions given to them by their doctor, and take any medications prescribed as directed. They should avoid eating for a few hours after the procedure, and avoid taking aspirin or other blood thinners for a few days after the procedure.",
+        "response": "Recovery time can vary, but most people can return to their normal activities within a few days after the procedure."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I think I might be having asthma. Can you help me?",
+            "Sure, I can help you. What are your symptoms?",
+            "I have chest pain, difficulty breathing and over-inflation of the chest.",
+            "Based on your symptoms, you could be having an asthma attack. You should see a doctor immediately.",
+            "What can I do to prevent an attack from happening?",
+            "You can avoid triggers that cause asthma attacks, such as allergens, air pollution, and exercise. Also, follow your doctor's prescribed treatment plan.",
+            "Can I still exercise if I have asthma?",
+            "Yes, you can still exercise with asthma. Just make sure to warm up properly and carry your inhaler with you.",
+            "Thank you, Medi. How can I find a good doctor for asthma?"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200\u00a0L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200\u00a0L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264\u00a080 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "You can ask for a referral from your primary care doctor or check online reviews for asthma specialists in your area."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I have a question about asthma.",
+            "Sure, I'm here to help. What's your question?",
+            "What causes asthma attacks?",
+            "Asthma attacks can be caused by allergens, air pollution, exercise, stress, and respiratory infections.",
+            "Can you die from an asthma attack?",
+            "In rare cases, asthma attacks can be fatal, but with proper treatment and management, most people with asthma can lead normal lives.",
+            "Can asthma be cured?",
+            "There is no cure for asthma, but it can be effectively managed with medication and lifestyle changes.",
+            "Thank you, Medi. Can you recommend any lifestyle changes for someone with asthma?"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200\u00a0L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200\u00a0L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264\u00a080 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "Sure, you can avoid triggers that cause asthma attacks, such as allergens, air pollution, and exercise. Also, follow your doctor's prescribed treatment plan and carry your inhaler with you at all times."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I just had a medical procedure for my asthma. What should I do now?",
+            "Congratulations on completing the procedure. You should follow your doctor's instructions for post-procedure care, including any medication and lifestyle changes.",
+            "What kind of lifestyle changes should I make?",
+            "You can avoid triggers that cause asthma attacks, such as allergens, air pollution, and exercise. Also, eat a healthy diet with plenty of fruits and vegetables, and exercise regularly.",
+            "Can you recommend any specific exercises?",
+            "Yoga, swimming, and walking are good exercises for people with asthma. Just make sure to warm up properly and carry your inhaler with you.",
+            "Can I still use my inhaler after the procedure?",
+            "Yes, you can and should still use your inhaler as prescribed by your doctor.",
+            "Thank you, Medi. Can you explain what the procedure did for my asthma?"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200\u00a0L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200\u00a0L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264\u00a080 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "I'm not sure what procedure you had, but it likely helped to open up your airways and improve your breathing."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have chest pain and difficulty breathing.",
+            "I see, based on your symptoms you may have an asthma attack.",
+            "What should I do?",
+            "Try to stay calm and use your inhaler if you have one. If the symptoms persist, call emergency services.",
+            "Can I do anything to prevent it from happening again?",
+            "Avoid triggers like pollution, dust, and smoke. Take your medication as prescribed and have a healthy lifestyle.",
+            "What if I don't have an inhaler?",
+            "It's better to consult a doctor and have a prescription. In an emergency, try to relax and breathe slowly.",
+            "Thank you, Medi. What are the common triggers for an asthma attack?"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200\u00a0L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200\u00a0L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264\u00a080 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "The common triggers for an asthma attack are pollution, dust, smoke, allergen, and infection."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you explain what is a paradoxical pulse?",
+            "Sure, paradoxical pulse is when there is a decrease in blood pressure during inspiration.",
+            "Is it dangerous?",
+            "It can be caused by many reasons and it may or may not be dangerous. Consult with a doctor if you have any concerns.",
+            "How can I know if I have it?",
+            "You need to measure your blood pressure and monitor it during inhalation and exhalation.",
+            "Thank you, Medi. Can you give me some examples of allergens that may cause asthma?",
+            "Some common allergens are pollen, dust mites, pet dander, and mold.",
+            "What should I do if I have an allergic reaction?"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200\u00a0L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200\u00a0L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264\u00a080 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "If you have an allergic reaction, avoid the allergen if possible and take antihistamines or other medications as prescribed. It's better to consult with a doctor if the reaction is severe."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had an asthma attack and I am on medication. What should I eat?",
+            "It's important to have a balanced diet with plenty of fruits, vegetables, and whole grains.",
+            "Can I eat dairy products?",
+            "Dairy products are okay, but some people with asthma may be sensitive to them. It's better to consult with a doctor or a dietician.",
+            "What about physical exercise?",
+            "Physical exercise is good for people with asthma, but start slowly and gradually increase the intensity. Consult with a doctor before starting a new exercise routine.",
+            "Thank you, Medi. Can you explain what over-inflation of the chest means in an asthma attack?",
+            "Over-inflation of the chest is when the lungs become over-inflated and it becomes difficult to breathe out.",
+            "Is it dangerous?"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200\u00a0L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200\u00a0L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264\u00a080 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "I hope this information is helpful. Do you have any other questions about asthma?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have chest pain and difficulty breathing.",
+            "Sorry to hear that, can you tell me more about your symptoms?",
+            "Sure, my chest feels tight and I'm having trouble taking deep breaths.",
+            "Okay, those are common symptoms of asthma. Have you been diagnosed before?",
+            "No, this is the first time I'm experiencing these symptoms.",
+            "I recommend you see a doctor as soon as possible. In the meantime, try to avoid triggers like smoke and dust.",
+            "Thank you, Medi. What are some other things I can do to manage my symptoms?",
+            "Regular exercise can help improve lung function. Using a peak flow meter can also help monitor your breathing.",
+            "Thanks for your help, Medi. I'll make an appointment with my doctor."
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration, there may be a paradoxical pulse, and over-inflation of the chest. A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate is \u2265200 L/min, or \u226550% of the predicted best. Moderate is defined as between 80 and 200 L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264 80 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids. Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "You're welcome. I'm glad I could help. Don't forget to see your doctor soon. "
+    },
+    {
+        "dialog": [
+            "Hello Medi, what exactly is asthma?",
+            "Asthma is a chronic respiratory disease that causes inflammation and narrowing of the airways.",
+            "What are the common symptoms of asthma?",
+            "The most common symptoms are coughing, wheezing, shortness of breath, and chest tightness.",
+            "What triggers asthma attacks?",
+            "Triggers can include allergens like dust and pollen, air pollution, exercise, and stress.",
+            "Is asthma curable?",
+            "There is no known cure for asthma, but symptoms can be managed with proper treatment and lifestyle changes.",
+            "What are some lifestyle changes I can make to manage my asthma?"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration, there may be a paradoxical pulse, and over-inflation of the chest. A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate is \u2265200 L/min, or \u226550% of the predicted best. Moderate is defined as between 80 and 200 L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264 80 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids. Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "No problem. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a severe asthma attack and was hospitalized. What can I do to prevent this from happening again?",
+            "I'm sorry to hear that. After a severe asthma attack, it's important to work with your doctor to find the best treatment plan for you.",
+            "What are some common medications for asthma?",
+            "Common medications include bronchodilators, inhaled corticosteroids, and combination inhalers.",
+            "Are there any natural remedies that can help manage asthma?",
+            "Some natural remedies that may help include breathing exercises, acupuncture, and omega-3 fatty acid supplements.",
+            "What lifestyle changes should I make?",
+            "Avoiding triggers like smoke and pollen, exercising regularly, and managing stress can all help manage asthma symptoms.",
+            "Thanks, Medi. I'll talk to my doctor about these options."
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration, there may be a paradoxical pulse, and over-inflation of the chest. A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate is \u2265200 L/min, or \u226550% of the predicted best. Moderate is defined as between 80 and 200 L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264 80 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids. Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "I hope these strategies help. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have chest pain and difficulty breathing.",
+            "I'm sorry to hear that. It could be related to asthma. Do you have a history of asthma?",
+            "Yes, I do. But it's been a long time since my last attack.",
+            "I see. Based on your symptoms, it\u2019s possible that you\u2019re having an asthma exacerbation. Have you taken your inhaler?",
+            "Yes, I have. But it hasn't helped much.",
+            "Ok, I suggest you take a nebulizer treatment right away and go to the nearest hospital emergency room.",
+            "Alright, thank you Medi. Should I also bring my inhaler with me?",
+            "Yes, you should. And any other medications you\u2019re taking that are related to your asthma.",
+            "Got it. Thank you for your help."
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200\u00a0L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200\u00a0L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264\u00a080 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "You're welcome. And yes, please bring your inhaler and any other asthma-related medications with you to the emergency room."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain the symptoms of asthma?",
+            "Sure. The most common symptoms of asthma are wheezing, shortness of breath, chest tightness, and coughing, especially at night or early in the morning.",
+            "What causes asthma?",
+            "Asthma can be caused by a combination of genetic and environmental factors. Triggers like allergens, air pollution, exercise, and cold air can cause asthma symptoms.",
+            "How is asthma diagnosed?",
+            "To diagnose asthma, your doctor will perform a physical exam, a lung function test, and may also use other tests like a chest x-ray or a blood test.",
+            "Can asthma be cured?",
+            "No, there is no cure for asthma. But it can be managed with proper treatment and medications.",
+            "Thank you for your explanation, Medi."
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200\u00a0L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200\u00a0L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264\u00a080 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "You're welcome. Feel free to ask me anything else you want to know about asthma."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure. Can you give me some advice on post-procedure care?",
+            "Of course. It depends on the procedure you had. What kind of procedure did you have?",
+            "I had a colonoscopy.",
+            "After a colonoscopy, it's important to stay hydrated and eat light, easily digestible foods. You should avoid heavy or spicy foods and alcohol for at least 24 hours. Also, avoid strenuous exercise for a few days.",
+            "What about pain management?",
+            "You can take over-the-counter pain relievers like acetaminophen or ibuprofen as directed by your doctor. But avoid aspirin, as it can increase the risk of bleeding.",
+            "Will I have any side effects from the procedure?",
+            "It's common to experience some cramping, bloating, or gas for a few hours after the procedure. But if you experience severe pain, bleeding, or fever, contact your doctor right away.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Colonoscopy Colonoscopy  Colonoscopy is a procedure that examines the large intestine (colon and rectum) for abnormalities and disease.  It is commonly used to screen for colon cancer and screen for and remove polyps (precancerous growths) from the colon.  During a colonoscopy, a flexible tube with a camera on the end is inserted into the rectum and guided through the colon.  Patients are typically given a sedative or anesthesia to help them relax during the procedure.   After the procedure, patients are monitored for a short time before being discharged.  Some mild side effects, such as cramping, bloating, or gas, are common.  Serious side effects, such as bleeding, perforation of the colon, or infection, are rare but possible.  Patients should contact their doctor right away if they experience severe pain, bleeding, or fever.",
+        "response": "Thank you for the advice, Medi. I will follow it to make sure I have a good recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I might have asthma, can you help me?",
+            "Sure, let me ask some questions to diagnose your condition",
+            "I have chest pain and difficulty breathing",
+            "During an asthma attack, the use of accessory muscles of respiration is common, do you have that?",
+            "Yes, I do",
+            "You might have asthma, it's important to get a proper diagnosis from a doctor as soon as possible",
+            "Thanks, Medi. What can I do to relieve my symptoms for now?",
+            "Some home remedies such as breathing exercises and steam inhalation can help, but again, seeing a doctor is crucial",
+            "I will, thanks for your help"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration, there may be a paradoxical pulse, and over-inflation of the chest. A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation, the peak expiratory flow rate is \u2265200 L/min, or \u226550% of the predicted best. Moderate is defined as between 80 and 200 L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264 80 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids. Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "You're welcome! Seeing a doctor is crucial, but some home remedies such as breathing exercises and steam inhalation can help relieve your symptoms."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you tell me more about asthma?",
+            "Of course, what would you like to know?",
+            "What are the symptoms of asthma?",
+            "Symptoms of asthma include chest tightness, shortness of breath, wheezing, and coughing",
+            "What causes asthma?",
+            "Asthma is caused by a combination of genetic and environmental factors, such as exposure to air pollution and allergens",
+            "Is there a cure for asthma?",
+            "Currently, there is no cure for asthma, but proper management can help reduce symptoms and improve quality of life",
+            "Thank you, Medi. Is it possible for someone to develop asthma later in life?"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration, there may be a paradoxical pulse, and over-inflation of the chest. A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation, the peak expiratory flow rate is \u2265200 L/min, or \u226550% of the predicted best. Moderate is defined as between 80 and 200 L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264 80 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids. Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "Yes, it's possible for someone to develop asthma at any age. It's important to understand the symptoms and seek proper diagnosis and treatment if you suspect you may have asthma."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure done. Can you give me some advice on post-procedure care?",
+            "Of course, what type of procedure did you have?",
+            "I had surgery on my knee to repair a torn meniscus",
+            "After a knee surgery, it's important to keep your leg elevated and apply ice to reduce swelling. Physical therapy may also be necessary to regain strength and mobility in the knee",
+            "What about my diet?",
+            "A healthy and balanced diet is important for proper healing. In particular, consuming enough protein can help rebuild tissue and promote healing",
+            "What about exercise?",
+            "It's important to stay active, but avoid high-impact activities and follow your doctor's recommendations for physical therapy and rehabilitation exercises",
+            "Thank you, Medi. Is there anything else I should know?"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration, there may be a paradoxical pulse, and over-inflation of the chest. A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation, the peak expiratory flow rate is \u2265200 L/min, or \u226550% of the predicted best. Moderate is defined as between 80 and 200 L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264 80 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids. Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "You're welcome! Just make sure to follow your doctor's instructions and attend all follow-up appointments. Take it slow and give yourself time to heal properly."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am having trouble breathing and chest pains",
+            "I am sorry to hear that. Based on your symptoms, you may be experiencing an asthma attack",
+            "What should I do now?",
+            "You should try to remain calm and use your asthma inhaler if you have one. If symptoms persist, seek medical attention",
+            "What causes asthma attacks?",
+            "Asthma attacks can be triggered by allergens, pollution, exercise, and stress",
+            "What can I do to prevent asthma attacks?",
+            "You can avoid your triggers, take your medication as prescribed, and follow a healthy lifestyle",
+            "Thank you, Medi. Can you explain what peak expiratory flow rate means?"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200 L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200 L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264 80 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "Peak expiratory flow rate is a measure of how fast you can exhale air and it is used to monitor your asthma control"
+    },
+    {
+        "dialog": [
+            "Hey Medi, can you explain to me what asthma means?",
+            "Asthma is a chronic respiratory disease that causes inflammation and narrowing of the airways",
+            "What are the symptoms associated with asthma?",
+            "Common symptoms of asthma include shortness of breath, coughing, wheezing, and chest tightness",
+            "What are the main causes of asthma?",
+            "Asthma can be caused by genetics, environmental factors, and respiratory infections",
+            "Can asthma be cured?",
+            "There is no cure for asthma, but it can be managed with proper treatment and healthy lifestyle habits",
+            "What kind of treatments are available for asthma?"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200 L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200 L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264 80 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "The treatments for asthma include inhalers, corticosteroids, and allergy medication"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure done. What should I do now?",
+            "It's important to follow any post-procedure instructions provided by your doctor",
+            "Are there any specific lifestyle changes I should make after the procedure?",
+            "You should avoid heavy lifting and strenuous exercise for a period of time. Your doctor may also recommend a specific diet or medication regimen",
+            "How soon can I resume normal physical activity?",
+            "It depends on the type of procedure you had done. Your doctor will provide specific instructions for when you can resume physical activity",
+            "What kind of diet should I be following post-procedure?",
+            "Your doctor may recommend a low-fat, low-sodium diet to promote healing and prevent complications",
+            "Thank you, Medi. How long should I expect to experience discomfort after the procedure?"
+        ],
+        "knowledge": "Medical Procedure Medical Procedure  The recovery time and aftercare for a medical procedure depend on the type of procedure performed.  Some procedures may require a period of bed rest, while others may require limited physical activity.  After a procedure, it is important to follow any instructions provided by your doctor or surgeon to ensure proper healing and prevent complications.  Pain and discomfort may be common after the procedure, and pain relief medication may be prescribed or recommended by your doctor.  Diet and medication regimens may also be recommended to promote healing and prevent complications. Medical Procedure Medical Procedure",
+        "response": "The length of discomfort post-procedure varies depending on the type of procedure, but your doctor will provide more specific information regarding recovery time and pain management."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm experiencing chest pain",
+            "I'm sorry to hear that. Can you describe your pain?",
+            "It's a sharp pain in my chest and it's difficult to breathe",
+            "Based on your symptoms, you may be experiencing an asthma attack",
+            "What should I do now?",
+            "Please use your inhaler if you have one and try to stay calm. If your symptoms persist, please seek emergency medical attention immediately",
+            "Is there anything I should avoid to prevent asthma attacks?",
+            "Avoiding triggers such as smoke, pollution, and allergens can reduce the frequency of asthma attacks. It's also important to take any prescribed medications regularly",
+            "Thanks for your help, Medi. I'll try to take care of myself better."
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200\u00a0L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200\u00a0L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264\u00a080 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "Please use your inhaler if you have one and try to stay calm. If your symptoms persist, please seek emergency medical attention immediately"
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you explain what asthma is?",
+            "Of course, asthma is a chronic respiratory disease characterized by episodes of breathing difficulty, chest tightness, and wheezing",
+            "What causes asthma?",
+            "The exact cause of asthma is unknown, but it is believed to be a combination of genetic and environmental factors",
+            "Can asthma be cured?",
+            "Unfortunately, there is no cure for asthma, but it can be managed with proper treatment and lifestyle changes",
+            "What lifestyle changes can I make to manage my asthma?",
+            "Maintaining a healthy diet and regular exercise can help manage asthma symptoms. Avoiding triggers such as smoke, pollution, and allergens can also reduce asthma attacks",
+            "Thanks for the information, Medi. I'll try to manage my asthma better"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200\u00a0L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200\u00a0L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264\u00a080 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "Maintaining a healthy diet and regular exercise can help manage asthma symptoms. Avoiding triggers such as smoke, pollution, and allergens can also reduce asthma attacks"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had an asthma attack. What should I do now?",
+            "I'm sorry to hear that. Have you taken your inhaler?",
+            "Yes, I have. But I'm still having trouble breathing",
+            "If your symptoms persist, please seek emergency medical attention immediately. In the meantime, try to stay calm and sit upright",
+            "Will I need to be hospitalized?",
+            "It depends on the severity of your asthma attack. Your doctor will determine if hospitalization is necessary",
+            "What can I do to prevent future asthma attacks?",
+            "Taking your medication regularly and avoiding triggers such as smoke, pollution, and allergens can reduce the frequency of asthma attacks. It's also important to have an asthma action plan in place and to follow it",
+            "Thank you, Medi. I'll make sure to take better care of my asthma"
+        ],
+        "knowledge": "Asthma Asthma  In children, chest pain is often present. Signs occurring during an asthma attack include the use of accessory muscles of respiration , there may be a paradoxical pulse , and over-inflation of the chest.  A blue color of the skin and nails may occur from lack of oxygen. In a mild exacerbation the peak expiratory flow rate  is \u2265200\u00a0L/min, or \u226550% of the predicted best.  Moderate is defined as between 80 and 200\u00a0L/min, or 25% and 50% of the predicted best, while severe is defined as \u2264\u00a080 L/min, or \u226425% of the predicted best. Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.  Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use Asthma Asthma",
+        "response": "Taking your medication regularly and avoiding triggers such as smoke, pollution, and allergens can reduce the frequency of asthma attacks. It's also important to have an asthma action plan in place and to follow it"
+    }
+]

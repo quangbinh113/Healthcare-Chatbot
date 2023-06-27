@@ -1,0 +1,405 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I have a headache and feel very sick today. Can you help me?",
+            "Yes, I can help. Can you describe your symptoms in detail?",
+            "I have a high fever, my back aches, and I feel muscle pain all over my body.",
+            "Okay, these could be symptoms of influenza. Have you recently been in contact with anyone who has flu?",
+            "No, I haven't. I barely leave my house due to the pandemic. But my child has been attending school.",
+            "Ah, I see. Influenza is highly contagious and can spread easily in schools. You should get tested to confirm the diagnosis.",
+            "What should I do to alleviate the symptoms?",
+            "You can take acetaminophen for fever and muscle soreness, rest a lot, and drink plenty of fluids. You should also avoid contact with others to prevent the spread of the virus.",
+            "Okay, thank you. How long does it take to recover from the flu?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The duration of influenza symptoms typically lasts around 2-8 days, but it can take several weeks to fully recover from it."
+    },
+    {
+        "dialog": [
+            "Hey Medi, what are the different types of influenza?",
+            "Influenza can be caused by several types of viruses. The three types of influenza viruses are types A, B, and C. Type A and B viruses are responsible for seasonal flu epidemics each year.",
+            "What makes type A and B viruses different from each other?",
+            "Type A viruses are more likely to cause pandemics because they can infect both animals and humans, while type B viruses only infect humans. Type A viruses are also divided into subtypes based on two proteins on the surface of the virus. The subtypes can change due to genetic mutations, leading to new strains of influenza viruses.",
+            "I see. How is influenza diagnosed?",
+            "A test called a rapid influenza diagnostic test (RIDT) can be used to detect influenza viruses in respiratory secretions. RIDTs give results within 15-30 minutes. However, RIDTs are not as accurate as other laboratory tests like RT-PCR, which can detect influenza viruses more accurately.",
+            "Thank you for the information. How can we prevent influenza?",
+            "The most effective way to prevent influenza is by getting an influenza vaccine every year. You should also practice good hygiene, like washing your hands regularly, covering your mouth and nose while coughing or sneezing, and avoiding close contact with sick people.",
+            "Great, thanks. Is there any other information I should know about influenza?"
+        ],
+        "knowledge": "Influenza Influenza In 1931, Richard Shope published three papers identifying a virus as the cause of swine influenza, a then newly recognized disease among pigs that was characterized during the second wave of the 1918 pandemic.  Shope's research reinvigorated research on human influenza, and many advances in virology, serology, immunology, experimental animal models, vaccinology, and immunotherapy have since arisen from influenza research.  Just two years after influenza viruses were discovered, in 1933, IAV was identified as the agent responsible for human influenza.  Subtypes of IAV were discovered throughout the 1930s, and IBV was discovered in 1940. During the Second World War, the US government worked on developing inactivated vaccines for influenza, resulting in the first influenza vaccine being licensed in 1945 in the United States.  ICV was discovered two years later in 1947.  In 1955, avian influenza was confirmed to be caused by IAV Influenza Influenza",
+        "response": "You're welcome. Let me know if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently recovered from influenza. What can I do to prevent getting sick again?",
+            "Well done on recovering! You should continue practicing good hygiene habits like washing your hands regularly, wearing a mask in public spaces, and avoiding close contact with sick people. You should also consider getting a flu vaccine every year to protect yourself from future infections.",
+            "Are there any foods I can eat to boost my immune system?",
+            "Yes, foods that are rich in vitamins and minerals like vitamin C, vitamin D, and zinc can boost your immune system. Citrus fruits, leafy greens, nuts, and seeds are all good sources of these nutrients. Drinking plenty of water and staying hydrated can also help to flush out toxins from your body.",
+            "That's helpful, thanks. What about exercise?",
+            "Regular exercise can also boost your immune system by improving circulation and reducing stress. Aim for at least 30 minutes of moderate-intensity exercise like brisk walking, cycling, or swimming most days of the week.",
+            "Great, thanks for the advice. Is there anything else I should know?",
+            "Yes, make sure you get plenty of rest and sleep, and reduce your stress levels through relaxation techniques like meditation, yoga, or deep breathing exercises. Stress can weaken your immune system and make you more susceptible to infections.",
+            "Okay, I will keep that in mind. Thanks, Medi."
+        ],
+        "knowledge": "Influenza Influenza In 1931, Richard Shope published three papers identifying a virus as the cause of swine influenza, a then newly recognized disease among pigs that was characterized during the second wave of the 1918 pandemic.  Shope's research reinvigorated research on human influenza, and many advances in virology, serology, immunology, experimental animal models, vaccinology, and immunotherapy have since arisen from influenza research.  Just two years after influenza viruses were discovered, in 1933, IAV was identified as the agent responsible for human influenza.  Subtypes of IAV were discovered throughout the 1930s, and IBV was discovered in 1940. During the Second World War, the US government worked on developing inactivated vaccines for influenza, resulting in the first influenza vaccine being licensed in 1945 in the United States.  ICV was discovered two years later in 1947.  In 1955, avian influenza was confirmed to be caused by IAV Influenza Influenza",
+        "response": "You're welcome. Take care!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I have some symptoms related to influenza.",
+            "Sure, I am here to help you. Can you tell me your symptoms in detail?",
+            "I have a fever, headache, and a dry cough. I also feel tired all day.",
+            "I see. Based on your symptoms, you may have influenza. I advise you to take a rest and drink plenty of fluids.",
+            "Is there anything else I can do to ease my symptoms?",
+            "Yes, you can take fever reducers and pain relievers such as ibuprofen or acetaminophen.",
+            "How long will it take for me to recover?",
+            "It usually takes about a week to recover but if your symptoms get worse or do not improve, you should see a doctor.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome, if you have any further questions, feel free to ask me anytime."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. Can you tell me more about the history of influenza?",
+            "Sure, Influenza has been around for a very long time and research on it dates back to the early 1900s. In 1931, Richard Shope published three papers identifying a virus as the cause of swine influenza, a then newly recognized disease among pigs that was characterized during the second wave of the 1918 pandemic.",
+            "That's interesting. What are some of the advances that have arisen from influenza research?",
+            "There have been many advances in virology, serology, immunology, experimental animal models, vaccinology, and immunotherapy that have arisen from influenza research.",
+            "When was IAV identified as the agent responsible for human influenza?",
+            "IAV was identified as the agent responsible for human influenza in 1933, just two years after influenza viruses were discovered.",
+            "Wow, that's quite a bit of information. Thanks, Medi.",
+            "You're welcome. If you have any other questions, feel free to ask me."
+        ],
+        "knowledge": "Influenza Influenza In 1931, Richard Shope published three papers identifying a virus as the cause of swine influenza, a then newly recognized disease among pigs that was characterized during the second wave of the 1918 pandemic.  Shope's research reinvigorated research on human influenza, and many advances in virology, serology, immunology, experimental animal models, vaccinology, and immunotherapy have since arisen from influenza research.  Just two years after influenza viruses were discovered, in 1933, IAV was identified as the agent responsible for human influenza.  Subtypes of IAV were discovered throughout the 1930s, and IBV was discovered in 1940. During the Second World War, the US government worked on developing inactivated vaccines for influenza, resulting in the first influenza vaccine being licensed in 1945 in the United States.  ICV was discovered two years later in 1947.  In 1955, avian influenza was confirmed to be caused by IAV Influenza Influenza",
+        "response": "You're welcome, let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had the flu and I want advice on how to prevent it in the future.",
+            "Of course, prevention is better than cure. One way to prevent the flu is to get a vaccine every year.",
+            "What if I can't get a vaccine?",
+            "You can also prevent the flu by washing your hands frequently, avoiding close contact with sick people, and covering your mouth and nose when you cough or sneeze.",
+            "Are there any other ways to prevent the flu?",
+            "Yes, you can also boost your immune system by getting enough sleep, eating a healthy diet, and staying physically active.",
+            "That's really helpful advice, thank you, Medi.",
+            "You're welcome. Remember to take care of yourself and stay healthy.",
+            "Sure, I will. Thanks again, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome, stay safe and healthy."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a sore throat and headache.",
+            "Hello, sorry to hear that. Have you taken your temperature?",
+            "Yes, it's 38.5. What should I do now?",
+            "You may have flu and need to take rest and drink warm fluids. ",
+            "Is there any medicine I can take?",
+            "You can take over-the-counter pain relief such as paracetamol or ibuprofen if you feel uncomfortable.",
+            "Thanks for the advice. Should I see a doctor?",
+            "If your symptoms get worse or persist longer than a week, you should contact a healthcare provider.",
+            "Okay, thanks for your help."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You are welcome. Remember to rest and drink lots of warm fluids. If your symptoms get worse or persist longer than a week, you should contact a healthcare provider."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about the influenza virus.",
+            "Of course, I am here to help. What would you like to know?",
+            "How long has the influenza virus been known to humans?",
+            "The influenza virus has been known to humans for over 80 years.",
+            "What are the subtypes of the influenza virus?",
+            "The subtypes of the influenza virus include Influenza A, B, and C.",
+            "Are there any vaccines available for the influenza virus?",
+            "Yes, there are vaccines available to protect against Influenza A and B.",
+            "Thanks for explaining that to me."
+        ],
+        "knowledge": "Influenza Influenza In 1931, Richard Shope published three papers identifying a virus as the cause of swine influenza, a then newly recognized disease among pigs that was characterized during the second wave of the 1918 pandemic.  Shope's research reinvigorated research on human influenza, and many advances in virology, serology, immunology, experimental animal models, vaccinology, and immunotherapy have since arisen from influenza research.  Just two years after influenza viruses were discovered, in 1933, IAV was identified as the agent responsible for human influenza.  Subtypes of IAV were discovered throughout the 1930s, and IBV was discovered in 1940. During the Second World War, the US government worked on developing inactivated vaccines for influenza, resulting in the first influenza vaccine being licensed in 1945 in the United States.  ICV was discovered two years later in 1947.  In 1955, avian influenza was confirmed to be caused by IAV Influenza Influenza",
+        "response": "You're welcome. Please feel free to ask any other questions you have."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a flu shot. What can I do to help prevent getting the flu?",
+            "Great, getting the flu shot is the most effective way to prevent the flu. You can also take other precautions.",
+            "Like what?",
+            "Wash your hands frequently, cover your mouth and nose when you cough or sneeze, avoid close contact with sick people, and keep your immune system strong with a balanced diet and regular exercise.",
+            "Can I still get the flu even if I got a flu shot?",
+            "Yes, it is possible to get the flu after getting a flu shot, but the vaccine can still reduce the severity of symptoms and prevent flu-related complications.",
+            "Thanks for the advice. I'll make sure to take those precautions.",
+            "You're welcome. Let me know if you have any other questions.",
+            "Actually, one more question. How long does it take for the flu shot to become effective?"
+        ],
+        "knowledge": "Influenza Influenza  The influenza vaccine is the most effective way to prevent the flu.  It is recommended that everyone over the age of 6 months get the influenza vaccine annually.  Other steps to reduce the risk of getting the flu include washing your hands frequently, covering your mouth and nose when you cough or sneeze, avoiding close contact with sick people, and keeping your immune system strong with a balanced diet and regular exercise.  It is possible to get the flu after getting a flu shot, but the vaccine can still reduce the severity of symptoms and prevent flu-related complications.  It usually takes about two weeks for the flu shot to be fully effective. Influenza Influenza",
+        "response": "You're welcome. I'm glad I could help. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm not feeling well.",
+            "Hi there, what are your symptoms?",
+            "I'm feeling really tired and I have a headache.",
+            "Have you had a fever?",
+            "Yes, I have. My temperature is around 101 degrees Fahrenheit.",
+            "Okay, based on your symptoms, you might have the flu.",
+            "What should I do now?",
+            "I recommend that you stay home and get plenty of rest. Drink lots of fluids and take over-the-counter pain relievers to help with your fever and aches.",
+            "Thank you, Medi. How long does the flu usually last?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The flu usually lasts for about 7 to 10 days, but it can take up to two weeks to fully recover."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you explain what the flu is?",
+            "Sure, the flu is a contagious respiratory illness caused by the influenza virus.",
+            "What are the symptoms of the flu?",
+            "Common symptoms include fever, cough, sore throat, body aches, headache, chills, and fatigue.",
+            "Can the flu be prevented?",
+            "Yes, the best way to prevent the flu is to get vaccinated every year. It's also important to wash your hands frequently and avoid close contact with people who are sick.",
+            "What should I do if I get the flu?",
+            "If you get the flu, you should stay home and rest. Drink plenty of fluids and take over-the-counter medications to help relieve your symptoms. If your symptoms get worse or you develop more serious complications, you should see a doctor.",
+            "Thanks for the information, Medi. How long does it take to recover from the flu?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It usually takes about a week to 10 days to fully recover from the flu, but it can take longer for some people."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm worried about getting the flu.",
+            "Hello, what's concerning you?",
+            "I've heard that the flu can be really dangerous, especially for older people and young children.",
+            "That's true, the flu can be more serious for certain groups of people. That's why it's important to get vaccinated every year.",
+            "Can you tell me more about the flu vaccine?",
+            "The flu vaccine is a safe and effective way to prevent the flu. It works by introducing a small amount of the virus to your immune system, which helps your body build up immunity to the flu.",
+            "Are there any side effects?",
+            "Some people may experience mild side effects, such as soreness at the injection site or a low-grade fever. These side effects usually go away on their own within a few days.",
+            "Thank you, Medi. When is the best time to get vaccinated?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The best time to get vaccinated is in the fall, before the flu season begins. It's recommended that everyone over the age of six months get vaccinated every year."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling sick and I'm worried I might be infected with influenza.",
+            "Hi! Sorry to hear that. What symptoms are you experiencing?",
+            "I have a fever, cough, sore throat, headache, and body aches.",
+            "Based on those symptoms, it's possible that you have influenza. Have you been in contact with someone who recently had the flu?",
+            "No, I haven't been around anyone who was sick. How can I treat this?",
+            "You should rest, drink plenty of fluids, and take acetaminophen or ibuprofen to reduce your fever and relieve aches and pains. You may also consider taking antiviral medication as soon as possible to shorten the duration of the illness.",
+            "Thanks for the advice, Medi. How long will it take for me to feel better?",
+            "It usually takes about a week to 10 days to fully recover from the flu. If your symptoms worsen or you experience difficulty breathing or chest pain, seek medical attention immediately.",
+            "Got it. Thanks for your help!"
+        ],
+        "knowledge": "Influenza Influenza In 1931, Richard Shope published three papers identifying a virus as the cause of swine influenza, a then newly recognized disease among pigs that was characterized during the second wave of the 1918 pandemic.  Shope's research reinvigorated research on human influenza, and many advances in virology, serology, immunology, experimental animal models, vaccinology, and immunotherapy have since arisen from influenza research.  Just two years after influenza viruses were discovered, in 1933, IAV was identified as the agent responsible for human influenza.  Subtypes of IAV were discovered throughout the 1930s, and IBV was discovered in 1940. During the Second World War, the US government worked on developing inactivated vaccines for influenza, resulting in the first influenza vaccine being licensed in 1945 in the United States.  ICV was discovered two years later in 1947.  In 1955, avian influenza was confirmed to be caused by IAV Influenza Influenza",
+        "response": "You're welcome. Don't hesitate to contact me if you need further assistance."
+    },
+    {
+        "dialog": [
+            "Hey Medi, can you tell me about the history of influenza?",
+            "Sure, In 1931, Richard Shope published three papers identifying a virus as the cause of swine influenza, which was characterized during the second wave of the 1918 pandemic. Just two years after influenza viruses were discovered, in 1933, IAV was identified as the agent responsible for human influenza. Subtypes of IAV were discovered throughout the 1930s, and IBV was discovered in 1940. During World War II, the US government worked on developing inactivated vaccines for influenza, resulting in the first influenza vaccine being licensed in 1945 in the United States. ICV was discovered two years later in 1947.",
+            "Wow, I didn't know that. What other advances in influenza research have occurred?",
+            "Many advances have been made in virology, serology, immunology, experimental animal models, vaccinology, and immunotherapy as a result of influenza research.",
+            "Why is there such a focus on researching influenza?",
+            "Influenza is a highly contagious respiratory illness that affects millions of people worldwide each year. It can cause severe illness and even result in death, particularly in high-risk groups such as the elderly and young children. Understanding the virus and developing effective treatments and vaccines is crucial in protecting public health.",
+            "I see. Thanks for the information, Medi!",
+            "You're welcome! Let me know if you have any other questions.",
+            "Actually, I do have another question. How effective are the influenza vaccines?"
+        ],
+        "knowledge": "Influenza Influenza  Influenza vaccines have been developed to protect people against infection with influenza viruses.  Vaccines are available for the seasonal influenza viruses that circulate each year and for several avian influenza viruses that have caused human infections.  Influenza vaccines are usually trivalent or quadrivalent, containing two influenza A virus subtypes (H1N1 and H3N2) and one or two influenza B virus lineages.  Vaccine efficacy varies from year to year and depends on several factors, including the degree of match between the vaccine strains and the circulating viruses and the age and immune status of the vaccine recipient.  The Centers for Disease Control and Prevention (CDC) estimates that influenza vaccines reduce the risk of illness, hospitalization, and death from influenza by 40-60% on average. Influenza Influenza",
+        "response": "In general, influenza vaccines reduce the risk of illness, hospitalization, and death from influenza by 40-60% on average."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery and I'm wondering what kind of physical activity I can do during my recovery.",
+            "Hi! It's important to rest and take it easy after surgery, but light physical activity can be beneficial for your recovery. What kind of surgery did you have?",
+            "I had knee surgery. Can I still go for walks?",
+            "Walking is a great low-impact activity that can help with circulation and mobility. You may need to use crutches or a cane depending on your level of pain and mobility, but talk to your doctor about when it's safe to start walking again.",
+            "That's good to know. What about other exercises?",
+            "It's best to avoid high-impact exercises such as running or jumping for at least 4-6 weeks after knee surgery. Instead, try gentle exercises like stretching, yoga, or swimming to help maintain your flexibility and range of motion.",
+            "Okay, I'll keep that in mind. What else can I do to aid in my recovery?",
+            "Eating a well-balanced diet with plenty of protein, staying hydrated, and getting enough rest are all important for a successful recovery. You may also need physical therapy to help you regain strength and flexibility in your knee.",
+            "Got it, thanks for the advice!"
+        ],
+        "knowledge": "Influenza Influenza In 1931, Richard Shope published three papers identifying a virus as the cause of swine influenza, a then newly recognized disease among pigs that was characterized during the second wave of the 1918 pandemic.  Shope's research reinvigorated research on human influenza, and many advances in virology, serology, immunology, experimental animal models, vaccinology, and immunotherapy have since arisen from influenza research.  Just two years after influenza viruses were discovered, in 1933, IAV was identified as the agent responsible for human influenza.  Subtypes of IAV were discovered throughout the 1930s, and IBV was discovered in 1940. During the Second World War, the US government worked on developing inactivated vaccines for influenza, resulting in the first influenza vaccine being licensed in 1945 in the United States.  ICV was discovered two years later in 1947.  In 1955, avian influenza was confirmed to be caused by IAV Influenza Influenza",
+        "response": "You should ask your doctor when it's safe to return to your normal activities. It may take several weeks or months depending on the type of surgery and your individual recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a bad cough and a fever.",
+            "Hello! Sorry to hear that. How long have you had these symptoms?",
+            "For two days now. I also feel tired and have a headache.",
+            "Based on your symptoms, it's possible that you have the flu. You should rest and drink plenty of fluids.",
+            "Should I take any medication?",
+            "Over-the-counter medications like acetaminophen or ibuprofen can help relieve your symptoms. But if your condition worsens, you should see a doctor.",
+            "Okay, thank you. Is there anything else I should do?",
+            "Make sure to cover your mouth and nose when you cough or sneeze to prevent spreading the virus. And wash your hands often to avoid infecting others.",
+            "Got it. Thanks for your help, Medi!"
+        ],
+        "knowledge": "Influenza Influenza In 1931, Richard Shope published three papers identifying a virus as the cause of swine influenza, a then newly recognized disease among pigs that was characterized during the second wave of the 1918 pandemic.  Shope's research reinvigorated research on human influenza, and many advances in virology, serology, immunology, experimental animal models, vaccinology, and immunotherapy have since arisen from influenza research.  Just two years after influenza viruses were discovered, in 1933, IAV was identified as the agent responsible for human influenza.  Subtypes of IAV were discovered throughout the 1930s, and IBV was discovered in 1940. During the Second World War, the US government worked on developing inactivated vaccines for influenza, resulting in the first influenza vaccine being licensed in 1945 in the United States.  ICV was discovered two years later in 1947.  In 1955, avian influenza was confirmed to be caused by IAV Influenza Influenza",
+        "response": "You're welcome! If you have any other concerns, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about the flu?",
+            "Of course! The flu is a contagious respiratory illness caused by influenza viruses.",
+            "How does it spread?",
+            "It spreads through the air when someone with the flu coughs, sneezes, or talks. You can also catch it by touching a surface that has the flu virus on it and then touching your nose or mouth.",
+            "What are the symptoms?",
+            "Common symptoms include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.",
+            "How can I prevent getting the flu?",
+            "The best way to prevent getting the flu is by getting vaccinated every year. You should also wash your hands often, avoid close contact with sick people, and cover your mouth and nose when you cough or sneeze.",
+            "Thanks for the information, Medi!"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome! If you have any other questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently recovered from the flu. What should I do to prevent getting sick again?",
+            "Good to hear you're feeling better! One way to prevent the flu is to get vaccinated every year.",
+            "Can you suggest any other measures I can take?",
+            "Washing your hands often with soap and water is a simple but effective way to prevent the spread of germs. You should also avoid touching your face and clean and disinfect frequently touched surfaces.",
+            "What about my diet? Are there any foods that can help boost my immune system?",
+            "Eating a balanced diet that includes plenty of fruits, vegetables, lean protein, and whole grains can help support your immune system. Some foods that are particularly beneficial include citrus fruits, bell peppers, ginger, garlic, and spinach.",
+            "Thank you, Medi! You've been very helpful.",
+            "You're welcome! If you have any other questions, don't hesitate to ask."
+        ],
+        "knowledge": "Influenza Influenza In 1931, Richard Shope published three papers identifying a virus as the cause of swine influenza, a then newly recognized disease among pigs that was characterized during the second wave of the 1918 pandemic.  Shope's research reinvigorated research on human influenza, and many advances in virology, serology, immunology, experimental animal models, vaccinology, and immunotherapy have since arisen from influenza research.  Just two years after influenza viruses were discovered, in 1933, IAV was identified as the agent responsible for human influenza.  Subtypes of IAV were discovered throughout the 1930s, and IBV was discovered in 1940. During the Second World War, the US government worked on developing inactivated vaccines for influenza, resulting in the first influenza vaccine being licensed in 1945 in the United States.  ICV was discovered two years later in 1947.  In 1955, avian influenza was confirmed to be caused by IAV Influenza Influenza",
+        "response": "You're welcome! Stay healthy!"
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I am feeling tired and have a headache.",
+            "Hi, could you tell me more about your symptoms?",
+            "It started yesterday, I had a high fever, a cough, and a sore throat.",
+            "Based on the symptoms you have just mentioned, it might be influenza.",
+            "What should I do?",
+            "It's better to rest, drink plenty of fluids, and take ibuprofen or acetaminophen for your fever and aches.",
+            "Thank you, Medi.",
+            "You're welcome. Don't hesitate to contact me if you have any further questions.",
+            "How can I avoid influenza in the future?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You can avoid influenza by washing your hands frequently, avoiding close contact with people who are sick, and getting vaccinated every year."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. Can you explain more about influenza?",
+            "Of course. Influenza is a viral infection that attacks the respiratory system.",
+            "How does it spread?",
+            "It spreads through respiratory droplets when an infected person coughs or sneezes.",
+            "What are the common symptoms of influenza?",
+            "Common symptoms include fever, chills, cough, sore throat, runny or stuffy nose, body aches, headache, fatigue, and sometimes vomiting and diarrhea.",
+            "Is there any treatment for influenza?",
+            "Yes, there are antiviral medications that can help shorten the duration of the illness and reduce the severity of symptoms.",
+            "How long does it usually take for someone to recover from influenza?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It usually takes about a week to ten days for someone to recover from influenza."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I just recovered from influenza. Can you give me some advice on how to prevent it from happening again?",
+            "Certainly. One of the most effective ways to prevent influenza is to get vaccinated every year.",
+            "What else can I do?",
+            "You can also avoid close contact with sick people, wash your hands frequently, cover your mouth and nose when you cough or sneeze, and avoid touching your face.",
+            "Are there any natural remedies that can help prevent influenza?",
+            "There is some evidence that certain natural remedies, such as echinacea and vitamin C, may help boost your immune system and prevent influenza, but more research is needed.",
+            "Thank you, Medi. I will take your advice.",
+            "You're welcome. Stay healthy!",
+            "What are some common complications of influenza? "
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Common complications of influenza include pneumonia, bronchitis, sinus and ear infections, and worsening of chronic health problems such as asthma or heart failure."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm worried that I might have the flu.",
+            "No problem, let's see what symptoms you're experiencing.",
+            "I have a high fever, a cough and a runny nose.",
+            "Based on your symptoms, it's possible that you have influenza.",
+            "Is there anything I can do to treat it?",
+            "Yes, getting plenty of rest and fluids and taking over-the-counter fever reducers can help.",
+            "What about medication?",
+            "There are antiviral medications available to treat the flu, but they're most effective when taken early.",
+            "Okay, thank you Medi. Is there anything else I need to know?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "No problem, take it easy and get plenty of rest and fluids. Over-the-counter fever reducers can help reduce your symptoms. Antiviral medications are available, but they're most effective when taken early."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm curious about the history of influenza. Can you tell me more?",
+            "Of course, what would you like to know about it?",
+            "When was the influenza virus first identified?",
+            "In 1931, Richard Shope published three papers identifying a virus as the cause of swine influenza. Just two years later, in 1933, IAV was identified as the agent responsible for human influenza.",
+            "What other subtypes of the influenza virus have been discovered?",
+            "Subtypes of IAV were discovered throughout the 1930s, and IBV was discovered in 1940. ICV was discovered two years later in 1947.",
+            "When was the first influenza vaccine licensed?",
+            "The US government worked on developing inactivated vaccines for influenza during World War II, resulting in the first influenza vaccine being licensed in 1945.",
+            "That's really interesting, thanks Medi. Do you have any other information to share?"
+        ],
+        "knowledge": "Influenza Influenza In 1931, Richard Shope published three papers identifying a virus as the cause of swine influenza, a then newly recognized disease among pigs that was characterized during the second wave of the 1918 pandemic.  Shope's research reinvigorated research on human influenza, and many advances in virology, serology, immunology, experimental animal models, vaccinology, and immunotherapy have since arisen from influenza research.  Just two years after influenza viruses were discovered, in 1933, IAV was identified as the agent responsible for human influenza.  Subtypes of IAV were discovered throughout the 1930s, and IBV was discovered in 1940. During the Second World War, the US government worked on developing inactivated vaccines for influenza, resulting in the first influenza vaccine being licensed in 1945 in the United States.  ICV was discovered two years later in 1947.  In 1955, avian influenza was confirmed to be caused by IAV Influenza Influenza",
+        "response": "Yes, I find it fascinating as well. Did you know that avian influenza was confirmed to be caused by IAV in 1955?"
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just had the flu and I'm wondering what I should do to get back to normal.",
+            "Sorry to hear that. How long ago did you have the flu?",
+            "I just got over it a few days ago.",
+            "Okay, well the most important thing is to get plenty of rest and stay hydrated.",
+            "Is there anything else I can do?",
+            "You should try to eat a balanced diet with plenty of fruits and vegetables, and gradually start incorporating light exercise into your routine as you feel up to it.",
+            "That sounds like good advice. What about medications?",
+            "There are over-the-counter medications available to help relieve your symptoms, but most people recover from the flu without needing them.",
+            "Okay, thanks for your help Medi. What else should I know?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The most important thing is to get plenty of rest and stay hydrated. Eating a balanced diet and incorporating light exercise as you feel up to it can also help. Over-the-counter medications are available to help relieve your symptoms if needed."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I have an influenza virus. What should I do?",
+            "First, you need to stay at home and rest. What are your symptoms?",
+            "I have a sore throat, a fever, and a runny nose. I feel tired and have a headache.",
+            "Based on your symptoms, it's possible you have the flu. You should drink plenty of fluids and take over-the-counter medication to reduce your fever.",
+            "How long will it take to recover from the flu?",
+            "The flu can last for a week or more. You need to get plenty of rest to recover fully.",
+            "What should I do If my symptoms get worse?",
+            "If your symptoms persist or get worse, you should visit your doctor.",
+            "Thanks for your advice, Medi. How can I avoid getting the flu in the future?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You should wash your hands frequently, avoid close contact with sick people, cover your mouth when you cough or sneeze, and get an annual flu vaccine."
+    },
+    {
+        "dialog": [
+            "Hello Medi, what is influenza and how does it spread?",
+            "Influenza is caused by a virus that attacks the respiratory system. It spreads from person to person through droplets in the air.",
+            "What are the symptoms of the flu?",
+            "The symptoms of the flu include a fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.",
+            "Can the flu be cured?",
+            "There is no cure for the flu. Treatment involves managing the symptoms and getting plenty of rest.",
+            "Is there a vaccine for the flu?",
+            "Yes, there is an annual flu vaccine that is recommended for everyone over the age of six months.",
+            "Thanks for your explanation. How effective is the flu vaccine?"
+        ],
+        "knowledge": "Influenza Influenza In 1931, Richard Shope published three papers identifying a virus as the cause of swine influenza, a then newly recognized disease among pigs that was characterized during the second wave of the 1918 pandemic.  Shope's research reinvigorated research on human influenza, and many advances in virology, serology, immunology, experimental animal models, vaccinology, and immunotherapy have since arisen from influenza research.  Just two years after influenza viruses were discovered, in 1933, IAV was identified as the agent responsible for human influenza.  Subtypes of IAV were discovered throughout the 1930s, and IBV was discovered in 1940. During the Second World War, the US government worked on developing inactivated vaccines for influenza, resulting in the first influenza vaccine being licensed in 1945 in the United States.  ICV was discovered two years later in 1947.  In 1955, avian influenza was confirmed to be caused by IAV Influenza Influenza",
+        "response": "The effectiveness of the flu vaccine varies from year to year, but it can reduce the risk of getting the flu by 40-60%."
+    },
+    {
+        "dialog": [
+            "Hello Medi, what should I do after recovering from the flu?",
+            "After recovering from the flu, you should get plenty of rest and drink plenty of fluids to help your body recover.",
+            "Should I return to work or school right after I recover?",
+            "No, you should wait at least 24 hours after your fever has gone away before returning to work or school.",
+            "How can I prevent the flu from spreading to others?",
+            "You should cover your nose and mouth when you cough or sneeze, wash your hands often, and avoid close contact with others.",
+            "Can I get the flu again?",
+            "Yes, you can get the flu again because the virus can mutate and change over time.",
+            "Thanks for your help. How can I strengthen my immune system to prevent getting sick?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You can strengthen your immune system by eating a healthy diet, getting regular exercise, getting enough sleep, and reducing stress."
+    }
+]

@@ -1,0 +1,353 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I have been feeling sick for a few days now",
+            "Hello! I am here to help. Can you please tell me what's bothering you?",
+            "I have a fever and a dry cough, and I feel very tired.",
+            "Based on your symptoms, it's likely that you have contracted the flu.",
+            "What should I do to recover quickly?",
+            "Resting is important, and you should drink plenty of fluids. You can also take antiviral medication.",
+            "Should I see a doctor?",
+            "If your symptoms worsen, or you are struggling to breathe, then it's best to see a doctor. Otherwise, you can recover at home.",
+            "Okay, thank you for your advice."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Resting is important, and you should drink plenty of fluids. You can also take antiviral medication."
+    },
+    {
+        "dialog": [
+            "Medi, I have a question about B cells and their role in the immune system.",
+            "Of course, I am here to help and answer any questions you may have!",
+            "Can you explain what B cells are and how they function?",
+            "B cells are a type of white blood cell that are responsible for producing antibodies to fight off infections.",
+            "How do the antibodies produced by B cells work?",
+            "Once the antibodies produced by B cells bind to antigens on the surface of pathogens, they neutralize the pathogen and prevent it from causing harm to the body.",
+            "What is the role of B cells in fighting off the flu?",
+            "During an infection with the flu, B cells produce antibodies that bind to influenza antigens HA and NA. Once bound to these proteins, antibodies block virions from binding to cellular receptors, neutralizing the virus.",
+            "That's very helpful, thank you for explaining."
+        ],
+        "knowledge": "Influenza Influenza  Interferons mediate expression of antiviral proteins and proteins that recruit immune cells to the infection site, and they also notify nearby uninfected cells of infection.  Some infected cells release pro-inflammatory cytokines that recruit immune cells to the site of infection.  Immune cells control viral infection by killing infected cells and phagocytizing viral particles and apoptotic cells.  An exacerbated immune response, however, can harm the host organism through a cytokine storm.  To counter the immune response, influenza viruses encode various non-structural proteins, including NS1, NEP, PB1-F2, and PA-X, that are involved in curtailing the host immune response by suppressing interferon production and host gene expression. B cells, a type of white blood cell, produce antibodies that bind to influenza antigens HA and NA  and other proteins to a lesser degree.  Once bound to these proteins, antibodies block virions from binding to cellular receptors, neutralizing the virus Influenza Influenza",
+        "response": "B cells produce antibodies that bind to influenza antigens HA and NA. Once bound to these proteins, antibodies block virions from binding to cellular receptors, neutralizing the virus."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have recently had a medical procedure and want advice on how to recover quickly.",
+            "Sure, I am here to help. Can you tell me what type of procedure you have had?",
+            "I have had surgery to remove a tumor.",
+            "After surgery, it's important to take enough rest and eat a healthy, balanced diet. You should also avoid any strenuous physical activity for a while.",
+            "How long should I rest for?",
+            "The length of time you need to rest for will depend on the type of surgery you have had. Your doctor will give you specific instructions.",
+            "What type of food should I eat?",
+            "You should aim to eat a diet that is high in protein, and also includes plenty of fruits and vegetables to help with healing.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Influenza Influenza  Interferons mediate expression of antiviral proteins and proteins that recruit immune cells to the infection site, and they also notify nearby uninfected cells of infection.  Some infected cells release pro-inflammatory cytokines that recruit immune cells to the site of infection.  Immune cells control viral infection by killing infected cells and phagocytizing viral particles and apoptotic cells.  An exacerbated immune response, however, can harm the host organism through a cytokine storm.  To counter the immune response, influenza viruses encode various non-structural proteins, including NS1, NEP, PB1-F2, and PA-X, that are involved in curtailing the host immune response by suppressing interferon production and host gene expression. B cells, a type of white blood cell, produce antibodies that bind to influenza antigens HA and NA  and other proteins to a lesser degree.  Once bound to these proteins, antibodies block virions from binding to cellular receptors, neutralizing the virus Influenza Influenza",
+        "response": "After surgery, it's important to take enough rest and eat a healthy, balanced diet. You should also avoid any strenuous physical activity for a while."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel like I may have the flu",
+            "Can you tell me more about your symptoms?",
+            "I have a fever, a cough, and my nose is congested",
+            "Based on your symptoms, it's possible that you have the flu",
+            "What should I do now?",
+            "It's important to stay home and rest. Drink plenty of fluids and take over-the-counter flu medicine",
+            "Thank you for your help Medi",
+            "You're welcome, take care and get some rest",
+            "How long does it take for the flu to go away?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The standard flu usually lasts for 2-8 days"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about the flu",
+            "Sure, what do you want to know?",
+            "How can I prevent getting the flu?",
+            "You can get vaccinated every year, wash your hands frequently, and avoid contact with people who are sick",
+            "Is the flu a serious illness?",
+            "For most people, the flu is a mild illness. However, for some people, such as the elderly or those with weakened immune systems, it can be serious",
+            "Thank you for answering my questions, Medi",
+            "You're welcome, stay healthy",
+            "Can you tell me more about the flu vaccine?"
+        ],
+        "knowledge": "Influenza Influenza  The flu vaccine is recommended for most people over the age of 6 months, including pregnant women.  It is usually given as an injection, but it can also be given as a nasal spray.  The vaccine is designed to protect against the strains of influenza virus that are expected to be most common in the upcoming flu season.  The vaccine does not provide complete protection against the flu, but it can reduce the severity of the illness and the risk of complications.  Side effects of the vaccine are usually mild and include soreness at the injection site or a runny nose after the nasal spray.  The vaccine cannot cause influenza because it is made from killed or weakened viruses Influenza Influenza",
+        "response": "The flu vaccine is recommended for most people over the age of 6 months and is designed to protect against the strains of influenza virus that are expected to be most common in the upcoming flu season"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just got over the flu. What should I do now?",
+            "It's important to continue to rest, drink plenty of fluids, and eat healthy food. You should also avoid contact with people who are sick",
+            "Is there anything else I can do to help my recovery?",
+            "Gentle exercise, such as walking or stretching, can help with your recovery. You can also take over-the-counter medicine, such as pain relievers, to help with any remaining symptoms",
+            "Thank you for your advice, Medi",
+            "You're welcome, take care and get plenty of rest",
+            "How long before I can return to my normal activities?"
+        ],
+        "knowledge": "Influenza Influenza  The standard influenza symptoms typically last for 2 - 8 days.  It may take several days or even weeks to fully recover from the flu, depending on the severity of the illness and the individual's overall health.  It is important to rest, drink plenty of fluids, and eat healthy food during the recovery period.  Once you feel better, you can gradually return to your normal activities.  However, it is important to continue to take care of yourself and avoid overexertion until you are fully recovered Influenza Influenza",
+        "response": "It may take several days or even weeks to fully recover from the flu, depending on the severity of the illness and the individual's overall health"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm not feeling well. I have a headache and a sore throat.",
+            "I'm sorry to hear that. How long have you had these symptoms?",
+            "I've had them for a couple of days now. It's been getting worse.",
+            "Based on your symptoms, it's possible that you have the flu. You should rest and drink plenty of fluids. If your symptoms persist, you should see a doctor.",
+            "What kind of medication can help relieve my symptoms?",
+            "You can take over-the-counter pain relievers like acetaminophen or ibuprofen to help with your headache and sore throat. You can also try using a saline nasal spray to help with your congestion.",
+            "Thanks for the advice, Medi. I'll try those suggestions.",
+            "You're welcome. Let me know if you have any other questions.",
+            "Actually, I do have one last question. How can I prevent the flu from spreading to others?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "To prevent the flu from spreading, you should stay home if you're sick, cover your mouth and nose when coughing or sneezing, and wash your hands frequently."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about the flu.",
+            "Sure, what do you want to know?",
+            "How does the flu virus affect the body?",
+            "When the flu virus enters the body, it infects cells in the respiratory tract. This triggers an immune response that produces symptoms like fever, cough, and sore throat. The immune system also produces interferons that help fight the virus. In severe cases, an exaggerated immune response can cause harm to the body through a cytokine storm.",
+            "That sounds serious. Is there anything you can do to prevent a cytokine storm?",
+            "There are medications that can help prevent cytokine storms, but they're usually only used in severe cases. The best way to prevent a cytokine storm is to get vaccinated against the flu and to practice good hygiene habits like washing your hands frequently.",
+            "Thanks for the information, Medi. I'll make sure to get vaccinated.",
+            "You're welcome. Let me know if you have any other questions.",
+            "I do, actually. How effective is the flu vaccine?"
+        ],
+        "knowledge": "Influenza Influenza  Interferons mediate expression of antiviral proteins and proteins that recruit immune cells to the infection site, and they also notify nearby uninfected cells of infection.  Some infected cells release pro-inflammatory cytokines that recruit immune cells to the site of infection.  Immune cells control viral infection by killing infected cells and phagocytizing viral particles and apoptotic cells.  An exacerbated immune response, however, can harm the host organism through a cytokine storm.  To counter the immune response, influenza viruses encode various non-structural proteins, including NS1, NEP, PB1-F2, and PA-X, that are involved in curtailing the host immune response by suppressing interferon production and host gene expression. B cells, a type of white blood cell, produce antibodies that bind to influenza antigens HA and NA  and other proteins to a lesser degree.  Once bound to these proteins, antibodies block virions from binding to cellular receptors, neutralizing the virus Influenza Influenza",
+        "response": "The effectiveness of the flu vaccine varies from year to year and depends on a variety of factors, including how well the vaccine matches the circulating strains of the virus."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery and I'm not sure what kind of physical activity I can do.",
+            "What kind of surgery did you have?",
+            "I had knee surgery.",
+            "After knee surgery, it's important to start with gentle exercises like walking and gradually increase the intensity over time. You should avoid high-impact activities like running or jumping until your doctor gives you the okay.",
+            "What about weightlifting? Can I do that?",
+            "You can start with light weightlifting, but you should avoid heavy lifting until your knee has fully healed. It's important to listen to your body and not push yourself too hard.",
+            "I see. What about my diet? Should I make any changes?",
+            "It's important to eat a balanced diet with plenty of protein to help with the healing process. You should also make sure to drink plenty of water and avoid foods that are high in sugar or saturated fat.",
+            "Thanks for the advice, Medi. I'll make sure to follow it."
+        ],
+        "knowledge": "Knee Surgery Knee Surgery  After knee surgery, it's important to start with gentle exercises like walking and gradually increase the intensity over time. You should avoid high-impact activities like running or jumping until your doctor gives you the okay. You can start with light weightlifting, but you should avoid heavy lifting until your knee has fully healed. It's important to eat a balanced diet with plenty of protein to help with the healing process. You should also make sure to drink plenty of water and avoid foods that are high in sugar or saturated fat. The recovery time for knee surgery can vary depending on the type and extent of the surgery. It can take anywhere from a few weeks to several months to fully recover. It's important to follow your doctor's instructions and to gradually increase your activity level as you heal.",
+        "response": "The recovery time for knee surgery can vary depending on the type and extent of the surgery. It can take anywhere from a few weeks to several months to fully recover."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel really sick today.",
+            "I'm sorry to hear that. What are your symptoms?",
+            "I have a fever, a cough, and my throat is sore.",
+            "I see. It sounds like you might have the flu.",
+            "What should I do?",
+            "You should rest and drink plenty of fluids. You can also take over-the-counter medicine to help with your symptoms.",
+            "Okay. Thank you, Medi.",
+            "You're welcome. Take care of yourself."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It sounds like you might have the flu."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about the flu.",
+            "Of course! What would you like to know?",
+            "Can the flu be serious?",
+            "Yes, it can be. In some cases, the flu can lead to complications like pneumonia, especially in young children, older adults, and people with weakened immune systems.",
+            "How can I prevent getting the flu?",
+            "The best way to prevent the flu is to get vaccinated every year. You can also practice good hygiene by washing your hands frequently and avoiding close contact with people who are sick.",
+            "That's helpful. Thank you, Medi.",
+            "You're welcome. Stay healthy!"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The best way to prevent the flu is to get vaccinated every year. You can also practice good hygiene by washing your hands frequently and avoiding close contact with people who are sick."
+    },
+    {
+        "dialog": [
+            "Hello Medi. I recently recovered from the flu.",
+            "I'm glad to hear that! How are you feeling now?",
+            "I'm feeling much better. But I was wondering if there's anything I can do to prevent getting the flu again?",
+            "Yes, there are a few things you can do. First, make sure to wash your hands frequently and avoid touching your face. You can also boost your immune system by eating a healthy diet, getting enough sleep, and exercising regularly.",
+            "That's good to know. Thank you, Medi.",
+            "You're welcome. Stay healthy!",
+            "One more question - can the flu vaccine give me the flu?",
+            "No, it cannot. The flu vaccine is made with killed or weakened viruses, so it cannot cause the flu. Some people may experience mild side effects like soreness at the injection site or a low-grade fever, but these usually go away within a few days.",
+            "I see. Thank you for the information, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "No, the flu vaccine cannot give you the flu. Some people may experience mild side effects like soreness at the injection site or a low-grade fever, but these usually go away within a few days."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and feel exhausted",
+            "Hello. Can you provide more information about your symptoms?",
+            "I have a headache, chills, muscle pain, and I feel tired all day",
+            "I think you may have influenza. You should rest and drink plenty of fluids.",
+            "How long will it take for me to recover?",
+            "It usually lasts 2-7 days. If it gets worse or lasts longer, please see a doctor.",
+            "What can I do to prevent influenza?",
+            "Wash your hands frequently, avoid close contact with sick people, and get vaccinated every year.",
+            "Thank you, Medi. I will follow your advice."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. I hope you recover soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about influenza",
+            "Sure, what's your question?",
+            "What is the difference between influenza and the common cold?",
+            "Influenza is a viral infection that causes fever, cough, body aches, and fatigue. The common cold is usually milder and can cause a runny nose or nasal congestion.",
+            "Can influenza be deadly?",
+            "Yes, influenza can lead to serious complications such as pneumonia, especially in older adults and people with weakened immune systems.",
+            "How is influenza treated?",
+            "Most people recover from influenza without any treatment. However, antiviral medications can be prescribed to reduce the severity and duration of symptoms.",
+            "Thank you, Medi. You've been very helpful."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Don't hesitate to ask if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I just had a flu shot. What can I do to prevent the flu?",
+            "The flu shot is an effective way to prevent the flu, but there are other things you can do to stay healthy",
+            "What are some ways to prevent the flu?",
+            "Wash your hands frequently, avoid close contact with sick people, and cover your mouth and nose when you cough or sneeze.",
+            "Do I need to get a flu shot every year?",
+            "Yes, the flu virus changes every year, so the flu shot is updated to protect against the most common strains of the virus.",
+            "What should I do if I get the flu despite getting the flu shot?",
+            "If you get the flu, rest, drink plenty of fluids, and take over-the-counter medications to relieve symptoms. If you have serious symptoms or are at high risk for complications, see a doctor.",
+            "Thank you, Medi. I appreciate your advice."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Stay healthy and take care."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and cough",
+            "I see. How long have you had these symptoms?",
+            "It's been 2 days now.",
+            "Do you have any difficulty breathing?",
+            "No, just the cough and fever.",
+            "Based on your symptoms, it might be influenza.",
+            "What should I do now?",
+            "You should rest, drink plenty of fluids, and take antipyretics.",
+            "Thank you Medi, what if my symptoms persist?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You should rest, drink plenty of fluids, and take antipyretics. If your symptoms persist, please contact your doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, what is influenza?",
+            "Influenza is a virus that causes respiratory illness",
+            "What are the symptoms of influenza?",
+            "Common symptoms include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.",
+            "Can influenza be treated?",
+            "Treatment for influenza focuses on relieving symptoms and can include rest, fluids, and medications for fever and body aches.",
+            "How can we prevent influenza?",
+            "The best way to prevent influenza is by getting vaccinated every year and practicing good hygiene such as washing your hands regularly and avoiding close contact with sick people.",
+            "Thank you for the information, Medi. How effective is the influenza vaccine?"
+        ],
+        "knowledge": "Influenza Influenza  Influenza is a virus that causes respiratory illness.  Common symptoms include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue.  Treatment for influenza focuses on relieving symptoms and can include rest, fluids, and medications for fever and body aches. The best way to prevent influenza is by getting vaccinated every year and practicing good hygiene such as washing your hands regularly and avoiding close contact with sick people. Studies have shown that the vaccine reduces the risk of influenza illness by 40% to 60%",
+        "response": "Studies have shown that the vaccine reduces the risk of influenza illness by 40% to 60%."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a flu shot. Should I still be worried about getting the flu?",
+            "It's normal to have some concerns, but the flu shot is very effective at preventing the flu.",
+            "Can the flu shot make me sick?",
+            "The flu shot cannot give you the flu. Some people may experience minor side effects such as soreness, redness, or swelling at the injection site or a low-grade fever.",
+            "How long does it take for the flu shot to take effect?",
+            "It takes about two weeks for the flu shot to take full effect.",
+            "Is the flu shot safe for pregnant women?",
+            "Yes, the flu shot is safe for pregnant women and can even protect their newborns from the flu.",
+            "Thank you, Medi. Is there anything else I should know about the flu shot?"
+        ],
+        "knowledge": "Influenza Influenza  The flu shot is very effective at preventing the flu. The flu shot cannot give you the flu. Some people may experience minor side effects such as soreness, redness, or swelling at the injection site or a low-grade fever. It takes about two weeks for the flu shot to take full effect. The flu shot is safe for pregnant women and can even protect their newborns from the flu. Anyone over the age of 6 months is recommended to get the flu shot every year.",
+        "response": "Anyone over the age of 6 months is recommended to get the flu shot every year."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been feeling very unwell lately.",
+            "I am sorry to hear that. Could you please tell me more about your symptoms?",
+            "I have been experiencing a high fever, body aches, coughing, and fatigue.",
+            "Based on what you have told me, it seems like you might have contracted the flu.",
+            "Is there anything I can do to make it go away faster?",
+            "You should rest as much as possible, drink plenty of fluids, and take over-the-counter medications to reduce your fever and relieve your symptoms.",
+            "What kind of over-the-counter medications do you recommend?",
+            "I would suggest taking acetaminophen or ibuprofen to reduce your fever and relieve your body aches.",
+            "Thank you for your advice, Medi. I appreciate your help."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on what you have told me, it seems like you might have contracted the flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about the flu.",
+            "Sure, what would you like to know?",
+            "How exactly does the flu virus affect the body?",
+            "When the flu virus enters the body, it targets the respiratory system and infects the cells lining the nose, throat, and lungs. The virus then multiplies rapidly, causing inflammation and damage to these tissues.",
+            "What happens to the immune system during a flu infection?",
+            "The immune system responds to the virus by producing antibodies that can neutralize the virus and prevent it from spreading. However, sometimes the immune response can be too strong, resulting in flu symptoms such as fever and body aches.",
+            "Are there any treatments for the flu?",
+            "Yes, antiviral medications can be effective in treating the flu if they are taken within the first 48 hours of symptoms. Additionally, rest and plenty of fluids can help the body fight off the infection.",
+            "Thanks for your explanation, Medi. I feel more informed now."
+        ],
+        "knowledge": "Influenza Influenza  Interferons mediate expression of antiviral proteins and proteins that recruit immune cells to the infection site, and they also notify nearby uninfected cells of infection.  Some infected cells release pro-inflammatory cytokines that recruit immune cells to the site of infection.  Immune cells control viral infection by killing infected cells and phagocytizing viral particles and apoptotic cells.  An exacerbated immune response, however, can harm the host organism through a cytokine storm.  To counter the immune response, influenza viruses encode various non-structural proteins, including NS1, NEP, PB1-F2, and PA-X, that are involved in curtailing the host immune response by suppressing interferon production and host gene expression. B cells, a type of white blood cell, produce antibodies that bind to influenza antigens HA and NA  and other proteins to a lesser degree.  Once bound to these proteins, antibodies block virions from binding to cellular receptors, neutralizing the virus Influenza Influenza",
+        "response": "Antiviral medications can be effective in treating the flu if they are taken within the first 48 hours of symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I was recently diagnosed with the flu. What lifestyle changes should I make?",
+            "Rest is the most important thing you can do to help your body fight off the flu. Additionally, you should drink plenty of fluids, such as water and herbal tea, to stay hydrated.",
+            "What about my diet? Are there any foods that might help me feel better?",
+            "Foods that are high in vitamin C, such as oranges and grapefruits, can help support your immune system. Additionally, you should focus on eating nutrient-dense foods, such as leafy greens and lean protein, to give your body the energy it needs to fight off the infection.",
+            "What kind of physical activity should I be doing?",
+            "While you are sick, it's important to rest as much as possible. However, once you start feeling better, you can gradually increase your activity level. Gentle activities such as stretching or walking can help you regain your strength.",
+            "Thanks for your advice, Medi. I will definitely follow it.",
+            "You're welcome. Remember to listen to your body and take things at your own pace.",
+            "I will. Thanks again."
+        ],
+        "knowledge": "Influenza Influenza  Interferons mediate expression of antiviral proteins and proteins that recruit immune cells to the infection site, and they also notify nearby uninfected cells of infection.  Some infected cells release pro-inflammatory cytokines that recruit immune cells to the site of infection.  Immune cells control viral infection by killing infected cells and phagocytizing viral particles and apoptotic cells.  An exacerbated immune response, however, can harm the host organism through a cytokine storm.  To counter the immune response, influenza viruses encode various non-structural proteins, including NS1, NEP, PB1-F2, and PA-X, that are involved in curtailing the host immune response by suppressing interferon production and host gene expression. B cells, a type of white blood cell, produce antibodies that bind to influenza antigens HA and NA  and other proteins to a lesser degree.  Once bound to these proteins, antibodies block virions from binding to cellular receptors, neutralizing the virus Influenza Influenza",
+        "response": "Remember to listen to your body and take things at your own pace."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a sore throat and body aches.",
+            "Hello! Sorry to hear that. Have you been in contact with anyone who has a cold or flu?",
+            "Yes, actually my colleague had a cold last week.",
+            "Hmm, it's possible you could have caught a cold or the flu. Do you have a fever?",
+            "Yes, my temperature is 100.4 degrees Fahrenheit.",
+            "Okay, it's likely you have a viral illness. Get some rest and drink plenty of fluids. You can take acetaminophen to help with body aches and fever. If your symptoms worsen or persist for more than a few days, see a doctor.",
+            "Thank you for your advice, Medi. I will definitely rest and take care of myself.",
+            "You're welcome. Take care!"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it's likely that you have a viral illness such as a cold or flu. Rest and drink plenty of fluids, and take acetaminophen to help with fever and body aches."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about the flu vaccine.",
+            "Sure, I'm here to help. What would you like to know?",
+            "Is the flu vaccine effective against all strains of the flu?",
+            "No, the flu vaccine is not 100% effective against all strains of the flu. However, getting vaccinated is the best way to protect yourself from the flu and reduce the severity of symptoms if you do get sick.",
+            "I see. When is the best time to get the flu vaccine?",
+            "The best time to get the flu vaccine is before the flu season starts, ideally in September or October. However, getting vaccinated later in the season is still better than not getting vaccinated at all.",
+            "Okay, thank you for your advice, Medi.",
+            "You're welcome. Stay healthy!"
+        ],
+        "knowledge": "Influenza Influenza  Influenza viruses are able to undergo antigenic drift or shift, which allows them to evade the immune response and cause annual epidemics.  The three types of influenza virus are A, B, and C.  Influenza A viruses have high genetic variability and are responsible for most severe and pandemic cases, whereas influenza B viruses are less variable and usually result in less severe illness.  Influenza C viruses cause mild respiratory illness.  Influenza vaccines are updated annually to match the strains of influenza virus that are expected to circulate during the upcoming flu season.  The effectiveness of the vaccine varies depending on the match between the vaccine strains and the circulating strains.  Vaccinated individuals may still develop influenza, but the vaccine can help reduce the severity of symptoms and the risk of complications Influenza Influenza",
+        "response": "The flu vaccine is not 100% effective against all strains of the flu, but getting vaccinated is still the best way to protect yourself and reduce the severity of symptoms if you do get sick. The best time to get vaccinated is before the flu season starts, ideally in September or October."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from the flu and I want to know how I can prevent getting sick again.",
+            "Hi! Great to hear you've recovered. To prevent getting sick again, make sure to wash your hands frequently, avoid close contact with sick people, and disinfect surfaces that are frequently touched.",
+            "What about the flu vaccine? Should I get it even though I've already had the flu?",
+            "Yes, you should still get the flu vaccine even if you've already had the flu. The vaccine can still protect you from other strains of the flu that you may not have been exposed to yet.",
+            "Okay, I'll make sure to keep those tips in mind. Thank you for your advice, Medi.",
+            "You're welcome. Stay healthy!"
+        ],
+        "knowledge": "Influenza Influenza  Influenza viruses are able to undergo antigenic drift or shift, which allows them to evade the immune response and cause annual epidemics.  The three types of influenza virus are A, B, and C.  Influenza A viruses have high genetic variability and are responsible for most severe and pandemic cases, whereas influenza B viruses are less variable and usually result in less severe illness.  Influenza C viruses cause mild respiratory illness.  Influenza vaccines are updated annually to match the strains of influenza virus that are expected to circulate during the upcoming flu season.  The effectiveness of the vaccine varies depending on the match between the vaccine strains and the circulating strains.  Vaccinated individuals may still develop influenza, but the vaccine can help reduce the severity of symptoms and the risk of complications Influenza Influenza",
+        "response": "To prevent getting sick again, make sure to wash your hands frequently, avoid close contact with sick people, and disinfect surfaces that are frequently touched. You should still get the flu vaccine even if you've already had the flu, as it can protect you from other strains of the flu that you may not have been exposed to yet."
+    }
+]

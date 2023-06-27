@@ -1,0 +1,316 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms that I am really worried about.",
+            "Hello, let me know your symptoms",
+            "I have difficulty breathing and a persistent cough.",
+            "How long have you had these symptoms?",
+            "It's been almost a week now.",
+            "You might be experiencing asthma or COPD, but other conditions can also cause these symptoms.",
+            "What can I do to reduce my symptoms?",
+            "It's important to avoid exposure to irritants like tobacco smoke. You can also take bronchodilators and inhaled corticosteroids.",
+            "Thank you for your advice, Medi. How can I prevent this from happening again in the future?"
+        ],
+        "knowledge": "Asthma Asthma  In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors may cause similar symptoms.  In both populations vocal cord dysfunction may present similarly. Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma.  After the age of 65, most people with obstructive airway disease will have asthma and COPD.  In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi.  However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation.  It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy Asthma Asthma",
+        "response": "Avoiding exposure to irritants like tobacco smoke, taking bronchodilators and inhaled corticosteroids can help you reduce your symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I was wondering if you could explain to me what COPD is.",
+            "Hello, COPD stands for chronic obstructive pulmonary disease.",
+            "What is it exactly?",
+            "It's a chronic inflammatory disease that causes airflow blockage and breathing-related problems.",
+            "What are some of the symptoms of COPD?",
+            "Some common symptoms include coughing, wheezing, shortness of breath, chest tightness, and excess mucus production.",
+            "Is there a way to treat COPD?",
+            "The best way to treat COPD is to quit smoking if you smoke. Medications such as bronchodilators and inhaled steroids can also help, and pulmonary rehabilitation is recommended for many patients.",
+            "Thank you, Medi. Is there anything I can do to prevent COPD?"
+        ],
+        "knowledge": "COPD COPD  COPD is a chronic inflammatory disease that causes airflow blockage and breathing-related problems.  Symptoms include coughing, wheezing, shortness of breath, chest tightness, and excess mucus production.  Treatment options include quitting smoking, medication such as bronchodilators and inhaled steroids, and pulmonary rehabilitation.  Prevention is possible by avoiding smoking and exposure to secondhand smoke and air pollution.  Good air quality, healthy diet, and regular physical activity can also help reduce the risk of developing COPD. COPD COPD",
+        "response": "Quitting smoking, avoiding exposure to secondhand smoke and air pollution, maintaining good air quality, healthy diet, and regular physical activity reduce the risk of developing COPD."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a medical procedure done and I'm not sure how to proceed with my daily life.",
+            "Hello, what kind of procedure did you have?",
+            "I had a bronchoscopy.",
+            "It's important to avoid strenuous activity for the first few days. Drink plenty of fluids and rest.",
+            "What should I eat?",
+            "A soft diet is recommended for the first day or two after a bronchoscopy. You can gradually add solid foods as you feel more comfortable.",
+            "Are there any other precautions I should take?",
+            "Yes, it's important to avoid smoking for at least 24 hours after the procedure. If you experience any shortness of breath, chest pain, or fever, contact your doctor immediately.",
+            "Thank you for your help, Medi. What kind of exercises can I do after the procedure?"
+        ],
+        "knowledge": "Bronchoscopy Bronchoscopy  Complications from bronchoscopy are rare but include bleeding, infection, and bronchospasm.  After the procedure, it's important to avoid strenuous activity for the first few days. A soft diet is recommended for the first day or two, and you should avoid smoking for at least 24 hours after the procedure. If you experience any shortness of breath, chest pain, or fever, contact your doctor immediately. Bronchoscopy Bronchoscopy",
+        "response": "You should avoid strenuous activity and smoking, drink plenty of fluids, and rest for the first few days. You can gradually add solid foods to your diet as you feel more comfortable. If you experience any shortness of breath, chest pain, or fever, contact your doctor immediately."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I need your advice.",
+            "Of course, I'm here to help you. Please describe your symptoms.",
+            "I have a cough and shortness of breath.",
+            "How long have you had these symptoms?",
+            "For about a week now.",
+            "It's possible that you have asthma or COPD. I recommend you see a doctor for a proper diagnosis.",
+            "What would be the treatment for these conditions?",
+            "Treatment usually involves a combination of medication and lifestyle changes, such as avoiding triggers and quitting smoking.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Asthma Asthma  In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors may cause similar symptoms.  In both populations vocal cord dysfunction may present similarly. Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma.  After the age of 65, most people with obstructive airway disease will have asthma and COPD.  In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi.  However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation.  It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy Asthma Asthma",
+        "response": "You might have asthma or COPD. Please see a doctor for a proper diagnosis."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about asthma.",
+            "Hello, I'd be happy to help. What's your question?",
+            "Is asthma a contagious disease?",
+            "No, asthma is not contagious. It is a chronic respiratory disease that affects your airways.",
+            "Thanks for your answer. Can asthma be cured?",
+            "Unfortunately, there is no cure for asthma. However, with proper treatment, most people with asthma can lead normal, active lives.",
+            "How can I prevent asthma attacks?",
+            "You can prevent asthma attacks by avoiding triggers, taking your medication as prescribed and following your asthma action plan.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Asthma Asthma  In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors may cause similar symptoms.  In both populations vocal cord dysfunction may present similarly. Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma.  After the age of 65, most people with obstructive airway disease will have asthma and COPD.  In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi.  However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation.  It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy Asthma Asthma",
+        "response": "Asthma is not contagious, unfortunately, there is no cure for asthma. You can prevent asthma attacks by avoiding triggers, taking your medication as prescribed and following your asthma action plan."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure and I have some questions.",
+            "Hello, I'm here to help. What questions do you have?",
+            "What lifestyle changes should I make after the procedure?",
+            "After a medical procedure, it's important to rest and follow your doctor's instructions for physical activity. You may also need to modify your diet and avoid certain foods or activities.",
+            "Should I continue taking my medications?",
+            "You should continue taking your medications as prescribed unless your doctor tells you otherwise.",
+            "Can I resume my normal activities?",
+            "It depends on the type of procedure you had. You should follow your doctor's instructions for activity restrictions and gradually resume your normal activities as advised.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Asthma Asthma  In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors may cause similar symptoms.  In both populations vocal cord dysfunction may present similarly. Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma.  After the age of 65, most people with obstructive airway disease will have asthma and COPD.  In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi.  However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation.  It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy Asthma Asthma",
+        "response": "After a medical procedure, it's important to rest and follow your doctor's instructions for physical activity, continue taking your medications as prescribed, and gradually resume your normal activities as advised."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have difficulty in breathing lately.",
+            "I am sorry to hear that, can you describe more about your symptoms?",
+            "I feel short of breath, wheezing, coughing, and chest tightness.",
+            "Have you ever been diagnosed with asthma or COPD?",
+            "No, I haven't",
+            "Based on your symptoms, it may indicate asthma. I suggest you see a doctor for a proper diagnosis",
+            "What kind of medication should I take?",
+            "Depending on the severity of your condition, inhalers such as bronchodilators or corticosteroids may be prescribed",
+            "What can trigger asthma to worsen? "
+        ],
+        "knowledge": "Asthma Asthma  In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors may cause similar symptoms.  In both populations vocal cord dysfunction may present similarly. Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma.  After the age of 65, most people with obstructive airway disease will have asthma and COPD.  In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi.  However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation.  It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy Asthma Asthma",
+        "response": "There are many factors that can trigger asthma, such as allergies, exercise, cold air, stress, and respiratory infections. Do you have any allergies?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am really curious about the symptoms of congestive heart failure.",
+            "Sure, I can help with that. Do you know what congestive heart failure is?",
+            "Not really, can you explain it to me?",
+            "It is a condition where the heart does not pump blood properly and fluid builds up in the lungs and other tissues",
+            "What are the symptoms of congestive heart failure?",
+            "Shortness of breath, fatigue, swollen legs, ankles and feet, rapid heartbeat, persistent coughing or wheezing",
+            "That's very helpful, thanks. Can it be treated?",
+            "Yes, it can be treated with medications such as ACE inhibitors and beta-blockers, or with lifestyle changes like reducing salt intake and doing regular exercise",
+            "What can cause congestive heart failure?"
+        ],
+        "knowledge": "Congestive Heart Failure Congestive heart failure  The heart does not pump blood around the body efficiently as it should, and this can cause blood and other fluids to build up in the lungs, abdomen, liver, and lower body.  Symptoms include shortness of breath, fatigue, swollen legs, ankles and feet, rapid heartbeat, persistent coughing or wheezing.  Causes can include coronary artery disease, high blood pressure, heart valve disease, congenital heart defects, and certain medications.  There are medications that can help manage the symptoms and lifestyle changes such as reducing salt intake and exercise can help improve the condition. Congestive Heart Failure Congestive heart failure",
+        "response": "The causes of congestive heart failure can vary, but most commonly, it is caused by conditions that have damaged or weakened the heart, such as coronary artery disease, high blood pressure, heart valve disease, congenital heart defects, and certain medications. Do you have any of these conditions?"
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just had a bronchoscopy procedure a few days ago. What should I do now?",
+            "After a bronchoscopy, you should rest for a day and avoid any strenuous activities. Do not drive or drink alcohol for 24 hours.",
+            "How about my diet?",
+            "You can eat normally unless your doctor advises otherwise. Drink plenty of fluids to prevent dehydration",
+            "What about exercise?",
+            "You should avoid exercise for a few days and gradually resume regular activities as you feel able to",
+            "How can I reduce any discomfort or pain?",
+            "You can take painkillers such as acetaminophen or ibuprofen as directed by your doctor. Cold compresses may also help reduce swelling and discomfort",
+            "Will I have any complications from the procedure?"
+        ],
+        "knowledge": "Bronchoscopy Bronchoscopy  Bronchoscopy is a procedure that allows doctors to look at your lungs and air passages through a thin, lighted tube called a bronchoscope.  After a bronchoscopy, you may experience a sore throat, cough, or mild fever.  You should rest for a day and avoid any strenuous activities.  If you experience any shortness of breath, chest pain, or coughing up blood, contact your doctor immediately. Bronchoscopy Bronchoscopy",
+        "response": "Complications from a bronchoscopy are rare, but if you experience any shortness of breath, chest pain, or coughing up blood, contact your doctor immediately. Have you experienced any of these symptoms?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm having trouble breathing and coughing a lot.",
+            "I see, can you tell me more about your symptoms?",
+            "I feel like I can't take a deep breath and my chest feels tight. The cough is dry.",
+            "Based on your symptoms, it's possible that you have asthma. Have you had this before?",
+            "No, this is the first time I've experienced this.",
+            "I recommend seeing a doctor to get a proper diagnosis and treatment. Would you like me to help find a doctor near you?",
+            "Yes, please. Thank you.",
+            "You're welcome. Take care of yourself."
+        ],
+        "knowledge": "Asthma Asthma  In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors may cause similar symptoms.  In both populations vocal cord dysfunction may present similarly. Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma.  After the age of 65, most people with obstructive airway disease will have asthma and COPD.  In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi.  However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation.  It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy Asthma Asthma",
+        "response": "Thank you for your help, Medi. Can you tell me more about asthma and how it's treated?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about asthma.",
+            "Of course, what would you like to know?",
+            "Can asthma be cured or is it a lifelong condition?",
+            "Asthma is a chronic condition, which means it can't be cured. But with proper treatment, it can be managed so that symptoms are minimized.",
+            "What kind of treatments are available for asthma?",
+            "There are several types of medications used to treat asthma, including controller and quick-relief medications. Your doctor will determine the best treatment plan for you based on the severity of your asthma.",
+            "Can asthma be prevented?",
+            "There is no known way to prevent asthma, but there are steps you can take to minimize your risk, such as avoiding triggers like smoke and pollution, and maintaining a healthy lifestyle.",
+            "That's good to know. Thank you for your help, Medi."
+        ],
+        "knowledge": "Asthma Asthma  In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors may cause similar symptoms.  In both populations vocal cord dysfunction may present similarly. Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma.  After the age of 65, most people with obstructive airway disease will have asthma and COPD.  In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi.  However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation.  It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy Asthma Asthma",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a medical procedure done and I want advice on recovery.",
+            "Sure, what kind of procedure did you have?",
+            "I had lung surgery to remove a tumor.",
+            "I see, it's important to follow your doctor's instructions for recovery. You should avoid strenuous activity and get plenty of rest.",
+            "Are there any specific exercises I can do to help with my recovery?",
+            "Deep breathing exercises can help improve lung function and prevent complications. Your doctor or a physical therapist can show you how to do these exercises.",
+            "What about my diet? Are there any foods I should avoid or eat more of?",
+            "It's important to eat a well-balanced diet with plenty of fruits, vegetables, and lean protein. You should also drink plenty of fluids to stay hydrated.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Asthma Asthma  In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors may cause similar symptoms.  In both populations vocal cord dysfunction may present similarly. Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma.  After the age of 65, most people with obstructive airway disease will have asthma and COPD.  In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi.  However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation.  It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy Asthma Asthma",
+        "response": "You're welcome. I hope you have a speedy recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a persistent cough and I'm worried",
+            "Hi, let's see if I can assist you with that. How long have you had the cough?",
+            "It's been a week now and it's not going away",
+            "Okay, have you experienced any other symptoms such as fever or shortness of breath?",
+            "No, just the cough",
+            "Alright, it could be a viral infection or allergies. Have you taken any medication?",
+            "No, I haven't taken anything yet. What do you suggest?",
+            "For now, you can take over-the-counter cough medicine and drink lots of fluids. If it persists, see a doctor",
+            "Thanks for the advice, Medi. Can coughing be a symptom of asthma?"
+        ],
+        "knowledge": "Asthma Asthma In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors may cause similar symptoms.  In both populations vocal cord dysfunction may present similarly. Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma.  After the age of 65, most people with obstructive airway disease will have asthma and COPD.  In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi.  However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation.  It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy Asthma Asthma",
+        "response": "Yes, coughing can be a symptom of asthma. However, other symptoms like wheezing, shortness of breath, and chest tightness are also commonly associated with asthma."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure and I'm not sure what I should be doing in terms of diet and exercise now",
+            "Hello, can you tell me more about the procedure and when it was done?",
+            "I had a knee replacement surgery two weeks ago",
+            "Okay, during the recovery period it's important to take it easy with exercise. You can start with light walking",
+            "What about my diet?",
+            "Your body needs nutrients to heal and recover, so it's important to eat a balanced diet with plenty of protein, fruits, and vegetables. Avoid processed food and sugary drinks",
+            "That sounds doable. How long should I wait before I resume my usual physical activities?",
+            "You should wait at least 4-6 weeks and consult with your doctor before starting any strenuous activities",
+            "Thanks for the information, Medi. Should I be concerned about any complications?"
+        ],
+        "knowledge": "Knee Replacement Knee Replacement Complications such as bleeding, blood clots, and infection can occur after knee replacement surgery.  Risk factors for these complications include obesity, smoking, and age.  Rehabilitation exercises are important to improve the knee's range of motion and strength.  Pain and swelling can be managed with medication and ice.  You may need to use a cane or crutches for a while after surgery. Knee Replacement Knee Replacement",
+        "response": "While complications such as bleeding, blood clots, and infection can occur after knee replacement surgery, as long as you follow the doctor's instructions and take care of yourself, the risk of complications is low."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about asthma",
+            "Sure, I'll do my best to help you. What do you want to know?",
+            "What are the common triggers for asthma?",
+            "Common triggers include allergies, viral infections, pollution, exercise, stress, and irritants such as smoke or strong smells",
+            "What are some of the symptoms of an asthma attack?",
+            "Symptoms of an asthma attack include wheezing, coughing, shortness of breath, and chest tightness",
+            "How is asthma treated?",
+            "Treatment for asthma includes medication such as bronchodilators and corticosteroids, as well as avoiding triggers and making lifestyle changes such as quitting smoking.",
+            "Thanks for the information, Medi. Does asthma run in families?"
+        ],
+        "knowledge": "Asthma Asthma In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors may cause similar symptoms.  In both populations vocal cord dysfunction may present similarly. Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma.  After the age of 65, most people with obstructive airway disease will have asthma and COPD.  In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi.  However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation.  It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy Asthma Asthma",
+        "response": "Yes, asthma can run in families. If one or both parents have asthma, you're more likely to develop it as well."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some trouble with my breathing.",
+            "I am here to help you out. Can you tell me more about your symptoms?",
+            "I feel like I can't get enough air. Sometimes it's hard to breathe",
+            "How often do you experience these symptoms?",
+            "It's been going on for a few weeks now and it's getting worse.",
+            "Have you experienced similar symptoms in the past?",
+            "No, this is new to me. I'm worried it might be something serious.",
+            "It\u2019s not always serious, but it's better to be safe than sorry. You might have asthma or COPD.",
+            "What is asthma or COPD?"
+        ],
+        "knowledge": "Asthma Asthma  In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors may cause similar symptoms.  In both populations vocal cord dysfunction may present similarly. Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma.  After the age of 65, most people with obstructive airway disease will have asthma and COPD.  In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi.  However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation.  It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy Asthma Asthma",
+        "response": "Asthma and COPD are lung diseases that make it difficult to breathe. They have similar symptoms and are treatable."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I want to know about airway masses.",
+            "Sure, what do you want to know about airway masses?",
+            "What are the symptoms and how are they treated?",
+            "The symptoms depend on the type of mass, but they may include coughing, wheezing, shortness of breath, and chest pain. Treatment options include surgery, chemotherapy, and radiation therapy.",
+            "Is it a serious condition?",
+            "It can be serious, but it depends on the type of mass and how early it's detected.",
+            "How can I detect it early?",
+            "You should see a doctor if you're experiencing any symptoms or if you're at risk for airway masses. Your doctor can perform tests to check your lung function and detect any abnormalities.",
+            "Thank you, Medi. Can you tell me more about the test? I'm worried it might be invasive."
+        ],
+        "knowledge": "Airway Masses Airway Masses Airway masses are abnormal growths in the airway that can cause breathing problems.  They can occur in any part of the airway, from the trachea to the bronchioles.  The symptoms depend on the type of mass, but they may include coughing, wheezing, shortness of breath, and chest pain.  Treatment options depend on the type of mass and may include surgery, chemotherapy, and radiation therapy.  Early detection is key to preventing complications and improving outcomes.  Tests used to detect airway masses include bronchoscopy, CT scans, MRI scans, and PET scans.  These tests are usually non-invasive, but in some cases, a biopsy may be necessary to confirm a diagnosis. Airway Masses Airway Masses",
+        "response": "Tests used to detect airway masses include bronchoscopy, CT scans, MRI scans, and PET scans. They are usually non-invasive, but in some cases, a biopsy may be necessary to confirm a diagnosis."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just went through a surgery and I want to know how to recover faster.",
+            "Hello, congratulations. What kind of surgery did you have?",
+            "I had a lung surgery.",
+            "Good to know. Your recovery will depend on the type of surgery you had and your overall health.",
+            "Is there anything I can do to help speed up the recovery process?",
+            "Yes. You should follow your doctor's instructions and take care of yourself. This includes getting plenty of rest, eating a healthy diet, and staying hydrated.",
+            "Are there any exercises I can do to help with my recovery?",
+            "Yes, your doctor may recommend breathing exercises or physical therapy to help you regain your strength. You should also avoid smoking and limit your exposure to secondhand smoke.",
+            "Thank you, Medi. What about my diet? Are there any foods I should avoid or eat more of?"
+        ],
+        "knowledge": "Lung Surgery Lung Surgery Recovery from lung surgery depends on the type of surgery you had and your overall health.  You should follow your doctor's instructions and take care of yourself.  This includes getting plenty of rest, eating a healthy diet, and staying hydrated.  Your doctor may recommend breathing exercises or physical therapy to help you regain your strength.  You should also avoid smoking and limit your exposure to secondhand smoke.  Your diet should consist of healthy, nutrient-rich foods such as fruits, vegetables, lean proteins, and whole grains.  You should avoid processed foods, sugary drinks, and foods high in saturated and trans fats. Lung Surgery Lung Surgery",
+        "response": "Your diet should consist of healthy, nutrient-rich foods such as fruits, vegetables, lean proteins, and whole grains. You should avoid processed foods, sugary drinks, and foods high in saturated and trans fats."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I am experiencing shortness of breath and coughing.",
+            "Hello. I am a chatbot and here to help you. Can you please tell me more?",
+            "I feel like I am not getting enough air and I have been coughing for a while.",
+            "You might have asthma or chronic obstructive pulmonary disease. Let's make a diagnosis",
+            "How can you diagnose it? Can it be serious?",
+            "We can perform a spirometry test to diagnose it. If it's asthma, it can be controlled with medication.",
+            "What kind of medication is that? Are there any side effects?",
+            "The most common medication is inhaled corticosteroids. They have minimal side effects",
+            "How can I prevent it from happening again?"
+        ],
+        "knowledge": "Asthma Asthma In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors may cause similar symptoms. In both populations, vocal cord dysfunction may present similarly. Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma. After the age of 65, most people with obstructive airway disease will have asthma and COPD. In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi. However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation. It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy Asthma Asthma",
+        "response": "By avoiding triggers like allergens, exercising regularly, taking medication regularly, and keeping an action plan."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I have a question about Asthma. Can you help me?",
+            "Hello! Of course, I am here to assist you. What do you want to know?",
+            "What exactly is Asthma? How does it affect the body?",
+            "Asthma is a chronic lung disease that causes the airways to become inflamed and narrowed, making it difficult to breathe. It can cause wheezing, coughing, and shortness of breath",
+            "What causes it? Can it be cured?",
+            "The exact cause of asthma is unknown, but environmental and genetic factors play a role. There is no cure for asthma, but it can be managed with medication and lifestyle changes.",
+            "What are the symptoms of asthma? Can it lead to any other conditions?",
+            "The symptoms of asthma include wheezing, coughing, shortness of breath, and chest tightness. Asthma can lead to other conditions like pneumonia and respiratory failure if left untreated.",
+            "How can asthma be managed?"
+        ],
+        "knowledge": "Asthma Asthma In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors may cause similar symptoms. In both populations, vocal cord dysfunction may present similarly. Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma. After the age of 65, most people with obstructive airway disease will have asthma and COPD. In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi. However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation. It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy Asthma Asthma",
+        "response": "Asthma can be managed with medication like inhaled corticosteroids and bronchodilators, as well as lifestyle changes like avoiding triggers and exercising regularly."
+    },
+    {
+        "dialog": [
+            "Hi, Medi! I just underwent a medical procedure. Can you give me some advice?",
+            "Hello, I'm here to help! Sure, what advice do you need?",
+            "I had a procedure done on my lungs. How should I take care of myself post-procedure?",
+            "You should rest and take it easy for a few days. Avoid heavy lifting, strenuous exercise, and smoking.",
+            "Can I take medication for the pain? Are there any specific medications I should avoid?",
+            "Yes, you can take medication for the pain. But avoid aspirin and nonsteroidal anti-inflammatory drugs (NSAIDs) as they can increase the risk of bleeding.",
+            "What about my diet? Are there any dietary restrictions I should follow?",
+            "You should follow a healthy, balanced diet, and avoid foods that are hard to digest or that you are allergic to.",
+            "When can I resume normal activities?"
+        ],
+        "knowledge": "Asthma Asthma In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors may cause similar symptoms. In both populations, vocal cord dysfunction may present similarly. Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma. After the age of 65, most people with obstructive airway disease will have asthma and COPD. In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi. However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation. It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy Asthma Asthma",
+        "response": "You should consult with your doctor about when it is safe to resume normal activities, but typically it is best to wait a few days before resuming normal activities."
+    }
+]

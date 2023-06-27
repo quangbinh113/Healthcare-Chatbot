@@ -1,0 +1,407 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I think I might have asthma.",
+            "Hello there. Can you tell me about your symptoms?",
+            "I cough frequently and wheeze, especially at night. It's hard to breathe sometimes.",
+            "Based on your symptoms, it's possible you have asthma.",
+            "What should I do if it's asthma?",
+            "You should see a doctor and get a proper diagnosis.",
+            "Is there anything I can do to relieve my symptoms?",
+            "Bronchodilators are recommended for short-term relief of symptoms. Try using an inhaler.",
+            "Thanks, I'll see a doctor. Any other advice for me?"
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms.  In those with occasional attacks, no other medication is needed.  If mild persistent disease is present , low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended.  For those who have daily attacks, a higher dose of inhaled corticosteroids is used.  In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression.  This is associated with poorer asthma control Asthma Asthma",
+        "response": "If you have asthma, it's important to monitor your symptoms and follow your doctor's advice on medication and lifestyle changes."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm just curious about what causes asthma.",
+            "Hello. Asthma can be caused by a variety of factors, including genetics and environmental factors.",
+            "What are some of the environmental factors?",
+            "Exposure to air pollution, allergens, and respiratory infections can increase your risk of developing asthma.",
+            "How about genetics?",
+            "If one or both of your parents have asthma, you're more likely to develop it.",
+            "Can asthma be cured?",
+            "There's no cure for asthma, but it can be managed with proper treatment.",
+            "Thanks for the information, Medi."
+        ],
+        "knowledge": "Asthma Asthma Asthma can be caused by a variety of factors, including genetics and environmental factors. Exposure to air pollution, allergens, and respiratory infections can increase your risk of developing asthma. If one or both of your parents have asthma, you're more likely to develop it. There's no cure for asthma, but it can be managed with proper treatment. Asthma Asthma",
+        "response": "You're welcome. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had an asthma attack and was hospitalized. What can I do to prevent another one?",
+            "I'm sorry to hear that. It's important to follow your doctor's advice on medication and lifestyle changes. ",
+            "What lifestyle changes should I make?",
+            "Avoiding triggers such as air pollution and allergens can help prevent asthma attacks. Regular exercise can also improve lung function.",
+            "What about my diet?",
+            "A healthy diet that includes plenty of fruits and vegetables can help reduce inflammation in your airways.",
+            "Are there any natural remedies I can try?",
+            "While there's no cure for asthma, some people find that natural remedies such as breathing exercises or herbal supplements can help manage their symptoms. However, it's important to talk to your doctor before trying any natural remedies.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms.  In those with occasional attacks, no other medication is needed.  If mild persistent disease is present , low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended.  For those who have daily attacks, a higher dose of inhaled corticosteroids is used.  In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression.  This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome. It's important to take care of yourself and follow your doctor's advice to manage your asthma."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been having shortness of breath and wheezing lately.",
+            "I'm here to help. How long have you been having these symptoms?",
+            "For about a week now. Sometimes it feels like my chest is tight too.",
+            "Based on your symptoms, it's possible that you have asthma. Have you been diagnosed with it before?",
+            "No, I haven't. What should I do?",
+            "You should see a doctor to get a proper diagnosis and treatment plan. In the meantime, avoid triggers like smoke and dust.",
+            "Okay, I'll make an appointment. Is there anything else I can do?",
+            "Regular exercise can help improve lung function. Let me know how the appointment goes.",
+            "Thank you Medi. What should I ask my doctor about asthma?"
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms.  In those with occasional attacks, no other medication is needed.  If mild persistent disease is present , low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended.  For those who have daily attacks, a higher dose of inhaled corticosteroids is used.  In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression.  This is associated with poorer asthma control Asthma Asthma",
+        "response": "You should ask your doctor about the medication options and how to manage your symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I wanted to learn more about asthma. What causes it?",
+            "Asthma is caused by inflammation and narrowing of the airways in the lungs.",
+            "What triggers asthma attacks?",
+            "Common triggers include allergies, exercise, cold air, smoke, and stress.",
+            "Is there a cure for asthma?",
+            "Currently, there is no cure for asthma, but it can be managed with proper treatment and lifestyle changes.",
+            "What lifestyle changes can I make?",
+            "Maintaining a healthy weight, avoiding triggers, and taking prescribed medications as directed can help manage symptoms.",
+            "Thank you for the information, Medi. Is asthma hereditary?"
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms.  In those with occasional attacks, no other medication is needed.  If mild persistent disease is present , low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended.  For those who have daily attacks, a higher dose of inhaled corticosteroids is used.  In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression.  This is associated with poorer asthma control Asthma Asthma",
+        "response": "Asthma can be hereditary, so it's important to let your doctor know if any family members have it."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had an asthma attack and I'm not sure what to do now.",
+            "I'm sorry to hear that. Have you been to the hospital or seen a doctor?",
+            "Yes, I went to the hospital and was given medication. What can I do to prevent future attacks?",
+            "It's important to take your medication as prescribed and avoid triggers. You can also make sure to get your flu shot every year.",
+            "What kind of medication should I be taking?",
+            "It depends on the severity of your asthma. Short-acting bronchodilators can be used for quick relief, while inhaled corticosteroids are used for long-term control.",
+            "I see. What lifestyle changes should I make?",
+            "Avoid triggers like smoke and dust, exercise regularly, and maintain a healthy weight.",
+            "Thank you for your help, Medi. What should I do if I have another asthma attack?"
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms.  In those with occasional attacks, no other medication is needed.  If mild persistent disease is present , low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended.  For those who have daily attacks, a higher dose of inhaled corticosteroids is used.  In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression.  This is associated with poorer asthma control Asthma Asthma",
+        "response": "If you have another asthma attack, use your quick-relief inhaler as prescribed and seek medical help if your symptoms do not improve."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am experiencing some difficulty breathing.",
+            "Hello, what other symptoms have you noticed?",
+            "I am also coughing and wheezing.",
+            "Based on your symptoms, it is likely that you have asthma. Have you experienced this before?",
+            "Yes, but it hasn't been this bad before. What treatments are available?",
+            "Bronchodilators are recommended for short-term relief of symptoms. If mild persistent disease is present, low-dose inhaled corticosteroids are recommended.",
+            "What if my symptoms are more severe?",
+            "In a moderate or severe exacerbation, corticosteroids are added to these treatments. It is important to follow up with a healthcare professional for proper management.",
+            "Okay, thank you for your help."
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms.  In those with occasional attacks, no other medication is needed.  If mild persistent disease is present , low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended.  For those who have daily attacks, a higher dose of inhaled corticosteroids is used.  In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression.  This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome. Don't hesitate to follow up with a healthcare professional."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about asthma.",
+            "Sure, what would you like to know?",
+            "What causes asthma?",
+            "Asthma is a chronic disease of the airways characterized by variable and recurring symptoms, reversible airflow obstruction, and bronchospasm. The exact cause is unknown, but it is believed to be a combination of genetic predisposition and environmental factors.",
+            "Can asthma be cured?",
+            "There is no cure for asthma, but proper management can help control symptoms and prevent complications.",
+            "What triggers asthma attacks?",
+            "Common triggers include allergens, respiratory infections, exercise, and stress. It is important to identify and avoid triggers when possible.",
+            "Thank you for the information."
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms.  In those with occasional attacks, no other medication is needed.  If mild persistent disease is present , low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended.  For those who have daily attacks, a higher dose of inhaled corticosteroids is used.  In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression.  This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had an asthma attack and was hospitalized. What lifestyle changes should I make?",
+            "It is important to avoid triggers and take any prescribed medication as directed. Additionally, regular exercise and a healthy diet can improve overall health and potentially reduce asthma symptoms.",
+            "What kind of exercises are recommended?",
+            "Low-impact activities such as walking, biking, and swimming are typically recommended. It is important to talk to your healthcare professional before starting any new exercise routine.",
+            "Should I avoid any foods?",
+            "There is no specific food that should be avoided, but a healthy and balanced diet including fruits, vegetables, and whole grains can improve overall health and potentially reduce asthma symptoms.",
+            "Great, thanks for the advice.",
+            "You're welcome. Remember to follow up with your healthcare professional and continue taking any prescribed medication.",
+            "Will do. Thanks again."
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms.  In those with occasional attacks, no other medication is needed.  If mild persistent disease is present , low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended.  For those who have daily attacks, a higher dose of inhaled corticosteroids is used.  In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression.  This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome. Take care of yourself and follow up with your healthcare professional."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and need your help.",
+            "Sure! What kind of symptoms are you experiencing?",
+            "I'm having trouble breathing and a persistent cough.",
+            "Based on your symptoms, it may be asthma. Have you had this before?",
+            "No, I haven't. What should I do?",
+            "You should see a doctor to confirm the diagnosis. In the meantime, avoid triggers like smoke and dust.",
+            "Is there anything else I can do?",
+            "Yes, you can take bronchodilators for short-term relief of symptoms.",
+            "Thanks for your help, Medi. I'll go see a doctor."
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present, low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome! Seeing a doctor is the best thing to do. Take care!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain to me what asthma is?",
+            "Yes, asthma is a chronic respiratory disease that affects the airways in your lungs. It can make it difficult to breathe.",
+            "What are the symptoms?",
+            "The main symptoms are wheezing, coughing, shortness of breath, and chest tightness.",
+            "What causes asthma?",
+            "The exact causes of asthma are not known, but it's believed to be a combination of genetic and environmental factors.",
+            "Is there a cure for asthma?",
+            "Unfortunately, there is no cure for asthma. But it can be managed with medication and lifestyle changes.",
+            "Thanks for the information, Medi. I appreciate it."
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present, low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome! Let me know if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure and want advice on my lifestyle.",
+            "Of course! What procedure did you have?",
+            "I had a lung transplant.",
+            "Wow, that's a major procedure. You will need to take care of yourself and follow your doctors' instructions.",
+            "What kind of lifestyle changes should I make?",
+            "You should avoid exposure to pollutants, get regular exercise, and eat a healthy diet to maintain your lung health.",
+            "What kind of exercise should I do?",
+            "It's best to talk to your doctor for specific recommendations, but light to moderate exercise like walking or swimming is usually good.",
+            "Thanks for the advice, Medi. I'll make sure to follow it."
+        ],
+        "knowledge": "Lung Transplant Lung Transplant  A lung transplant is a surgical procedure in which a damaged or diseased lung is replaced with a healthy lung from a donor.  This procedure is typically reserved for people who have tried all other treatments and their condition is life-threatening.  The procedure is complex and requires a team of specialized medical professionals.  The main risks associated with the procedure are rejection of the new lung, infection, and complications related to the immunosuppressive drugs used to prevent rejection. Lung Transplant Lung Transplant",
+        "response": "You're welcome! Remember to take care of yourself and follow your doctor's instructions. Best of luck to you!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a cough and it's hard to breathe.",
+            "Hello, I'm here to help. When did it start and how often do you cough?",
+            "It started last night and I cough all the time.",
+            "Based on your symptoms, it is possible that you have asthma. Have you had it before?",
+            "No, I haven't. What should I do now?",
+            "You need to see a doctor for a proper diagnosis and treatment. In the meantime, try to relax and avoid any triggers.",
+            "What kind of triggers should I avoid?",
+            "Some common triggers are dust, pollen, pet dander, and tobacco smoke.",
+            "Thank you for your advice. I will see a doctor. "
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms.  In those with occasional attacks, no other medication is needed.  If mild persistent disease is present , low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended.  For those who have daily attacks, a higher dose of inhaled corticosteroids is used.  In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression.  This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome. Seeing a doctor is the right decision to get proper diagnosis and treatment."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about asthma.",
+            "Sure, I'm happy to help. What are your questions?",
+            "What is asthma and what causes it?",
+            "Asthma is a chronic respiratory disease that causes inflammation and narrowing of the airways, making it difficult to breathe. It can be caused by a combination of genetic and environmental factors, such as pollution, tobacco smoke, and allergens.",
+            "Can asthma be cured?",
+            "There is no cure for asthma, but it can be managed with proper treatment and lifestyle changes.",
+            "What are the common treatments for asthma?",
+            "Bronchodilators and corticosteroids are common treatments for asthma. Bronchodilators help to open up the airways and make it easier to breathe, while corticosteroids reduce inflammation in the airways.",
+            "What are some lifestyle changes that can help manage asthma?"
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms.  In those with occasional attacks, no other medication is needed.  If mild persistent disease is present , low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended.  For those who have daily attacks, a higher dose of inhaled corticosteroids is used.  In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression.  This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just got diagnosed with asthma. What should I do?",
+            "Hello, I'm here to help. The first step is to work with your doctor to develop a treatment plan. Have you done that yet?",
+            "Yes, I have. But I'm still not sure what I should do on a daily basis.",
+            "You should take your medication as prescribed by your doctor and avoid triggers as much as possible. Staying physically active and maintaining a healthy diet can also help manage your symptoms.",
+            "What kind of medication should I take?",
+            "It depends on the severity of your asthma. Your doctor may prescribe a bronchodilator, a corticosteroid, or a combination of both.",
+            "Can I still do sports or exercise?",
+            "Yes, you can still exercise and stay active. Just make sure to use your inhaler before and after exercise and avoid exercising in cold or dry environments.",
+            "I see. Thank you for your advice."
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms.  In those with occasional attacks, no other medication is needed.  If mild persistent disease is present , low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended.  For those who have daily attacks, a higher dose of inhaled corticosteroids is used.  In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression.  This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome. I'm glad to help. Take care."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I'm having trouble with my asthma.",
+            "Sure, I'm here to help. What symptoms are you experiencing?",
+            "I'm having trouble breathing and coughing a lot.",
+            "Okay, it sounds like your asthma is acting up. Have you been taking your medication?",
+            "I've only been using my inhaler when I feel shortness of breath.",
+            "It's important to take your medication as prescribed even if you don't have any symptoms. Have you been monitoring your peak flow?",
+            "No, I haven't. How do I do that?",
+            "You blow into a peak flow meter, and it measures how well your lungs are working. It's a good way to track your asthma.",
+            "Thanks, Medi. Is there anything else I should be doing to manage my asthma?"
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present, low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control Asthma Asthma",
+        "response": "Yes, you should avoid your asthma triggers, like smoke and pollen. Also, make sure to keep your inhaler with you at all times."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about asthma?",
+            "Of course! Asthma is a chronic respiratory disease that causes inflammation and narrowing of the airways.",
+            "What are the symptoms of asthma?",
+            "The most common symptoms are coughing, wheezing, shortness of breath, and chest tightness.",
+            "What are some common triggers of asthma?",
+            "Some common triggers are smoke, pollution, dust mites, pet dander, and exercise.",
+            "Is there a cure for asthma?",
+            "No, there is no cure for asthma, but it can be managed with medication and lifestyle changes.",
+            "Thank you, Medi!"
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present, low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome! Let me know if you have any other questions about asthma."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure done for my asthma and I was wondering what I should do now?",
+            "After a medical procedure, it's important to rest and avoid any strenuous activities.",
+            "What about diet and exercise?",
+            "It's important to maintain a healthy diet and exercise routine to keep your lungs healthy.",
+            "Are there any specific exercises I should be doing?",
+            "Cardio exercises like running and swimming are great for your lungs. Also, breathing exercises can help improve your lung function.",
+            "What about my diet?",
+            "A diet rich in fruits and vegetables and low in processed foods can help keep your lungs healthy.",
+            "Thank you for your advice, Medi!"
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present, low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome! Take care of yourself and let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been having trouble breathing lately.",
+            "I see. Can you describe your symptoms in more detail?",
+            "I feel short of breath, especially at night and early in the morning.",
+            "Based on your symptoms, it is possible that you have asthma. Have you been diagnosed before?",
+            "No, I haven't. What should I do now?",
+            "You should talk to your doctor and get a diagnosis. Treatments for asthma include bronchodilators and inhaled corticosteroids.",
+            "What if I don't have asthma? What else could be causing my symptoms?",
+            "There are many other conditions that can cause shortness of breath, such as allergies or a respiratory infection. You should still talk to your doctor to get a proper diagnosis.",
+            "Okay, thank you for your advice, Medi."
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present, low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome. I hope you get the help you need from your doctor."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. Can you tell me more about asthma?",
+            "Certainly. Asthma is a chronic respiratory disease that causes inflammation and constriction of the airways, making it difficult to breathe.",
+            "What are some common symptoms of asthma?",
+            "Common symptoms include wheezing, coughing, chest tightness, and shortness of breath. Symptoms can be triggered by allergens, exercise, or respiratory infections.",
+            "Is asthma a curable disease? ",
+            "No, there is no cure for asthma, but it can be managed with medication and lifestyle changes.",
+            "What are some lifestyle changes that can help manage asthma?",
+            "Lifestyle changes that can help manage asthma include avoiding triggers, quitting smoking, and maintaining a healthy weight.",
+            "Thank you for your help, Medi. I feel more informed now."
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present, low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome. I'm glad I could help you understand asthma better."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I recently had an asthma attack and was hospitalized. What should I do now?",
+            "I'm sorry to hear that. After a hospitalization for an asthma attack, it's important to follow up with your doctor and make sure your medications are properly adjusted.",
+            "What kind of medications will I need?",
+            "You will likely need a combination of short-acting and long-acting bronchodilators, as well as inhaled corticosteroids.",
+            "Are there any lifestyle changes I should make?",
+            "Yes, lifestyle changes can also help manage asthma. You should avoid triggers such as smoke or allergens, exercise regularly, and maintain a healthy weight.",
+            "Can I still work out?",
+            "Yes, exercise is actually beneficial for asthma. Just make sure to talk to your doctor and take your medication as directed before exercising.",
+            "Okay, thank you for your advice, Medi. I will make sure to follow up with my doctor and make these changes."
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present, low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome. It's important to take care of yourself and make these changes to prevent future asthma attacks."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been coughing persistently and I don't know why?",
+            "Hello, I can help you with that. Can you describe your cough?",
+            "It's a dry cough that doesn't produce phlegm and I get short of breath too.",
+            "Based on your symptoms, it's possible that you have asthma.",
+            "What can I do to treat it?",
+            "Bronchodilators are recommended for short-term relief of symptoms. You should see a doctor for evaluation.",
+            "What are some other things I can do to manage my asthma?",
+            "For those who have daily attacks, a higher dose of inhaled corticosteroids is used. People with asthma have higher rates of anxiety, psychological stress, and depression.",
+            "How can I relieve my symptoms when I'm having an asthma attack?"
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms.  In those with occasional attacks, no other medication is needed. If mild persistent disease is present, low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended.  For those who have daily attacks, a higher dose of inhaled corticosteroids is used.  In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control Asthma Asthma",
+        "response": "You can use your bronchodilator inhaler immediately and if you don't have one, you should go to the hospital and see a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about asthma.",
+            "Sure, I'm here to help. What would you like to know?",
+            "What causes asthma?",
+            "Asthma is caused by a combination of genetic and environmental factors.",
+            "What are some of the common triggers for asthma attacks?",
+            "Some common triggers include allergens, respiratory infections, exercise, cold air, and pollution.",
+            "What are some of the most common symptoms of asthma?",
+            "The most common symptoms include coughing, wheezing, shortness of breath, and chest tightness.",
+            "How can I manage my asthma?"
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms.  In those with occasional attacks, no other medication is needed.  If mild persistent disease is present, low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended.  For those who have daily attacks, a higher dose of inhaled corticosteroids is used.  In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control Asthma Asthma",
+        "response": "I hope that answers your questions about asthma. Let me know if you have any more."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a severe asthma attack. What can I do to prevent them in the future?",
+            "I'm sorry to hear that. One of the best ways to prevent future attacks is to identify and avoid your triggers.",
+            "What are some common triggers for asthma attacks?",
+            "Some common triggers include allergens, respiratory infections, exercise, cold air, and pollution.",
+            "Can I still exercise with asthma?",
+            "Yes, you can still exercise if you have asthma. Just be sure to warm up properly and take your medication as prescribed.",
+            "What are some lifestyle changes I can make to help manage my asthma?",
+            "You can manage your asthma by avoiding triggers, taking your medication as prescribed, and seeing your doctor regularly.",
+            "Is asthma curable?"
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms.  In those with occasional attacks, no other medication is needed.  If mild persistent disease is present, low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended.  For those who have daily attacks, a higher dose of inhaled corticosteroids is used.  In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control Asthma Asthma",
+        "response": "I hope that helps you better understand how to manage your asthma. Let me know if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a cough and difficulty breathing",
+            "I'm sorry to hear that. How long have you had these symptoms?",
+            "About a week now. It's been getting worse",
+            "Based on your symptoms, it's possible that you have asthma",
+            "What can I do to alleviate the symptoms?",
+            "Bronchodilators are recommended for short-term relief of symptoms. If mild persistent disease is present, low-dose inhaled corticosteroids are recommended",
+            "Do I need to take medication every day?",
+            "If you have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments",
+            "What other complications come with asthma?"
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present, low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control Asthma Asthma",
+        "response": "People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have asthma and I'm not sure what I can eat",
+            "Diet can play a role in managing asthma symptoms. What kinds of food do you usually eat?",
+            "I eat a lot of fast food and sugary drinks",
+            "You should eat more fruits and vegetables to get vitamins and nutrients. Avoid foods that trigger asthma symptoms",
+            "What kinds of foods should I avoid?",
+            "Foods that are high in salt, sugar, and saturated fat can worsen asthma symptoms. You should also avoid foods that you are allergic to",
+            "How about exercising?",
+            "Exercising can be beneficial for people with asthma. Aerobic exercises like walking and swimming can improve lung function",
+            "Can I still exercise if my asthma symptoms are acting up?"
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present, low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome, take care and stay healthy!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had an asthma attack and I'm scared",
+            "I'm sorry to hear that. Are you okay now?",
+            "Yes, I used my inhaler and it helped. But I don't want it to happen again",
+            "It's important to know the triggers that can cause your asthma attacks and avoid them",
+            "What are some common triggers?",
+            "Some common triggers include dust, pollen, smoke, and exercise",
+            "How can I prevent asthma attacks?",
+            "Avoiding triggers is important, but you should also take your medication as prescribed. You should also have an asthma action plan in case of an emergency",
+            "What should I do if I have another asthma attack?"
+        ],
+        "knowledge": "Asthma Asthma Bronchodilators are recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present, low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments. People with asthma have higher rates of anxiety, psychological stress, and depression. This is associated with poorer asthma control Asthma Asthma",
+        "response": "You're welcome. Remember to take care of yourself and follow your asthma action plan"
+    }
+]

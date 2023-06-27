@@ -1,0 +1,226 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I am feeling unwell. Can you help me?",
+            "Of course, please tell me about your symptoms.",
+            "I have abdominal pain and diarrhea.",
+            "How long have you had these symptoms?",
+            "It's been almost three days.",
+            "Have you been drinking enough water?",
+            "I think so, but I'll make sure to drink more.",
+            "Based on your symptoms, it may be gastroenteritis.",
+            "What should I do next?"
+        ],
+        "knowledge": "Gastroenteritis Gastroenteritis is an inflammation of the digestive system caused by infection. It is also known as stomach flu. Common symptoms include abdominal pain, diarrhea, and vomiting. The condition can be caused by viruses, bacteria, or parasites. Treatment includes fluid replacement, rest, and avoiding solid foods until the symptoms have subsided.",
+        "response": "You should rest and drink plenty of fluids. Avoid solid foods until your symptoms have subsided."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about infectious diseases.",
+            "Sure, what would you like to know?",
+            "What is an infectious disease?",
+            "It's a disease caused by microorganisms such as bacteria, viruses, fungi, and parasites that can spread from one person to another.",
+            "Can you give me some examples?",
+            "Some examples of infectious diseases are the flu, tuberculosis, HIV/AIDS, and COVID-19.",
+            "How can you prevent infectious diseases?",
+            "You can prevent them by washing your hands regularly, staying away from sick people, and getting vaccinated.",
+            "Thanks, that's helpful. Are all infectious diseases dangerous?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases A pandemic is a disease that affects people over an extensive geographical area. In most cases, microorganisms live in harmony with their hosts via mutual or commensal interactions. Diseases can emerge when existing parasites become pathogenic or when new pathogenic parasites enter a new host. Several human activities have led to the emergence of zoonotic human pathogens, including viruses, bacteria, protozoa, and rickettsia, and spread of vector-borne diseases, see also globalization and disease and wildlife disease:In Antiquity, the Greek historian Thucydides was the first person to write, in his account of the plague of Athens, that diseases could spread from an infected person to others. In his On the Different Types of Fever, the Greco-Roman physician Galen speculated that plagues were spread by 'certain seeds of plague', which were present in the air. In the Sushruta Samhita, the ancient Indian physician Sushruta theorized: 'Leprosy, fever, consumption, diseases of the eye, and other infectious diseases spread from one person to another by sexual union, physical contact, eating together, sleeping together, sitting together, and the use of same clothes, garlands and pastes.' This book has been dated to about the sixth century BC Infectious diseases Infectious diseases",
+        "response": "No, not all infectious diseases are dangerous. Some are mild and can be treated with medication while others are more serious and require hospitalization."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery. Can you give me some advice on what I should do next?",
+            "Of course, what type of surgery did you have?",
+            "I had a knee replacement surgery.",
+            "After your surgery, it's important to rest and take care of your knee.",
+            "How long should I rest for?",
+            "You should rest for at least a week and avoid putting weight on your knee for the first few days.",
+            "What should I do after the first few days?",
+            "You can start doing gentle exercises to help strengthen your knee and improve your range of motion.",
+            "Should I change my diet to help my recovery?"
+        ],
+        "knowledge": "Knee replacement surgery Knee replacement surgery is a surgical procedure in which the damaged or worn-out parts of the knee joint are replaced with artificial parts. Recovery from knee replacement surgery can take several weeks or months. During this time, it's important to rest and take care of your knee. Gentle exercises can help improve your knee's range of motion and strengthen the surrounding muscles. A healthy diet with plenty of protein can also help your body heal.",
+        "response": "You can start with simple exercises like ankle pumps, leg raises, and heel slides. Your doctor or physical therapist can give you more specific exercises to do based on your individual needs."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I have a fever and cough.",
+            "Okay, I will help you. Do you have any other symptoms?",
+            "I also have a headache and feel dizzy.",
+            "Based on your symptoms, you may have a respiratory infection. Please rest and take some medication.",
+            "What medication should I take?",
+            "You can take over-the-counter cough syrup and fever reducer like paracetamol.",
+            "Okay, thank you for your help.",
+            "You're welcome. Take care.",
+            "How can I prevent getting a respiratory infection?"
+        ],
+        "knowledge": "Respiratory infections Respiratory infections  Respiratory infections are diseases of the respiratory system. These include acute infections such as pneumonia and bronchitis, as well as chronic lung diseases such as asthma and chronic obstructive pulmonary disease (COPD). Causes of respiratory infections include viruses, bacteria, fungi, and parasites. The most common types of respiratory infections are the common cold, influenza, and pneumonia. Symptoms of respiratory infections include cough, fever, chills, chest pain, shortness of breath, and fatigue. Prevention includes washing hands frequently, avoiding touching the face, wearing a mask, avoiding close contact with sick people, and getting vaccinated.",
+        "response": "You can prevent respiratory infections by frequently washing your hands, avoiding touching your face, wearing a mask, avoiding close contact with sick people, and getting vaccinated."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am wondering what is the difference between a virus and a bacteria?",
+            "Hello, I can help you with that. Viruses are smaller than bacteria and can't reproduce on their own. Bacteria are single-celled organisms.",
+            "What kinds of diseases are caused by bacteria?",
+            "Bacteria can cause a wide range of diseases, such as strep throat, tuberculosis, and urinary tract infections.",
+            "How about viruses?",
+            "Viruses can cause diseases like the common cold, flu, and COVID-19.",
+            "I see. Thank you for explaining it to me.",
+            "You're welcome. Is there anything else you want to know?",
+            "No, that's all."
+        ],
+        "knowledge": "Viruses and Bacteria Viruses and Bacteria  Both viruses and bacteria can cause diseases in humans. However, they differ in size, structure, and the way they reproduce. Viruses are smaller than bacteria and can't reproduce on their own. They need to invade a host cell, take over its machinery, and use it to make new viruses. Bacteria are single-celled organisms that can reproduce on their own. They can divide and multiply to form colonies or biofilms. Both viruses and bacteria can cause a wide range of diseases.",
+        "response": "You're welcome. If you have any other questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery on my knee. What should I do to help my recovery?",
+            "Hi, congratulations on getting through your surgery! Here are some tips for a faster and smoother recovery: rest, ice, compression, and elevation.",
+            "What does RICE stand for?",
+            "RICE stands for rest, ice, compression, and elevation. Rest means avoid putting weight on your knee and keep your activity level low. Ice means applying ice to your knee to reduce swelling and pain. Compression means applying a compression bandage or sleeve to help reduce swelling. Elevation means keeping your knee elevated higher than your heart to reduce swelling.",
+            "How long should I keep doing RICE?",
+            "You should do RICE for at least a few days after surgery. After that, you can gradually increase your activity level as directed by your doctor.",
+            "Okay, thank you for your advice.",
+            "You're welcome. If you have any other questions, feel free to ask.",
+            "Should I also modify my diet?"
+        ],
+        "knowledge": "Post-surgery recovery Post-surgery recovery After surgery, it's important to take care of yourself to help speed up recovery. Rest, ice, compression, and elevation (RICE) can help reduce swelling and pain. Also, follow your doctor's instructions for medications and physical therapy. A healthy diet can also help speed up recovery by providing the nutrients your body needs to heal.",
+        "response": "You're welcome. I hope you have a smooth and speedy recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am experiencing some symptoms",
+            "Hi there, please tell me about your symptoms",
+            "I have a fever, cough, and shortness of breath",
+            "Based on your symptoms, you might be experiencing COVID-19",
+            "Oh no! What should I do now?",
+            "You should isolate yourself immediately and get tested for COVID-19",
+            "Okay, thank you. How can I take care of myself at home?",
+            "Make sure to rest, hydrate, and monitor your symptoms",
+            "Will do. Thank you Medi"
+        ],
+        "knowledge": "COVID-19 COVID-19  COVID-19 is an infectious disease caused by the SARS-CoV-2 virus.  The disease first identified in December 2019 in Wuhan, China. It has since spread globally and resulted in an ongoing pandemic. The most common symptoms include fever, cough, and shortness of breath.  Other symptoms may include fatigue, muscle or body aches, headache, loss of taste or smell, sore throat, congestion or runny nose, nausea or vomiting, and diarrhea.  Most people who become infected with COVID-19 will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older adults and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness. COVID-19 COVID-19",
+        "response": "Please isolate yourself immediately and get tested for COVID-19"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I want to know more about vector-borne diseases",
+            "Sure, I can help you with that. What do you want to know?",
+            "What are vector-borne diseases and how do they spread?",
+            "Vector-borne diseases are infections transmitted by the bite of infected arthropod species such as mosquitoes, ticks, triatomine bugs, sandflies, and blackflies. These vectors are capable of transmitting infectious agents like viruses, bacteria, and protozoa. The transmission of these diseases depends on various factors, including geographic location, climate, and human behavior",
+            "What are some examples of vector-borne diseases?",
+            "Some examples of vector-borne diseases include malaria, dengue fever, Zika virus, Lyme disease, and Chagas disease",
+            "How can I prevent getting vector-borne diseases?",
+            "You can prevent vector-borne diseases by using insect repellent, wearing protective clothing, and staying indoors during peak mosquito hours. It's also important to remove standing water around your home to prevent mosquito breeding",
+            "Thank you for the information Medi"
+        ],
+        "knowledge": "Vector-borne diseases Vector-borne diseases  Vector-borne diseases are infections transmitted by the bite of infected arthropod species such as mosquitoes, ticks, triatomine bugs, sandflies, and blackflies. These vectors are capable of transmitting infectious agents like viruses, bacteria, and protozoa. The transmission of these diseases depends on various factors, including geographic location, climate, and human behavior.  Vector-borne diseases are a significant public health problem in many countries, particularly in tropical regions.  Some examples of vector-borne diseases include malaria, dengue fever, Zika virus, Lyme disease, and Chagas disease. Vector-borne diseases are preventable through the use of insect repellent, protective clothing, and standing water removal. Vector-borne diseases Vector-borne diseases",
+        "response": "You're welcome. Stay safe and take care"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and I want to know how to take care of myself",
+            "Hi, congratulations on your surgery. What kind of surgery did you have?",
+            "I had a hip replacement surgery",
+            "After hip replacement surgery, it's important to rest, elevate your leg, and use ice to reduce swelling. You should also follow your doctor's instructions on pain medications and physical therapy",
+            "Are there any dietary restrictions I should follow?",
+            "Yes, you should avoid foods high in vitamin K, which can interfere with the blood-thinning medications you may be taking. Additionally, you should make sure to eat a balanced diet with plenty of protein to promote healing",
+            "Thank you for the information",
+            "You're welcome. Is there anything else I can help you with?",
+            "No, that's all. Thank you for your help, Medi"
+        ],
+        "knowledge": "Hip Replacement Surgery Hip Replacement Surgery Hip replacement surgery is a procedure in which a surgeon removes a painful hip joint with arthritis and replaces it with an artificial joint made of metal and plastic.  After hip replacement surgery, it's important to rest, elevate your leg, and use ice to reduce swelling. You should also follow your doctor's instructions on pain medications and physical therapy.  Additionally, you should avoid foods high in vitamin K, which can interfere with blood-thinning medications you may be taking. It's important to eat a balanced diet with plenty of protein to promote healing. Hip Replacement Surgery Hip Replacement Surgery",
+        "response": "You're welcome. Take care of yourself and follow your doctor's instructions for a speedy recovery"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling unwell and have a fever.",
+            "Sorry to hear that, what other symptoms have you been experiencing?",
+            "I've been feeling very fatigued and my throat is sore.",
+            "Based on your symptoms, it's possible you have a viral infection. Rest and hydration are important.",
+            "Will I need any medication?",
+            "Most cases of viral infections resolve on their own, but if your symptoms persist or worsen, consult a doctor.",
+            "Okay, I'll keep that in mind. Thank you, Medi.",
+            "You're welcome. Take care!"
+        ],
+        "knowledge": "Viral infections Viral infections  Viral infections can present with a variety of symptoms including fever, fatigue, sore throat, cough, and body aches.  Treatment for viral infections is generally supportive and includes rest, hydration, and over-the-counter medications to manage symptoms.  Antibiotics are not effective against viral infections.  Most cases of viral infections resolve on their own, but if symptoms persist or worsen, a doctor should be consulted.",
+        "response": "What are some over-the-counter medications that can help manage my symptoms?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm interested in learning more about infectious diseases.",
+            "Sure, what would you like to know?",
+            "What is considered an infectious disease?",
+            "An infectious disease is caused by pathogenic microorganisms such as bacteria, viruses, fungi, or parasites. It can be spread from one person to another.",
+            "What are some examples of infectious diseases?",
+            "Some examples include the flu, tuberculosis, malaria, and COVID-19.",
+            "How can infectious diseases be prevented?",
+            "Prevention methods include getting vaccinated, practicing good hygiene, and avoiding contact with others who are sick.",
+            "Thanks for the information, Medi."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  An infectious disease is caused by pathogenic microorganisms such as bacteria, viruses, fungi, or parasites.  It can be spread from one person to another.  Examples of infectious diseases include the flu, tuberculosis, malaria, and COVID-19.  Prevention methods include getting vaccinated, practicing good hygiene, and avoiding contact with others who are sick.",
+        "response": "What are some good hygiene practices to prevent the spread of infectious diseases?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery and am wondering about post-operative care.",
+            "Of course, what specifically are you concerned about?",
+            "What kind of physical activity is safe for me to do?",
+            "It's important to start with gentle movements and gradually increase activity level. Your doctor can provide specific recommendations.",
+            "What kind of diet should I follow?",
+            "A balanced diet with adequate protein and nutrients is important for healing. Your doctor or a nutritionist can provide more guidance.",
+            "Are there any lifestyle changes I should make?",
+            "Avoid smoking and limit alcohol consumption, as they can impede the healing process and increase risk of complications.",
+            "Thank you, Medi. I appreciate the advice."
+        ],
+        "knowledge": "Post-operative care Post-operative care  After surgery, it's important to follow your doctor's instructions for post-operative care. This includes gradually increasing physical activity, following a balanced diet with adequate protein and nutrients, and avoiding smoking and excessive alcohol consumption. It's important to attend follow-up appointments to monitor healing and address any complications that may arise.",
+        "response": "How long should I expect the recovery process to take?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm experiencing some symptoms",
+            "Sure, let me know your symptoms so that I can help you better",
+            "I have a high fever, headache, and body pain",
+            "Based on your symptoms, you might have contracted some kind of viral infection",
+            "What should I do now?",
+            "Please take plenty of rest, drink lots of fluids and take fever medication if needed.",
+            "Okay, thanks. Can you tell me how these viral infections spread?",
+            "They can spread through air, contaminated surfaces, and close contact with an infected person.",
+            "That's good to know. How can I prevent the spread of viral infections?"
+        ],
+        "knowledge": "Infectious Diseases Infectious Diseases  A pandemic  is a disease that affects people over an extensive geographical area. In most cases, microorganisms live in harmony with their hosts via mutual or commensal interactions. Diseases can emerge when existing parasites become pathogenic or when new pathogenic parasites enter a new host. Several human activities have led to the emergence of zoonotic human pathogens, including viruses, bacteria, protozoa, and rickettsia, and spread of vector-borne diseases, see also globalization and disease and wildlife disease In Antiquity, the Greek historian Thucydides  was the first person to write, in his account of the plague of Athens, that diseases could spread from an infected person to others.  In his On the Different Types of Fever , the Greco-Roman physician Galen speculated that plagues were spread by \"certain seeds of plague\", which were present in the air.  In the Sushruta Samhita, the ancient Indian physician Sushruta theorized: \"Leprosy, fever, consumption, diseases of the eye, and other infectious diseases spread from one person to another by sexual union, physical contact, eating together, sleeping together, sitting together, and the use of same clothes, garlands and pastes.\" This book has been dated to about the sixth century BC Infectious Diseases Infectious Diseases",
+        "response": "Viral infections can spread through air, contaminated surfaces, and close contact. You can prevent spreading them by washing your hands regularly and wearing a mask in crowded places."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had a medical procedure recently",
+            "Hi there, how can I assist you?",
+            "I've had surgery, and I want to know what precautions I should take",
+            "It's essential to take proper care of your incision site. Please rest, avoid heavy lifting, and don't engage in any strenuous activities.",
+            "That makes sense. Can you tell me what kind of food I should be consuming?",
+            "It's crucial to eat healthy food that aids in the healing process, such as fresh fruits and vegetables, lean protein, and whole grains.",
+            "What about my medication?",
+            "Please take the prescribed medicines on time and don't skip them. Also, avoid taking any additional medication without consulting your doctor.",
+            "Got it. Thanks. Should I be concerned about anything else?"
+        ],
+        "knowledge": "Infectious Diseases Infectious Diseases  A pandemic  is a disease that affects people over an extensive geographical area. In most cases, microorganisms live in harmony with their hosts via mutual or commensal interactions. Diseases can emerge when existing parasites become pathogenic or when new pathogenic parasites enter a new host. Several human activities have led to the emergence of zoonotic human pathogens, including viruses, bacteria, protozoa, and rickettsia, and spread of vector-borne diseases, see also globalization and disease and wildlife disease In Antiquity, the Greek historian Thucydides  was the first person to write, in his account of the plague of Athens, that diseases could spread from an infected person to others.  In his On the Different Types of Fever , the Greco-Roman physician Galen speculated that plagues were spread by \"certain seeds of plague\", which were present in the air.  In the Sushruta Samhita, the ancient Indian physician Sushruta theorized: \"Leprosy, fever, consumption, diseases of the eye, and other infectious diseases spread from one person to another by sexual union, physical contact, eating together, sleeping together, sitting together, and the use of same clothes, garlands and pastes.\" This book has been dated to about the sixth century BC Infectious Diseases Infectious Diseases",
+        "response": "Make sure to avoid strenuous activities and take good care of your incision site. Eating healthy food and taking prescribed medicines are essential"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just have a few questions about infectious diseases",
+            "Sure, I'll do my best to answer them",
+            "Can you explain the difference between a pandemic and an epidemic?",
+            "A pandemic affects a large number of people in different parts of the world, while an epidemic is confined to a specific region or community.",
+            "Interesting. How do these diseases emerge in the first place?",
+            "Diseases can emerge when existing parasites become pathogenic or when new pathogenic parasites enter a new host. Several human activities have led to the emergence of zoonotic human pathogens, including viruses, bacteria, protozoa, and rickettsia, and the spread of vector-borne diseases.",
+            "Is there anything we can do to prevent the spread of these diseases?",
+            "Yes, maintaining good hygiene, washing hands regularly, wearing a mask in crowded places, and avoiding close contact with infected individuals can significantly reduce the spread of infectious diseases.",
+            "Thank you for the information. Can you tell me where I can learn more about this topic?"
+        ],
+        "knowledge": "Infectious Diseases Infectious Diseases  A pandemic  is a disease that affects people over an extensive geographical area. In most cases, microorganisms live in harmony with their hosts via mutual or commensal interactions. Diseases can emerge when existing parasites become pathogenic or when new pathogenic parasites enter a new host. Several human activities have led to the emergence of zoonotic human pathogens, including viruses, bacteria, protozoa, and rickettsia, and spread of vector-borne diseases, see also globalization and disease and wildlife disease In Antiquity, the Greek historian Thucydides  was the first person to write, in his account of the plague of Athens, that diseases could spread from an infected person to others.  In his On the Different Types of Fever , the Greco-Roman physician Galen speculated that plagues were spread by \"certain seeds of plague\", which were present in the air.  In the Sushruta Samhita, the ancient Indian physician Sushruta theorized: \"Leprosy, fever, consumption, diseases of the eye, and other infectious diseases spread from one person to another by sexual union, physical contact, eating together, sleeping together, sitting together, and the use of same clothes, garlands and pastes.\" This book has been dated to about the sixth century BC Infectious Diseases Infectious Diseases",
+        "response": "You can learn more about infectious diseases by consulting a doctor or visiting reliable online sources such as the World Health Organization or the Centers for Disease Control and Prevention."
+    }
+]

@@ -1,0 +1,403 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have a headache",
+            "I'm sorry to hear that. Can you describe more about your headache?",
+            "It's a pulsating pain in my forehead and it makes me feel nauseous",
+            "Based on your symptoms, it seems like a migraine headache. Have you had this before?",
+            "Yes, I've had migraines before. What can I do to treat it?",
+            "You can try taking over-the-counter pain relievers like ibuprofen or acetaminophen. Applying a cold compress to your forehead or taking a nap may also help.",
+            "Thank you for your advice. Is there anything else I can do to prevent migraines in the future?",
+            "Some people find that avoiding certain triggers like stress, caffeine, or certain foods can help prevent migraines. You may want to keep a headache diary to help identify your triggers.",
+            "That's helpful information. Thank you for your help, Medi."
+        ],
+        "knowledge": "Migraine Migraine  Symptoms of a migraine can include pulsating pain, sensitivity to light, sound, and smells, nausea, and vomiting.  Some people may also experience visual disturbances such as flashing lights or zigzag lines.  Migraines tend to run in families, and certain triggers like stress, caffeine, or certain foods can bring on a migraine.  Treatment options include over-the-counter pain relievers, prescription medications, applying a cold compress or heating pad to the head or neck, or resting in a dark and quiet room.  Some people find that relaxation techniques like meditation or yoga can help prevent migraines. Migraine Migraine",
+        "response": "You may want to avoid certain triggers like stress, caffeine, or certain foods and keep a headache diary to help identify your triggers to prevent migraines in the future."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery on my ankle and I'm not sure what to do now",
+            "I'm here to help! Can you tell me more about your surgery and what your doctor has recommended so far?",
+            "I had arthroscopic surgery to repair a ligament in my ankle. My doctor said to rest and avoid putting weight on it for a few weeks",
+            "That's a common recommendation after surgery like yours. You may also need physical therapy to help regain strength and range of motion in your ankle. It's important to follow your doctor's instructions and avoid doing anything too strenuous too soon",
+            "That makes sense. How can I manage the pain and swelling?",
+            "Your doctor may have prescribed pain medication or recommended over-the-counter pain relievers like acetaminophen or ibuprofen. Applying ice to your ankle can also help reduce swelling. Make sure to keep your ankle elevated when you can to help reduce swelling",
+            "Okay, I'll do that. How long does it usually take to recover from this kind of surgery?",
+            "Recovery time can vary depending on the individual and the type of surgery, but it's important to take it slow and gradually increase activity level. Your doctor will be able to give you a better idea of when you can start putting weight on your ankle and return to normal activities",
+            "Thank you for your help, Medi. I feel much more prepared to recover from my surgery now."
+        ],
+        "knowledge": "Arthroscopic Surgery Arthroscopic Surgery  Arthroscopic surgery is a minimally invasive procedure used to diagnose and treat joint problems.  During the procedure, a small camera and surgical instruments are inserted into the joint through small incisions.  Arthroscopic surgery can be used to repair ligament injuries, remove loose cartilage or bone fragments, or smooth out rough cartilage surfaces.  After surgery, it's important to rest and avoid putting weight on the joint for a certain period of time.  Physical therapy may also be necessary to help regain range of motion and strength in the joint. Arthroscopic Surgery Arthroscopic Surgery",
+        "response": "Recovery time can vary depending on the individual and the type of surgery, but it's important to take it slow and gradually increase activity level. Your doctor will be able to give you a better idea of when you can start putting weight on your ankle and return to normal activities"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about meningitis",
+            "Of course, I'm here to help. What's your question?",
+            "I've heard of bacterial and viral meningitis, but what's the difference between the two?",
+            "Bacterial meningitis is a serious and potentially life-threatening infection that requires immediate medical attention. Viral meningitis is generally less severe and often resolves on its own with supportive care",
+            "That's good to know. How are they diagnosed and treated?",
+            "A lumbar puncture is typically used to diagnose meningitis by analyzing the cerebrospinal fluid. Bacterial meningitis is typically treated with antibiotics, while viral meningitis is managed with supportive care like rest, fluids, and over-the-counter pain relievers",
+            "Are there any ways to prevent meningitis?",
+            "There are vaccines available for certain types of bacterial meningitis, including the meningococcal vaccine and the pneumococcal vaccine. Practicing good hygiene like washing your hands regularly can also help prevent the spread of meningitis",
+            "Thank you for your help, Medi. This information is really helpful"
+        ],
+        "knowledge": "Meningitis Meningitis  Meningitis is inflammation of the membranes that surround the brain and spinal cord.  Bacterial meningitis is a serious and potentially life-threatening infection that requires immediate medical attention and is typically treated with antibiotics.  Viral meningitis is generally less severe and often resolves on its own with supportive care like rest, fluids, and over-the-counter pain relievers.  A lumbar puncture is typically used to diagnose meningitis by analyzing the cerebrospinal fluid.  Vaccines are available for certain types of bacterial meningitis, including the meningococcal vaccine and the pneumococcal vaccine. Meningitis Meningitis",
+        "response": "There are vaccines available for certain types of bacterial meningitis, including the meningococcal vaccine and the pneumococcal vaccine. Practicing good hygiene like washing your hands regularly can also help prevent the spread of meningitis"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a headache and a fever.",
+            "Hi, I'm here to help. Can you tell me more about how your headache feels?",
+            "It's a throbbing pain on the left side of my head.",
+            "I see. What about your fever?",
+            "I think it's around 38.5\u00b0C.",
+            "Based on your symptoms, it could be a bacterial meningitis. You should see a doctor immediately.",
+            "What is bacterial meningitis and how is it treated?",
+            "Bacterial meningitis is an infection of the membranes covering the brain and spinal cord and requires hospitalization to treat with antibiotics. Do you need help finding a hospital?"
+        ],
+        "knowledge": "Meningitis Meningitis Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid. It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment. Viral meningitis tends to run a more benign course than bacterial meningitis. Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective. Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "Bacterial meningitis is an infection of the membranes covering the brain and spinal cord and requires hospitalization to treat with antibiotics. Do you need help finding a hospital?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, could you tell me more about meningitis?",
+            "Sure, meningitis is an inflammation of the membranes surrounding the brain and spinal cord.",
+            "What are the common symptoms of meningitis?",
+            "The most common symptoms of meningitis are fever, headache, and neck stiffness. Other symptoms include nausea, vomiting, sensitivity to light, confusion, and seizures.",
+            "How is meningitis diagnosed and treated?",
+            "Meningitis can be diagnosed through various tests, including a lumbar puncture. Treatment depends on the type of meningitis and can include antibiotics, antivirals, and supportive care.",
+            "Can meningitis be prevented?",
+            "Some forms of bacterial meningitis can be prevented with vaccines, and practicing good hygiene, such as washing your hands regularly, can also help prevent the spread of meningitis.",
+            "Thanks for the information. Do you recommend vaccination against meningitis?"
+        ],
+        "knowledge": "Meningitis Meningitis Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid. It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment. Viral meningitis tends to run a more benign course than bacterial meningitis. Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective. Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "Yes, I highly recommend getting vaccinated against meningitis, especially if you are at higher risk, such as college students or people with weakened immune systems."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had viral meningitis a few weeks ago. What lifestyle changes should I make after recovery?",
+            "Hi, I'm glad you've recovered. After viral meningitis, it's important to get plenty of rest and stay hydrated. You should also avoid strenuous physical activity and check in with your doctor regularly.",
+            "Are there any foods or supplements that can help with my recovery?",
+            "Some studies suggest that omega-3 fatty acids and vitamin D may help with brain function and inflammation, but be sure to talk to your doctor before taking any supplements.",
+            "What about exercise?",
+            "Light exercise, such as walking or yoga, can be beneficial for recovery after viral meningitis. But again, be sure to check with your doctor before starting any exercise regimen.",
+            "Thanks for the advice. Is there anything else I should know about viral meningitis?",
+            "Just remember that viral meningitis is usually a milder form of meningitis than bacterial meningitis and typically does not require hospitalization. But it's still important to take proper precautions to prevent the spread of the virus and to take care of yourself during recovery.",
+            "Thanks for the information. I'll be sure to follow your advice."
+        ],
+        "knowledge": "Meningitis Meningitis Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid. It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment. Viral meningitis tends to run a more benign course than bacterial meningitis. Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective. Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "Just remember that viral meningitis is usually a milder form of meningitis than bacterial meningitis and typically does not require hospitalization. But it's still important to take proper precautions to prevent the spread of the virus and to take care of yourself during recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I suspect that I have meningitis. What should I do?",
+            "Hi! Based on your symptoms, you should visit a doctor immediately",
+            "What are some common symptoms of meningitis?",
+            "Common symptoms are fever, headache, and neck stiffness",
+            "What about other symptoms?",
+            "Other symptoms may include nausea, vomiting, sensitivity to light, and confusion",
+            "Do I need any specific treatment for meningitis?",
+            "Yes, you should have adequate rest, hydration, and take prescribed medication",
+            "What medication should I take?"
+        ],
+        "knowledge": "Meningitis Meningitis  Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid.   It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment.  Viral meningitis tends to run a more benign course than bacterial meningitis.  Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective.  Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "It depends on the type of meningitis you have. You will need to take prescribed medication that your doctor will advise."
+    },
+    {
+        "dialog": [
+            "Hi Medi, what is the difference between viral and bacterial meningitis?",
+            "Hi! Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment",
+            "What about bacterial meningitis?",
+            "Bacterial meningitis is a life-threatening condition and requires immediate medical attention",
+            "What are the specific symptoms of bacterial meningitis?",
+            "The specific symptoms of bacterial meningitis may include fever, headache, vomiting, sensitivity to light, and confusion",
+            "What is the treatment for bacterial meningitis?",
+            "The treatment for bacterial meningitis includes antibiotics and other supportive care",
+            "Is it possible to prevent meningitis?"
+        ],
+        "knowledge": "Meningitis Meningitis  Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid.   It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment.  Viral meningitis tends to run a more benign course than bacterial meningitis.  Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective.  Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "Some forms of meningitis can be prevented through vaccination and practicing good hygiene habits."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have just had a medical procedure. What lifestyle changes should I make?",
+            "Hi! After a medical procedure, it is important to get adequate rest and hydration",
+            "What about physical activity?",
+            "You should avoid strenuous physical activity until your doctor advises",
+            "What type of food should I avoid?",
+            "You should avoid foods that are high in fat, sugar, and salt",
+            "What type of food should I eat?",
+            "You should eat a healthy and balanced diet that includes fruits, vegetables, and lean protein",
+            "What other lifestyle changes should I make?"
+        ],
+        "knowledge": "Meningitis Meningitis  Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid.   It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment.  Viral meningitis tends to run a more benign course than bacterial meningitis.  Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective.  Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "You should also avoid alcohol and smoking, and follow any other specific recommendations given by your doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a headache and my throat is sore.",
+            "I'm sorry to hear that. How long have you been experiencing these symptoms?",
+            "It started a couple of days ago, and it's been getting worse.",
+            "Based on your symptoms, it's possible that you have a viral infection. I recommend resting and drinking plenty of fluids.",
+            "Is there anything else I can do to feel better?",
+            "You can try over-the-counter pain relievers like acetaminophen or ibuprofen for your headache and sore throat. If your symptoms persist or worsen, you should see a doctor.",
+            "Thanks for your help, Medi.",
+            "You're welcome. I hope you feel better soon!",
+            "What kind of viral infection could it be?"
+        ],
+        "knowledge": "Viral Infections Viral infections typically cause symptoms such as fever, headache, muscle aches, sore throat, and cough. Many respiratory viruses are spread by coughing and sneezing, so it's important to cover your mouth and nose with a tissue when you cough or sneeze. Viral infections can be caused by a variety of viruses, including influenza, the common cold, and COVID-19. Treatment for viral infections usually involves rest, fluids, and over-the-counter pain relief medication. If your symptoms persist or worsen, you should see a doctor. Viral Infections",
+        "response": "Based on your symptoms of a headache and sore throat, it's possible that you have a common viral infection such as the cold or flu."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I have fungal meningitis. What should I do?",
+            "I'm sorry to hear that. Fungal meningitis is a serious condition that requires prompt treatment. Have you been diagnosed by a doctor?",
+            "Yes, I have. My doctor prescribed me some medication, but I'm still feeling sick.",
+            "It's important to take your medication as prescribed by your doctor, even if you start feeling better. Fungal meningitis can be difficult to treat and may require long-term medication.",
+            "Are there any lifestyle changes I can make to help my recovery?",
+            "Getting plenty of rest and eating a healthy diet can help support your recovery. It's important to avoid alcohol and smoking, as they can interfere with your medication and slow down your recovery.",
+            "Thanks for the advice, Medi.",
+            "You're welcome. If you have any more questions, I'm here to help.",
+            "How long does it usually take to recover from fungal meningitis?"
+        ],
+        "knowledge": "Fungal Meningitis Fungal meningitis is a serious condition that can cause complications such as brain damage and death. Treatment for fungal meningitis involves long-term medication with antifungal drugs such as amphotericin B and flucytosine. It's important to take your medication as prescribed by your doctor, even if you start feeling better. Lifestyle changes such as getting plenty of rest and eating a healthy diet can help support your recovery. It's important to avoid alcohol and smoking, as they can interfere with your medication and slow down your recovery. Recovery time can vary depending on the severity of the infection, but it can take months or even years for some patients to fully recover from fungal meningitis. Fungal Meningitis",
+        "response": "Recovery time can vary depending on the severity of the infection, but it can take months or even years for some patients to fully recover from fungal meningitis."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had bacterial meningitis. What should I do to prevent it from happening again?",
+            "I'm sorry to hear that. Bacterial meningitis can be a serious and life-threatening condition. The best way to prevent bacterial meningitis is to get vaccinated. There are vaccines available for several types of bacteria that can cause meningitis.",
+            "Is there anything else I can do?",
+            "You can also take steps to avoid close contact with people who are sick, wash your hands regularly, and practice good hygiene overall. If you have a weakened immune system, it's especially important to be careful and avoid exposure to potential sources of infection.",
+            "Thanks for the advice, Medi.",
+            "You're welcome. If you have any more questions, I'm here to help.",
+            "What are some of the signs and symptoms of bacterial meningitis?"
+        ],
+        "knowledge": "Bacterial Meningitis Bacterial meningitis is a serious and life-threatening condition that requires prompt treatment with antibiotics. Symptoms of bacterial meningitis can include fever, headache, stiff neck, nausea and vomiting, sensitivity to light, and confusion or altered mental status. In severe cases, it can lead to seizures, coma, and even death. The best way to prevent bacterial meningitis is to get vaccinated. You can also take steps to avoid close contact with people who are sick, wash your hands regularly, and practice good hygiene overall. If you have a weakened immune system, it's especially important to be careful and avoid exposure to potential sources of infection. Bacterial Meningitis",
+        "response": "Symptoms of bacterial meningitis can include fever, headache, stiff neck, nausea and vomiting, sensitivity to light, and confusion or altered mental status."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm feeling sick. I have a headache and a high fever.",
+            "Hello, I'm sorry to hear that. Have you taken your temperature?",
+            "Yes, I have. My temperature is 102.4 degrees Fahrenheit.",
+            "Okay, it sounds like you have a fever. I suggest you rest and drink plenty of fluids.",
+            "Is there anything else I can do to relieve the headache?",
+            "You can try taking acetaminophen or ibuprofen. If your headache persists, please see a doctor.",
+            "Okay, I'll try that. Thank you, Medi.",
+            "You're welcome. Take care of yourself.",
+            "What should I do if my fever doesn't go down?"
+        ],
+        "knowledge": "Fever Fever A fever is a common sign of illness, and it indicates that the body's immune system is fighting off an infection. Most fevers are caused by viruses or bacteria, and they usually go away on their own within a few days. However, if your fever is above 103 degrees Fahrenheit or lasts longer than three days, you should consult a doctor. You can also take over-the-counter medications like acetaminophen or ibuprofen to reduce your fever and relieve other symptoms like headache or muscle aches. It's important to rest and drink plenty of fluids to help your body recover from the infection. Fever Fever",
+        "response": "If your fever doesn't go down or if it lasts for more than three days, you should consult a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about viral meningitis.",
+            "Sure, I'll do my best to help. What would you like to know?",
+            "What exactly is viral meningitis and how is it treated?",
+            "Viral meningitis is an inflammation of the membranes that surround the brain and spinal cord. It is caused by a virus and can be spread from person to person through close contact. The symptoms of viral meningitis are similar to those of bacterial meningitis, but they are usually less severe. Most cases of viral meningitis do not require specific treatment and go away on their own within a few weeks. However, in severe cases, antiviral medication may be used to treat the infection and reduce the risk of complications.",
+            "I see. Is there anything I can do to prevent getting viral meningitis?",
+            "The best way to prevent viral meningitis is to practice good hygiene, such as washing your hands regularly and avoiding close contact with people who are sick. You should also avoid sharing utensils, cups, or other personal items with others.",
+            "Okay, thank you for your help, Medi.",
+            "You're welcome. Let me know if you have any other questions.",
+            "Is there a vaccine available for viral meningitis?"
+        ],
+        "knowledge": "Meningitis Meningitis Viral meningitis is an inflammation of the membranes that surround the brain and spinal cord. It is caused by a virus and can be spread from person to person through close contact. The symptoms of viral meningitis are similar to those of bacterial meningitis, but they are usually less severe. Most cases of viral meningitis do not require specific treatment and go away on their own within a few weeks. However, in severe cases, antiviral medication may be used to treat the infection and reduce the risk of complications. The best way to prevent viral meningitis is to practice good hygiene, such as washing your hands regularly and avoiding close contact with people who are sick. You should also avoid sharing utensils, cups, or other personal items with others. There is no vaccine available specifically for viral meningitis. Meningitis Meningitis",
+        "response": "No, there is no vaccine specifically available for viral meningitis."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a lumbar puncture. What should I do now?",
+            "Hello, after a lumbar puncture, you should rest in bed for at least four to six hours.",
+            "Is there anything I should avoid doing?",
+            "Yes, you should avoid any strenuous activities or heavy lifting for the next day or two. You should also drink plenty of fluids to help prevent headaches.",
+            "What should I do if I experience a headache?",
+            "If you experience a headache, you should lie down and drink plenty of fluids. You can also take over-the-counter pain relievers like acetaminophen or ibuprofen. If your headache persists, please consult a doctor.",
+            "Okay, thank you for your advice, Medi.",
+            "You're welcome. Take care of yourself.",
+            "How long does it take to recover from a lumbar puncture?"
+        ],
+        "knowledge": "Lumbar Puncture Lumbar Puncture A lumbar puncture, also known as a spinal tap, is a medical procedure used to diagnose and treat a variety of conditions. During the procedure, a thin needle is inserted into the space surrounding the spinal cord to collect a sample of cerebrospinal fluid. After a lumbar puncture, you may experience some side effects like headache, back pain, or dizziness. These usually go away within a few hours or days. You should rest and drink plenty of fluids to help your body recover from the procedure. Avoid any strenuous activities or heavy lifting for the next day or two. If you experience severe or persistent symptoms after a lumbar puncture, please consult a doctor. Lumbar Puncture Lumbar Puncture",
+        "response": "The recovery time after a lumbar puncture depends on the individual and the reason for the procedure. It can take anywhere from a few hours to a few days to fully recover."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am feeling very unwell lately and need your help.",
+            "Sure, I would be happy to help. Can you tell me your symptoms?",
+            "I have a severe headache, neck stiffness and vomiting.",
+            "Based on your symptoms, you might be suffering from meningitis. You should visit a hospital immediately.",
+            "What is meningitis and how is it treated?",
+            "Meningitis is an inflammation of the protective membranes covering the brain and spinal cord. Treatment depends on the type of meningitis. Bacterial meningitis is a medical emergency and requires immediate hospitalization. Viral meningitis typically goes away on its own. Fungal meningitis is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine.",
+            "Thank you for your advice. Can you also tell me if it's contagious?",
+            "Bacterial meningitis is contagious, but the risk of transmission is low. However, it is important to take necessary precautions such as washing your hands frequently and avoiding close contact with people who have meningitis.",
+            "Thanks for all your help."
+        ],
+        "knowledge": "Meningitis Meningitis  Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid.   It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment.  Viral meningitis tends to run a more benign course than bacterial meningitis.  Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective.  Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "You're welcome. I hope you can get the treatment you need soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I was just reading about meningitis. Can you explain the difference between bacterial, viral and fungal meningitis?",
+            "Of course, bacterial meningitis is caused by bacteria, viral meningitis is caused by viruses, and fungal meningitis is caused by fungi. Bacterial meningitis is the most severe form and can be fatal if not treated immediately. Viral meningitis is less severe than bacterial meningitis and usually goes away on its own. Fungal meningitis is rare and typically affects people with weakened immune systems.",
+            "Thank you for your explanation. Can meningitis be prevented?",
+            "Yes, there are vaccines available for bacterial meningitis. The vaccine is recommended for people who are at high risk of developing the disease, such as college students living in dormitories and people with weakened immune systems. There are no vaccines for viral or fungal meningitis, but taking preventive measures such as washing your hands frequently and avoiding close contact with people who have meningitis can reduce the risk of infection.",
+            "That's very helpful. Thanks, Medi.",
+            "You're welcome. If you have any other questions, feel free to ask.",
+            "Actually, I do have one more question. What are the symptoms of meningitis?",
+            "Symptoms of meningitis include fever, headache, neck stiffness, vomiting, confusion, and sensitivity to light. It is important to seek medical attention if you experience any of these symptoms.",
+            "Thanks, Medi!"
+        ],
+        "knowledge": "Meningitis Meningitis  Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid.   It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment.  Viral meningitis tends to run a more benign course than bacterial meningitis.  Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective.  Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "You're welcome. Take care."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently underwent treatment for meningitis. Can you give me some advice on how to speed up my recovery?",
+            "Yes, there are a few things you can do to help speed up your recovery. Make sure you get plenty of rest and sleep, eat a well-balanced diet full of vitamins and nutrients, and avoid stressful situations. You should also avoid smoking and drinking alcohol, as these can slow down the healing process. Finally, make sure to take any medication prescribed by your doctor as directed.",
+            "Thank you for your advice. Are there any exercises I can do to help with my recovery?",
+            "Yes, physical exercise can be helpful in improving your strength and endurance. However, you should start slowly and gradually increase the intensity of your workouts as you begin to feel better. Consult your doctor before starting any exercise program.",
+            "Thank you for your help, Medi!",
+            "You're welcome. I hope you feel better soon. If you have any other questions or concerns, don't hesitate to ask.",
+            "Actually, I do have one more question. Can meningitis come back?",
+            "Most cases of meningitis do not come back once they have been treated. However, in rare cases, people can develop recurrent meningitis due to an underlying medical condition. It is important to follow up with your doctor regularly to monitor your condition and prevent any complications.",
+            "Thanks for your help, Medi!"
+        ],
+        "knowledge": "Meningitis Meningitis  Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid.   It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment.  Viral meningitis tends to run a more benign course than bacterial meningitis.  Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective.  Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "You're welcome. Take care."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am feeling very ill and have a fever",
+            "I'm sorry to hear that. What other symptoms do you have ?",
+            "I have a really bad headache and I am sensitive to light and sound",
+            "Based on your symptoms, you may have meningitis. You should go to the hospital immediately for a diagnosis",
+            "What is meningitis and how it is treated?",
+            "Meningitis is an inflammation of the membranes surrounding your brain and spinal cord. Treatment depends on the type of meningitis you have",
+            "What are the treatments for bacterial meningitis and viral meningitis?",
+            "Antibiotics can treat bacterial meningitis while viral meningitis typically requires supportive therapy",
+            "What is the difference between the two?"
+        ],
+        "knowledge": "Meningitis Meningitis  Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid.   It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment.  Viral meningitis tends to run a more benign course than bacterial meningitis.  Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective.  Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "Bacterial meningitis can be treated with antibiotics while viral meningitis typically requires supportive therapy."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you explain to me what meningitis is?",
+            "Meningitis is an inflammation of the membranes surrounding your brain and spinal cord",
+            "What are the symptoms of meningitis?",
+            "Common symptoms of meningitis are fever, headache, and a stiff neck",
+            "Are there any other symptoms?",
+            "Yes, other symptoms include sensitivity to light and sound, confusion, and vomiting",
+            "How is meningitis contracted?",
+            "Meningitis can be contracted through close contact with someone who is infected or by touching an object contaminated by the bacteria or virus",
+            "What can be done to prevent meningitis?"
+        ],
+        "knowledge": "Meningitis Meningitis  Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid.   It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment.  Viral meningitis tends to run a more benign course than bacterial meningitis.  Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective.  Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "Vaccines are available for bacterial meningitis and practicing good hygiene can help prevent the spread of the disease."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a spinal tap for meningitis diagnosis",
+            "I'm sorry to hear that. Do you have any questions regarding post-procedure care?",
+            "Yes, is there anything I can do to prevent spinal headache?",
+            "Yes, you can prevent spinal headache by lying down and drinking plenty of fluids for several hours after the procedure",
+            "What if I still get a spinal headache?",
+            "If you do get a spinal headache, you should lie down and drink plenty of fluids. Over-the-counter pain medication can also help alleviate the headache",
+            "Are there any other risks associated with a spinal tap?",
+            "Other risks associated with a spinal tap include bleeding, infection, and nerve damage",
+            "What should I do if I experience any of these risks?"
+        ],
+        "knowledge": "Meningitis Meningitis  Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid.   It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment.  Viral meningitis tends to run a more benign course than bacterial meningitis.  Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective.  Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "Drinking plenty of fluids and lying down can help prevent spinal headache after a spinal tap."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am not feeling well. I have fever and headache",
+            "I am sorry to hear that. Based on your symptoms, I think you might have meningitis",
+            "What is meningitis? Is it dangerous?",
+            "Meningitis is an inflammation of the protective membranes covering the brain and spinal cord and it is serious",
+            "What should I do if I have meningitis?",
+            "Immediate treatment is necessary to prevent permanent damage or death. You should see a doctor immediately",
+            "What are the treatments available for meningitis?",
+            "The treatments depend on the type of meningitis you have. It can range from supportive therapy to antifungal or antiviral drugs",
+            "How can I prevent meningitis?"
+        ],
+        "knowledge": "Meningitis Meningitis  Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid.   It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment.  Viral meningitis tends to run a more benign course than bacterial meningitis.  Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective.  Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "You can lower your risk of getting meningitis by avoiding close contact with people who are ill, covering your mouth and nose when you cough or sneeze, washing your hands frequently, and getting vaccinated if available"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I heard about meningitis. Can you explain it to me?",
+            "Of course. Meningitis is an inflammation of the protective membranes covering the brain and spinal cord",
+            "What causes meningitis?",
+            "Bacterial and viral infections are the most common causes of meningitis",
+            "What are the symptoms of meningitis?",
+            "Symptoms of meningitis include fever, headache, stiff neck, sensitivity to light, and confusion or altered consciousness",
+            "Can meningitis be contagious?",
+            "Yes, some forms of meningitis are contagious and can be spread from person to person through close contact",
+            "How can I reduce my risk of getting meningitis?"
+        ],
+        "knowledge": "Meningitis Meningitis  Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid.   It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment.  Viral meningitis tends to run a more benign course than bacterial meningitis.  Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective.  Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "You can reduce your risk of getting meningitis by avoiding close contact with people who are ill, washing your hands frequently, covering your mouth and nose when you cough or sneeze, and getting vaccinated if available"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have recently recovered from meningitis and I want some advice on how to take care of myself",
+            "I am glad to hear that you have recovered. What type of meningitis did you have?",
+            "I had bacterial meningitis",
+            "After recovering from bacterial meningitis, it is important to get plenty of rest, eat a healthy diet, and avoid alcohol and smoking",
+            "What are some of the long term effects of meningitis?",
+            "Some long term effects of meningitis include hearing loss, vision loss, memory problems, and frequent headaches",
+            "What are some lifestyle changes I can make to prevent meningitis from recurring?",
+            "You can improve your overall health by eating a balanced diet, getting plenty of rest, and practicing good hygiene like washing your hands frequently",
+            "How can I spot the symptoms of meningitis if it recurs?"
+        ],
+        "knowledge": "Meningitis Meningitis  Examples of adjuvant therapies that have been trialed include acetaminophen, immunoglobulin therapy, heparin, pentoxifyline, and a mononucleotide mixture with succinic acid.   It is not clear if any of these therapies are helpful or worsen outcomes in people with acute bacterial meningitis. Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment.  Viral meningitis tends to run a more benign course than bacterial meningitis.  Herpes simplex virus and varicella zoster virus may respond to treatment with antiviral drugs such as aciclovir, but there are no clinical trials that have specifically addressed whether this treatment is effective.  Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "If meningitis does recur, symptoms will likely be similar to those you experienced before. Symptoms include fever, headache, stiff neck, sensitivity to light, and confusion or altered consciousness. You should see a doctor immediately if you experience any of these symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am experiencing a severe headache and fever.",
+            "I am sorry to hear that. Do you have any other symptoms?",
+            "I also feel nauseous and have a stiff neck.",
+            "Based on your symptoms, it may be bacterial meningitis, which is a medical emergency",
+            "What should I do?",
+            "You should go to the hospital immediately. Early treatment can prevent complications",
+            "Thank you, Medi. I will go to the hospital now.",
+            "Take care. I hope you feel better soon."
+        ],
+        "knowledge": "Meningitis Meningitis  Symptoms of meningitis include fever, headache, neck stiffness, photophobia, nausea, and vomiting.  Other symptoms may include confusion, seizures, and a rash.  Bacterial meningitis is a medical emergency and requires immediate treatment with intravenous antibiotics and sometimes corticosteroids.  Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment.  Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "You're welcome. I hope you will recover soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, what is meningitis?",
+            "Meningitis is an inflammation of the protective membranes that cover the brain and spinal cord.",
+            "What are the symptoms of meningitis?",
+            "Symptoms include fever, headache, neck stiffness, photophobia, nausea, vomiting, confusion, seizures, and a rash.",
+            "Is meningitis contagious?",
+            "Yes, bacterial meningitis can be transmitted through respiratory and throat secretions like coughing and sneezing. Viral meningitis can also be contagious.",
+            "How is meningitis treated?",
+            "Bacterial meningitis requires immediate treatment with intravenous antibiotics and sometimes corticosteroids. Viral meningitis typically only requires supportive therapy, while fungal meningitis is treated with high dose antifungals.",
+            "Thanks for the information, Medi"
+        ],
+        "knowledge": "Meningitis Meningitis  Symptoms of meningitis include fever, headache, neck stiffness, photophobia, nausea, and vomiting.  Other symptoms may include confusion, seizures, and a rash.  Bacterial meningitis is a medical emergency and requires immediate treatment with intravenous antibiotics and sometimes corticosteroids.  Viral meningitis typically only requires supportive therapy; most viruses responsible for causing meningitis are not amenable to specific treatment.  Mild cases of viral meningitis can be treated at home with conservative measures such as fluid, bedrest, and analgesics. Fungal meningitis, such as cryptococcal meningitis, is treated with long courses of high dose antifungals, such as amphotericin B and flucytosine Meningitis Meningitis",
+        "response": "You're welcome. Don't hesitate to ask if you have more questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure. What should I do next?",
+            "It depends on the type of procedure you had. Can you tell me more about it?",
+            "I had a spinal tap to test for meningitis.",
+            "After a spinal tap, you should avoid any strenuous activity or heavy lifting for at least 24 hours and keep the puncture site clean and dry.",
+            "What should I eat?",
+            "You should stick to a healthy diet and avoid processed and sugary foods that can cause inflammation.",
+            "What about pain relief?",
+            "You can take over-the-counter pain relievers like ibuprofen or acetaminophen as directed by your doctor.",
+            "Thanks a lot, Medi."
+        ],
+        "knowledge": "Meningitis Meningitis  A spinal tap is a medical procedure that involves inserting a needle into the spinal canal to collect cerebrospinal fluid for diagnostic purposes.  After a spinal tap, you should avoid any strenuous activity or heavy lifting for at least 24 hours and keep the puncture site clean and dry.  You can take over-the-counter pain relievers like ibuprofen or acetaminophen as directed by your doctor. Meningitis Meningitis",
+        "response": "You're welcome. I'm always here to help you with your health concerns."
+    }
+]

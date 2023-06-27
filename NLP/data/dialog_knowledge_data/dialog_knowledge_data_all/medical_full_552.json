@@ -1,0 +1,361 @@
+[
+    {
+        "dialog": [
+            "Hey Medi, I'm feeling sick, can you help diagnose my symptoms?",
+            "Of course, what symptoms are you experiencing right now?",
+            "My head hurts a lot and I'm feeling very lethargic.",
+            "It sounds like you might be experiencing a migraine. Have you experienced them before?",
+            "Yes, I have had them in the past.",
+            "Okay, I recommend taking an over-the-counter pain reliever and getting some rest. Avoid any triggers that you know of.",
+            "Thanks, Medi. What can trigger a migraine?",
+            "Some common triggers include stress, certain foods, bright lights, and loud noises.",
+            "I'll keep that in mind. Thanks for your help, Medi."
+        ],
+        "knowledge": "Migraines Migraines can cause severe throbbing pain or a pulsing sensation, usually on one side of the head.  They can also cause other symptoms, such as nausea, vomiting, and sensitivity to light and sound. Migraine attacks can cause significant pain for hours to days and can be so severe that the pain is disabling.  Some migraines are preceded or accompanied by an aura, which is a visual disturbance that can include flashing lights, zigzag lines, or temporary vision loss.  Migraines are thought to be caused by abnormal brain activity, which can be triggered by a variety of factors, including stress, certain foods, and changes in sleep patterns Migraines",
+        "response": "You're welcome. Some common triggers include stress, certain foods, bright lights, and loud noises."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been having a lot of trouble sleeping lately. What can I do?",
+            "First, I suggest establishing a consistent sleep schedule. Also, avoid caffeine and other stimulants before bed.",
+            "What about using sleeping pills?",
+            "I wouldn't recommend relying on sleeping pills, as they can be habit-forming. Instead, try relaxation techniques like meditation or deep breathing.",
+            "How long should I try these techniques before seeking other help?",
+            "I recommend trying these techniques for at least a week before considering other options.",
+            "Okay, I'll give it a try. Thanks for your help, Medi.",
+            "You're welcome. I hope these tips help you get some restful sleep."
+        ],
+        "knowledge": "Insomnia Insomnia is a common sleep disorder that can make it hard to fall asleep, stay asleep, or cause you to wake up too early.  Insomnia can be caused by a variety of factors, such as stress, anxiety, depression, certain medications, and poor sleep habits.  Treatment typically involves addressing the underlying cause of the insomnia, such as making lifestyle changes or treating an underlying medical condition.  Medications are sometimes used in combination with other treatments, but they can be habit-forming and should only be used under a doctor's supervision Insomnia",
+        "response": "I hope these tips help you get some restful sleep."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just had surgery and I'm not sure what I should do during my recovery.",
+            "What kind of surgery did you have?",
+            "It was a procedure to remove my appendix.",
+            "In that case, you should avoid heavy lifting and strenuous activity for several weeks.",
+            "What about my diet?",
+            "You should eat a balanced diet with plenty of protein to help your body recover. Avoid foods that are high in fat or sugar.",
+            "Okay, that makes sense. What else should I keep in mind?",
+            "Be sure to follow your doctor's instructions for pain management and attend all follow-up appointments.",
+            "I will. Thanks for your help, Medi."
+        ],
+        "knowledge": "Appendectomy An appendectomy is a surgical procedure to remove the appendix.  Recovery time depends on the type of surgery performed and the individual's overall health.  After surgery, it's important to rest and avoid heavy lifting and strenuous activity for several weeks.  It's also important to eat a balanced diet with plenty of protein to help the body recover.  Pain management and follow-up appointments with a healthcare provider are important for a successful recovery Appendix surgery Appendectomy",
+        "response": "You're welcome. Be sure to follow your doctor's instructions for pain management and attend all follow-up appointments."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I have a fever and cough",
+            "Hi, I'm Medi, a health-care chatbot. Please tell me more about your symptoms",
+            "I have a temperature of 100.4\u00b0F and a persistent cough",
+            "You may have a respiratory infection. Have you been in contact with anyone who has been sick?",
+            "Yes, I went to the grocery store yesterday and there were a lot of people there",
+            "I see. You may have contracted a virus. Please monitor your symptoms and rest. Drink plenty of fluids and take acetaminophen if needed",
+            "Thank you. Is there anything else I should do?",
+            "Avoid contact with others until you are feeling better and if your symptoms worsen, contact a healthcare provider",
+            "Okay, I will. Thanks, Medi. "
+        ],
+        "knowledge": "Respiratory infections Respiratory infections  Symptoms include fever, cough, and difficulty breathing.  Respiratory viruses can be spread from person to person through respiratory droplets when an infected person talks, coughs or sneezes.  The spread can also occur by touching a surface or object that has the virus on it and then touching the mouth, nose, or eyes.  The best way to prevent respiratory infections is by washing your hands frequently with soap and water for at least 20 seconds or using hand sanitizer, wearing a mask when in public, avoiding close contact with others, and avoiding touching your face with unwashed hands",
+        "response": "You're welcome. Remember to drink plenty of fluids and take acetaminophen if needed. Avoid contact with others until you are feeling better and if your symptoms worsen, contact a healthcare provider."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I want to ask about Covid-19 symptoms",
+            "Hi, I'm Medi, a health-care chatbot. Sure, what do you want to know?",
+            "What are the common symptoms of Covid-19?",
+            "The most common symptoms are fever, dry cough, and tiredness. Other symptoms include body aches, headache, loss of taste or smell, sore throat, congestion, and shortness of breath",
+            "I see. Is it possible to have Covid-19 without symptoms?",
+            "Yes, up to 40% of SARS-CoV-2 infections may be asymptomatic, suggesting that many people are naturally protected from disease",
+            "That's interesting. How can we protect ourselves from Covid-19?",
+            "The best way to protect yourself is to wear a mask, practice social distancing, and wash your hands frequently. Also, avoid close contact with others who are sick and stay home if you are feeling unwell",
+            "Thanks for the information, Medi."
+        ],
+        "knowledge": "Covid-19 Covid-19  Symptoms include fever, dry cough, and tiredness.  Other symptoms include body aches, headache, loss of taste or smell, sore throat, congestion, and shortness of breath.  Up to 40% of SARS-CoV-2 infections may be asymptomatic.  Large genetic studies have defined risk factors for severe SARS-CoV-2 infections, and genome sequences from 659 patients with severe COVID-19 revealed genetic variants that appear to be associated with life-threatening disease.  One gene identified in these studies is type I interferon.  Autoantibodies against type I IFNs were found in up to 13. 7% of patients with life-threatening COVID-19, indicating that a complex interaction between genetics and the immune system is important for natural resistance to COVID-19",
+        "response": "You're welcome. Remember to wear a mask, practice social distancing, and wash your hands frequently. Avoid close contact with others who are sick and stay home if you are feeling unwell."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a surgery and I'm not sure what I should do next",
+            "Hi, I'm Medi, a health-care chatbot. Congratulations on your successful surgery. What can I help you with?",
+            "Thank you. I'm not sure what kind of physical activities I can do",
+            "It is important to rest and give your body time to heal. Your doctor will give you specific instructions about when you can resume physical activity. Generally, activities like walking and light stretching are recommended in the early stages of recovery",
+            "What about my diet?",
+            "A healthy, balanced diet is important for recovery. You may need to avoid certain foods or eat soft foods in the early stages of recovery. Drink plenty of fluids and make sure to eat enough protein to help your body heal",
+            "I see. What else can I do to aid my recovery?",
+            "Get enough rest, avoid smoking or drinking alcohol, and follow your doctor's instructions for wound care. Also, try to minimize stress and ask for help if you need it",
+            "Thank you, Medi. That's very helpful."
+        ],
+        "knowledge": "Surgery Recovery Surgery Recovery  Patients should rest and give their body time to heal.  Depending on the type of surgery, they may be advised to avoid certain physical activities or increase activity gradually.  A healthy, balanced diet is important for recovery.  Patients should drink plenty of fluids and make sure to eat enough protein to help their body heal.  They should also follow their healthcare provider's instructions for wound care and take any prescribed pain medications as directed.  Getting enough rest, avoiding smoking or drinking alcohol, and minimizing stress can also aid in recovery",
+        "response": "You're welcome. Remember to get enough rest, avoid smoking or drinking alcohol, and follow your doctor's instructions for wound care. Minimize stress and ask for help if you need it."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and cough for two days.",
+            "I suggest you to stay home, drink plenty of fluids and take rest",
+            "Do you think I need to see a doctor?",
+            "If the fever and cough persist or worsen, you should see a doctor.",
+            "Okay, but how do I know if I need to be tested for COVID-19?",
+            "If you have symptoms of COVID-19, such as fever, cough, or shortness of breath, and have been in close contact with someone who has COVID-19 or live in an area with ongoing spread of COVID-19, you should get tested.",
+            "Thank you for your help. What can I do to prevent the spread of COVID-19?",
+            "You can wear a face mask, wash your hands regularly and avoid close contact with others.",
+            "Got it. Is there any vaccine for COVID-19 yet?"
+        ],
+        "knowledge": "COVID-19 COVID-19 is an infectious disease caused by the SARS-CoV-2 virus. The most common symptoms include fever, cough, and shortness of breath. The virus is primarily spread from person to person through the respiratory droplets produced when an infected person talks, coughs, or sneezes. The best way to prevent infection is to avoid exposure to the virus. You can do this by wearing a mask, washing your hands regularly, and staying at least 6 feet away from others. Vaccines against COVID-19 have been developed and are being distributed worldwide. ",
+        "response": "Yes, there are several vaccines for COVID-19 that have been developed and distributed worldwide. You should check with your doctor to see if you are eligible to receive one."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I want to know more about genetic factors and diseases.",
+            "Sure, I can help you with that. What specifically do you want to know?",
+            "I've heard that some people are more susceptible to certain diseases because of their genes. Is that true?",
+            "Yes, that's correct. There are certain genetic factors that can increase a person's risk of developing certain diseases.",
+            "Can you give me an example?",
+            "Sure. For example, mutations in the BRCA1 and BRCA2 genes increase a person's risk of developing breast and ovarian cancer.",
+            "Interesting. Can a person do anything to reduce their risk if they have these genetic mutations?",
+            "Yes, there are steps a person can take to reduce their risk. For example, women with these genetic mutations can choose to have preventive surgery to remove their breasts or ovaries.",
+            "Wow, that's helpful. Are there any other genetic factors that increase a person's risk of disease?"
+        ],
+        "knowledge": "Genetic factors and diseases Genetic factors can play a role in a person's risk of developing certain diseases. For example, mutations in the BRCA1 and BRCA2 genes increase a person's risk of developing breast and ovarian cancer. There are steps a person can take to reduce their risk of disease if they have these genetic mutations, such as choosing to have preventive surgery. There are many other genetic factors that can increase a person's risk of disease, and it's always a good idea to talk to your doctor about your family history and any concerns you may have.",
+        "response": "You're welcome. I'm always here to help with any questions you may have."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery on my knee. What should I do to aid recovery?",
+            "The most important thing to do after surgery is to rest and give your body time to heal.",
+            "How long should I rest?",
+            "Your doctor will be able to give you more specific instructions, but typically you will need to rest for a few days or even weeks depending on the type of surgery you had.",
+            "What about physical therapy?",
+            "Physical therapy can be very helpful after surgery to aid in your recovery. Your doctor may refer you to a physical therapist who can show you exercises to help strengthen your knee and improve your range of motion.",
+            "What about diet? Is there anything I should eat or avoid?",
+            "Eating a well-balanced diet that is rich in vitamins and minerals can help aid in your recovery. You should also avoid processed foods and foods that are high in sugar and fat.",
+            "Got it. What about pain management?"
+        ],
+        "knowledge": "Post-surgery recovery After surgery, it's important to rest and give your body time to heal. Your doctor may also recommend physical therapy to aid in your recovery. Eating a well-balanced diet can also help aid in your recovery. Your doctor may prescribe pain medication to help manage any pain you may be experiencing. It's important to attend all follow-up appointments with your doctor to ensure that your recovery is on track.",
+        "response": "You're welcome. I hope your recovery goes smoothly. Don't hesitate to contact your doctor if you have any concerns or questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling sick, I have a fever and a cough",
+            "I'm sorry to hear that. How long have you been feeling this way?",
+            "I've been feeling this way for 3 days now",
+            "Okay, you may have contracted a respiratory illness. Do you have any difficulty breathing?",
+            "No, my breathing is normal",
+            "That's good. You can relieve your symptoms by taking over-the-counter medications and getting plenty of rest",
+            "Okay, I'll do that. Is there anything else I should be aware of?",
+            "Make sure to wash your hands regularly and cover your mouth when you cough or sneeze. If your symptoms worsen, seek medical attention",
+            "Thank you for your advice, Medi. I'll take care of myself"
+        ],
+        "knowledge": "Respiratory illnesses are common and can be caused by a variety of viruses and bacteria. Symptoms include fever, coughing, and difficulty breathing. Treatment involves symptom relief with over-the-counter medications and getting plenty of rest. It's important to practice good hygiene and seek medical attention if symptoms worsen",
+        "response": "You're welcome. Please take care and let me know if you have any further questions"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about COVID-19",
+            "Sure, what would you like to know?",
+            "I heard that some people can be asymptomatic. Is that true?",
+            "Yes, that's correct. Up to 40% of people infected with COVID-19 may not show symptoms",
+            "Wow, that's a lot. Is there anything we can do to prevent getting infected?",
+            "Yes, practicing good hygiene such as washing your hands regularly, wearing a mask, and social distancing can help reduce the risk of infection",
+            "Okay, I'll keep that in mind. What are some other symptoms of COVID-19?",
+            "Other symptoms include fever, coughing, and difficulty breathing",
+            "Thank you for your help, Medi. I appreciate it"
+        ],
+        "knowledge": "COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus. Symptoms include fever, coughing, and difficulty breathing. Up to 40% of people infected with COVID-19 may not show symptoms. To prevent infection, it's important to practice good hygiene such as washing your hands regularly, wearing a mask, and social distancing",
+        "response": "No problem. Stay safe and let me know if you have any other questions"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what I should do next",
+            "I'm here to help. What type of surgery did you have?",
+            "I had knee surgery",
+            "Okay, after knee surgery it's important to rest and elevate your leg. You should also practice physical therapy exercises to help with recovery",
+            "What kind of exercises should I do?",
+            "Your doctor will provide you with a list of exercises that are specific to your condition. But in general, they will involve gentle stretching and strengthening exercises for your knee",
+            "Okay, I'll make sure to do those. What about my diet?",
+            "A healthy, balanced diet is important for recovery. Make sure to eat plenty of fruits, vegetables, and protein. Avoid foods that are high in sugar and fat",
+            "Thank you for your help, Medi. I appreciate it"
+        ],
+        "knowledge": "After surgery, it's important to rest and avoid strenuous activity. Physical therapy exercises can help with recovery. A healthy, balanced diet is also important for recovery",
+        "response": "No problem. Take care and let me know if you have any other questions"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and headache.",
+            "Hi, sorry to hear that. When did it start?",
+            "Yesterday evening. I also have a runny nose.",
+            "It could be a viral infection. Rest and take plenty of fluids. ",
+            "What kind of fluids should I take?",
+            "Water, broth, and herbal tea are good options to stay hydrated.",
+            "Got it. What about medications?",
+            "Over-the-counter pain relievers like acetaminophen or ibuprofen can help with the fever and headache",
+            "Thank you. How long should I rest for?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases when they have been infected previously.  However, it also has become clear that there are genetic factor which determine susceptibility to infection.  For instance, up to 40% of SARS-CoV-2 infections may be asymptomatic, suggesting that many people are naturally protected from disease.  Large genetic studies have defined risk factors for severe SARS-CoV-2 infections, and genome sequences from 659 patients with severe COVID-19 revealed genetic variants that appear to be associated with life-threatening disease.  One gene identified in these studies is type I interferon .  Autoantibodies against type I IFNs were found in up to 13. 7% of patients with life-threatening COVID-19, indicating that a complex interaction between genetics and the immune system is important for natural resistance to Covid Infectious diseases Infectious diseases",
+        "response": "You should rest for a few days until the fever subsides and headache improves. If symptoms persist, seek medical attention."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me about a genetic disease?",
+            "Sure, what genetic disease are you interested in?",
+            "I'm curious about cystic fibrosis.",
+            "Cystic fibrosis is a genetic disorder that affects the lungs and other organs.",
+            "Is it common?",
+            "It is not a common disease. It affects about 30,000 people in the US.",
+            "What are the symptoms?",
+            "The symptoms include cough, mucus buildup, shortness of breath, and poor growth.",
+            "Is there a cure?"
+        ],
+        "knowledge": "Genetic diseases Genetic diseases  Genetic diseases are caused by changes or mutations in genes. Some genetic disorders are inherited from parents, while others are caused by environmental factors. Examples of genetic diseases include cystic fibrosis, Huntington's disease, and sickle cell anemia. Cystic fibrosis is a genetic disorder that affects the lungs and other organs, and it affects about 30,000 people in the US. The symptoms include cough, mucus buildup, shortness of breath, and poor growth. There is no cure for cystic fibrosis, but treatments can help with symptoms. ",
+        "response": "I hope that helps. Do you have any other questions about genetic diseases?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery. What can I do to speed up my recovery?",
+            "Congratulations on your surgery. What kind of surgery did you have?",
+            "I had a knee replacement.",
+            "After surgery, it is important to rest and take it easy for a while.",
+            "How long will I have to rest?",
+            "The amount of rest you need depends on the type of surgery and your body's response. Ask your doctor for advice.",
+            "Okay, are there any exercises I can do during the recovery process?",
+            "Yes, your doctor or physical therapist may give you exercises to do to help with your recovery.",
+            "Are there any foods that can help with my recovery?"
+        ],
+        "knowledge": "Recovery from surgery Recovery from surgery  After surgery, it is important to rest and take it easy for a while. The amount of rest you need depends on the type of surgery and your body's response. Your doctor or physical therapist may give you exercises to do to help with your recovery, and foods rich in protein and vitamins that support healing, such as fruits, vegetables, and lean meats, can help with recovery. ",
+        "response": "You're welcome. How is your knee feeling now?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling sick. My throat is sore and my nose is running.",
+            "I'm sorry to hear that. Have you taken any medication?",
+            "Yes, I took some over-the-counter medicine but it doesn't seem to be working.",
+            "Based on your symptoms, it sounds like you might have a common cold. Try getting some rest and drinking plenty of fluids.",
+            "Is there anything else I can do to feel better?",
+            "You can try using a saline nasal spray to ease your congestion and gargling with salt water to soothe your sore throat.",
+            "Thank you, Medi. How long do you think it will take for me to recover?",
+            "It usually takes about a week to recover from a cold, but if your symptoms persist or worsen, you should seek medical attention.",
+            "Okay, I'll keep that in mind. Thanks for your help, Medi."
+        ],
+        "knowledge": "Common Cold Common Cold  The common cold is a viral infection of the nose and throat.  Symptoms include sneezing, coughing, runny nose, congestion, sore throat, and fatigue.",
+        "response": "You might have a common cold. Try getting some rest and drinking plenty of fluids."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling really depressed lately.",
+            "I'm sorry to hear that. Can you tell me more about what you're feeling?",
+            "I just feel really sad all the time and I don't enjoy doing things that I used to love.",
+            "It sounds like you might be experiencing depression. Have you considered seeking professional help?",
+            "I'm not sure. I don't know if I want to take medication or go to therapy.",
+            "There are many different treatment options available for depression, including therapy, medication, and lifestyle changes. It's important to find what works best for you.",
+            "Okay, thanks for the advice. What lifestyle changes can I make to help with my depression?",
+            "You can try getting regular exercise, eating a healthy diet, getting enough sleep, and avoiding drugs and alcohol.",
+            "That's really helpful, thanks Medi. Do you have any other advice for me?"
+        ],
+        "knowledge": "Depression Depression  Depression is a common and serious medical illness that negatively affects how you feel, the way you think and how you act.  Symptoms include feeling sad, loss of interest in activities, changes in appetite, changes in sleep, feeling tired or run down, difficulty concentrating, feeling guilty, and thoughts of death or suicide.",
+        "response": "You can try getting regular exercise, eating a healthy diet, getting enough sleep, and avoiding drugs and alcohol to help with your depression."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently found out that I have a family history of heart disease. What can I do to lower my risk?",
+            "I'm glad you're taking steps to lower your risk. The first thing you can do is make lifestyle changes, such as maintaining a healthy diet and exercising regularly.",
+            "What kind of diet should I be following to lower my risk?",
+            "You should aim to eat plenty of fruits and vegetables, whole grains, lean proteins, and healthy fats. Try to avoid foods that are high in saturated and trans fats, sodium, and added sugars.",
+            "What kind of exercise is best for lowering my risk?",
+            "Any kind of physical activity is good for your heart health, but you should aim for at least 150 minutes of moderate-intensity aerobic exercise per week. This can include activities such as brisk walking, cycling, or swimming.",
+            "Thanks, Medi. What else can I do to lower my risk?",
+            "You should also avoid smoking and limit your alcohol intake. It's also important to manage any other health conditions you may have, such as high blood pressure or diabetes.",
+            "Okay, thanks for the advice. How often should I be getting check-ups to monitor my heart health?"
+        ],
+        "knowledge": "Heart Disease Heart Disease  Heart disease is a term that covers a range of conditions that affect the heart, including coronary artery disease, heart failure, and arrhythmias.  Lifestyle changes, such as maintaining a healthy diet and exercising regularly, can help lower your risk of heart disease. Other risk factors include smoking, high blood pressure, high cholesterol, diabetes, and a family history of heart disease.",
+        "response": "You should speak with your doctor to determine the best schedule for check-ups based on your personal risk factors and medical history."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing some flu-like symptoms lately.",
+            "I'm here to help. Can you describe your symptoms?",
+            "Yes. I have a fever and a headache, and I feel very fatigued.",
+            "I see. Have you been coughing or experiencing any respiratory problems?",
+            "Yes, actually. I have a dry cough and my nose is congested.",
+            "Based on your symptoms, it sounds like you may have contracted the flu.",
+            "What should I do next?",
+            "Make sure to stay hydrated and get plenty of rest. Over-the-counter medications like acetaminophen can help relieve your symptoms.",
+            "Thank you, Medi. How long should I expect these symptoms to last?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Symptoms typically last for 2 - 8 days. If your symptoms persist beyond that, you should seek medical attention."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about infectious diseases.",
+            "I'm here to help. What would you like to know?",
+            "What factors determine susceptibility to infectious diseases?",
+            "There are genetic factors that determine susceptibility to infectious diseases. Studies show that up to 40% of SARS-CoV-2 infections may be asymptomatic, suggesting that many people are naturally protected from disease. Large genetic studies have defined risk factors for severe SARS-CoV-2 infections, and genome sequences from 659 patients with severe COVID-19 revealed genetic variants that appear to be associated with life-threatening disease. One gene identified in these studies is type I interferon. Autoantibodies against type I IFNs were found in up to 13.7% of patients with life-threatening COVID-19, indicating that a complex interaction between genetics and the immune system is important for natural resistance to infectious diseases.",
+            "That's really interesting. Are there any lifestyle factors that can help prevent infectious diseases?",
+            "Yes, maintaining good hygiene and avoiding close contact with people who are sick can help prevent the spread of infectious diseases.",
+            "Thank you, Medi. That's really helpful.",
+            "You're welcome. Do you have any other questions?",
+            "No, that's all for now. Thank you."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  when they have been infected previously.  However, it also has become clear that there are genetic factor which determine susceptibility to infection.  For instance, up to 40% of SARS-CoV-2 infections may be asymptomatic, suggesting that many people are naturally protected from disease.  Large genetic studies have defined risk factors for severe SARS-CoV-2 infections, and genome sequences from 659 patients with severe COVID-19 revealed genetic variants that appear to be associated with life-threatening disease.  One gene identified in these studies is type I interferon .  Autoantibodies against type I IFNs were found in up to 13. 7% of patients with life-threatening COVID-19, indicating that a complex interaction between genetics and the immune system is important for natural resistance to Covid Infectious diseases Infectious diseases",
+        "response": "You're welcome. Don't hesitate to reach out if you have any other questions in the future."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently underwent a medical procedure and I'm wondering if there are any lifestyle changes I should make to aid in my recovery.",
+            "I'm glad to assist. What type of procedure did you undergo?",
+            "I had surgery to remove a tumor.",
+            "I see. You should avoid any strenuous physical activity until your doctor clears you for exercise. Also, it's important to eat a healthy diet that is rich in nutrients and low in processed foods.",
+            "Are there any specific foods that would be helpful?",
+            "Foods that are high in protein, such as lean meats, fish, and beans, are important for muscle recovery. You should also make sure to eat plenty of fruits and vegetables for their vitamins and minerals.",
+            "That's good to know. Thank you, Medi.",
+            "You're welcome. Do you have any other questions?",
+            "No, that's all for now. Thank you."
+        ],
+        "knowledge": "Medical Procedures Medical Procedures  After a medical procedure, it's important to rest and avoid any strenuous physical activity until your doctor clears you for exercise. Eating a healthy diet that is rich in nutrients and low in processed foods can also aid in recovery. Foods that are high in protein, such as lean meats, fish, and beans, are important for muscle recovery. You should also make sure to eat plenty of fruits and vegetables for their vitamins and minerals. Medical Procedures Medical Procedures",
+        "response": "You're welcome. Don't hesitate to reach out if you have any other questions in the future."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms. Can you help me?",
+            "Sure, I'm here to help. What are your symptoms?",
+            "I have a fever, fatigue, and a dry cough.",
+            "Have you travelled recently?",
+            "No, I haven't. I've been at home.",
+            "Okay. Based on your symptoms, it could be Covid-19.",
+            "What should I do now?",
+            "You should get a test to confirm and self-isolate until you get the results.",
+            "Thanks for the advice, Medi. How can I protect myself from getting Covid-19?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases when they have been infected previously.  However, it also has become clear that there are genetic factor which determine susceptibility to infection.  For instance, up to 40% of SARS-CoV-2 infections may be asymptomatic, suggesting that many people are naturally protected from disease.  Large genetic studies have defined risk factors for severe SARS-CoV-2 infections, and genome sequences from 659 patients with severe COVID-19 revealed genetic variants that appear to be associated with life-threatening disease.  One gene identified in these studies is type I interferon .  Autoantibodies against type I IFNs were found in up to 13. 7% of patients with life-threatening COVID-19, indicating that a complex interaction between genetics and the immune system is important for natural resistance to Covid Infectious diseases Infectious diseases",
+        "response": "To protect yourself from Covid-19, you should wear a mask, wash your hands frequently, and practice social distancing."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about Covid-19.",
+            "Sure, I'm here to help. What's your question?",
+            "How long does it take for the symptoms of Covid-19 to show up?",
+            "The symptoms of Covid-19 usually appear within 2-14 days of exposure to the virus.",
+            "What are the symptoms of Covid-19?",
+            "The most common symptoms of Covid-19 are fever, dry cough, and tiredness. Other symptoms can include shortness of breath, aches and pains, sore throat, and loss of taste or smell.",
+            "Can Covid-19 be treated?",
+            "There is no specific treatment for Covid-19, but supportive care can be given to relieve symptoms and complications.",
+            "Thanks for the information, Medi. How can I prevent getting Covid-19?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases when they have been infected previously.  However, it also has become clear that there are genetic factor which determine susceptibility to infection.  For instance, up to 40% of SARS-CoV-2 infections may be asymptomatic, suggesting that many people are naturally protected from disease.  Large genetic studies have defined risk factors for severe SARS-CoV-2 infections, and genome sequences from 659 patients with severe COVID-19 revealed genetic variants that appear to be associated with life-threatening disease.  One gene identified in these studies is type I interferon .  Autoantibodies against type I IFNs were found in up to 13. 7% of patients with life-threatening COVID-19, indicating that a complex interaction between genetics and the immune system is important for natural resistance to Covid Infectious diseases Infectious diseases",
+        "response": "To prevent getting Covid-19, you should wear a mask, wash your hands frequently, practice social distancing, and avoid crowded places and close contact with people who are sick."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had a medical procedure yesterday. Can you give me some advice?",
+            "Sure, I'll do my best to help. What kind of procedure did you have?",
+            "I had a tooth extraction.",
+            "Okay, it's important to take care of the extraction site to prevent infection. Did your dentist give you any instructions?",
+            "Yes, they told me to avoid solid food for the first day and to rinse my mouth with salt water.",
+            "Good. You should also avoid smoking, spitting, or using a straw for the first 24 hours after the extraction. After that, you can start gently brushing your teeth and using mouthwash.",
+            "Okay, thanks for the advice, Medi. Is there anything else I should know?",
+            "It's important to watch for signs of infection, such as fever, pain, swelling, or discharge from the extraction site. If you notice any of these symptoms, contact your dentist right away.",
+            "Thanks, Medi. How long will it take for my mouth to fully heal?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases when they have been infected previously.  However, it also has become clear that there are genetic factor which determine susceptibility to infection.  For instance, up to 40% of SARS-CoV-2 infections may be asymptomatic, suggesting that many people are naturally protected from disease.  Large genetic studies have defined risk factors for severe SARS-CoV-2 infections, and genome sequences from 659 patients with severe COVID-19 revealed genetic variants that appear to be associated with life-threatening disease.  One gene identified in these studies is type I interferon .  Autoantibodies against type I IFNs were found in up to 13. 7% of patients with life-threatening COVID-19, indicating that a complex interaction between genetics and the immune system is important for natural resistance to Covid Infectious diseases Infectious diseases",
+        "response": "It can take a few days to a few weeks for your mouth to fully heal after a tooth extraction, depending on the complexity of the procedure and your individual healing time."
+    }
+]

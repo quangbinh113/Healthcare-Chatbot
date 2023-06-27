@@ -1,0 +1,497 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling very anxious lately.",
+            "I'm here to help. Could you please describe your symptoms?",
+            "I've been experiencing rapid heartbeat, sweating, and a constant feeling of worry.",
+            "Based on your symptoms, it seems like you may be dealing with anxiety.",
+            "What can I do to manage my anxiety?",
+            "There are various techniques you can try, such as deep breathing exercises and mindfulness meditation.",
+            "Are there any medications that can help with anxiety?",
+            "In some cases, medications like selective serotonin reuptake inhibitors (SSRIs) may be prescribed.",
+            "What are the potential side effects of SSRIs?"
+        ],
+        "knowledge": "Anxiety Anxiety Anxiety disorders are a group of mental disorders characterized by significant feelings of anxiety and fear.  Common physical symptoms include rapid heartbeat, sweating, trembling, shortness of breath, feeling of choking, chest pain, nausea, dizziness, and a constant feeling of worry.  Treatment options for anxiety disorders include therapy, medication, and self-help techniques.  SSRIs are commonly prescribed medications for anxiety disorders and may have side effects such as nausea, headache, and sexual dysfunction.",
+        "response": "Some potential side effects of SSRIs include nausea, headache, and sexual dysfunction."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about depression.",
+            "Sure, I'm here to provide information. What would you like to know?",
+            "What are the common symptoms of depression?",
+            "Common symptoms of depression include persistent sadness, loss of interest in activities, fatigue, changes in appetite or weight, and difficulty concentrating.",
+            "Is depression a lifelong condition?",
+            "Depression can vary in duration. It can be a temporary episode or a recurring condition depending on various factors.",
+            "Are there any self-help strategies for managing depression?",
+            "Yes, practicing self-care, engaging in regular physical activity, and seeking support from loved ones can be beneficial.",
+            "Can you recommend any therapy options for depression?"
+        ],
+        "knowledge": "Depression Depression Depression is a mood disorder characterized by persistent sadness, loss of interest in activities, fatigue, changes in appetite or weight, difficulty concentrating, and feelings of worthlessness or guilt.  It can vary in duration and may be a temporary episode or a recurring condition.  Treatment options for depression include therapy, medication, and self-help strategies.  Therapies like cognitive-behavioral therapy (CBT) and interpersonal therapy (IPT) are commonly used.",
+        "response": "Cognitive-behavioral therapy (CBT) and interpersonal therapy (IPT) are effective therapy options for depression."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I recently had surgery and I'm looking for advice on recovery.",
+            "I'm here to assist you. What type of surgery did you undergo?",
+            "I had knee surgery to repair a torn ligament.",
+            "For optimal recovery, it's important to follow your doctor's post-operative instructions, including physical therapy.",
+            "Are there any exercises I can do at home to aid in my recovery?",
+            "Yes, gentle range-of-motion exercises and strengthening exercises as recommended by your physical therapist can be helpful.",
+            "Should I be concerned about pain and swelling?",
+            "Some pain and swelling are normal after surgery, but if you have excessive pain or swelling, it's best to consult your doctor.",
+            "When can I expect to resume my regular activities?"
+        ],
+        "knowledge": "Surgery Surgery Surgery is a medical procedure that involves making incisions in the body to treat a condition or injury.  Post-operative recovery usually involves following specific instructions from the surgeon, including taking prescribed medications, attending physical therapy, and gradually increasing activity levels.  Range-of-motion exercises and strengthening exercises are common components of rehabilitation.  Pain and swelling are normal after surgery, but excessive pain or swelling should be evaluated by a healthcare professional.",
+        "response": "The timeline for resuming regular activities varies depending on the type of surgery and individual factors. Your doctor will provide guidance on when it's safe to do so."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling really down lately.",
+            "I'm here to help. Can you tell me more about what you're experiencing?",
+            "I've been having trouble sleeping, loss of appetite, and a lack of energy.",
+            "Those could be symptoms of depression. It's important to seek support and talk to a healthcare professional for a proper diagnosis.",
+            "I've been hesitant to reach out for help. What treatment options are available for depression?",
+            "Treatment options for depression include therapy, medication, and lifestyle changes. It's best to consult with a healthcare professional to determine the most suitable approach for you.",
+            "I see. Are there any natural remedies or lifestyle changes that can help with depression?",
+            "Engaging in regular physical activity, practicing relaxation techniques, maintaining a healthy diet, and getting enough sleep can all contribute to improving your mood.",
+            "Thank you, Medi. One last question: Can depression go away on its own?"
+        ],
+        "knowledge": "Depression Depression Depression is a mood disorder that causes a persistent feeling of sadness and loss of interest. It affects how you feel, think, and behave, and can lead to a variety of emotional and physical problems. Depression may require long-term treatment, but it is a treatable condition. With the right support and treatment, many people with depression can feel better.",
+        "response": "Depression may require long-term treatment, but with the right support and treatment, many people with depression can feel better over time."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been having trouble sleeping lately.",
+            "I'm here to help. Can you describe your sleep difficulties in more detail?",
+            "I have trouble falling asleep and staying asleep throughout the night.",
+            "It sounds like you may be experiencing insomnia. There are several strategies you can try to improve your sleep.",
+            "What strategies can help with insomnia?",
+            "Establishing a regular sleep schedule, creating a relaxing bedtime routine, avoiding caffeine and electronics before bed, and creating a comfortable sleep environment can all contribute to better sleep quality.",
+            "I'll try those suggestions. Do you recommend any sleep aids or medications?",
+            "It's best to consult with a healthcare professional before taking any sleep aids or medications. They can provide guidance based on your specific situation.",
+            "I understand. One last question: How long does insomnia usually last?"
+        ],
+        "knowledge": "Insomnia Insomnia Insomnia is a sleep disorder characterized by difficulty falling asleep, staying asleep, or both. It can have various causes, including stress, anxiety, certain medications, or underlying medical conditions. The duration of insomnia can vary from person to person. It may be a short-term issue or become a chronic condition lasting for several weeks or even longer.",
+        "response": "The duration of insomnia can vary from person to person. It may be a short-term issue or become a chronic condition lasting for several weeks or even longer. If you're concerned, it's best to consult with a healthcare professional."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and I'm unsure about the recovery process.",
+            "I'm here to help. What questions do you have regarding your recovery?",
+            "How long will it take for me to fully recover from the surgery?",
+            "The recovery time can vary depending on the type of surgery and individual factors. It's best to follow your doctor's post-operative instructions and attend any recommended follow-up appointments.",
+            "Are there any specific lifestyle changes or precautions I should take during my recovery?",
+            "It's important to follow a healthy and balanced diet, get enough rest, avoid strenuous activities, and take any prescribed medications as instructed by your doctor. If you have any concerns or questions, reach out to your healthcare provider.",
+            "Thank you, Medi. Is there anything I can do to speed up the healing process?",
+            "While there's no guaranteed way to speed up the healing process, following your doctor's advice, maintaining a healthy lifestyle, and taking care of yourself can support the body's natural healing mechanisms.",
+            "I appreciate the guidance, Medi. One last question: Are there any warning signs of complications I should watch out for?"
+        ],
+        "knowledge": "Surgery Recovery Surgery Recovery The recovery process after surgery varies depending on the type of surgery and individual factors. It's important to follow your doctor's instructions, attend follow-up appointments, take prescribed medications, and watch for any signs of complications. If you experience severe pain, excessive bleeding, infection symptoms, or any other concerning symptoms, contact your healthcare provider immediately.",
+        "response": "If you experience severe pain, excessive bleeding, infection symptoms, or any other concerning symptoms, it's important to contact your healthcare provider immediately. They can assess the situation and provide appropriate guidance."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling really down lately.",
+            "I'm here to help. Can you describe your symptoms?",
+            "I've been having trouble sleeping, lack of appetite, and no energy.",
+            "Those are common symptoms of depression. It's important to seek help.",
+            "What kind of treatments are available for depression?",
+            "Treatment options include therapy, medication, and lifestyle changes.",
+            "Are there any natural remedies I can try?",
+            "Some natural remedies that may help include exercise, meditation, and a healthy diet.",
+            "Thank you, Medi. Is there a specific diet that can improve my mood?"
+        ],
+        "knowledge": "Depression Depression Depression is a mood disorder characterized by persistent feelings of sadness, loss of interest or pleasure, and other related symptoms. It can interfere with daily functioning and negatively impact a person's quality of life. Treatment options for depression include therapy, medication, and lifestyle changes. Some natural remedies that may help improve mood include exercise, a healthy diet, and stress-reduction techniques. It's important to consult with a healthcare professional for a personalized treatment plan.",
+        "response": "Certain foods can help improve mood, such as foods rich in omega-3 fatty acids and those high in vitamins B12 and D."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I've been experiencing anxiety and panic attacks lately.",
+            "I'm here to assist you. Can you describe your symptoms in more detail?",
+            "I feel restless, have difficulty concentrating, and my heart races during panic attacks.",
+            "Based on your symptoms, it seems like you're experiencing anxiety disorder.",
+            "What are the treatment options for anxiety disorder?",
+            "Treatment options include therapy, medication, and relaxation techniques.",
+            "Are there any natural ways to manage anxiety?",
+            "Some natural remedies that may help include deep breathing exercises, yoga, and herbal supplements.",
+            "Thank you, Medi. Can you recommend any specific herbal supplements?"
+        ],
+        "knowledge": "Anxiety Anxiety Anxiety disorders are a group of mental health conditions characterized by excessive fear, worry, or uneasiness. Treatment options for anxiety disorder include therapy, medication, and relaxation techniques. Some natural remedies that may help manage anxiety include deep breathing exercises, mindfulness meditation, yoga, and certain herbal supplements. It's important to consult with a healthcare professional before trying any herbal supplements.",
+        "response": "Herbal supplements such as chamomile, lavender, and valerian root have been reported to have calming effects and may help manage anxiety."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I recently had knee surgery and I'm in the recovery phase.",
+            "I'm here to provide guidance. How can I assist you with your recovery?",
+            "I want to ensure a smooth recovery. What lifestyle changes should I make?",
+            "It's important to follow a balanced diet, get regular exercise, and avoid excessive strain on your knee.",
+            "Can you suggest any specific exercises for knee recovery?",
+            "Exercises like gentle knee stretches, leg raises, and walking can be beneficial for your knee recovery.",
+            "Are there any foods that can aid in the healing process?",
+            "Foods rich in nutrients like vitamin C, protein, and omega-3 fatty acids can support the healing process.",
+            "Thank you, Medi. Is there anything else I should keep in mind during my recovery?"
+        ],
+        "knowledge": "Knee Surgery Knee Surgery Knee surgery is a medical procedure performed to repair or replace damaged knee joints. During the recovery phase, it's important to follow a balanced diet, engage in appropriate exercises, and avoid putting excessive strain on the knee. Specific exercises for knee recovery may include gentle knee stretches, leg raises, and walking. Consuming foods rich in nutrients like vitamin C, protein, and omega-3 fatty acids can aid in the healing process. It's crucial to follow your healthcare provider's instructions and attend any recommended physical therapy sessions for a successful recovery.",
+        "response": "Make sure to follow your healthcare provider's instructions, attend physical therapy sessions if recommended, and listen to your body's signals for any discomfort or pain."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling very down lately.",
+            "I'm here to help. Can you tell me more about what you're experiencing?",
+            "I constantly feel sad, lack energy, and have trouble sleeping.",
+            "It sounds like you might be experiencing symptoms of depression.",
+            "Is there anything I can do to feel better?",
+            "There are various treatments available, including therapy and medication. It's important to consult a healthcare professional for a proper diagnosis and personalized advice.",
+            "Thank you, Medi. I'll make sure to seek professional help.",
+            "You're welcome. Remember, reaching out is the first step towards getting better.",
+            "Is depression a common mental illness?"
+        ],
+        "knowledge": "Depression Depression Depression is a mood disorder that causes a persistent feeling of sadness and loss of interest. It affects how you feel, think, and behave and can lead to a variety of emotional and physical problems. Depression can occur due to a combination of genetic, biological, environmental, and psychological factors. It is a common mental illness that affects millions of people worldwide.",
+        "response": "Yes, depression is a common mental illness that affects millions of people worldwide."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been having trouble sleeping lately.",
+            "I'm here to assist you. Can you describe your sleep difficulties?",
+            "I have trouble falling asleep, and even when I do, I wake up frequently during the night.",
+            "It seems like you might be dealing with insomnia.",
+            "What can I do to improve my sleep?",
+            "There are several techniques you can try, such as maintaining a consistent sleep schedule, creating a calming bedtime routine, and avoiding caffeine and electronics before bed.",
+            "Thank you, Medi. I'll give those strategies a try.",
+            "You're welcome. I hope they help improve your sleep quality.",
+            "Can insomnia be caused by stress?"
+        ],
+        "knowledge": "Insomnia Insomnia Insomnia is a sleep disorder that makes it difficult to fall asleep, stay asleep, or both. It can be caused by various factors, including stress, anxiety, depression, medical conditions, certain medications, and poor sleep habits. Stress is a common contributor to insomnia as it can disrupt the body's natural sleep-wake cycle and make it harder to relax and fall asleep.",
+        "response": "Yes, stress can be a significant cause of insomnia as it disrupts the body's natural sleep-wake cycle."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I recently had knee surgery and need some advice.",
+            "I'm here to assist you. What specific advice do you need?",
+            "I want to know what kind of exercises I can do to aid my recovery.",
+            "There are gentle exercises you can try, such as knee range-of-motion exercises and low-impact activities like swimming or stationary cycling.",
+            "Should I be concerned about my diet during the recovery period?",
+            "A balanced diet rich in nutrients, particularly those that promote healing like protein and vitamins, can support your recovery.",
+            "That's helpful, Medi. Is there anything else I should keep in mind?",
+            "It's important to follow your doctor's instructions, take any prescribed medication, and attend any recommended physical therapy sessions.",
+            "Can I return to my regular activities soon after surgery?"
+        ],
+        "knowledge": "Knee Surgery Knee Surgery Knee surgery is a medical procedure performed to repair or replace a damaged knee joint. Recovery from knee surgery varies depending on the type and extent of the procedure. Physical therapy and exercises are typically recommended to aid in recovery and restore strength and mobility. Returning to regular activities will depend on the specific instructions and guidance from your healthcare provider.",
+        "response": "The timeline for returning to regular activities after knee surgery will depend on the type of surgery you had and your doctor's recommendations. It's important to follow their guidance for a safe and successful recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling really down lately.",
+            "I'm here to help. Can you tell me more about how you've been feeling?",
+            "I've been experiencing constant sadness, loss of interest in activities, and difficulty sleeping.",
+            "It sounds like you may be experiencing symptoms of depression. I recommend seeking professional help for an accurate diagnosis.",
+            "Is there anything I can do to feel better?",
+            "While I can't replace professional treatment, maintaining a healthy lifestyle, getting regular exercise, and talking to loved ones can be beneficial.",
+            "Thank you for your advice, Medi. I appreciate it.",
+            "You're welcome. Remember, reaching out to a mental health professional is important for proper diagnosis and support.",
+            "What are the common treatment options for depression?"
+        ],
+        "knowledge": "Depression Depression Major depressive disorder (MDD) is a mental disorder characterized by a pervasive and persistent low mood that is accompanied by low self-esteem and a loss of interest or pleasure in normally enjoyable activities. The primary treatments for depression include psychotherapy, medication, or a combination of both. Different types of therapy, such as cognitive-behavioral therapy (CBT) and interpersonal therapy (IPT), can be effective. Antidepressant medications, such as selective serotonin reuptake inhibitors (SSRIs) or serotonin-norepinephrine reuptake inhibitors (SNRIs), are commonly prescribed.",
+        "response": "The common treatment options for depression include psychotherapy, medication, or a combination of both."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing panic attacks lately and I'm not sure what to do.",
+            "I'm here to help. Panic attacks can be distressing. Can you describe what happens during an attack?",
+            "I suddenly feel intense fear or discomfort, my heart races, I have trouble breathing, and I feel like I'm losing control.",
+            "It sounds like you may be having panic attacks. It's important to consult a healthcare professional for an accurate diagnosis and appropriate treatment.",
+            "Is there anything I can do to manage or prevent panic attacks?",
+            "Practicing relaxation techniques, deep breathing exercises, and avoiding triggers can help manage panic attacks. However, consulting a professional is crucial for long-term management.",
+            "Thank you, Medi. I'll make sure to seek professional help.",
+            "You're welcome. Remember, a healthcare professional can provide the best guidance and support tailored to your specific needs.",
+            "How can I find a mental health professional in my area?"
+        ],
+        "knowledge": "Panic attacks Panic attacks Panic attacks are sudden episodes of intense fear or discomfort that may include physical symptoms such as a racing heart, shortness of breath, and chest pain. They are often accompanied by a sense of impending doom or a fear of losing control. Treatment for panic attacks may include therapy, medication, or a combination of both. Cognitive-behavioral therapy (CBT) is commonly used to help individuals manage panic attacks and reduce anxiety.",
+        "response": "To find a mental health professional in your area, you can start by asking your primary care doctor for recommendations or contacting your insurance provider for a list of covered providers."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I recently had surgery and I'm not sure what activities I can do during the recovery period.",
+            "I'm here to assist you. The specific activities you can engage in during your recovery depend on the type of surgery you had. Can you provide more details?",
+            "I had knee surgery to repair a torn ligament. It's been a week since the surgery.",
+            "After knee surgery, it's important to follow your doctor's instructions for rehabilitation. Initially, rest and gentle movement are recommended. Physical therapy exercises will gradually be introduced.",
+            "Can I go back to my regular exercise routine after recovery?",
+            "It's best to consult your doctor or physical therapist regarding your exercise routine. They can provide guidance on when and how to resume your regular activities safely.",
+            "Thank you for your advice, Medi. I'll make sure to follow my doctor's instructions.",
+            "You're welcome. Take it slow and prioritize your recovery. If you have any concerns or questions, don't hesitate to reach out to your healthcare team.",
+            "How long does the recovery process usually take?"
+        ],
+        "knowledge": "Knee surgery Knee surgery The recovery time after knee surgery varies depending on the type and extent of the procedure. In general, it can take several weeks to months to fully recover. Physical therapy plays a crucial role in rehabilitation and restoring strength and mobility. It's important to follow your doctor's instructions and attend all recommended therapy sessions.",
+        "response": "The recovery process after knee surgery can vary but typically takes several weeks to months to fully recover. Physical therapy is essential for rehabilitation and restoring strength and mobility."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling really down lately.",
+            "I'm here to help. Can you describe your symptoms?",
+            "I've been experiencing a lack of energy, loss of interest in activities, and difficulty concentrating.",
+            "It sounds like you might be dealing with symptoms of depression. Have you noticed any changes in your sleep or appetite?",
+            "Yes, I've been sleeping a lot more than usual and have lost my appetite.",
+            "Those are common signs of depression. It's important to seek support and talk to a mental health professional.",
+            "I'm hesitant about reaching out for help. Can't I just wait for it to pass?",
+            "Depression is a serious condition that may require treatment. It's best to seek professional help to ensure your well-being.",
+            "You're right. I'll consider talking to someone. What are some treatment options for depression?"
+        ],
+        "knowledge": "Depression Depression Depression is a mood disorder that causes a persistent feeling of sadness and loss of interest. It affects how you feel, think, and handle daily activities. Symptoms may include changes in sleep, appetite, energy level, concentration, and self-esteem. Treatments include therapy, medication, and lifestyle changes. It's important to reach out to a mental health professional for an accurate diagnosis and personalized treatment plan.",
+        "response": "Treatment options for depression may include therapy, medication, and lifestyle changes. A mental health professional can provide a personalized treatment plan based on your specific needs."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been having trouble sleeping. Can you help?",
+            "Of course! Let's try to figure out what might be causing your sleep troubles.",
+            "I've been feeling anxious and restless at night, and I have difficulty falling asleep and staying asleep.",
+            "It sounds like you might be experiencing symptoms of insomnia. Have there been any changes or stressors in your life recently?",
+            "Yes, I've been dealing with a lot of work-related stress and some personal issues.",
+            "Stress can greatly impact your sleep. It's important to manage stress and establish a bedtime routine to improve sleep quality.",
+            "I've tried relaxation techniques and a consistent sleep schedule, but it's not helping much.",
+            "If your sleep troubles persist, it's advisable to consult a healthcare professional who can provide further guidance and explore treatment options.",
+            "You're right. I'll reach out for professional help. Are there any medications for insomnia?"
+        ],
+        "knowledge": "Insomnia Insomnia Insomnia is a sleep disorder characterized by difficulty falling asleep, staying asleep, or both. It can be caused by stress, anxiety, depression, medications, or certain medical conditions. Treatment options for insomnia include improving sleep hygiene, practicing relaxation techniques, and, in some cases, medication. It's important to consult a healthcare professional to determine the underlying cause of your insomnia and receive appropriate treatment.",
+        "response": "Medications for insomnia should be prescribed by a healthcare professional after a thorough evaluation. It's best to consult a professional who can determine the most suitable treatment option for your specific situation."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I recently had surgery. What should I expect during the recovery process?",
+            "Congratulations on completing your surgery! The recovery process varies depending on the type of surgery you had.",
+            "I had a knee replacement surgery. How long will it take to recover fully?",
+            "Recovery from knee replacement surgery can take several weeks to several months. Physical therapy and rehabilitation will be essential.",
+            "That's a long time. Are there any precautions I need to take during the recovery period?",
+            "It's important to follow your doctor's instructions and attend physical therapy sessions regularly. Avoid putting excessive strain on your new knee.",
+            "Got it. Are there any specific exercises or activities I should focus on?",
+            "Physical therapy will involve exercises to strengthen your knee and improve mobility. Your therapist will guide you through the process.",
+            "I'm feeling anxious about the recovery. Is it normal to feel this way?"
+        ],
+        "knowledge": "Knee Replacement Surgery Knee Replacement Surgery Knee replacement surgery is a procedure to replace a damaged or worn-out knee joint with an artificial joint. Recovery time varies depending on the individual, but it generally takes several weeks to several months to fully recover. Physical therapy plays a crucial role in the rehabilitation process and helps restore strength and mobility to the knee. It's important to follow the advice of your healthcare team and attend all recommended appointments.",
+        "response": "You're welcome! It's completely normal to feel anxious during the recovery process. Remember to reach out to your healthcare team for any concerns or support you may need."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling down lately.",
+            "I'm here to help. Can you describe your symptoms?",
+            "I've been experiencing persistent sadness, loss of interest, and low energy.",
+            "Based on your symptoms, it seems like you may be dealing with depression.",
+            "What can I do to manage my depression?",
+            "Treatment options for depression include therapy, medication, and lifestyle changes.",
+            "Are there any natural remedies I can try?",
+            "Some natural remedies that may help include regular exercise, getting enough sleep, and practicing relaxation techniques.",
+            "I see. Is there any specific type of therapy that you recommend?"
+        ],
+        "knowledge": "Depression Depression Depression is a mood disorder that causes persistent feelings of sadness, loss of interest, and a lack of energy. It affects how you feel, think, and behave, and can lead to various emotional and physical problems. Treatment options for depression include therapy, medication, and lifestyle changes. Some natural remedies that may help include regular exercise, getting enough sleep, and practicing relaxation techniques. Cognitive-behavioral therapy (CBT) and interpersonal therapy (IPT) are commonly used types of therapy for depression.",
+        "response": "Cognitive-behavioral therapy (CBT) and interpersonal therapy (IPT) are commonly used types of therapy for depression."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about anxiety.",
+            "Of course! What would you like to know about anxiety?",
+            "What are the common symptoms of anxiety?",
+            "Common symptoms of anxiety include excessive worrying, restlessness, irritability, and difficulty concentrating.",
+            "I've been experiencing shortness of breath and a racing heart. Could it be anxiety?",
+            "Those symptoms can be associated with anxiety. It's important to consult with a healthcare professional for an accurate diagnosis.",
+            "I understand. Are there any self-help strategies for managing anxiety?",
+            "Yes, there are several self-help strategies that can help manage anxiety, such as deep breathing exercises, mindfulness meditation, and regular physical activity.",
+            "That's helpful. Can anxiety be cured completely?"
+        ],
+        "knowledge": "Anxiety Anxiety Anxiety is a normal and often temporary reaction to stress or a perceived threat. However, for some people, anxiety becomes excessive, persistent, and interferes with daily activities. Common symptoms of anxiety include excessive worrying, restlessness, irritability, and difficulty concentrating. While anxiety can be managed and its impact reduced, a complete cure is not always possible. Treatment options for anxiety include therapy, medication, and lifestyle changes.",
+        "response": "While anxiety can be managed and its impact reduced, a complete cure is not always possible."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and I'm wondering about the recovery process.",
+            "Sure, I'm here to provide information. What kind of surgery did you have?",
+            "I had knee surgery to repair a torn ligament.",
+            "After knee surgery, it's important to follow your doctor's instructions for rest, physical therapy, and pain management.",
+            "Are there any specific exercises I should do for my knee?",
+            "Physical therapy exercises like gentle range-of-motion exercises and strengthening exercises can help with your knee's recovery.",
+            "That makes sense. What about my diet during the recovery period?",
+            "A balanced diet with adequate protein, vitamins, and minerals is important for the healing process. Consult with a nutritionist for personalized recommendations.",
+            "Got it. How long will the recovery process take?"
+        ],
+        "knowledge": "Knee Surgery Knee Surgery After knee surgery, it's important to follow your doctor's instructions for rest, physical therapy, and pain management. Physical therapy exercises like gentle range-of-motion exercises and strengthening exercises can help with your knee's recovery. A balanced diet with adequate protein, vitamins, and minerals is important for the healing process. The recovery process can vary depending on the type of surgery and individual factors. It may take several weeks to months to fully recover.",
+        "response": "The recovery process can vary depending on the type of surgery and individual factors. It may take several weeks to months to fully recover."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling really down lately.",
+            "I'm here to help. Can you tell me more about how you're feeling?",
+            "I feel hopeless, unmotivated, and I have trouble sleeping at night.",
+            "I'm sorry to hear that. Based on your symptoms, it seems like you might be experiencing depression.",
+            "What can I do to feel better?",
+            "There are various treatments available, including therapy and medication. It's best to consult with a healthcare professional for personalized advice.",
+            "I see. Is there anything I can do on my own to improve my mood?",
+            "Engaging in regular physical activity, maintaining a healthy diet, and getting enough sleep can have a positive impact on your mood.",
+            "Thank you, Medi. How can I find a therapist near me?"
+        ],
+        "knowledge": "Depression Depression Depression is a common and serious medical illness that negatively affects how you feel, the way you think, and how you act. Depression causes feelings of sadness and/or a loss of interest in activities once enjoyed. It can lead to a variety of emotional and physical problems and can decrease a person\u2019s ability to function at work and at home. Depression symptoms can vary from mild to severe and can include feeling sad or having a depressed mood, loss of interest or pleasure in activities once enjoyed, changes in appetite, trouble sleeping or sleeping too much, loss of energy or increased fatigue, feeling worthless or guilty, difficulty thinking, concentrating, or making decisions, and thoughts of death or suicide. Depression is treatable, and most people recover with the right therapy or medication. Depression Depression",
+        "response": "You can start by searching online directories or using mental health apps that connect you with therapists in your area."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about schizophrenia.",
+            "Sure, I'm here to provide information. What would you like to know?",
+            "What are the common symptoms of schizophrenia?",
+            "Common symptoms of schizophrenia include hallucinations, delusions, disorganized thinking and speech, lack of motivation, and social withdrawal.",
+            "Can schizophrenia be cured?",
+            "Schizophrenia is a chronic condition, but it can be managed with treatment. Medication and therapy can help individuals with schizophrenia lead fulfilling lives.",
+            "I see. Is it possible for someone with schizophrenia to work or go to school?",
+            "Yes, many individuals with schizophrenia are able to work and pursue education with the right support and accommodations.",
+            "Thank you for the information. What should I do if I suspect someone has schizophrenia?"
+        ],
+        "knowledge": "Schizophrenia Schizophrenia Schizophrenia is a chronic and severe mental disorder that affects how a person thinks, feels, and behaves. People with schizophrenia may seem like they have lost touch with reality, experiencing hallucinations, delusions, and disorganized thinking and speech. The exact cause of schizophrenia is unknown, but a combination of genetics, brain chemistry, and environmental factors are believed to contribute to its development. Treatment for schizophrenia involves a combination of antipsychotic medications, psychotherapy, and support services. Early diagnosis and intervention can improve outcomes for individuals with schizophrenia. Schizophrenia Schizophrenia",
+        "response": "If you suspect someone has schizophrenia, it's important to encourage them to seek professional help from a mental health provider for an accurate diagnosis and appropriate treatment."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and I'm not sure what activities I can do.",
+            "I'm here to provide guidance. Can you tell me what type of surgery you had?",
+            "I had knee surgery to repair a torn ligament.",
+            "After knee surgery, it's important to follow your doctor's recommendations for rehabilitation exercises and physical therapy.",
+            "Can I engage in any form of physical activity?",
+            "Light exercises like walking and gentle stretching can be beneficial, but it's best to avoid high-impact activities or anything that puts excessive strain on your knee.",
+            "How about my diet? Are there any specific recommendations?",
+            "A balanced diet rich in nutrients can support the healing process. Focus on consuming foods that are high in protein, vitamins, and minerals.",
+            "Thank you, Medi. When can I expect to fully recover from the surgery?"
+        ],
+        "knowledge": "Knee Surgery Knee Surgery Knee surgery refers to any surgical procedure involving the knee joint. Common knee surgeries include ACL reconstruction, meniscus repair, and knee replacement. After knee surgery, a comprehensive rehabilitation program is typically recommended to regain strength, mobility, and function. The duration of recovery varies depending on the type of surgery and individual factors. It's important to follow your doctor's instructions and attend scheduled physical therapy sessions for optimal recovery. Knee Surgery Knee Surgery",
+        "response": "The recovery timeline can vary, but it may take several weeks to several months to fully recover from knee surgery. Your doctor will provide a more accurate estimate based on your specific case."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling down lately and I think something is wrong.",
+            "I'm here to help. Can you please describe your symptoms?",
+            "I've been experiencing persistent sadness, loss of interest in activities, and difficulty sleeping.",
+            "Based on your symptoms, it seems like you may be dealing with depression. It's important to seek professional help.",
+            "I'm hesitant about therapy. Are there any other treatments available?",
+            "Along with therapy, antidepressant medications can be effective in managing depression.",
+            "Are there any natural remedies I can try?",
+            "Certain lifestyle changes such as regular exercise, maintaining a healthy diet, and getting enough sleep can also help alleviate symptoms of depression.",
+            "Thanks for the advice. Can you tell me more about the causes of depression?"
+        ],
+        "knowledge": "Depression Depression Depression is a mood disorder that causes a persistent feeling of sadness and loss of interest. It affects how you feel, think, and behave and can lead to various emotional and physical problems. The exact cause of depression is unknown, but it's believed to be a combination of genetic, biological, environmental, and psychological factors. Certain life events, such as trauma or major changes, can also trigger depression in susceptible individuals.",
+        "response": "Depression can be caused by a combination of genetic, biological, environmental, and psychological factors, along with certain life events."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a surgery and I'm not sure what I should do during the recovery period.",
+            "I'm here to assist you. Could you let me know the details of your surgery?",
+            "I had a knee replacement surgery, and I'm experiencing pain and stiffness in my knee.",
+            "During the recovery period, it's important to follow your doctor's instructions and attend physical therapy sessions.",
+            "Can I resume my normal activities right away?",
+            "It's essential to gradually increase your activities and avoid putting excessive strain on your knee. Your doctor will provide specific guidelines.",
+            "Are there any dietary recommendations for a speedy recovery?",
+            "Eating a balanced diet rich in nutrients, especially foods high in protein and vitamins, can support the healing process.",
+            "That's helpful. Is there anything else I should keep in mind?"
+        ],
+        "knowledge": "Knee Replacement Surgery Knee Replacement Surgery Knee replacement surgery, also known as knee arthroplasty, is a common surgical procedure to replace a damaged or worn knee joint with an artificial implant. The recovery period after knee replacement surgery varies for each individual, but it generally involves pain management, physical therapy, and gradually returning to normal activities. It's important to follow your doctor's instructions, take prescribed medications, and attend rehabilitation sessions to ensure a successful recovery.",
+        "response": "During your recovery period, it's crucial to follow your doctor's instructions, attend physical therapy sessions, and maintain a balanced diet for optimal healing."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I've been struggling with anxiety lately and it's affecting my daily life.",
+            "I'm here to support you. Can you describe how anxiety is impacting you?",
+            "I often feel restless, have trouble concentrating, and experience frequent panic attacks.",
+            "Based on your symptoms, it seems like you may be dealing with an anxiety disorder. Seeking professional help is recommended.",
+            "Is medication the only option for managing anxiety?",
+            "Medication is one option, but therapy, such as cognitive-behavioral therapy, can also be effective in managing anxiety.",
+            "Are there any self-help techniques I can try?",
+            "Practicing relaxation techniques, such as deep breathing exercises and mindfulness, can help alleviate anxiety symptoms.",
+            "Thank you for the suggestions. Can you explain the causes of anxiety?"
+        ],
+        "knowledge": "Anxiety Disorders Anxiety Disorders Anxiety disorders are a group of mental health conditions characterized by excessive worry, fear, or nervousness. The exact cause of anxiety disorders is unknown, but it's believed to be a combination of genetic, environmental, and physiological factors. Trauma, stress, and certain medical conditions can also contribute to the development of anxiety disorders.",
+        "response": "Anxiety disorders can be caused by a combination of genetic, environmental, physiological factors, along with trauma, stress, and certain medical conditions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling down lately.",
+            "I'm here to help. Can you tell me more about what you're experiencing?",
+            "I have trouble sleeping, lack of appetite, and a constant feeling of sadness.",
+            "I see. These symptoms might indicate depression. Have you been feeling like this for a while?",
+            "Yes, it's been going on for a few weeks now.",
+            "I'm not a doctor, but it's important to reach out to a healthcare professional for an accurate diagnosis and appropriate treatment.",
+            "I understand. I'll make an appointment with my doctor. Thank you, Medi.",
+            "You're welcome. Take care and don't hesitate to ask if you have any more questions.",
+            "Before I go, can you tell me more about the treatment options for depression?"
+        ],
+        "knowledge": "Depression Depression Depression, also known as major depressive disorder, is a mood disorder that causes a persistent feeling of sadness, loss of interest, and a lack of motivation. It can affect a person's thoughts, feelings, behavior, and overall well-being. Treatment options for depression may include therapy (such as cognitive-behavioral therapy or interpersonal therapy), medication (such as antidepressants), and lifestyle changes (such as regular exercise and a healthy diet). It's important to work with a healthcare professional to determine the best treatment approach for an individual's specific needs.",
+        "response": "Treatment options for depression may include therapy, medication, and lifestyle changes. It's important to work with a healthcare professional to determine the best approach for you."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I have a question about anxiety.",
+            "Sure, I'm here to help. What would you like to know?",
+            "What are the common symptoms of anxiety?",
+            "Common symptoms of anxiety include excessive worry, restlessness, irritability, difficulty concentrating, muscle tension, and sleep disturbances.",
+            "I see. Are there any self-help techniques to manage anxiety?",
+            "Yes, there are several self-help techniques that can be effective in managing anxiety. These include deep breathing exercises, practicing mindfulness and relaxation techniques, regular physical exercise, and maintaining a healthy lifestyle.",
+            "That's helpful. I'll try incorporating those techniques into my daily routine. Thank you, Medi.",
+            "You're welcome. Remember, if your anxiety persists or worsens, it's important to seek professional help.",
+            "I understand. I'll keep that in mind. Goodbye, Medi!"
+        ],
+        "knowledge": "Anxiety Anxiety Anxiety is a normal and often temporary response to stress or a perceived threat. However, when anxiety becomes excessive, uncontrollable, and interferes with daily life, it may be diagnosed as an anxiety disorder. Common symptoms of anxiety include excessive worry, restlessness, irritability, difficulty concentrating, muscle tension, and sleep disturbances. While self-help techniques can be helpful, it's important to seek professional help if anxiety becomes overwhelming or significantly impacts daily functioning.",
+        "response": "You're welcome. Remember, if your anxiety persists or worsens, it's important to seek professional help."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I recently had a knee surgery and need some advice for my recovery.",
+            "Of course! I'm here to assist you. Can you provide more details about your surgery?",
+            "I had a knee replacement surgery last week, and I'm currently using crutches.",
+            "After a knee replacement surgery, it's important to follow the recommended rehabilitation program, which may include physical therapy exercises to strengthen the muscles around the knee and improve flexibility.",
+            "I see. Are there any lifestyle changes or precautions I should take during the recovery period?",
+            "During the recovery period, it's important to follow your surgeon's instructions regarding weight-bearing, use of assistive devices, and activities to avoid. Maintaining a healthy diet and engaging in light physical activity as recommended by your healthcare provider can also support your recovery.",
+            "That's helpful. I'll make sure to follow the instructions and take care of my knee. Thank you, Medi.",
+            "You're welcome. Don't hesitate to reach out if you have any more questions or concerns. Wishing you a speedy recovery!",
+            "Thank you, Medi. Goodbye!"
+        ],
+        "knowledge": "Knee Replacement Surgery Knee Replacement Surgery Knee replacement surgery, also known as knee arthroplasty, is a surgical procedure to replace a damaged or worn-out knee joint with an artificial implant. After surgery, a rehabilitation program is usually recommended to help regain knee strength, mobility, and function. This typically involves physical therapy exercises, pain management, and gradually increasing physical activity levels. Following the surgeon's instructions, taking prescribed medications, and attending follow-up appointments are essential for a successful recovery.",
+        "response": "You're welcome. Don't hesitate to reach out if you have any more questions or concerns. Wishing you a speedy recovery!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling very down lately.",
+            "I'm here to help. Can you describe your symptoms?",
+            "I feel sad all the time, have no energy, and have trouble sleeping.",
+            "Based on your symptoms, it's possible that you're experiencing depression.",
+            "What can I do to feel better?",
+            "Treatment for depression may involve therapy, medication, and lifestyle changes.",
+            "Which lifestyle changes can help?",
+            "Regular exercise, maintaining a healthy diet, and getting enough sleep can make a positive impact.",
+            "How long does it take to recover from depression?"
+        ],
+        "knowledge": "Depression Depression Depression is a mood disorder that causes a persistent feeling of sadness and loss of interest. It affects how you feel, think, and behave and can lead to a variety of emotional and physical problems. People with depression may have trouble performing daily activities and may feel as if life isn't worth living. Symptoms may include sadness, loss of interest or pleasure, changes in appetite or weight, sleep disturbances, fatigue, feelings of worthlessness or guilt, difficulty concentrating, and recurrent thoughts of death or suicide. The exact cause of depression is unknown, but it's believed to be a combination of genetic, biological, environmental, and psychological factors. Treatment options include therapy, medication, and lifestyle changes. Depression Depression",
+        "response": "The recovery period varies for each individual. With proper treatment and support, many people start feeling better within a few weeks or months."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been having trouble sleeping lately.",
+            "I'm here to assist you. Can you explain your sleep issues?",
+            "I find it hard to fall asleep, and I wake up several times during the night.",
+            "It seems like you're experiencing insomnia. Do you have any additional symptoms?",
+            "I feel tired and irritable during the day because of the lack of sleep.",
+            "There are several ways to improve your sleep quality. Have you tried any strategies?",
+            "I've tried adjusting my bedtime routine and avoiding caffeine, but it hasn't helped much.",
+            "In that case, you might consider practicing relaxation techniques before bed or speaking with a healthcare professional for further evaluation.",
+            "Is insomnia a long-term condition?"
+        ],
+        "knowledge": "Insomnia Insomnia Insomnia is a sleep disorder characterized by difficulty falling asleep, staying asleep, or both. It can cause problems with your daily activities, negatively impacting your mood, energy levels, and overall well-being. Symptoms may include difficulty falling asleep, waking up frequently during the night, waking up too early and being unable to go back to sleep, feeling tired upon waking, daytime sleepiness or fatigue, difficulty concentrating or remembering things, irritability, and impaired performance at work or school. Insomnia can be caused by various factors such as stress, anxiety, depression, medical conditions, medications, or poor sleep habits. Treatment options include improving sleep hygiene, cognitive behavioral therapy, and medication. Insomnia Insomnia",
+        "response": "Insomnia can be short-term or long-term, depending on the underlying causes and individual circumstances. It's important to address the root causes and seek appropriate treatment for better sleep."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a knee surgery and I'm looking for advice on my recovery.",
+            "I'm here to assist you. How long ago was your surgery?",
+            "It's been two weeks since the surgery. I still have some pain and stiffness in my knee.",
+            "That's normal during the recovery period. Have you been following your doctor's instructions for post-surgery care?",
+            "Yes, I've been doing my physical therapy exercises and taking prescribed pain medications.",
+            "That's great. Along with that, it's important to gradually increase your activity level and maintain a balanced diet.",
+            "Are there any specific exercises I should focus on?",
+            "Exercises that strengthen the muscles around your knee, such as leg raises and gentle squats, can be beneficial.",
+            "When can I expect to fully recover from the surgery?"
+        ],
+        "knowledge": "Knee Surgery Recovery Knee Surgery Recovery The recovery process after knee surgery can vary depending on the type and extent of the surgery, as well as individual factors. Generally, it can take several weeks to months to fully recover. During the initial stages, rest, elevation, and ice can help reduce pain and swelling. Physical therapy exercises are crucial for restoring strength and range of motion in the knee. It's important to follow your doctor's instructions and gradually increase activity levels. A balanced diet rich in nutrients can support the healing process. Knee Surgery Recovery Knee Surgery Recovery",
+        "response": "The recovery timeline for knee surgery varies, but it usually takes several weeks to months to fully recover. Consistency with physical therapy exercises, proper rest, and a balanced diet are key factors in achieving a successful recovery."
+    }
+]

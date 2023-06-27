@@ -1,0 +1,403 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I have a sore throat and feel tired.",
+            "Hello! Sorry to hear that. Do you have a fever or cough?",
+            "No, I don't have a fever or cough.",
+            "Okay, based on your symptoms, it could be a viral infection. I recommend getting plenty of rest and drinking fluids.",
+            "How long will it take to recover?",
+            "It depends on the severity of the infection, but usually within a week or two.",
+            "Is there anything else I can do to feel better?",
+            "You can gargle with salt water and take over-the-counter pain relief medication.",
+            "Thanks for your advice. I'll try that."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common",
+        "response": "Based on your symptoms, it could be a viral infection. I recommend getting plenty of rest and drinking fluids."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm curious to know about influenza viruses.",
+            "Sure, I can help you with that. What specifically would you like to know?",
+            "Can you explain the different strains of influenza viruses?",
+            "Certainly. There are different types of influenza viruses: A, B, and C. Influenza A and B viruses are the ones that cause seasonal flu. They are further divided into subtypes based on the surface proteins hemagglutinin (H) and neuraminidase (N).",
+            "What are the symptoms of influenza?",
+            "The most common symptoms are fever, cough, sore throat, fatigue, body aches, and headache. Some people may also have nausea, vomiting, and diarrhea.",
+            "Is there a cure for influenza?",
+            "There is no cure for influenza, but antiviral medications can help reduce the severity and duration of symptoms. It's important to get plenty of rest and fluids as well.",
+            "Thanks for the information, Medi. Is there a way to prevent getting the flu?"
+        ],
+        "knowledge": "Influenza Influenza  In 1980, the classification system used to subtype influenza viruses was introduced. At some point, IBV diverged into two strains, named the B/Victoria-like and B/Yamagata-like lineages, both of which have been circulating in humans since 1983. In 1996, HPAI H5N1 was detected in Guangdong, China and a year later emerged in poultry in Hong Kong, gradually spreading worldwide from there. A small H5N1 outbreak in humans in Hong Kong occurred then, and sporadic human cases have occurred since 1997, carrying a high case fatality rate. The most recent flu pandemic was the 2009 swine flu pandemic, which originated in Mexico and resulted in hundreds of thousands of deaths. It was caused by a novel H1N1 strain that was a reassortment of human, swine, and avian influenza viruses. The 2009 pandemic had the effect of replacing prior H1N1 strains in circulation with the novel strain but not any other influenza viruses Influenza Influenza",
+        "response": "Influenza viruses are divided into subtypes based on hemagglutinin (H) and neuraminidase (N) proteins, and cause fever, cough, sore throat, fatigue, body aches, and headache. There is no cure, but antiviral medications can help reduce symptoms. Preventative measures include getting an annual flu vaccine, washing hands frequently, avoiding close contact with sick people, and disinfecting surfaces."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had the flu and want to know how to recover properly.",
+            "Hello! Sorry to hear that. It's important to take care of yourself after having the flu. What do you need help with?",
+            "I want to know how to prevent getting sick again.",
+            "Getting plenty of rest, drinking fluids, and eating healthy foods can help boost your immune system. Avoid contact with sick people and wash your hands frequently. Also, be sure to disinfect surfaces that may be contaminated with the virus.",
+            "What about physical activity?",
+            "It's important to gradually return to your normal activities, including exercise. Start with light activities like stretching and walking, and gradually increase to more intense activities if you feel up to it.",
+            "Should I continue taking medication?",
+            "If you were prescribed antiviral medication, make sure to take it as directed by your healthcare provider. Over-the-counter pain relief medication can help reduce fever and body aches.",
+            "Thanks for your advice, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common",
+        "response": "To prevent getting sick again, rest, hydrate, eat healthy foods, avoid contact with sick people, wash your hands frequently, and disinfect surfaces. Gradually return to physical activity and continue taking prescribed medication if applicable."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a headache and a sore throat.",
+            "I see. Do you have a fever?",
+            "No, I don't think so. I haven't checked it.",
+            "I think it's best to check your temperature first. If you have a fever, it could be a sign of a more serious illness.",
+            "What should I do if I have a fever?",
+            "If you have a fever, it is important to rest and drink plenty of fluids. You can also take over-the-counter medications such as acetaminophen to reduce your fever and relieve your symptoms.",
+            "Okay, thank you Medi. Do you have any recommendations for preventing these symptoms from occurring again?",
+            "Yes, getting enough sleep, drinking plenty of fluids, and washing your hands frequently can all help prevent the spread of germs and reduce your risk of getting sick.",
+            "Thank you, Medi. I'll try to follow your advice."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Checking your temperature is important because if you have a fever, it could be a sign of a more serious illness. Rest, drink plenty of fluids, and take over-the-counter medications such as acetaminophen if you have a fever. Getting enough sleep, drinking plenty of fluids, and washing your hands frequently can all help prevent the spread of germs and reduce your risk of getting sick."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain what influenza is?",
+            "Of course. Influenza is a contagious respiratory illness caused by influenza viruses that infect the nose, throat, and sometimes the lungs.",
+            "What are the common symptoms of influenza?",
+            "The most common symptoms of influenza are fever, chills, cough, sore throat, runny or stuffy nose, body aches, headache, and fatigue.",
+            "How can I prevent getting influenza?",
+            "You can prevent getting influenza by getting a flu vaccine each year, washing your hands frequently, avoiding close contact with people who are sick, and covering your nose and mouth when you cough or sneeze.",
+            "Can you tell me more about flu vaccine?",
+            "The flu vaccine is a safe and effective way to prevent influenza. It is recommended that everyone over the age of 6 months get a flu vaccine each year.",
+            "Thank you, Medi. I'll make sure to follow your recommendations."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Influenza is a contagious respiratory illness caused by influenza viruses that infect the nose, throat, and sometimes the lungs. The most common symptoms of influenza are fever, chills, cough, sore throat, runny or stuffy nose, body aches, headache, and fatigue. You can prevent getting influenza by getting a flu vaccine each year, washing your hands frequently, avoiding close contact with people who are sick, and covering your nose and mouth when you cough or sneeze."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had the flu and I am wondering about what I should do now.",
+            "After the flu, it is important to take care of yourself and let your body rest. Drink plenty of fluids and get a lot of sleep.",
+            "What else can I do to help my body recover?",
+            "Eating a healthy diet with plenty of fruits and vegetables, getting regular exercise, and avoiding alcohol and tobacco can all help your body recover from the flu.",
+            "What about medications? Should I take anything?",
+            "If you have a high fever or severe symptoms, your doctor may prescribe antiviral medications. Over-the-counter medications such as acetaminophen or ibuprofen can help relieve your symptoms.",
+            "Thank you, Medi. Are there any complications I should look out for?",
+            "Yes, sometimes the flu can lead to complications such as pneumonia, bronchitis, or sinus infections. If you experience any of these symptoms, you should see your doctor right away.",
+            "Okay, I'll make sure to take care of myself and see a doctor if I experience any complications. Thank you, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "After the flu, it is important to take care of yourself and let your body rest. Eating a healthy diet with plenty of fruits and vegetables, getting regular exercise, and avoiding alcohol and tobacco can all help your body recover from the flu. If you have a high fever or severe symptoms, your doctor may prescribe antiviral medications. Sometimes the flu can lead to complications such as pneumonia, bronchitis, or sinus infections. If you experience any of these symptoms, you should see your doctor right away."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm not feeling well. I have a high fever and a headache.",
+            "Hello! I'm sorry to hear that. How long have you been feeling this way?",
+            "I started feeling this way yesterday evening.",
+            "Hmm, it sounds like you may have the flu. Have you been in contact with anyone who has been sick recently?",
+            "Yes, my coworker was sick last week.",
+            "That could be where you caught it from. My advice is to rest and take over-the-counter medications for your symptoms. If your fever gets worse or lasts more than a few days, you should see a doctor.",
+            "Okay, thank you for your advice.",
+            "You're welcome. Let me know if you have any other questions.",
+            "One more thing, how long does the flu typically last?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The flu typically lasts for 2-8 days, with symptoms starting to improve after the first few days."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I want to know more about the flu.",
+            "Of course, I'm happy to help. What would you like to know?",
+            "When did the flu start being a common illness?",
+            "The flu has been around for centuries, but the first recorded outbreak was in 1580. It became more widespread in the 19th and 20th centuries.",
+            "What causes the flu?",
+            "The flu is caused by a virus. There are many different strains of the flu virus, and it can mutate and change over time.",
+            "Can you tell me more about the different strains of the flu?",
+            "Sure, there are two main types of flu virus: influenza A and influenza B. Influenza A is more common and can infect humans and animals, while influenza B only infects humans.",
+            "Interesting. Is there a way to prevent getting the flu?"
+        ],
+        "knowledge": "Influenza Influenza  In 1980, the classification system used to subtype influenza viruses was introduced. At some point, IBV diverged into two strains, named the B/Victoria-like and B/Yamagata-like lineages, both of which have been circulating in humans since 1983.  In 1996, HPAI H5N1 was detected in Guangdong, China and a year later emerged in poultry in Hong Kong, gradually spreading worldwide from there.  A small H5N1 outbreak in humans in Hong Kong occurred then, and sporadic human cases have occurred since 1997, carrying a high case fatality rate.  The most recent flu pandemic was the 2009 swine flu pandemic, which originated in Mexico and resulted in hundreds of thousands of deaths.  It was caused by a novel H1N1 strain that was a reassortment of human, swine, and avian influenza viruses.  The 2009 pandemic had the effect of replacing prior H1N1 strains in circulation with the novel strain but not any other influenza viruses Influenza Influenza",
+        "response": "Yes, the best way to prevent getting the flu is to get vaccinated each year. You can also practice good hygiene, such as washing your hands frequently and avoiding close contact with people who are sick."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had the flu and I'm feeling better now. What can I do to prevent getting sick again?",
+            "Glad to hear you're feeling better. One way to prevent getting the flu again is to get vaccinated each year. You can also practice good hygiene, such as washing your hands frequently and avoiding close contact with people who are sick.",
+            "What about my diet and exercise? Can that help prevent getting sick?",
+            "Yes, a healthy diet and regular exercise can help boost your immune system and make you less susceptible to illness.",
+            "Do you have any specific recommendations for diet and exercise?",
+            "For diet, I recommend eating a balanced diet with plenty of fruits, vegetables, and whole grains. Avoid processed foods and excess sugar. For exercise, aim to get at least 30 minutes of moderate exercise most days of the week.",
+            "Great, thank you for your advice.",
+            "You're welcome. Let me know if you have any other questions.",
+            "One more thing, how long does the flu vaccine last?"
+        ],
+        "knowledge": "Influenza Influenza  In 1980, the classification system used to subtype influenza viruses was introduced. At some point, IBV diverged into two strains, named the B/Victoria-like and B/Yamagata-like lineages, both of which have been circulating in humans since 1983.  In 1996, HPAI H5N1 was detected in Guangdong, China and a year later emerged in poultry in Hong Kong, gradually spreading worldwide from there.  A small H5N1 outbreak in humans in Hong Kong occurred then, and sporadic human cases have occurred since 1997, carrying a high case fatality rate.  The most recent flu pandemic was the 2009 swine flu pandemic, which originated in Mexico and resulted in hundreds of thousands of deaths.  It was caused by a novel H1N1 strain that was a reassortment of human, swine, and avian influenza viruses.  The 2009 pandemic had the effect of replacing prior H1N1 strains in circulation with the novel strain but not any other influenza viruses Influenza Influenza",
+        "response": "The flu vaccine typically lasts for one flu season, which is usually from October to May."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm feeling sick. I have a headache and sore throat.",
+            "Hi, sorry to hear that. Have you taken your temperature?",
+            "Yes, I have. It's 38 degrees Celsius.",
+            "Based on your symptoms and temperature, it seems like you have a fever.",
+            "What should I do now?",
+            "You should rest, drink plenty of fluids, and take acetaminophen to reduce your fever.",
+            "Okay, I'll do that. Thanks, Medi.",
+            "You're welcome. Please keep me updated on how you're feeling."
+        ],
+        "knowledge": "Fever Fever A fever is a temporary increase in body temperature, often due to an illness. It is most often a sign of an infection, such as a cold or the flu. Other causes of fever include autoimmune disorders, cancer, and certain medications. Symptoms of fever include sweating, chills, fatigue, muscle aches, headache, and a general feeling of discomfort. Treatment for fever depends on the underlying cause, but commonly includes rest, drinking fluids, and taking over-the-counter medications such as acetaminophen or ibuprofen to reduce fever and ease symptoms Fever Fever",
+        "response": "Please update me on how you feel after resting and taking acetaminophen"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a headache and my vision is blurry.",
+            "Hello, have you ever had these symptoms before?",
+            "No, this is the first time.",
+            "You should see a doctor immediately. Vision changes with a headache can be a sign of a serious condition.",
+            "Okay, thank you for your advice.",
+            "You're welcome. Please let me know if you have any other questions.",
+            "No, that's all. Thanks again, Medi.",
+            "Take care and don't hesitate to contact me if you need anything else."
+        ],
+        "knowledge": "Headaches Headaches There are many types of headaches, including migraines, tension headaches, and cluster headaches. The most common type of headache is a tension headache, which is usually caused by stress or tension in the neck and upper back muscles. Migraines are a more severe type of headache that are usually accompanied by other symptoms, such as nausea and sensitivity to light and sound. Cluster headaches are rare but very painful headaches that occur in cycles and are often accompanied by eye redness and tearing. Headaches can also be caused by a variety of medical conditions, such as a sinus infection or a brain tumor. Treatment for headaches depends on the underlying cause and may include over-the-counter or prescription medications, lifestyle changes, or surgery Headaches Headaches",
+        "response": "You're welcome. Please see a doctor as soon as possible. Blurry vision with a headache can be a sign of a serious condition."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just recovered from the flu. What should I do now?",
+            "Hi, it's good to hear that you're feeling better. After recovering from the flu, you should focus on rebuilding your strength and getting plenty of rest.",
+            "What should I eat to help my body recover?",
+            "You should eat a balanced diet with plenty of fruits, vegetables, and lean protein. Avoid processed foods and sugar.",
+            "Can I exercise to help my recovery?",
+            "Yes, but start with light exercises, such as walking or yoga, and gradually increase the intensity as you feel stronger.",
+            "Okay, thank you for your advice, Medi.",
+            "You're welcome. Please take care of yourself and let me know if you have any other questions."
+        ],
+        "knowledge": "Influenza Influenza After recovering from the flu, it's important to focus on rebuilding your strength and getting plenty of rest. Eat a balanced diet with plenty of fruits, vegetables, and lean protein. Avoid processed foods and sugar. Exercise is also important, but start with light exercises, such as walking or yoga, and gradually increase the intensity as you feel stronger Influenza Influenza",
+        "response": "You're welcome. Please take care of yourself and let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling sick today. Can you help me out?",
+            "Of course, I'm here to help. What are your symptoms?",
+            "I have a headache, sore throat, and fatigue. Also, my nose is running and I have a fever.",
+            "Based on your symptoms, it looks like you may have the flu. I recommend resting and staying hydrated.",
+            "What else can I do to manage the symptoms?",
+            "You can take over-the-counter medications like acetaminophen or ibuprofen for fever and body aches. Drinking warm fluids like tea or soup can also help.",
+            "Okay, thanks for your advice. How long will it take to recover?",
+            "It can take anywhere from a few days to a week or two to fully recover from the flu. Just make sure to rest and take care of yourself.",
+            "Got it. Thanks for your help, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it looks like you may have the flu. I recommend resting and staying hydrated."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain what influenza is?",
+            "Of course, influenza is a contagious respiratory illness caused by influenza viruses. It can cause mild to severe illness and even death in some cases.",
+            "How is it spread?",
+            "It is usually spread through droplets when someone with the flu talks, coughs, or sneezes. You can also get it by touching a surface contaminated with the virus and then touching your mouth or nose.",
+            "Who is at risk of getting the flu?",
+            "Anyone can get the flu, but some people are at higher risk of complications like pneumonia, such as young children, elderly people, and those with weakened immune systems.",
+            "How can I prevent getting the flu?",
+            "The best way to prevent the flu is to get vaccinated every year. You can also avoid close contact with sick people and wash your hands frequently.",
+            "Okay, thanks for the info, Medi."
+        ],
+        "knowledge": "Influenza Influenza  In 1980, the classification system used to subtype influenza viruses was introduced. At some point, IBV diverged into two strains, named the B/Victoria-like and B/Yamagata-like lineages, both of which have been circulating in humans since 1983.  In 1996, HPAI H5N1 was detected in Guangdong, China and a year later emerged in poultry in Hong Kong, gradually spreading worldwide from there.  A small H5N1 outbreak in humans in Hong Kong occurred then, and sporadic human cases have occurred since 1997, carrying a high case fatality rate.  The most recent flu pandemic was the 2009 swine flu pandemic, which originated in Mexico and resulted in hundreds of thousands of deaths.  It was caused by a novel H1N1 strain that was a reassortment of human, swine, and avian influenza viruses.  The 2009 pandemic had the effect of replacing prior H1N1 strains in circulation with the novel strain but not any other influenza viruses Influenza Influenza",
+        "response": "Influenza is a contagious respiratory illness caused by influenza viruses. It can cause mild to severe illness and even death in some cases. It is usually spread through droplets when someone with the flu talks, coughs, or sneezes. Anyone can get the flu, but some people are at higher risk of complications like pneumonia, such as young children, elderly people, and those with weakened immune systems. The best way to prevent the flu is to get vaccinated every year."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a flu shot. Is there anything else I can do to prevent getting the flu?",
+            "Getting a flu vaccine is the best way to prevent the flu, but there are other things you can do to reduce your risk. You can wash your hands frequently, avoid close contact with sick people, and avoid touching your face.",
+            "What should I do if I think I have the flu?",
+            "If you think you have the flu, it's important to stay home and rest. You can take over-the-counter medications to relieve symptoms like fever and body aches. Make sure to drink plenty of fluids and get plenty of rest.",
+            "What if my symptoms get worse?",
+            "If your symptoms get worse or you develop complications like pneumonia, you should seek medical attention right away.",
+            "Thanks for the advice, Medi.",
+            "No problem, always happy to help. Do you have any other questions?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Getting a flu vaccine is the best way to prevent the flu, but there are other things you can do to reduce your risk. If you think you have the flu, it's important to stay home and rest. If your symptoms get worse or you develop complications like pneumonia, you should seek medical attention right away."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel very sick. I have a fever, cough and sore throat.",
+            "I'm sorry to hear that. How long have you had these symptoms?",
+            "It started yesterday afternoon and it's getting worse.",
+            "Based on your symptoms, it is likely that you have the flu. I recommend rest and plenty of fluids.",
+            "But I have a big project at work to complete. Can I still go to work?",
+            "It's best if you stay home and rest to avoid spreading the flu to your colleagues.",
+            "Okay, I will follow your advice. Are there any specific foods I should eat to help me recover?",
+            "Foods high in vitamins and nutrients such as fruits, vegetables, and lean protein can help boost your immune system.",
+            "Thank you, Medi. What about over-the-counter medication?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Rest and fluids are the best way to recover from flu. Foods high in vitamins and nutrients such as fruits, vegetables, and lean protein can also help. Over-the-counter pain relievers such as acetaminophen can help with fever and body aches."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about the flu.",
+            "Of course, what's your question?",
+            "How can I prevent getting the flu?",
+            "The best way to prevent getting the flu is to get vaccinated every year.",
+            "I see. What if I don't want to get vaccinated?",
+            "You can also prevent the flu by washing your hands regularly, avoiding close contact with sick people, and practicing good respiratory hygiene such as covering your mouth and nose when you cough or sneeze.",
+            "Thank you, Medi. How long does the flu vaccine protect me from getting the flu?",
+            "The flu vaccine typically provides protection for the entire flu season, which can last from October to May.",
+            "I understand. Thank you, Medi!"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The best way to prevent getting the flu is to get vaccinated every year. You can also prevent the flu by washing your hands regularly, avoiding close contact with sick people, and practicing good respiratory hygiene such as covering your mouth and nose when you cough or sneeze."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently recovered from the flu and I have a question.",
+            "Sure, what's your question?",
+            "How soon after recovering from the flu can I go back to exercising?",
+            "It's best to wait until you have fully recovered and are no longer experiencing any symptoms before exercising.",
+            "What if I feel better but still have a lingering cough?",
+            "If you still have a cough, it's best to wait until it has completely resolved before resuming exercise to avoid aggravating your respiratory system.",
+            "Okay, I understand. What kind of exercise is best after recovering from the flu?",
+            "Light exercise such as walking, yoga, or stretching can help you regain your strength and energy. Avoid strenuous exercise until you are fully recovered.",
+            "Thank you for your advice, Medi. Is there anything else I should know?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It's best to wait until you have fully recovered and are no longer experiencing any symptoms before exercising. Light exercise such as walking, yoga, or stretching can help you regain your strength and energy. Avoid strenuous exercise until you are fully recovered."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling sick lately. I don't know what to do.",
+            "Hi there! What kind of symptoms are you experiencing?",
+            "I have a cough, fever, and fatigue.",
+            "Have you had any other symptoms?",
+            "No, just those three.",
+            "Based on your symptoms, it seems that you may have the flu.",
+            "What should I do to treat the flu?",
+            "It's important to rest and drink plenty of fluids. You can also take over-the-counter medication to reduce fever and relieve symptoms like cough and sore throat.",
+            "Thanks, Medi. How long will it take for me to feel better?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "It usually takes about a week or so to recover from the flu, but it varies from person to person."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about influenza?",
+            "Of course, what would you like to know?",
+            "Can you explain what causes the flu?",
+            "The flu is caused by a virus that infects your respiratory system. There are many different strains of the flu virus, and it can mutate and change each year.",
+            "How is the flu transmitted?",
+            "The flu is mainly spread through droplets that are produced when an infected person coughs, sneezes, or talks. You can also get the flu by touching a surface that has the virus on it and then touching your nose or mouth.",
+            "What are the best ways to prevent getting the flu?",
+            "The best way to prevent getting the flu is to get vaccinated every year. You should also wash your hands frequently, avoid close contact with sick people, and cover your mouth and nose when you cough or sneeze.",
+            "Thanks, Medi. Is it possible to get the flu even if I've been vaccinated?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Yes, it's possible to get the flu even if you've been vaccinated, but the vaccine can still reduce the severity of your symptoms and help prevent complications."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from the flu. What should I do to prevent getting sick again?",
+            "Hi! It's great to hear that you've recovered. One way to prevent getting sick again is to maintain a healthy lifestyle. This includes eating a balanced diet, getting enough rest, and exercising regularly.",
+            "Are there any specific foods that can help me stay healthy?",
+            "Yes, foods that are high in nutrients like vitamin C and zinc can boost your immune system and help prevent illness. Examples include citrus fruits, leafy greens, and lean protein sources like chicken and fish.",
+            "What about supplements?",
+            "While supplements can be helpful, it's always best to get your nutrients from food whenever possible. If you do choose to take supplements, talk to your doctor first to make sure they're safe and effective for you.",
+            "Thanks for the advice, Medi. I'll make sure to take care of myself.",
+            "You're welcome! Don't hesitate to reach out if you have any further questions or concerns.",
+            "I will. Bye for now, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Goodbye and take care!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a sore throat and cough. Can you help me?",
+            "Of course, I am here to help. May I know for how long you have been experiencing these symptoms?",
+            "I think it's been almost a week now",
+            "Okay, have you experienced any fever or body aches?",
+            "Yes, I have a slight fever and body aches.",
+            "Based on your symptoms, you might have the flu. I suggest you visit a doctor right away.",
+            "Can you tell me more about the flu?",
+            "The flu is caused by a virus and spreads easily from person to person. It can cause mild to severe illness and can even lead to death in certain cases.",
+            "Thanks, Medi. What can I do to prevent the flu?"
+        ],
+        "knowledge": "Influenza Influenza The flu is a viral respiratory illness that is highly contagious and can lead to severe illness and death. The flu is caused by the influenza virus and is spread by droplets when an infected person coughs, sneezes or talks. Common symptoms of the flu include fever, cough, sore throat, muscle aches, fatigue and headaches. To prevent the flu, it is recommended to get vaccinated annually, wash your hands frequently, avoid close contact with sick people and practice good respiratory hygiene, such as covering your mouth and nose when coughing or sneezing. Influenza Influenza",
+        "response": "To prevent the flu, it is recommended to get vaccinated annually, wash your hands frequently, avoid close contact with sick people and practice good respiratory hygiene, such as covering your mouth and nose when coughing or sneezing."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery. Can you give me some advice on post-surgery care?",
+            "Yes, I can help you with that. May I know what type of surgery you had?",
+            "I had a knee replacement surgery.",
+            "Okay, after the surgery, it is important to keep the wound clean and dry. You should also follow the physical therapy exercises prescribed by your doctor.",
+            "What about my diet? Should I follow a specific diet?",
+            "Yes, it is important to eat a balanced diet rich in protein, vitamins and minerals to promote healing. You should consult your doctor or a dietitian for a customized meal plan.",
+            "Thanks, Medi. What about physical activity? Can I resume my daily routine?",
+            "You should avoid strenuous activities for a few weeks after surgery and follow your doctor's instructions on when you can resume your daily routine.",
+            "I see. How long will it take me to fully recover from the surgery?"
+        ],
+        "knowledge": "Surgery Surgery Recovery from surgery depends on various factors such as the type and extent of the surgery, age, overall health and adherence to post-surgery care instructions. In general, it can take several weeks to months to fully recover from surgery. It is important to follow the doctor's instructions on post-surgery care and to attend follow-up appointments to monitor the progress of recovery. Surgery Surgery",
+        "response": "The recovery time after surgery depends on various factors such as the type and extent of the surgery, age, overall health and adherence to post-surgery care instructions. In general, it can take several weeks to months to fully recover from surgery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been feeling down lately. Can you help me?",
+            "Sure, I am here to help. Can you tell me more about how you are feeling?",
+            "I feel sad and hopeless all the time. I have no energy and I don't enjoy things I used to enjoy.",
+            "Based on your symptoms, you might be experiencing depression. It is important to seek help from a mental health professional.",
+            "I see. What causes depression?",
+            "Depression can be caused by various factors such as genetics, life events, stress and chemical imbalances in the brain.",
+            "Thanks for the information, Medi. Can depression be treated?",
+            "Yes, depression can be treated with therapy, medication or a combination of both. It is important to seek help from a mental health professional to determine the best course of treatment for you.",
+            "I will definitely seek help. Thanks for your advice, Medi."
+        ],
+        "knowledge": "Depression Depression Depression is a common and serious mental health condition that can negatively affect how you feel, think and act. Common symptoms of depression include sadness, loss of interest or pleasure, feelings of guilt or worthlessness, fatigue, agitation, changes in appetite and sleep patterns, and thoughts of suicide. Depression can be caused by various factors such as genetics, life events, stress and chemical imbalances in the brain. Depression can be treated with therapy, medication or a combination of both. It is important to seek help from a mental health professional to determine the best course of treatment for you. Depression Depression",
+        "response": "Yes, depression can be treated with therapy, medication or a combination of both. It is important to seek help from a mental health professional to determine the best course of treatment for you."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I feel like I have a fever and a cough",
+            "Hello, I'm here to help you. How long have you been experiencing these symptoms?",
+            "I just started feeling these symptoms today.",
+            "I think you may have caught a cold. You should drink plenty of water and rest.",
+            "Is there anything else you recommend, Medi?",
+            "You can also take over-the-counter cold medicine, but if your symptoms persist, you should see a doctor.",
+            "I understand. Thank you, Medi.",
+            "You're welcome. Take care of yourself and get plenty of rest.",
+            "Can you tell me more about the common cold?"
+        ],
+        "knowledge": "Common Cold Common Cold The common cold is a viral infection of the upper respiratory tract that primarily affects the nose.  Symptoms include coughing, sore throat, runny nose, and fever which usually resolve in 7 \u2013 10 days.  There is no cure yet for the common cold.  Treatment involves treating symptoms.  Drinking fluids and resting are recommended.  Most people recover without complications, but people with weakened immune systems or existing respiratory conditions have a higher risk of developing complications.",
+        "response": "The common cold is a viral infection that primarily affects the nose. Symptoms include coughing, sore throat, runny nose, and fever."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I might have the flu",
+            "Hello, I'm here to help you. What makes you think you have the flu?",
+            "I have a fever, sore throat, body aches, and feel very weak",
+            "Based on your symptoms, it's possible that you have the flu. You should rest and drink plenty of fluids.",
+            "Is there anything else I can do, Medi?",
+            "You can take over-the-counter flu medicine to relieve your symptoms. If your fever persists or you have difficulty breathing, you should see a doctor.",
+            "Thank you for your help, Medi",
+            "You're welcome. Take care of yourself and get plenty of rest.",
+            "Can you tell me more about the flu?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common",
+        "response": "The flu is a viral infection that can cause sudden onset of symptoms, including fever, chills, headaches, muscle pain, sore throat, dry cough, and fatigue."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and want to know what I can do to help with my recovery",
+            "Hello, I'm here to help you. What kind of surgery did you have?",
+            "I had a knee replacement surgery",
+            "After surgery, it's important to rest and take it easy. You should also do gentle exercises to help with your recovery.",
+            "Are there any exercises you recommend, Medi?",
+            "Yes, you can do exercises such as ankle pumps, leg slides, and knee bends to help with your recovery. But make sure to consult with your doctor or physical therapist first.",
+            "Thank you for your help, Medi",
+            "You're welcome. Take it easy and don't push yourself too hard.",
+            "Can you tell me more about knee replacement surgery?"
+        ],
+        "knowledge": "Knee Replacement Surgery Knee Replacement Surgery Knee replacement surgery involves replacing part or all of the knee joint with an artificial joint to relieve pain and improve mobility.  Recovery time varies depending on the individual and the extent of the surgery.  After surgery, patients typically undergo physical therapy to regain strength and mobility in the knee.  It's important to follow your doctor's or physical therapist's recommendations for recovery.",
+        "response": "Knee replacement surgery involves replacing part or all of the knee joint with an artificial joint to relieve pain and improve mobility. Recovery time varies depending on the individual and the extent of the surgery."
+    }
+]

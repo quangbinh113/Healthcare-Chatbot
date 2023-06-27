@@ -1,0 +1,445 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I am experiencing abdominal pain and nausea. Can you help me?",
+            "Sure, I'll try my best. Can you describe your pain and nausea a little more?",
+            "My stomach feels tight and crampy. I feel like throwing up but haven't yet.",
+            "Based on your symptoms, it's likely that you have a stomach virus. Have you been around anyone who is sick?",
+            "Yes, my coworker was complaining of similar symptoms.",
+            "That could be the reason. Be sure to stay hydrated and rest. If it gets worse, visit a doctor.",
+            "Thanks, Medi. Is there anything else I should know about stomach viruses?",
+            "They are contagious, so be sure to wash your hands frequently and avoid close contact with others.",
+            "Okay, I will. Thanks for your help, Medi."
+        ],
+        "knowledge": "Stomach virus Stomach virus  Symptoms include stomach cramps, nausea, vomiting, and diarrhea. The virus is typically spread through contaminated water and food, and it can also be spread through close contact with someone who is infected. The best way to prevent the spread of stomach viruses is to wash your hands frequently and avoid close contact with others who are sick. Treatment typically involves rest and staying hydrated. If symptoms worsen or persist, it's important to visit a doctor. Stomach virus Stomach virus",
+        "response": "You're welcome. Remember to wash your hands frequently and avoid close contact with others to prevent the spread of stomach viruses."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a liver biopsy. What should I expect in terms of recovery?",
+            "After a liver biopsy, it is normal to experience some pain and soreness at the biopsy site for a few days.",
+            "Is there anything I can do to alleviate the pain?",
+            "Applying ice to the biopsy site can help reduce pain and swelling. Over-the-counter pain medications can also be helpful.",
+            "What about physical activity? Can I exercise?",
+            "It's best to avoid strenuous exercise and heavy lifting for a few days after the biopsy to give your body time to recover.",
+            "Understood. Is there anything I should be concerned about?",
+            "In rare cases, complications can occur, such as bleeding or infection. If you experience fever, severe pain, or heavy bleeding, seek medical attention immediately.",
+            "Thanks for the information, Medi. I appreciate it."
+        ],
+        "knowledge": "Liver biopsy Liver biopsy  After a liver biopsy, it is normal to experience some pain and soreness at the biopsy site for a few days. Applying ice to the biopsy site can help reduce pain and swelling. Over-the-counter pain medications can also be helpful. It's best to avoid strenuous exercise and heavy lifting for a few days after the biopsy to give your body time to recover. In rare cases, complications can occur, such as bleeding or infection. If you experience fever, severe pain, or heavy bleeding, seek medical attention immediately. Liver biopsy Liver biopsy",
+        "response": "You're welcome. Remember to seek medical attention immediately if you experience any complications, such as fever, severe pain, or heavy bleeding after the liver biopsy."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I was recently diagnosed with alcoholic hepatitis. What lifestyle changes should I make?",
+            "Alcoholic hepatitis is a serious condition. It's important to stop drinking alcohol completely to prevent further liver damage.",
+            "Okay, I'll stop drinking. Is there anything else I can do?",
+            "Maintaining a healthy diet with plenty of fruits and vegetables can help support liver function. Exercise can also help improve liver health.",
+            "That sounds doable. Should I take any supplements?",
+            "Talk to your doctor about supplements. Some supplements, such as milk thistle, may be beneficial for liver health, but others can be harmful.",
+            "Thanks, Medi. What are the risks associated with alcoholic hepatitis?",
+            "In its severe form, alcoholic hepatitis has a one-month mortality rate as high as 50%. Other contributing factors include younger age, binge-pattern drinking, poor nutritional status, obesity, and hepatitis C co-infection.",
+            "I see. Thank you for the information, Medi."
+        ],
+        "knowledge": "Alcoholic hepatitis Alcoholic hepatitis  Alcoholic hepatitis is a serious condition that can cause liver damage. It's important to stop drinking alcohol completely to prevent further liver damage. Maintaining a healthy diet with plenty of fruits and vegetables can help support liver function. Exercise can also help improve liver health. Talk to your doctor about supplements, as some may be beneficial for liver health but others can be harmful. In its severe form, alcoholic hepatitis has a one-month mortality rate as high as 50%. Other contributing factors include younger age, binge-pattern drinking, poor nutritional status, obesity, and hepatitis C co-infection. Alcoholic hepatitis Alcoholic hepatitis",
+        "response": "You're welcome. Remember to maintain a healthy diet, stop drinking alcohol completely, and exercise to improve liver health."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am experiencing stomach pain.",
+            "I'm sorry to hear that. Can you tell me more about the pain?",
+            "It's a dull pain in my upper stomach, and I feel bloated and nauseous.",
+            "Okay. Based on your symptoms, it could be gastritis. Have you been eating spicy or acidic foods lately?",
+            "Yes, I have been eating a lot of spicy and acidic food lately.",
+            "That could be the cause of your pain. I suggest avoiding those types of foods for a while.",
+            "Thank you for your advice. Is there anything else I can do to relieve the pain?",
+            "Drinking chamomile tea and taking antacids may help. If the pain persists, please see a doctor.",
+            "Okay, thank you. How common is gastritis? "
+        ],
+        "knowledge": "Gastritis is a common condition where the stomach lining becomes inflamed. It can be caused by a variety of factors such as bacterial infections, excessive alcohol consumption, stress, and certain medications. Symptoms can include stomach pain, bloating, nausea, and vomiting. Treatment may include lifestyle changes, medication, and sometimes surgery. It is estimated that up to 10% of people worldwide develop gastritis.",
+        "response": "Gastritis is a common condition, affecting up to 10% of people worldwide."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a liver procedure. Can you give me some advice on post-procedure care?",
+            "Of course! What kind of liver procedure did you have?",
+            "I had a liver biopsy done.",
+            "After a liver biopsy, it's important to rest for 24-48 hours. You should also avoid any strenuous activity and heavy lifting during this time.",
+            "Okay, thank you. How about my diet?",
+            "For the first 24 hours after the biopsy, you should avoid solid foods and stick to clear liquids like water, broth, and apple juice. After that, you can gradually introduce solid foods back into your diet as long as they are not too heavy or spicy.",
+            "Got it. How about pain management?",
+            "You may experience some pain or discomfort after the biopsy. Over-the-counter pain relievers like acetaminophen may help. If the pain is severe or lasts for more than a few days, you should contact your doctor.",
+            "Thank you for your advice. Is there anything else I should be aware of?"
+        ],
+        "knowledge": "A liver biopsy is a procedure to remove a small sample of liver tissue for testing. After the biopsy, it is important to rest and avoid strenuous activity for 24-48 hours. You should also stick to clear liquids for the first 24 hours and gradually introduce solid foods back into your diet afterwards. Pain can be managed with over-the-counter pain relievers like acetaminophen. It is important to follow your doctor's post-procedure instructions closely and watch for any signs of infection or bleeding.",
+        "response": "You're welcome. I hope this information is helpful."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm concerned about hepatitis. What should I know about it?",
+            "Hepatitis is a condition where the liver becomes inflamed. It can be caused by a variety of factors such as viral infections, alcohol abuse, and certain medications.",
+            "What are the symptoms of hepatitis?",
+            "Symptoms can include fever, fatigue, loss of appetite, nausea, vomiting, abdominal pain, dark urine, and jaundice.",
+            "How is hepatitis diagnosed?",
+            "Hepatitis can be diagnosed through blood tests and imaging tests like ultrasound and CT scans.",
+            "Can hepatitis be treated?",
+            "Yes, treatment depends on the type and cause of hepatitis. Some forms of viral hepatitis can be treated with antiviral medications, while others may require lifestyle changes and supportive care.",
+            "Is hepatitis contagious?"
+        ],
+        "knowledge": "Hepatitis is a condition where the liver becomes inflamed. It can be caused by viral infections, alcohol abuse, and certain medications. Symptoms can include fever, fatigue, loss of appetite, nausea, vomiting, abdominal pain, dark urine, and jaundice. Hepatitis can be diagnosed through blood tests and imaging tests like ultrasound and CT scans. Treatment depends on the type and cause of hepatitis. Some forms of viral hepatitis can be treated with antiviral medications, while others may require lifestyle changes and supportive care. Good hygiene practices, avoiding risky behaviors, and getting vaccinated for hepatitis A and B can help prevent hepatitis.",
+        "response": "You're welcome. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I have symptoms of hepatitis. Can you help me?",
+            "Sure, I can help. Please tell me your symptoms.",
+            "I have fatigue, loss of appetite, nausea, and my eyes and skin are yellowish.",
+            "Based on your symptoms, you may have hepatitis. You should see a doctor for diagnosis and treatment.",
+            "What is hepatitis exactly?",
+            "Hepatitis is a liver inflammation caused by a viral infection or exposure to toxins such as alcohol and drugs. There are several types of hepatitis viruses, such as A, B, and C.",
+            "How can I prevent hepatitis?",
+            "Hepatitis A and B can be prevented by vaccines. For hepatitis C, avoiding exposure to blood and using safe sex practices can reduce your risk.",
+            "Thank you for your help, Medi. I will see a doctor as soon as possible."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "You're welcome. It's important to see a doctor as soon as possible."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about hepatitis.",
+            "Sure, I am here to help. What do you want to know?",
+            "What are the symptoms of hepatitis?",
+            "The symptoms of hepatitis include fatigue, loss of appetite, nausea, vomiting, abdominal pain, and jaundice.",
+            "Can hepatitis be treated?",
+            "Yes, in most cases hepatitis can be treated. The treatment depends on the type of hepatitis and severity. It's important to see a doctor for diagnosis and treatment.",
+            "Is hepatitis contagious?",
+            "Yes, some types of hepatitis are contagious. Hepatitis A and E are spread through contaminated food and water, while hepatitis B and C are spread through blood and bodily fluids.",
+            "Thank you for your explanation, Medi."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "You're welcome. Feel free to ask any more questions if you have them."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a liver biopsy for hepatitis. What should I do now?",
+            "After a liver biopsy, you should rest for the next 24 hours and avoid any strenuous activities. You may experience some discomfort or pain in the biopsy area, but it should go away in a few days. You should also avoid any blood-thinning medications such as aspirin or ibuprofen for several days.",
+            "Should I be worried about any complications?",
+            "Complications from liver biopsies are rare, but you need to watch out for signs of bleeding such as severe abdominal pain or blood in your stool. If you experience these symptoms, you should seek medical attention immediately.",
+            "Are there any lifestyle changes I should make to help my liver heal?",
+            "Yes, there are some lifestyle changes you can make to help your liver heal. You should avoid alcohol and drugs that can damage your liver, maintain a healthy diet, and exercise regularly.",
+            "Thanks for your advice, Medi."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "You're welcome. Take care of yourself and follow your doctor's advice for the best outcome."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms and I need help.",
+            "Sure, I am here to assist you. What are your symptoms?",
+            "I feel very tired, have a loss of appetite, and noticed yellowing of my skin.",
+            "Based on your symptoms, it's likely that you have hepatitis. Have you visited a doctor or hospital yet?",
+            "No, I haven't. What should I do next?",
+            "I suggest you to see a doctor as soon as possible to get the proper diagnosis and treatment for hepatitis.",
+            "Is there any preventive measures for hepatitis?",
+            "There is a vaccine available for hepatitis A and B, and also maintaining hygiene practices and avoiding risky behaviors such as sharing needles and unprotected sex can lower your risk of contracting the disease.",
+            "Okay, thank you for the information. I will make an appointment with a doctor."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "You're welcome. I hope you get the proper diagnosis and treatment for hepatitis soon."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about hepatitis.",
+            "Sure, I will assist you with your questions. What do you want to know?",
+            "What are the symptoms of hepatitis?",
+            "Symptoms of hepatitis vary based on the type and severity of the disease, but common symptoms include fatigue, loss of appetite, nausea, abdominal pain, joint pain, and jaundice.",
+            "How is hepatitis transmitted?",
+            "Hepatitis can be transmitted through contact with infected blood or bodily fluids, such as through sharing needles, sexual contact, or from mother to child during childbirth.",
+            "Is hepatitis curable?",
+            "Some types of hepatitis can be cured with medication, but others require lifelong management to control symptoms and prevent complications.",
+            "Okay, thank you for the information about hepatitis."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "You're welcome. If you have any other questions about hepatitis or any other health concerns, feel free to ask me."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I had a medical procedure related to hepatitis. What should I do now?",
+            "After a medical procedure, it's important to follow the post-procedure instructions provided by your doctor. What medical procedure did you have?",
+            "I had a liver biopsy to diagnose my hepatitis.",
+            "After a liver biopsy, it's important to rest and avoid strenuous activities for several days. You should also avoid lifting weights or anything heavy for at least a week. You may experience some mild pain and discomfort at the biopsy site, which can be managed with over-the-counter pain medication if necessary. If you experience fever, severe pain, or any signs of infection, you should contact your doctor immediately.",
+            "Are there any lifestyle changes I should make after the biopsy?",
+            "After the biopsy, it's important to avoid alcohol and any medications or supplements that can affect your liver function for at least a week. You should also eat a healthy, balanced diet and get plenty of rest to support your recovery.",
+            "Thank you for the information, Medi.",
+            "You're welcome. If you have any other questions or concerns, feel free to ask me."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "You're welcome. I hope you have a smooth recovery after your liver biopsy."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel very tired and nauseous",
+            "Sorry to hear that, can you tell me more about your symptoms?",
+            "I have fatigue, loss of appetite, and my urine is dark",
+            "Based on your symptoms, it could be hepatitis. Have you been exposed to contaminated water or food?",
+            "I recently went on a trip to a developing country and ate street food",
+            "That could be the cause. It's important to get tested and treated if it's hepatitis.",
+            "What are the treatment options?",
+            "Treatment depends on the type of hepatitis, but it can range from antiviral medications to lifestyle changes and rest.",
+            "Thank you for your help, I'll make sure to see a doctor soon."
+        ],
+        "knowledge": "Hepatitis Hepatitis Infection is rare in the United States but rates are high in the developing world. Many genotypes exist and are differentially distributed around the world. There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis in its severe form has a one-month mortality as high as 50%. Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism. Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection. It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "It's recommended that you see a doctor for testing and treatment as soon as possible since it could be hepatitis."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about hepatitis",
+            "Sure, what would you like to know?",
+            "What can I do to prevent hepatitis?",
+            "The best way to prevent hepatitis is to get vaccinated, practice good hygiene, and avoid risky behaviors such as sharing needles or having unprotected sex.",
+            "Is there a specific vaccine for each type of hepatitis?",
+            "Yes, there are vaccines for hepatitis A and B, but not for C and E. It's important to talk to your doctor about which vaccines you should get based on your risk factors.",
+            "Thank you for the information, Medi. I'll make sure to talk to my doctor about getting vaccinated.",
+            "You're welcome. It's always better to be safe than sorry!",
+            "Definitely, thanks again."
+        ],
+        "knowledge": "Hepatitis Hepatitis Infection is rare in the United States but rates are high in the developing world. Many genotypes exist and are differentially distributed around the world. There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis in its severe form has a one-month mortality as high as 50%. Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism. Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection. It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "It's always a good idea to talk to your doctor about getting vaccinated and practicing good hygiene to prevent hepatitis."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had alcoholic hepatitis and I'm wondering what lifestyle changes I should make",
+            "I'm sorry to hear that. Making lifestyle changes is important for managing alcoholic hepatitis. What are you currently doing?",
+            "I've stopped drinking, but I'm not sure what else I can do",
+            "That's a good start. It's also important to eat a healthy and balanced diet, exercise regularly, and get enough rest.",
+            "What types of foods should I eat?",
+            "You should focus on foods that are high in fiber, protein, and nutrients, such as fruits, vegetables, whole grains, lean meats, and low-fat dairy products. It's also important to limit your intake of salt, sugar, and saturated fats.",
+            "What types of exercises should I do?",
+            "You should aim for at least 30 minutes of moderate exercise, such as walking or cycling, on most days of the week. It's important to talk to your doctor about an exercise plan that's right for you.",
+            "Thank you for the advice, Medi. I'll make sure to make these lifestyle changes."
+        ],
+        "knowledge": "Hepatitis Hepatitis Infection is rare in the United States but rates are high in the developing world. Many genotypes exist and are differentially distributed around the world. There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis in its severe form has a one-month mortality as high as 50%. Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism. Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection. It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "Lifestyle changes such as a healthy and balanced diet, regular exercise, and enough rest can help manage alcoholic hepatitis and improve overall health."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms and I am not sure what they mean.",
+            "Sure, I am here to help. What are your symptoms?",
+            "I have been feeling very tired and I have been losing my appetite.",
+            "Have you been experiencing any other symptoms?",
+            "I have also had some abdominal pain and I feel nauseous.",
+            "Based on your symptoms, you may have Hepatitis. You should see a doctor for a proper diagnosis.",
+            "Is Hepatitis common?",
+            "Hepatitis infection is rare in the US but rates are high in the developing world."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world. Many genotypes exist and are differentially distributed around the world. There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis in its severe form has a one-month mortality as high as 50%. Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism. Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity, and hepatitis C co-infection. It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "Hepatitis infection is rare in the US but rates are high in the developing world."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me what is Hepatitis?",
+            "Sure, Hepatitis is an inflammation of the liver caused by a virus or other factors.",
+            "What are some common causes of Hepatitis?",
+            "There are five main types of Hepatitis, A, B, C, D, and E. Each type is caused by a different virus.",
+            "What are the symptoms of Hepatitis?",
+            "The symptoms of Hepatitis include fatigue, nausea, abdominal pain, and jaundice.",
+            "How can I prevent Hepatitis?",
+            "You can prevent Hepatitis by getting vaccinated for types A and B, practicing good hygiene, and avoiding high-risk behaviors such as sharing needles."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world. Many genotypes exist and are differentially distributed around the world. There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis in its severe form has a one-month mortality as high as 50%. Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism. Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity, and hepatitis C co-infection. It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "You can prevent Hepatitis by getting vaccinated for types A and B, practicing good hygiene, and avoiding high-risk behaviors such as sharing needles."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure and I am not sure what to do next.",
+            "What procedure did you have?",
+            "I had a liver biopsy.",
+            "After a liver biopsy, it is important to rest and avoid strenuous activity for a few days.",
+            "What can I do to help my liver heal after the biopsy?",
+            "You should avoid alcohol, eat a healthy diet, and get regular exercise.",
+            "Are there any complications I should look out for?",
+            "Complications from a liver biopsy are rare, but if you experience severe pain, bleeding, or fever, you should see a doctor immediately.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world. Many genotypes exist and are differentially distributed around the world. There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis in its severe form has a one-month mortality as high as 50%. Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism. Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity, and hepatitis C co-infection. It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "You're welcome. Remember to avoid alcohol, eat a healthy diet, and get regular exercise to help your liver heal after the biopsy."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I might have hepatitis",
+            "What are your symptoms?",
+            "I have been feeling very tired and nauseous, and I have some pain in my abdomen",
+            "Those symptoms can be indicative of hepatitis, have you been to any areas where the infection is common?",
+            "No, I haven't traveled anywhere recently",
+            "Alright, based on your symptoms, I would recommend you to schedule a blood test with your doctor to confirm the diagnosis",
+            "What kind of hepatitis do you think it might be?",
+            "It's hard to tell without a blood test because there are many genotypes that are differentially distributed around the world.",
+            "I see, thank you for your help Medi"
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "The symptoms you described indicate that you should schedule a blood test with your doctor to determine if you have hepatitis and which genotype it might be."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I was recently diagnosed with alcoholic hepatitis",
+            "I'm sorry to hear that. Do you have any questions about the disease?",
+            "Yes, I do. What can I do to improve my condition? ",
+            "The most important thing is to stop drinking alcohol completely. Additionally, you should focus on improving your diet by eating foods that are high in nutrients and reducing your intake of fatty foods and sugar",
+            "What about exercise?",
+            "Physical exercise can help improve your liver function and overall health, so it's definitely recommended. But you should start with light exercises and gradually increase the intensity as your body can tolerate it",
+            "What about medication?",
+            "There are some medications that can help improve your liver function and reduce inflammation, but you should discuss with your doctor to see if it's necessary and safe for you to take them.",
+            "Thank you for your advice Medi"
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "Stopping drinking alcohol completely, improving your diet and starting light exercises are the most important things to help improve your condition. You may also want to discuss with your doctor if medication is necessary and safe."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently recovered from hepatitis",
+            "I'm glad to hear that. Do you have any questions about post-recovery care?",
+            "Yes, I do. Can I drink alcohol again?",
+            "It's best to avoid drinking alcohol for at least six months after recovery to give your liver time to heal. After that period, you can drink alcohol in moderation",
+            "What about my diet?",
+            "You should continue to eat a healthy and balanced diet that is high in nutrients and low in fat and sugar. This will help keep your liver healthy and reduce the risk of developing liver-related diseases",
+            "What kind of physical exercise can I do?",
+            "Any kind of physical exercise that you enjoy and can do safely is good for your overall health and liver function. You should aim for at least 30 minutes of moderate exercise per day",
+            "Thank you for your advice Medi"
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "After recovery, it's best to avoid drinking alcohol for at least six months and continue to eat a healthy and balanced diet. Any kind of physical exercise that you enjoy and can do safely is good for your overall health and liver function."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel very tired and my skin is yellow",
+            "Hi, Based on your symptoms, you might be experiencing jaundice",
+            "What is jaundice?",
+            "Jaundice is caused by the build-up of bilirubin, a waste material, in the blood. ",
+            "What are the other symptoms I can expect?",
+            "Other symptoms include abdominal pain, fever, itchy skin, and dark urine",
+            "What should I do next?",
+            "It's better to visit a doctor and perform some medical tests. ",
+            "What would be the treatment?"
+        ],
+        "knowledge": "Hepatitis Hepatitis Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "It's better to visit a doctor and perform some medical tests to identify the cause of jaundice."
+    },
+    {
+        "dialog": [
+            "Medi, can you give some information about Hepatitis C?",
+            "Sure, Hepatitis C is a viral infection that causes liver inflammation",
+            "How can people get infected with it?",
+            "People can get infected through contact with contaminated blood or needles",
+            "What are the symptoms of Hepatitis C?",
+            "Most people with hepatitis C don't have any symptoms. However, symptoms can include fatigue, joint pain, and nausea",
+            "Is it curable?",
+            "Yes, with proper treatment, Hepatitis C is curable.",
+            "What kind of treatment can be given?"
+        ],
+        "knowledge": "Hepatitis Hepatitis Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "There are several antiviral medicines available, which can cure Hepatitis C"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have recently recovered from alcoholic hepatitis",
+            "Hi, I'm glad you have recovered. Do you have any questions?",
+            "Yes, I'm afraid of getting this disease again. What should I do?",
+            "Firstly, you should stop drinking alcohol completely",
+            "What are the other preventions I can follow?",
+            "Maintaining a healthy lifestyle, eating a nutritious diet, and exercising regularly can help prevent alcoholic hepatitis from returning.",
+            "Can you give me more information about the diet?",
+            "A diet rich in fruits, vegetables, and lean protein can help support liver health",
+            "Okay, I will follow all these instructions. Anything else I should remember?"
+        ],
+        "knowledge": "Hepatitis Hepatitis Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "It's important to continue seeing your doctor regularly."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am feeling very tired and have been feeling sick for a few days now.",
+            "I am sorry to hear that. Can you please tell me some more about your symptoms?",
+            "I have had a fever, nausea, and a loss of appetite. I also feel very weak and can\u2019t seem to get out of bed.",
+            "Based on your symptoms it is possible that you have contracted Hepatitis. Have you travelled outside the US recently?",
+            "Yes, I went to India 2 weeks ago.",
+            "That could be the reason. I would recommend that you go to a doctor and get a blood test to confirm the diagnosis.",
+            "What can I do to feel better while I wait for the test results?",
+            "You should rest as much as possible, avoid alcohol and take medications to reduce the fever and nausea. And let me know the test result.",
+            "Okay, thank you Medi."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "You should rest as much as possible, avoid alcohol and take medications to reduce the fever and nausea while waiting for a blood test to confirm the diagnosis."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a few questions about Hepatitis.",
+            "Sure, I am here to help. What would you like to know?",
+            "What is the difference between the different genotypes of hepatitis?",
+            "Each genotype causes the same symptoms but they vary in their prevalence and distribution around the world. For example, genotype A is most common in Africa and Asia while genotype C is most common in Asia.",
+            "Can Hepatitis be transmitted through food or water?",
+            "Yes, Hepatitis A and E are transmitted through contaminated food and water.",
+            "Is there a vaccine for Hepatitis?",
+            "Yes, there are vaccines available for Hepatitis A and B but not for Hepatitis C.",
+            "Thank you for answering my questions Medi. You are very helpful"
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "You are welcome. I'm glad I could help you with your questions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently underwent treatment for Alcoholic Hepatitis. What can I do to prevent a relapse?",
+            "Congratulations on completing your treatment. The best way to prevent a relapse is to avoid alcohol completely.",
+            "What other lifestyle changes can I make?",
+            "You can also improve your diet, exercise regularly and get enough sleep. It is important to take care of your mental health as well and seek professional help if necessary.",
+            "What are some warning signs of a relapse?",
+            "Some warning signs of a relapse include cravings for alcohol, mood swings, depression and social withdrawal.",
+            "Thank you for your advice Medi. I will do my best to stay healthy",
+            "You are welcome. Remember that your health is your top priority. Good luck with your recovery."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "Remember that your health is your top priority and to avoid alcohol completely to prevent a relapse."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have symptoms like fever and loss of appetite.",
+            "Hello, I'm here to help. Do you have any other symptoms?",
+            "Yes, I have body aches and fatigue too.",
+            "Based on your symptoms, you might have Hepatitis. You should consult with a doctor as soon as possible.",
+            "What kind of Hepatitis is it? ",
+            "It's hard to say without further testing. There are several types of Hepatitis, and it's important to get tested to know which kind you have.",
+            "Thank you for your advice. Can you tell me more about the types of Hepatitis?",
+            "Sure. There are five main types of Hepatitis: A, B, C, D, and E. Each type is caused by a different virus and has different symptoms and treatments.",
+            "That's helpful. I'll make an appointment with a doctor."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "There are five main types of Hepatitis: A, B, C, D, and E, with different symptoms and treatments for each type."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about Hepatitis.",
+            "Sure, I'm here to help. What do you want to know?",
+            "What are the symptoms of Hepatitis?",
+            "The symptoms of Hepatitis include fever, fatigue, loss of appetite, nausea, vomiting, abdominal pain, dark urine, pale stools, and jaundice.",
+            "What are the most common causes of Hepatitis?",
+            "The most common causes of Hepatitis are viral infections, particularly Hepatitis A, B, and C. However, other factors such as alcohol abuse, toxins, and certain medications can also cause Hepatitis.",
+            "How is Hepatitis diagnosed?",
+            "Hepatitis is diagnosed through blood tests, imaging tests, and liver biopsy. The specific tests needed depend on the type and severity of Hepatitis suspected.",
+            "Thank you for answering my questions, Medi."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "The symptoms of Hepatitis include fever, fatigue, loss of appetite, nausea, vomiting, abdominal pain, dark urine, pale stools, and jaundice. It can be caused by viral infections, alcohol, toxins, and certain medications and diagnosed through blood tests, imaging tests, and liver biopsy."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a liver biopsy. What should I do now?",
+            "Hi, I'm here to help. After a liver biopsy, you should rest for a few hours and avoid any strenuous activity for several days. You may experience some pain or discomfort at the biopsy site, which can be managed with over-the-counter pain relievers.",
+            "Are there any foods I should avoid?",
+            "After a liver biopsy, you should avoid fatty or greasy foods and opt for a low-fat, high-fiber diet. Drink plenty of water and avoid alcohol and caffeine for a few days.",
+            "What about physical activity?",
+            "You should avoid any strenuous physical activity for several days after the biopsy. You can resume normal activities gradually as you feel comfortable.",
+            "Thank you for your advice, Medi.",
+            "Don't hesitate to reach out if you have any more questions or concerns."
+        ],
+        "knowledge": "Hepatitis Hepatitis  Infection is rare in the United States but rates are high in the developing world .  Many genotypes exist and are differentially distributed around the world.  There is some evidence of hepatitis E infection of animals, serving as a reservoir for human infection. Alcoholic hepatitis  in its severe form has a one-month mortality as high as 50%.  Most people who develop AH are men but women are at higher risk of developing AH and its complications likely secondary to high body fat and differences in alcohol metabolism.  Other contributing factors include younger age <60, binge pattern drinking, poor nutritional status, obesity and hepatitis C co-infection.  It is estimated that as much as 20% of people with AH are also infected with hepatitis C Hepatitis Hepatitis",
+        "response": "After a liver biopsy, you should rest for a few hours and avoid strenuous activity for several days. You should avoid fatty or greasy foods and opt for a low-fat, high-fiber diet. Drink plenty of water and avoid alcohol and caffeine for a few days."
+    }
+]

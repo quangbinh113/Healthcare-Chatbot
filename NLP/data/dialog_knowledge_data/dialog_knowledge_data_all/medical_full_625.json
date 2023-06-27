@@ -1,0 +1,405 @@
+[
+    {
+        "dialog": [
+            "Hi, Medi. I have some symptoms and I need your help.",
+            "Hello, let me know about your symptoms.",
+            "I have a fever, cough, headache, and muscle pain.",
+            "When did your symptoms start?",
+            "This morning when I woke up.",
+            "Based on your symptoms, you may have influenza. You should take some rest and drink plenty of fluids.",
+            "What medication do you suggest?",
+            "Antivirals are most effective when started in the first 48 hours after symptoms appear.",
+            "Thanks for your advice, Medi."
+        ],
+        "knowledge": "Influenza Influenza  Antivirals are most effective when started in the first 48 hours after symptoms appear.  Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus.  Antiviral treatment is also recommended if a person is hospitalized with suspected influenza instead of waiting for test results to return and if symptoms are worsening.  Most antiviral drugs against influenza fall into two categories: neuraminidase  inhibitors and M2 inhibitors.  Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired.  NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "You're welcome, take care."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have some questions about influenza.",
+            "Sure, how can I help you?",
+            "What is the cause of influenza?",
+            "Influenza is caused by a virus that infects your respiratory system.",
+            "What are the symptoms of influenza?",
+            "The most common symptoms are fever, cough, muscle pain, headache, and sore throat.",
+            "Does the influenza vaccine prevent all types of influenza viruses?",
+            "No, the vaccine does not protect against all types of influenza viruses.",
+            "Thanks, Medi. You have been very helpful."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. I'm always here to help you."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I've just recovered from influenza and I want to know what I should do now.",
+            "You should get plenty of rest and drink plenty of fluids.",
+            "Do you have any advice on my diet?",
+            "During recovery, it is important to eat nutritious foods, such as fruits, vegetables, and whole grains.",
+            "What about physical activity?",
+            "You should start with light physical activity, such as walking, and gradually increase the intensity and duration.",
+            "Thanks, Medi, for your advice.",
+            "You're welcome. Don't hesitate to ask me anything else."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Take care of yourself."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been feeling sick lately.",
+            "I'm sorry to hear that. What symptoms have you been experiencing?",
+            "I have a fever of 101 degrees, a headache, and a cough.",
+            "Based on those symptoms, you may have influenza. It's best to rest and drink plenty of fluids.",
+            "Are there any medications I can take to help me feel better?",
+            "Antivirals are most effective when started in the first 48 hours after symptoms appear. Later administration may still be beneficial for those with more severe symptoms or a higher risk of developing complications. Speak with your doctor.",
+            "Okay, thank you for your help, Medi.",
+            "You're welcome. Take care of yourself.",
+            "Medi, can you give me more information about antivirals?"
+        ],
+        "knowledge": "Influenza Influenza Antivirals are most effective when started in the first 48 hours after symptoms appear. Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus. Antiviral treatment is also recommended if a person is hospitalized with suspected influenza instead of waiting for test results to return and if symptoms are worsening. Most antiviral drugs against influenza fall into two categories: neuraminidase inhibitors and M2 inhibitors. Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired. NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "Antivirals are most effective when taken within the first 48 hours after symptoms appear. There are two main types of antivirals: neuraminidase inhibitors and M2 inhibitors. Baloxavir marboxil is an alternative to these two categories and targets the endonuclease activity of the viral RNA polymerase."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a flu shot. Is it still possible for me to get the flu?",
+            "Yes, it is still possible to get the flu even after getting a flu shot. However, the flu shot can reduce the severity of the illness if you do get sick.",
+            "That's good to know. What else can I do to prevent getting sick?",
+            "Washing your hands frequently, avoiding contact with sick people, and covering your mouth and nose when coughing or sneezing can all help prevent the spread of illness.",
+            "Are there any foods or supplements that can help boost my immune system?",
+            "Eating a healthy diet that includes plenty of fruits and vegetables can help support your immune system. Speak with your doctor about any supplements you are considering.",
+            "Thanks for the advice, Medi.",
+            "You're welcome. Take care of yourself.",
+            "Medi, how long is the flu contagious?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The flu is contagious for up to 7 days after symptoms appear. Children and people with weakened immune systems may be contagious for longer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had the flu and I'm feeling better. What can I do to prevent getting sick again?",
+            "It's important to get plenty of rest and to continue to drink plenty of fluids. Eating a healthy diet that includes plenty of fruits and vegetables can also help support your immune system.",
+            "Are there any other lifestyle changes I can make to improve my health?",
+            "Regular exercise can help boost your immune system and improve your overall health. Speak with your doctor about any physical activity you are considering.",
+            "What about stress? Can that make me more susceptible to illness?",
+            "Yes, stress can weaken your immune system and make you more susceptible to illness. It's important to manage your stress levels through relaxation techniques such as deep breathing or meditation.",
+            "Thanks for the advice, Medi.",
+            "You're welcome. Take care of yourself.",
+            "Medi, what are some common complications of the flu?"
+        ],
+        "knowledge": "Influenza Influenza Complications of the flu can include pneumonia, bronchitis, sinus and ear infections, and worsening of chronic medical conditions such as asthma or heart disease. In rare cases, the flu can lead to more serious complications such as myocarditis (inflammation of the heart), encephalitis (inflammation of the brain), or multi-organ failure. The elderly, young children, pregnant women, and people with weakened immune systems are at a higher risk for complications.",
+        "response": "Complications of the flu can include pneumonia, bronchitis, sinus and ear infections, and worsening of chronic medical conditions such as asthma or heart disease. The elderly, young children, pregnant women, and people with weakened immune systems are at a higher risk for complications."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I have Influenza. What should I do?",
+            "Based on your symptoms, you might have Influenza. You should start antiviral medication within 48 hours.",
+            "What are the types of antiviral drugs for Influenza?",
+            "There are neuraminidase inhibitors and M2 inhibitors. Baloxavir marboxil can be used as an alternative to NA and M2 inhibitors.",
+            "Which one should I choose?",
+            "It depends on the severity of your symptoms and personal medical history. A doctor's consultation is necessary.",
+            "Okay. What should I do if I am hospitalized?",
+            "If you are hospitalized with suspected influenza, antiviral treatment is recommended instead of waiting for test results to return.",
+            "Thank you, Medi. Can you remind me of the time frame for starting antiviral medication?"
+        ],
+        "knowledge": "Influenza Influenza  Antivirals are most effective when started in the first 48 hours after symptoms appear.  Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus.  Antiviral treatment is also recommended if a person is hospitalized with suspected influenza instead of waiting for test results to return and if symptoms are worsening.  Most antiviral drugs against influenza fall into two categories: neuraminidase  inhibitors and M2 inhibitors.  Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired.  NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "Antivirals are most effective when started in the first 48 hours after symptoms appear. Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you tell me more about Influenza?",
+            "Sure. Influenza is a viral respiratory infection that can cause mild to severe illness. The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, and loss of appetite.",
+            "What are the common symptoms of Influenza? ",
+            "The standard influenza symptoms typically last for 2 - 8 days and include respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.",
+            "Can Influenza cause long term symptoms?",
+            " A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common.",
+            "How can we prevent Influenza?",
+            "The best way to prevent Influenza is to get vaccinated every year and practice good hygiene such as washing your hands frequently and avoiding close contact with sick people.",
+            "Thank you for the information. What should I do if I get Influenza?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "If you get Influenza, you should start antiviral medication within 48 hours of symptom onset and take steps to manage your symptoms such as getting plenty of rest and fluids."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a medical procedure. What should I do now?",
+            "It's important to follow any post-procedure instructions from your healthcare provider and take any prescribed medications as directed.",
+            "What kind of lifestyle changes should I make?",
+            "Depending on the procedure, you may need to avoid strenuous activity or heavy lifting for a period of time. You should also eat a balanced diet and get regular exercise.",
+            "Are there any specific exercises I should do?",
+            "It's best to consult with your healthcare provider about specific exercises or physical therapy you may need after your procedure.",
+            "What should I eat?",
+            "Eating a balanced diet with plenty of fruits, vegetables, and whole grains can help support your recovery. Depending on the procedure, you may also need to follow a specific diet or avoid certain foods.",
+            "Thank you for the advice, Medi. How long will it take to recover?"
+        ],
+        "knowledge": "Influenza Influenza  Antivirals are most effective when started in the first 48 hours after symptoms appear.  Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus.  Antiviral treatment is also recommended if a person is hospitalized with suspected influenza instead of waiting for test results to return and if symptoms are worsening.  Most antiviral drugs against influenza fall into two categories: neuraminidase  inhibitors and M2 inhibitors.  Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired.  NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "The recovery time after a medical procedure varies depending on the type of procedure and your individual health status. Your healthcare provider can give you more specific information about your recovery timeline."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I might have the flu",
+            "What are your symptoms?",
+            "I have a fever, runny nose, cough, and body aches",
+            "Based on those symptoms, it's possible that you have the flu",
+            "What should I do?",
+            "Make sure to rest and stay hydrated. You can also take over-the-counter medications to help with your symptoms.",
+            "Should I go see a doctor?",
+            "If your symptoms get worse or don't go away after a few days, it's a good idea to see a doctor",
+            "How can I prevent getting the flu in the future?"
+        ],
+        "knowledge": "Influenza Influenza  Antivirals are most effective when started in the first 48 hours after symptoms appear.  Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus.  Antiviral treatment is also recommended if a person is hospitalized with suspected influenza instead of waiting for test results to return and if symptoms are worsening.  Most antiviral drugs against influenza fall into two categories: neuraminidase  inhibitors and M2 inhibitors.  Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired.  NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "There are a few ways you can prevent getting the flu, such as getting a flu vaccine, washing your hands regularly, avoiding close contact with sick people, and staying home if you're sick."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a flu shot and I'm wondering if there are any side effects",
+            "It's common to experience some side effects after getting a flu shot",
+            "What are the side effects?",
+            "Some common side effects include soreness, redness, or swelling at the injection site. You may also experience a low-grade fever, headache, or muscle aches",
+            "How long do these side effects last?",
+            "Most side effects only last a day or two",
+            "Is it possible to get the flu from the flu shot?",
+            "No, it's not possible to get the flu from the flu shot. The virus in the flu shot is dead",
+            "How effective is the flu shot?"
+        ],
+        "knowledge": "Influenza Influenza  Antivirals are most effective when started in the first 48 hours after symptoms appear.  Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus.  Antiviral treatment is also recommended if a person is hospitalized with suspected influenza instead of waiting for test results to return and if symptoms are worsening.  Most antiviral drugs against influenza fall into two categories: neuraminidase  inhibitors and M2 inhibitors.  Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired.  NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "The effectiveness of the flu shot can vary from year to year, but it's generally around 40-60% effective in preventing the flu"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from the flu and I want to make sure I don't get sick again",
+            "It's important to take care of yourself after recovering from the flu",
+            "What can I do to take care of myself?",
+            "Make sure to get plenty of rest, stay hydrated, and eat healthy foods",
+            "What foods should I eat?",
+            "Foods that are high in vitamins and nutrients, such as fruits, vegetables, and lean protein",
+            "Should I exercise?",
+            "It's important to stay active, but make sure to start with light exercise and gradually increase the intensity as you feel better",
+            "How long should I wait before going back to work?"
+        ],
+        "knowledge": "Influenza Influenza  Antivirals are most effective when started in the first 48 hours after symptoms appear.  Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus.  Antiviral treatment is also recommended if a person is hospitalized with suspected influenza instead of waiting for test results to return and if symptoms are worsening.  Most antiviral drugs against influenza fall into two categories: neuraminidase  inhibitors and M2 inhibitors.  Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired.  NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "It's best to wait until you're no longer contagious before going back to work. This usually takes about a week after your symptoms start."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I need help.",
+            "Hello, I'm here to help. What symptoms are you experiencing?",
+            "I have a headache, sore throat, fever, and body aches.",
+            "Based on your symptoms, you may have the flu. Have you been experiencing these symptoms for long?",
+            "Yes, for about three days now.",
+            "It's important that you rest and stay hydrated. You may also want to take over-the-counter medication to help with your symptoms.",
+            "Thank you for the advice. Should I see a doctor?",
+            "If your symptoms persist or worsen, you should see a doctor.",
+            "Okay, I'll keep that in mind. Thank you."
+        ],
+        "knowledge": "Influenza Influenza  Antivirals are most effective when started in the first 48 hours after symptoms appear.  Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus.  Antiviral treatment is also recommended if a person is hospitalized with suspected influenza instead of waiting for test results to return and if symptoms are worsening.  Most antiviral drugs against influenza fall into two categories: neuraminidase  inhibitors and M2 inhibitors.  Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired.  NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "Based on your symptoms, you may have the flu. Rest and stay hydrated. Take over-the-counter medication to help with your symptoms. See a doctor if your symptoms persist or worsen."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about antivirals for influenza.",
+            "Hi, I'm here to help. What are your questions?",
+            "What are the categories of antiviral drugs used to treat influenza?",
+            "Most antiviral drugs against influenza fall into two categories: neuraminidase inhibitors and M2 inhibitors. Baloxavir marboxil is a notable exception that can be used as an alternative to NA and M2 inhibitors.",
+            "How do neuraminidase inhibitors work?",
+            "Neuraminidase inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired. Examples of neuraminidase inhibitors include oseltamivir and zanamivir.",
+            "What about M2 inhibitors?",
+            "M2 inhibitors inhibit the ion channel activity of the M2 protein, which is required for the uncoating process of the influenza virus. Amantadine and rimantadine are examples of M2 inhibitors, but their use is limited due to the development of resistance.",
+            "Thank you for the information. How effective are these antivirals?"
+        ],
+        "knowledge": "Influenza Influenza  Antivirals are most effective when started in the first 48 hours after symptoms appear.  Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus.  Antiviral treatment is also recommended if a person is hospitalized with suspected influenza instead of waiting for test results to return and if symptoms are worsening.  Most antiviral drugs against influenza fall into two categories: neuraminidase  inhibitors and M2 inhibitors.  Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired.  NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "Most antiviral drugs against influenza fall into neuraminidase inhibitors and M2 inhibitors categories. They are most effective when started in the first 48 hours after symptoms appear. Baloxavir marboxil is a notable exception. Neuraminidase inhibitors mimic the binding of sialic acid so that viral release from infected cells and the rate of viral replication are impaired. M2 inhibitors inhibit the ion channel activity of the M2 protein, which is required for the uncoating process of the influenza virus. Examples of neuraminidase inhibitors include oseltamivir and zanamivir. Examples of M2 inhibitors include amantadine and rimantadine, but their use is limited due to the development of resistance."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure and I'm not sure what to do next.",
+            "Hi, I'm here to help. What procedure did you have?",
+            "I had a colonoscopy yesterday.",
+            "It's important to take it easy for the rest of the day after the procedure and slowly resume your normal activities the next day. You may experience some cramping or bloating, but this should go away on its own.",
+            "Is there anything specific I should eat or avoid?",
+            "It's best to avoid solid foods and stick to clear liquids for the rest of the day after the procedure. You can slowly introduce soft, easy-to-digest foods the next day. It's also important to drink plenty of fluids.",
+            "How long should I wait before exercising?",
+            "Avoid strenuous exercise for at least 24 hours after the procedure. You can resume your normal exercise routine once you feel back to normal.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Colonoscopy Colonoscopy  Before the colonoscopy, the patient must follow a clear liquid diet for 24-48 hours.  The patient must drink a bowel cleansing solution to empty the colon before the procedure.  After the colonoscopy, the patient may experience some cramping or bloating, but this should go away on its own.  It is important to take it easy for the rest of the day and slowly resume normal activities the next day.  The patient should avoid solid foods and stick to clear liquids for the rest of the day.  Soft, easy-to-digest foods can be introduced the next day.  The patient should drink plenty of fluids.  Strenuous exercise should be avoided for at least 24 hours after the procedure.  The patient should contact their healthcare provider if they experience severe abdominal pain, fever, or rectal bleeding after the procedure Colonoscopy Colonoscopy",
+        "response": "After a colonoscopy, it's important to take it easy for the rest of the day and slowly resume normal activities the next day. You may experience some cramping or bloating, but this should go away on its own. Avoid solid foods and stick to clear liquids for the rest of the day. Soft, easy-to-digest foods can be introduced the next day. Strenuous exercise should be avoided for at least 24 hours after the procedure."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing flu-like symptoms for the past 3 days.",
+            "Hello! Sorry to hear that. Could you please tell me more about your symptoms?",
+            "I have a fever, cough, and body aches. I also have a runny nose and sore throat.",
+            "Okay. Based on your symptoms, it seems like you might have the flu.",
+            "What should I do next?",
+            "I would recommend that you rest, drink plenty of fluids, and take over-the-counter pain relievers to help with your fever and body aches.",
+            "Is there anything else I should know?",
+            "Yes, please make sure to cover your mouth and nose when coughing or sneezing and wash your hands frequently to prevent spreading the virus.",
+            "Okay, thank you for your advice, Medi."
+        ],
+        "knowledge": "Influenza Influenza  Antivirals are most effective when started in the first 48 hours after symptoms appear.  Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus.  Antiviral treatment is also recommended if a person is hospitalized with suspected influenza instead of waiting for test results to return and if symptoms are worsening.  Most antiviral drugs against influenza fall into two categories: neuraminidase  inhibitors and M2 inhibitors.  Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired.  NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "You're welcome! Please make sure to monitor your symptoms and seek medical attention if they worsen or do not improve in a few days."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you tell me more about the flu vaccine?",
+            "Of course! What would you like to know?",
+            "How does it work?",
+            "The flu vaccine works by exposing your body to a weakened or dead version of the flu virus. This helps your body build up immunity to the flu without actually getting sick.",
+            "Is it effective?",
+            "Yes, the flu vaccine is very effective at preventing the flu. However, it is important to get the vaccine every year as the strains of the flu virus can change from year to year.",
+            "Are there any side effects?",
+            "Some people may experience mild side effects such as soreness or redness at the injection site, a mild fever, or body aches. However, these side effects usually go away within a few days.",
+            "Okay, thank you for explaining that, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The influenza vaccine, also known as the flu shot, is a vaccine that helps protect against influenza.  The vaccine is usually given by injection into a muscle.  The vaccine works by exposing the body to a weakened or dead version of the flu virus. This helps the body build up immunity to the flu without actually getting sick.  The flu vaccine is very effective at preventing the flu. However, it is important to get the vaccine every year as the strains of the flu virus can change from year to year.  Some people may experience mild side effects such as soreness or redness at the injection site, a mild fever, or body aches. However, these side effects usually go away within a few days. Influenza Influenza",
+        "response": "You're welcome! Let me know if you have any other questions in the future."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what kind of physical activity I can do.",
+            "Hello! Congratulations on your surgery. What kind of surgery did you have?",
+            "I had knee surgery.",
+            "Okay. It's important to take it easy and not put too much stress on your knee for the first few weeks after surgery.",
+            "Can I walk?",
+            "Yes, you can walk, but try to avoid standing or walking for long periods of time. You should also avoid any activities that involve running or jumping.",
+            "What about weightlifting?",
+            "You should avoid any weightlifting or other strenuous activities that could put too much stress on your knee. It's important to give your knee time to heal.",
+            "Okay, I understand. Thank you for your help, Medi."
+        ],
+        "knowledge": "Injury Injury  After surgery, it is important to take it easy and not put too much stress on the affected area for the first few weeks.  Walking is usually allowed, but standing or walking for long periods of time should be avoided.  Strenuous activities such as weightlifting or running should also be avoided.  Physical therapy may be recommended to help improve strength and range of motion.  It is important to follow your doctor's instructions and attend any physical therapy sessions as recommended. Injury Injury",
+        "response": "You're welcome! I'm glad I could help. Let me know if you have any other questions in the future."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms of influenza, can you help me please?",
+            "Sure, what are your symptoms?",
+            "I have a fever, a dry cough, muscle aches and a headache",
+            "How long have you had these symptoms?",
+            "I've had them for two days",
+            "Do you have any other symptoms?",
+            "No, I don't have any other symptoms",
+            "Based on your symptoms, it could be influenza. I suggest you rest, drink plenty of fluids and take over-the-counter medication for fever and body aches",
+            "What about antiviral medications? Are they effective?"
+        ],
+        "knowledge": "Influenza Influenza  Antivirals are most effective when started in the first 48 hours after symptoms appear.  Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus.  Antiviral treatment is also recommended if a person is hospitalized with suspected influenza instead of waiting for test results to return and if symptoms are worsening.  Most antiviral drugs against influenza fall into two categories: neuraminidase  inhibitors and M2 inhibitors.  Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired.  NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "Antiviral medications are most effective when started in the first 48 hours after symptoms appear. If you think you might have influenza, contact your healthcare provider and ask about antiviral medications."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been diagnosed with influenza. Do I need to be hospitalized?",
+            "It depends on how severe your symptoms are. If you have a high fever or difficulty breathing, you should go to the hospital",
+            "What about antiviral medications? Are they effective for everyone?",
+            "Antiviral medications are most effective when started in the first 48 hours after symptoms appear. Later administration may still be beneficial for those who have underlying immune defects or those with more severe symptoms",
+            "What if I don't take antiviral medications?",
+            "If you don't take antiviral medications, your symptoms may last longer and you may be at risk for complications",
+            "How can I prevent spreading the influenza to others?",
+            "You can prevent spreading the influenza virus by washing your hands frequently, covering your mouth and nose when you cough or sneeze, and avoiding close contact with others",
+            "What about the influenza vaccine? Can it help me now?"
+        ],
+        "knowledge": "Influenza Influenza  The most effective way to prevent influenza is by getting vaccinated each year.  The seasonal influenza vaccine contains three or four strains of the influenza virus that are predicted to be the most common during the upcoming flu season.  Influenza can be prevented by getting vaccinated, washing hands regularly, and avoiding close contact with others who are sick.  It is important to get vaccinated each year as the strains of the virus that are most likely to cause illness change from year to year.  The flu vaccine is available for people aged 6 months and older.  It is especially important for people who are at high risk of complications from the flu to get vaccinated, including young children, pregnant women, people over the age of 65, and people with certain underlying medical conditions. Influenza Influenza",
+        "response": "The influenza vaccine is most effective when received before the flu season starts. However, it is still recommended to get vaccinated even if you have already had the flu. It can help prevent you from getting other strains of the flu and help protect others around you."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from influenza. What can I do to prevent it from happening again?",
+            "To reduce your risk of getting the flu again, you should maintain a healthy lifestyle by eating well, exercising regularly, and getting enough sleep",
+            "What about the influenza vaccine? Can it help me prevent getting the flu again?",
+            "The influenza vaccine can help prevent you from getting the flu again, but it is important to note that the vaccine does not provide 100% protection",
+            "What else can I do to avoid getting the flu again?",
+            "You can also wash your hands regularly, avoid close contact with people who are sick, and avoid touching your eyes, nose, and mouth",
+            "Are there any natural remedies that would help me prevent getting the flu?",
+            "There is no specific natural remedy that has been proven to prevent the flu. However, maintaining a healthy lifestyle and avoiding close contact with sick people can help reduce your risk of getting the flu",
+            "Thanks, Medi. I'll do my best to stay healthy"
+        ],
+        "knowledge": "Influenza Influenza  The most effective way to prevent influenza is by getting vaccinated each year.  The seasonal influenza vaccine contains three or four strains of the influenza virus that are predicted to be the most common during the upcoming flu season.  Influenza can be prevented by getting vaccinated, washing hands regularly, and avoiding close contact with others who are sick.  It is important to get vaccinated each year as the strains of the virus that are most likely to cause illness change from year to year.  The flu vaccine is available for people aged 6 months and older.  It is especially important for people who are at high risk of complications from the flu to get vaccinated, including young children, pregnant women, people over the age of 65, and people with certain underlying medical conditions. Influenza Influenza",
+        "response": "You're welcome. Remember to wash your hands regularly, avoid close contact with sick people, and get vaccinated each year to reduce your risk of getting the flu again."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I have flu symptoms",
+            "Hi there, can you tell me more about your symptoms?",
+            "I have been experiencing fever, cough, and body aches",
+            "I see. How long have you had these symptoms?",
+            "It's been about two days now",
+            "Okay. It's best to take antiviral medication in the first 48 hours of symptoms. I recommend going to your doctor to get tested and treated.",
+            "What kind of antiviral medication can I take?",
+            "Antiviral drugs like oseltamivir and zanamivir are commonly prescribed to treat influenza",
+            "Thank you, Medi. I will go see my doctor for treatment."
+        ],
+        "knowledge": "Influenza Influenza Antivirals are most effective when started in the first 48 hours after symptoms appear. Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus. Antiviral treatment is also recommended if a person is hospitalized with suspected influenza instead of waiting for test results to return and if symptoms are worsening. Most antiviral drugs against influenza fall into two categories: neuraminidase inhibitors and M2 inhibitors. Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired. NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "You can take antiviral drugs like oseltamivir and zanamivir"
+    },
+    {
+        "dialog": [
+            "Hi Medi, what is the difference between neuraminidase inhibitors and M2 inhibitors?",
+            "Neuraminidase inhibitors and M2 inhibitors are two different classes of antiviral drugs used to treat influenza",
+            "Can you tell me more about neuraminidase inhibitors?",
+            "Neuraminidase inhibitors target the enzymatic activity of NA receptors, impairing viral release from infected cells and the rate of viral replication. They include oseltamivir and zanamivir",
+            "And what about M2 inhibitors?",
+            "M2 inhibitors target the M2 protein in the virus, which is necessary for the virus to replicate. They include amantadine and rimantadine",
+            "Are there any other types of antiviral drugs used to treat influenza?",
+            "Yes, there is a new drug called Baloxavir marboxil which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors",
+            "Thank you, Medi. You've been very helpful"
+        ],
+        "knowledge": "Influenza Influenza Most antiviral drugs against influenza fall into two categories: neuraminidase inhibitors and M2 inhibitors. Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired. NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "You're welcome!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a flu shot. What else can I do to prevent getting the flu?",
+            "Hi there! Getting a flu shot is a great start to preventing the flu. Other things you can do include washing your hands frequently, avoiding close contact with sick people, and staying home if you're sick",
+            "What about taking vitamin C supplements?",
+            "While vitamin C supplements are generally safe, studies have not shown a consistent benefit in preventing the flu or reducing its severity",
+            "I see. How about getting enough sleep?",
+            "Getting enough sleep is important for maintaining a healthy immune system, which can help prevent the flu. Aim for 7-9 hours of sleep per night",
+            "Good to know. Thanks for your help, Medi",
+            "You're welcome! Let me know if you have any other questions"
+        ],
+        "knowledge": "Influenza Influenza Getting a flu shot is the most effective way to prevent the flu, but other preventive measures include washing your hands frequently, avoiding close contact with sick people, and staying home if you're sick. While vitamin C supplements are generally safe, studies have not shown a consistent benefit in preventing the flu or reducing its severity. Getting enough sleep is important for maintaining a healthy immune system, which can help prevent the flu. Aim for 7-9 hours of sleep per night Influenza Influenza",
+        "response": "You're welcome!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and a cough",
+            "Sorry to hear that. How long have you had these symptoms?",
+            "It started yesterday and I have a headache too",
+            "Based on your symptoms, it may be influenza. You need to rest and avoid contact with others",
+            "What should I take for it?",
+            "Antivirals are most effective when started in the first 48 hours after symptoms appear.  Later administration may still be beneficial for those who have underlying immune defects, or those who have a higher risk of developing complications if these individuals are still shedding the virus",
+            "What are the types of antiviral drugs for influenza?",
+            "Most antiviral drugs against influenza fall into two categories: neuraminidase inhibitors and M2 inhibitors.  Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV",
+            "Is there anything else I should do?"
+        ],
+        "knowledge": "Influenza Influenza  Antivirals are most effective when started in the first 48 hours after symptoms appear.  Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus.  Antiviral treatment is also recommended if a person is hospitalized with suspected influenza instead of waiting for test results to return and if symptoms are worsening.  Most antiviral drugs against influenza fall into two categories: neuraminidase  inhibitors and M2 inhibitors.  Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired.  NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "Yes, you should rest and avoid contact with others. If you want to take medication, antiviral drugs are recommended."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about influenza",
+            "Sure, what would you like to know?",
+            "What causes influenza?",
+            "Influenza is caused by a virus",
+            "How is it transmitted from person to person?",
+            "It is transmitted through respiratory droplets when an infected person coughs or sneezes. Touching contaminated surfaces and then touching one's mouth, nose or eyes can also spread the virus",
+            "What are the symptoms of influenza?",
+            "The symptoms are fever, chills, headache, muscle aches, cough, sore throat, and runny or stuffy nose",
+            "What should I do to prevent it?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "To prevent it, wash your hands frequently, avoid close contact with sick people, cover your mouth and nose when coughing or sneezing, and get vaccinated every year"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just got back from the hospital after a procedure",
+            "How are you feeling? Do you have any pain or discomfort?",
+            "I feel fine, but the doctor said I need to change my lifestyle",
+            "What did the doctor recommend?",
+            "He said I should eat more vegetables and fruits, exercise regularly, and avoid processed foods",
+            "What types of exercise should I do?",
+            "You should try to incorporate both cardio and strength training into your routine. Walking, biking, or swimming are good cardio exercises, while weight lifting or bodyweight exercises are good for strength training",
+            "What foods should I avoid?",
+            "You should avoid foods that are high in saturated and trans fats, as well as foods that are high in added sugars and salt"
+        ],
+        "knowledge": "Influenza Influenza  Antivirals are most effective when started in the first 48 hours after symptoms appear.  Later administration may still be beneficial for those who have underlying immune defects, those with more severe symptoms, or those who have a higher risk of developing complications if these individuals are still shedding the virus.  Antiviral treatment is also recommended if a person is hospitalized with suspected influenza instead of waiting for test results to return and if symptoms are worsening.  Most antiviral drugs against influenza fall into two categories: neuraminidase  inhibitors and M2 inhibitors.  Baloxavir marboxil is a notable exception, which targets the endonuclease activity of the viral RNA polymerase and can be used as an alternative to NA and M2 inhibitors for IAV and IBV. NA inhibitors target the enzymatic activity of NA receptors, mimicking the binding of sialic acid in the active site of NA on IAV and IBV virions so that viral release from infected cells and the rate of viral replication are impaired.  NA inhibitors include oseltamivir, which is consumed orally in a prodrug form and converted to its active form in the liver, and zanamivir, which is a powder that is inhaled nasally Influenza Influenza",
+        "response": "Those are all great recommendations. Do you have any specific questions about your new lifestyle habits?"
+    }
+]

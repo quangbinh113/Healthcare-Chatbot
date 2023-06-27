@@ -1,0 +1,452 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have a terrible back pain.",
+            "I'm sorry to hear that. Can you describe the pain please?",
+            "It's a persistent pain that is mild and moderate, and it has lasted for a week.",
+            "Okay, based on your description, it's possible that you have nonspecific, idiopathic acute pain, but we need more information to give you a diagnosis.",
+            "What kind of information do you need, Medi?",
+            "We need to know if you had any injury or trauma recently or if you have any other medical conditions.",
+            "Actually, I had a car accident last month, but it didn't cause any pain at that time.",
+            "It's possible that the accident is related to your back pain. Let's schedule an appointment with a doctor to have a thorough checkup.",
+            "Can you give me some tips to alleviate the pain?"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "You can apply a hot or cold pack to the affected area or try gentle stretching and exercises. However, please consult with your doctor before doing any exercises."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about back pain.",
+            "Sure, feel free to ask me anything you want to know.",
+            "Can back pain be caused by internal organs?",
+            "Yes, it is possible. For example, kidney stones, kidney infections, and pancreatitis can cause severe back pain.",
+            "Is there any correlation between emotions and back pain?",
+            "Yes, there is. Stress, anxiety, and depression can make back pain worse or even cause it.",
+            "How long does back pain usually last?",
+            "It depends on the cause and severity of the pain. In most cases, back pain goes away on its own within a few weeks.",
+            "Can lifestyle changes prevent back pain?"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "Yes, lifestyle changes such as regular exercise, maintaining good posture, and avoiding sitting for long periods of time can help prevent back pain."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a medical procedure for my back pain.",
+            "I hope everything went well. What kind of procedure did you have?",
+            "I had a spinal injection to alleviate the pain.",
+            "Okay, after a spinal injection, you should rest for the day. Avoid any strenuous activities or lifting heavy objects.",
+            "How long should I rest for?",
+            "You should rest for at least 24 hours after the injection. After that, you can resume your normal activities gradually.",
+            "What kind of physical exercises can I do to alleviate my back pain?",
+            "You can try gentle stretching exercises and low-impact aerobics such as swimming and walking. However, please consult with your doctor before doing any exercises.",
+            "Is there any specific diet that can help with back pain?"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "A healthy and balanced diet can help reduce inflammation and alleviate back pain. You should eat foods that are rich in antioxidants, vitamins, and minerals, such as fruits, vegetables, whole grains, and lean proteins."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a back pain. Can you help me?",
+            "Of course I can assist you. Can you describe your pain, please?",
+            "It's a persistent moderate pain, and it's been bothering me for several days",
+            "I see, there's no need to worry. Most back pain doesn't require surgery or other complex treatment",
+            "That's a relief. What can I do to ease the pain then?",
+            "Rest, applying heat or cold packs, and taking over-the-counter pain relievers are effective for most back pain",
+            "Thanks for the advice. Are there any exercises I can do to help improve my condition?",
+            "Yes, there are many exercises that can help alleviate back pain. I can provide you with some recommendations.",
+            "That would be great. Can you give me some examples of these exercises?"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "Yes, of course. Here are some of the exercises you can do: pelvic tilt, knee-to-chest stretch, hamstring stretch, wall sit, and partial curl-ups."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a back pain. Can you give me some information about the causes of back pain?",
+            "Certainly, the causes of back pain are numerous. They can be due to mechanical, structural, or medical factors",
+            "Can you please provide some examples of each factor?",
+            "Mechanical factors include poor posture, improper lifting, and lack of regular exercise. Structural factors include ruptured disks, bulging disks, and sciatica. Medical factors include arthritis, osteoporosis, and fibromyalgia.",
+            "Thank you for the information. How can I prevent back pain from recurring?",
+            "Maintaining good posture, practicing regular exercise, and using proper body mechanics when lifting or carrying heavy objects can help prevent back pain from recurring.",
+            "Can you give me some advice on my diet?",
+            "Certainly, a diet rich in fruits, vegetables, and lean protein sources can help prevent inflammation and promote spinal health.",
+            "Thank you, Medi. You have been a great help."
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "You're welcome! If you have any other questions, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure for my back pain. Can you give me some advice on my lifestyle?",
+            "Certainly, after any medical procedure, it's important to take it easy for a few days and gradually increase your activity level",
+            "What kind of activities should I avoid?",
+            "You should avoid any strenuous activity, lifting heavy objects, or bending or twisting your back excessively for at least a few weeks after the procedure.",
+            "What kind of exercises should I do to help the healing process?",
+            "You should perform gentle stretching and strengthening exercises to help promote healing and prevent future back pain.",
+            "What should I eat to promote healing?",
+            "A diet rich in antioxidants, vitamins, and minerals can help promote healing and boost your immune system. Focus on eating plenty of fruits, vegetables, and lean protein sources.",
+            "Thanks, Medi. That was very helpful."
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "You're welcome! Take it easy and let me know if you have any other questions or concerns."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing persistent back pain.",
+            "I'm sorry to hear that. Can you describe the pain you're feeling?",
+            "It's a persistent pain in my lower back and it's affecting my daily routine.",
+            "Based on your symptoms, your back pain is most likely acute low back pain.",
+            "What are the causes of acute low back pain?",
+            "Acute low back pain could be caused by mechanical or autoimmune factors.",
+            "What are some ways to relieve the pain?",
+            "Rest, injections, and surgery can provide pain relief in most cases.",
+            "I see. What lifestyle changes can I make to prevent this from happening again?"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "Some lifestyle changes you can make include maintaining good posture, exercising regularly, and avoiding activities that strain your back."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm experiencing some mild back pain and I'm not sure what it could be.",
+            "Can you describe the pain and how long you've been experiencing it?",
+            "It's a mild pain in my upper back and I've been experiencing it for a few days now.",
+            "Based on your symptoms, it could be due to muscle strain or poor posture.",
+            "What can I do to relieve the pain?",
+            "You can try using heat or ice packs and taking over-the-counter pain medication.",
+            "Is there any exercise I can do to relieve the pain?",
+            "Yes, gentle stretching exercises can help relieve back pain.",
+            "Thanks for the advice. Is there anything else I should be aware of?"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "It's important to seek medical attention if the pain persists or gets worse."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure and I'm not sure what changes I need to make to my lifestyle.",
+            "What medical procedure did you have?",
+            "I had a herniated disk surgery.",
+            "After your surgery, it's important to take it easy and avoid lifting heavy objects.",
+            "What kind of physical activity can I do?",
+            "Low-impact exercises like walking and swimming are usually recommended.",
+            "How about my diet?",
+            "Eating a balanced diet with plenty of fruits and vegetables is important for healing.",
+            "Thanks for the advice. How long do I need to wait before I can resume my normal activities?"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "It's best to follow your doctor's specific instructions for recovery, but typically it takes about 4-6 weeks to resume normal activities after herniated disk surgery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have severe back pain. What should I do?",
+            "Hello! I'm here to help. How long have you had this pain?",
+            "It's been around for a week, and I can't bear it anymore.",
+            "It's important to rest and apply ice or heat. Have you tried that?",
+            "Yes, I have, but it doesn't seem to be helping.",
+            "I suggest seeing a doctor for further evaluation and treatment options.",
+            "Okay, I will. Thank you, Medi.",
+            "You're welcome. I hope you feel better soon! Do you have any other concerns?",
+            "No, that's all for now."
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "I suggest seeing a doctor for further evaluation and treatment options."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm curious about the causes of back pain.",
+            "Hi there! Back pain can be caused by many factors, such as injury or poor posture.",
+            "What about herniated disks or stenosis? Can they cause back pain?",
+            "Yes, they can. In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.",
+            "Wow, I didn't know that. Is back pain a common issue?",
+            "Absolutely. In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days. It is the single leading cause of disability worldwide.",
+            "That's alarming. Is there any way to prevent back pain?",
+            "It's hard to prevent all cases of back pain, but maintaining good posture, exercising regularly, and lifting objects properly can help reduce your risk.",
+            "Thanks for the tips, Medi. That's very helpful."
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "Maintaining good posture, exercising regularly, and lifting objects properly can help reduce your risk."
+    },
+    {
+        "dialog": [
+            "Medi, I recently had surgery for my back pain. What lifestyle changes should I make?",
+            "Hello! It's important to rest and gradually return to activities. Have you talked to your doctor about recommended exercises?",
+            "Yes, I have. Do you have any advice on diet?",
+            "It's important to eat a balanced diet with plenty of fruits, vegetables, and lean proteins. Stay hydrated with water and avoid sugary drinks.",
+            "That makes sense. Are there any physical activities I should avoid?",
+            "Avoid high-impact activities like running or jumping, and stick to low-impact exercises like walking, swimming or biking.",
+            "Okay, I will. Thank you for the advice, Medi.",
+            "You're welcome! Do you have any other questions?",
+            "No, that's all for now."
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "Avoid high-impact activities and stick to low-impact exercises like walking, swimming or biking."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing back pain for a few days.",
+            "Hi there. I'm here to help. Can you describe the pain?",
+            "It's a persistent pain in the lower back. It's not too severe, but it's constant.",
+            "Does it get worse when you move or do certain activities?",
+            "Yes, it does. It gets worse when I bend over or sit for too long.",
+            "Based on what you've told me, it could be a muscle strain or a herniated disc. You should rest and avoid activities that aggravate the pain.",
+            "Is there anything else I can do to relieve the pain?",
+            "You can try applying heat or ice to the affected area, taking over-the-counter pain medication, and doing gentle stretches and exercises.",
+            "Thanks for your help. What should I do if the pain persists?"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "If it persists, you should consult a doctor or a specialist for a proper diagnosis and treatment."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about back pain.",
+            "Sure, I'm here to help. What's your question?",
+            "What are some common causes of back pain?",
+            "There are many possible causes of back pain, such as muscle strains, herniated discs, osteoarthritis, and spinal stenosis.",
+            "Is there anything I can do to prevent back pain?",
+            "Yes, there are several things you can do to prevent back pain, such as maintaining good posture, exercising regularly, lifting heavy objects properly, and avoiding prolonged sitting or standing.",
+            "Thanks for the advice. What should I do if I experience back pain?",
+            "If you experience back pain, you should rest and avoid activities that aggravate the pain. You can also take over-the-counter pain medication, apply heat or ice to the affected area, and do gentle stretches and exercises.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery for my back pain. What can I do to aid in my recovery?",
+            "Hi, I'm sorry to hear that. It's important to follow your doctor's instructions and take any prescribed medications as directed.",
+            "What about physical activity and exercise?",
+            "It depends on the type of surgery you had and the extent of the procedure. You should avoid any strenuous activity or heavy lifting until your doctor clears you to do so.",
+            "Are there any exercises I can do to aid in my recovery?",
+            "Yes, your doctor may recommend certain exercises or physical therapy to help improve your range of motion and strengthen your back muscles.",
+            "What about my diet?",
+            "Eating a healthy and balanced diet can help with your recovery. You should focus on getting enough protein, vitamins, and minerals to support your body's healing process.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "You're welcome. I hope you have a speedy recovery. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am experiencing back pain.",
+            "I am sorry to hear that. Can you describe the pain more specifically?",
+            "It's a persistent pain in my lower back that has been there for a few weeks.",
+            "I understand. Based on your description, it could be a herniated disk or stenosis. You should see a doctor to get a proper diagnosis.",
+            "What actions should I take to alleviate the pain?",
+            "Rest, injections or surgery have similar general pain-resolution outcomes on average after one year. You should consult with your doctor.",
+            "Okay, thank you for your advice.",
+            "You're welcome. Take care of yourself.",
+            "Is there anything I can do to prevent back pain in the future?"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "Yes, maintaining good posture and doing stretching exercises regularly can prevent back pain in the future."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about back pain.",
+            "Sure, feel free to ask me any questions you have.",
+            "What is the most common cause of back pain?",
+            "Nonspecific, idiopathic acute pain with no identifiable underlying pathology is the most common cause of back pain.",
+            "What lifestyle changes can I make to reduce my risk of developing back pain?",
+            "Maintaining a healthy weight, doing regular exercise, maintaining a good posture and avoiding prolonged sitting or standing can reduce your risk of developing back pain.",
+            "Can back pain be caused by mental or emotional stress?",
+            "Yes, back pain can be caused or worsened by stress and anxiety.",
+            "Thank you for your answers."
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had back surgery. What lifestyle changes should I make?",
+            "After back surgery, it's important to maintain a healthy weight, do regular exercise, and practice good posture.",
+            "What types of exercise should I do?",
+            "Low-impact exercises such as walking, swimming and yoga are recommended.",
+            "Are there any foods I should avoid or eat more of?",
+            "A balanced diet that includes plenty of fruits, vegetables, and protein is recommended. You should also limit your intake of processed foods and sugary drinks.",
+            "That's helpful. Thank you!",
+            "You're welcome. Take it easy and follow your doctor's advice.",
+            "Is there anything else I should know about recovering from back surgery?"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "It's important to follow your doctor's instructions and attend physical therapy sessions to aid in your recovery. Also, avoid heavy lifting and other activities that may strain your back."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been having back pain for a few days.",
+            "I'm sorry to hear that. How would you describe your pain?",
+            "It's mild to moderate and persistent.",
+            "Okay, based on what you've told me, it's likely nonspecific acute pain.",
+            "What's the treatment for this kind of pain?",
+            "Rest, injections, or surgery have similar pain-resolution outcomes on average after one year.",
+            "Are there any other causes of back pain?",
+            "Yes, back pain can be caused by blood vessels, internal organs, infections, mechanical and autoimmune causes.",
+            "How can I manage my pain at home?"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "You can try heat or ice therapy, gentle stretching, and over-the-counter pain relievers like ibuprofen."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I had a back surgery last week.",
+            "I hope the surgery went well. How can I help you today?",
+            "I'm not sure what kind of physical activity I can do now that I've had surgery.",
+            "It's important to start gentle physical therapy and exercise as soon as possible after surgery.",
+            "What kind of exercise is safe for me?",
+            "Low-impact exercises like walking, swimming, and cycling are great options.",
+            "What about my diet?",
+            "It's important to eat a balanced diet with plenty of protein and vegetables to aid in healing.",
+            "Should I avoid any foods or activities?"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "You should avoid high-impact activities like running or jumping and talk to your doctor about any restrictions on your diet."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm curious about the causes of back pain.",
+            "Sure, I'd be happy to explain. What specifically are you wondering about?",
+            "What are the most common causes of back pain?",
+            "Nonspecific, idiopathic acute pain with no identifiable underlying pathology is the most common diagnosis, but it can also be caused by herniated disks or stenosis.",
+            "Are there any lifestyle factors that contribute to back pain?",
+            "Yes, being overweight or sedentary can increase your risk of back pain.",
+            "What should I do if I'm experiencing back pain?",
+            "You can try over-the-counter pain relievers, heat or ice therapy, and gentle stretching. If your pain persists, see a doctor.",
+            "Is there anything else I should know about back pain?"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "Back pain is a common problem with many possible causes, but most cases resolve with rest, therapy, or medication. If your pain persists, see a doctor to determine the underlying cause."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have acute back pain. What should I do?",
+            "Hi there, I can help. Let me ask you a few questions first.",
+            "Sure, go ahead.",
+            "Can you tell me where the pain is located?",
+            "It's in my lower back.",
+            "How long have you been experiencing this pain?",
+            "It started two days ago and it's getting worse.",
+            "Okay, I recommend taking some painkillers and applying heat to the affected area.",
+            "What else should I do to relieve the pain? "
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "Applying heat and taking painkillers will help relieve your pain. Also, try to avoid heavy lifting or strenuous activity for a few days."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I'm worried about my back pain becoming chronic.",
+            "I can understand why you're concerned. Can you tell me more about your pain?",
+            "It's been going on for a few weeks and it's not getting any better.",
+            "Have you noticed any other symptoms besides the pain?",
+            "Yes, I feel a tingling sensation in my legs.",
+            "Based on your symptoms, it's possible that you have a herniated disc.",
+            "What can I do about it?",
+            "I would recommend seeing a doctor for an accurate diagnosis and treatment plan.",
+            "Okay, thank you. I will make an appointment."
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "Seeing a doctor is the best option for diagnosing a herniated disc and determining a treatment plan."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a spinal injection for my back pain.",
+            "Okay, I'm here to assist. How are you feeling after the injection?",
+            "I'm experiencing some soreness and stiffness in my back.",
+            "That's normal after a spinal injection. Try to rest for a few days.",
+            "Is there anything else I should do to recover?",
+            "It's important to avoid any heavy lifting or strenuous activity for at least a few days.",
+            "What about my diet and physical activity?",
+            "Maintaining a healthy diet and engaging in light physical activity, such as walking, can aid in your recovery.",
+            "Great, thanks for your advice."
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "It's always a good idea to rest, avoid heavy lifting or activity, and maintain a healthy diet and light physical activity after a spinal injection to aid in your recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am experiencing back pain.",
+            "Sure, I can help you. Please describe your pain in detail.",
+            "It's a persistent pain that is moderate. It's been a few days.",
+            "Based on your symptoms, it could be non-specific acute back pain.",
+            "What kind of treatment would you advise for my back pain?",
+            "You can try rest, physical therapy or medication, depending on the underlying cause.",
+            "What are the most common causes of back pain?",
+            "There are many causes of back pain, including mechanical, internal organs, and infections.",
+            "What kind of exercises do you suggest for my back pain?"
+        ],
+        "knowledge": "Back pain Back pain Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate. In most cases of herniated disks and stenosis, rest, injections, or surgery have similar general pain-resolution outcomes on average after one year. In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed workdays. It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical, and autoimmune causes. Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "Some exercises that may help alleviate your back pain are walking, swimming, and yoga. But it's best to consult with your doctor or a physical therapist first."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had back surgery. What advice do you have for my recovery?",
+            "Congratulations on completing the surgery. Please tell me more about your current condition.",
+            "I'm feeling sore and stiff. I'm worried about how long it will take to recover.",
+            "Typically, patients recover within three to four months. But healing time varies per person.",
+            "What kind of activities should I avoid after surgery?",
+            "It's best to avoid lifting heavy objects, twisting, or bending for at least six weeks after surgery.",
+            "How about physical therapy? Is it necessary?",
+            "Physical therapy is an important part of your recovery. It helps strengthen your muscles, improve flexibility, and minimize the risk of re-injury.",
+            "What about pain management? How do I manage my pain?"
+        ],
+        "knowledge": "Back pain Back pain Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate. In most cases of herniated disks and stenosis, rest, injections, or surgery have similar general pain-resolution outcomes on average after one year. In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed workdays. It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical, and autoimmune causes. Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "Your doctor will prescribe medication to manage your pain. You should also apply ice or heat to the affected area and avoid prolonged sitting or standing."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am worried about work after experiencing back pain.",
+            "I understand your concern. Please describe how your back pain is affecting your work.",
+            "I often need to take breaks and have difficulty sitting for long periods of time.",
+            "I suggest you take frequent breaks and stretch while at work. You can also try standing or walking while working if possible.",
+            "What about medication? Can I take over-the-counter medication to manage my back pain while at work?",
+            "Yes, you can take over-the-counter medication such as ibuprofen or acetaminophen. However, consult with your doctor first if you have any doubts or concerns.",
+            "Will my back pain become a long-term disability?",
+            "It is unlikely, but it's important to focus on your recovery and follow your doctor's advice to prevent future injuries.",
+            "What kind of exercises do you recommend to prevent future back pain?"
+        ],
+        "knowledge": "Back pain Back pain Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate. In most cases of herniated disks and stenosis, rest, injections, or surgery have similar general pain-resolution outcomes on average after one year. In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed workdays. It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical, and autoimmune causes. Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "Some exercises that may help prevent future back pain are yoga, Pilates, and core-strengthening exercises. But it's always best to consult with your doctor or a physical therapist first."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have lower back pain",
+            "I'm sorry to hear that. Can you describe the pain?",
+            "It's a persistent moderate pain that's been going on for a few days",
+            "Any recent injury or lifting heavy objects?",
+            "No, I don't think so. It just started out of nowhere",
+            "Based on your symptoms, it could be nonspecific acute pain. Rest and pain relief is recommended",
+            "Is there anything else I can do?",
+            "Physical therapy and stretching can help, but if the pain persists, it's best to consult with a doctor",
+            "Okay, I will consider that. Thank you."
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "Thank you for your advice, Medi. If the pain continues, I will consult with a doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about back pain",
+            "Sure, I'm here to help. What's your question?",
+            "What are some common causes of back pain?",
+            "There are many causes of back pain, including herniated disks, stenosis, and mechanical or autoimmune causes",
+            "Is it true that most people with back pain don't experience severe pain?",
+            "Yes, that's correct. Most people with back pain experience mild or moderate pain that is persistent or intermittent",
+            "What are some treatments for back pain?",
+            "Rest, injections, or surgery have similar general pain resolution outcomes on average. Physical therapy and stretching can also be helpful",
+            "Thank you for the information, Medi"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "You're welcome."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a spinal injection. What should I do now?",
+            "After a spinal injection, it's important to take it easy for a few days",
+            "How long should I rest?",
+            "You should rest for a few days, but after that, it's important to gradually increase physical activity",
+            "Is there anything else I can do to help ease the pain?",
+            "Applying heat or ice to the injection site can help with pain and swelling",
+            "What about my diet? Are there any foods I should avoid?",
+            "There are no specific foods to avoid after a spinal injection, but maintaining a healthy diet can help with overall health",
+            "Thank you for the advice, Medi"
+        ],
+        "knowledge": "Back pain Back pain  Most people with back pain do not experience chronic severe pain but rather persistent or intermittent pain that is mild or moderate.  In most cases of herniated disks and stenosis, rest, injections or surgery have similar general pain-resolution outcomes on average after one year.  In the United States, acute low back pain is the fifth most common reason for physician visits and causes 40% of missed work days.  It is the single leading cause of disability worldwide. Back pain is classified in terms of duration of symptoms. There are many causes of back pain, including blood vessels, internal organs, infections, mechanical and autoimmune causes.  Approximately 90 percent of people with back pain are diagnosed with nonspecific, idiopathic acute pain with no identifiable underlying pathology Back pain Back pain",
+        "response": "You're welcome. If you have any other questions or concerns, don't hesitate to ask."
+    }
+]

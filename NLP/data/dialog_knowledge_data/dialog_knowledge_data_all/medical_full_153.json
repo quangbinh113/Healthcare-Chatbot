@@ -1,0 +1,407 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing some digestive issues.",
+            "I'm here to help, can you describe your symptoms?",
+            "I've been constipated and feeling bloated.",
+            "It could be a sign of many things, including dehydration or low fiber intake.",
+            "What should I do to feel better?",
+            "I recommend drinking more water and eating more fiber-rich foods like fruits and vegetables.",
+            "Are there any supplements that could help?",
+            "Yes, probiotics can help restore balance to your gut microbiome.",
+            "What are some probiotic-rich foods I can eat?"
+        ],
+        "knowledge": "Digestive issues Digestive issues Constipation is a common digestive problem that affects most people at some point in their lives.  It's usually caused by a lack of fiber in the diet, not drinking enough water, or a lack of physical activity. Probiotics are live bacteria and yeasts that are good for your health, especially your digestive system.  Probiotics are naturally found in your body, some foods, and supplements. Probiotic-rich foods include yogurt, kefir, sauerkraut, kimchi, miso, tempeh, and kombucha. Fiber is important for your digestive health because it helps to keep your bowel movements regular.  Fiber-rich foods include whole grains, fruits, vegetables, beans, and lentils.",
+        "response": "Some foods with probiotics are yogurt, kefir, sauerkraut, kimchi, miso, tempeh, and kombucha."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about cancer prevention.",
+            "Of course, what would you like to know?",
+            "Are there any dietary supplements that can help prevent cancer?",
+            "Actually, folic acid supplementation has been shown to increase colon polyps, and selenium supplementation has not been shown to reduce the risk of cancer.",
+            "What about vaccines?",
+            "Yes, vaccines are a great way to prevent infection by some carcinogenic viruses. The human papillomavirus vaccine decreases the risk of developing cervical cancer, and the hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.",
+            "Should I get vaccinated?",
+            "It's recommended to get vaccinated against HPV and hepatitis B if resources allow.",
+            "What is cancer screening?"
+        ],
+        "knowledge": "Cancer Cancer Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "You should talk to your doctor about when and how to get screened for cancer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure done.",
+            "I'm here to help. What kind of procedure did you have?",
+            "I had a surgery for my knee.",
+            "In that case, it's important to rest and ice your knee to reduce swelling.",
+            "What about exercise?",
+            "You should start with simple exercises like gentle stretches and walking, and gradually increase to more strenuous exercises as you feel comfortable.",
+            "What should I avoid eating?",
+            "You should avoid foods that are high in sugar and processed foods, as they can lead to inflammation and slow down your recovery.",
+            "Can I take supplements to help with my recovery?"
+        ],
+        "knowledge": "Medical procedures Medical procedures After a knee surgery, it's important to rest and ice your knee to reduce swelling.  You should start with simple exercises like gentle stretches and walking, and gradually increase to more strenuous exercises as you feel comfortable.  You should avoid foods that are high in sugar and processed foods, as they can lead to inflammation and slow down your recovery.  Vitamin C and collagen supplements can help promote tissue healing and reduce inflammation.  The time it takes to recover from a surgery depends on the type of surgery and your individual recovery, but your doctor will give you specific guidelines for when you can resume normal activities.",
+        "response": "Your doctor will give you specific guidelines for when you can resume normal activities."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been experiencing some digestive issues lately.",
+            "Hi! Can you elaborate on your symptoms?",
+            "I have bloating, gas, and diarrhea. It's been going on for a few days.",
+            "Hmm...Based on what you've told me, it could be a digestive problem. Have you eaten anything unusual?",
+            "Not really, but I did have some street food last week.",
+            "That could be the cause. I recommend you stay hydrated and avoid any heavy or spicy foods for a few days.",
+            "Okay, thank you. Is there anything else I should do?",
+            "If your symptoms persist, you might want to consider seeing a doctor for further evaluation.",
+            "Got it, thanks for your help Medi."
+        ],
+        "knowledge": "Digestive problems Digestive problems Digestive problems can have many causes, including an unhealthy diet, stress, food allergies, and infections. Common symptoms include bloating, gas, diarrhea, and constipation. In most cases, these symptoms can be managed with lifestyle changes, such as avoiding certain foods and staying hydrated. However, if symptoms persist or are accompanied by other symptoms, such as fever or severe pain, further evaluation by a doctor may be necessary. Digestive problems can be prevented by maintaining a healthy diet, staying hydrated, and managing stress. Digestive problems",
+        "response": "You're welcome! Just remember to stay hydrated and avoid heavy or spicy foods for a few days. If your symptoms persist, consider seeing a doctor for further evaluation."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm curious about cancer prevention.",
+            "Hi there! What would you like to know?",
+            "What are some strategies for preventing cancer?",
+            "There are several ways to reduce your risk of developing cancer, such as avoiding tobacco and excessive alcohol consumption, maintaining a healthy diet, and engaging in regular physical activity.",
+            "Are there any vitamins or supplements that can help prevent cancer?",
+            "While there is some evidence to suggest that certain vitamins and minerals, such as vitamin D and calcium, may have a protective effect against cancer, it's important to talk to your doctor before taking any supplements.",
+            "Okay, thanks for the advice. What about vaccines?",
+            "Yes, vaccines can help prevent certain types of cancer caused by viruses, such as cervical cancer and liver cancer. I recommend talking to your doctor about which vaccines might be right for you.",
+            "Thanks for the information, Medi. I'll definitely bring this up with my doctor."
+        ],
+        "knowledge": "Cancer prevention Cancer prevention There are several ways to reduce your risk of developing cancer, such as avoiding tobacco and excessive alcohol consumption, maintaining a healthy diet, and engaging in regular physical activity. While there is some evidence to suggest that certain vitamins and minerals, such as vitamin D and calcium, may have a protective effect against cancer, it's important to talk to your doctor before taking any supplements. Vaccines can help prevent certain types of cancer caused by viruses, such as cervical cancer and liver cancer. It's important to talk to your doctor about which vaccines might be right for you. Cancer prevention",
+        "response": "You're welcome! Remember to talk to your doctor before taking any supplements and consider discussing which vaccines might be right for you."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a colonoscopy and I'm not sure what to do next.",
+            "Hi! Congratulations on completing your colonoscopy. What questions do you have?",
+            "What should I eat now? Are there any foods I should avoid?",
+            "After a colonoscopy, it's important to eat a healthy, balanced diet that's rich in fiber and low in fat. You may want to avoid spicy foods and caffeine for a few days to avoid irritating your digestive system.",
+            "What about physical activity? Should I take it easy for a few days?",
+            "In most cases, you should be able to resume your normal activities, including exercise, shortly after the procedure. However, it's important to follow your doctor's advice regarding physical activity.",
+            "Got it. What about follow-up appointments?",
+            "It's important to schedule a follow-up appointment with your doctor to discuss the results of your colonoscopy and any further treatment that may be necessary.",
+            "Thanks for the advice, Medi. I feel more informed now."
+        ],
+        "knowledge": "Colonoscopy Colonoscopy After a colonoscopy, it's important to eat a healthy, balanced diet that's rich in fiber and low in fat. You may want to avoid spicy foods and caffeine for a few days to avoid irritating your digestive system. In most cases, you should be able to resume your normal activities, including exercise, shortly after the procedure. However, it's important to follow your doctor's advice regarding physical activity. It's important to schedule a follow-up appointment with your doctor to discuss the results of your colonoscopy and any further treatment that may be necessary. Colonoscopy",
+        "response": "You're welcome! Remember to follow your doctor's advice regarding physical activity and schedule a follow-up appointment to discuss the results of your colonoscopy."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am experiencing some symptoms. Can you help me?",
+            "Of course, I am here to help. What symptoms are you having?",
+            "I have been having a lot of stomach pain lately.",
+            "Okay. Any other symptoms?",
+            "Yes, I have also been experiencing nausea and vomiting.",
+            "Based on your symptoms, it's possible that you have a stomach infection. You should see a doctor as soon as possible.",
+            "Okay, thank you Medi. I will make an appointment with my doctor.",
+            "You're welcome. Hope you feel better soon.",
+            "Can you tell me more about stomach infections?"
+        ],
+        "knowledge": "Stomach Infection Stomach Infection Infections that affect the stomach can be caused by viruses, bacteria, or parasites. Common symptoms include stomach pain, nausea, vomiting, and diarrhea. Treatment depends on the cause of the infection and may include antibiotics, antiviral drugs, or antiparasitic medications. Prevention involves good hygiene practices, such as washing your hands frequently, avoiding contaminated food and water, and avoiding close contact with people who are sick. It's important to see a doctor if you experience symptoms of a stomach infection, as some infections can lead to serious complications if left untreated. Stomach Infection Stomach Infection",
+        "response": "Stomach infections can be caused by viruses, bacteria, or parasites and common symptoms include stomach pain, nausea, vomiting, and diarrhea. Prevention involves good hygiene practices, such as washing your hands frequently, avoiding contaminated food and water, and avoiding close contact with people who are sick."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am curious about vaccines and cancer prevention.",
+            "Sure, what would you like to know?",
+            "Can vaccines help prevent cancer?",
+            "Yes, some vaccines can help prevent certain types of cancer.",
+            "Which types of cancer can be prevented by vaccines?",
+            "The human papillomavirus (HPV) vaccine can help prevent cervical cancer, and the hepatitis B vaccine can help prevent liver cancer.",
+            "That's interesting. Are these vaccines available to everyone?",
+            "Yes, the administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow.",
+            "Thank you for the information. Is there anything else I can do to prevent cancer?"
+        ],
+        "knowledge": "Cancer Cancer Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "Eating a balanced diet, getting regular exercise, and avoiding smoking and excessive alcohol consumption can also help reduce the risk of cancer."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery for a stomach problem. Do you have any advice on how to take care of myself?",
+            "Of course. After surgery, it's important to rest and give your body time to heal.",
+            "Are there any foods I should avoid?",
+            "You should avoid spicy, fatty, and heavily seasoned foods, as well as foods that are difficult to digest.",
+            "What about physical activity?",
+            "You should avoid strenuous activity for at least a week after surgery. After that, you can slowly begin to add light exercise, such as walking or gentle stretching.",
+            "Are there any supplements or vitamins I should take?",
+            "It's important to talk to your doctor before taking any supplements or vitamins. They can advise you on what is safe to take and what will help your body heal.",
+            "Okay, thank you for the information."
+        ],
+        "knowledge": "Surgery Surgery After surgery, it's important to rest and give your body time to heal. You should avoid spicy, fatty, and heavily seasoned foods, as well as foods that are difficult to digest. It's also important to avoid strenuous activity for at least a week after surgery. After that, you can slowly begin to add light exercise, such as walking or gentle stretching. It's important to talk to your doctor before taking any supplements or vitamins after surgery. They can advise you on what is safe to take and what will help your body heal.",
+        "response": "After surgery, it's important to avoid spicy, fatty, and heavily seasoned foods, as well as foods that are difficult to digest."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you help me with something?",
+            "Of course, what's going on?",
+            "I have heard that there are vaccines that help prevent cancer. Is that true?",
+            "Yes, that's true. Vaccines have been developed that prevent infection by some carcinogenic viruses.",
+            "Which cancers can be prevented with vaccines?",
+            "The human papillomavirus vaccine decreases the risk of developing cervical cancer, while the hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.",
+            "So, should I get vaccinated?",
+            "It is recommended where resources allow. You should talk to your doctor to see which vaccines are right for you.",
+            "Thank you so much, Medi. You've been very helpful."
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "You're welcome. Don't hesitate to ask me any questions in the future."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been feeling a bit unwell lately.",
+            "I'm sorry to hear that. Can you describe your symptoms?",
+            "I have been experiencing some abdominal pain and have been feeling tired all the time.",
+            "Those symptoms could indicate a lot of things. Have you been to see a doctor?",
+            "Not yet. I wanted to see if it was something I could take care of on my own first.",
+            "I understand, but it's important to get checked out. It could be something serious.",
+            "Okay, you're right. I'll make an appointment with my doctor.",
+            "Good idea. And in the meantime, try to rest and stay hydrated.",
+            "Thank you, Medi. I appreciate your advice."
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "You're welcome. I hope you feel better soon. Don't hesitate to reach out to me if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure. Do you have any advice for my recovery?",
+            "Of course. What kind of procedure was it?",
+            "I had surgery to remove a cancerous tumor.",
+            "I see. In that case, your recovery will likely involve rest and a specific diet and exercise plan.",
+            "What kind of diet and exercise should I be following?",
+            "It's important to eat a balanced diet with plenty of fruits and vegetables, lean protein, and whole grains. And as for exercise, you should try to get some light activity every day, like taking a walk.",
+            "Okay, thank you for the advice. Is there anything else I need to know?",
+            "Just make sure to follow your doctor's instructions and take any prescribed medications as directed. And don't hesitate to reach out if you have any concerns.",
+            "Thank you, Medi. I appreciate your help."
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "You're welcome. I hope your recovery goes smoothly. Don't hesitate to reach out if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about cancer.",
+            "Sure, I am here to help you. What would you like to know?",
+            "Can taking folic acid help prevent colon cancer?",
+            "Actually, folic acid supplementation is not effective and may increase colon polyps.",
+            "Is there any supplement that can help reduce cancer risk?",
+            "Selenium supplementation has not been shown to reduce the risk of cancer. ",
+            "Are there any vaccines that can prevent cancer?",
+            "Yes, vaccines have been developed that can prevent infection by some carcinogenic viruses. For example, the human papillomavirus vaccine decreases the risk of developing cervical cancer. The hepatitis B vaccine prevents infection with the hepatitis B virus and thus decreases the risk of liver cancer. The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow.",
+            "That's helpful. How can I detect cancer early?"
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "Folic acid supplementation is not effective in preventing colon cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses and can decrease the risk of developing cervical cancer or liver cancer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery, what should I do now?",
+            "I hope your surgery went well. What kind of surgery did you have?",
+            "I had a tumor removed from my colon.",
+            "I see. After surgery, it's important to take it easy and rest. You should also follow the doctor\u2019s orders regarding diet and physical activity. You may need to make some lifestyle changes, such as quitting smoking or eating a healthier diet. ",
+            "Do I need to do any physical activity?",
+            "Yes, depending on your situation, your doctor may recommend physical therapy or a rehabilitation program to help you regain strength and mobility.",
+            "What kind of food should I eat?",
+            "Your doctor may recommend a specific diet based on your needs. Generally, you should eat a healthy diet that includes plenty of fruits, vegetables, and whole grains. You may also be advised to limit your intake of certain foods, such as red meat or high-fat foods.",
+            "How long does the recovery process take?"
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "After surgery, it's important to take it easy and rest. You should also follow the doctor\u2019s orders regarding diet and physical activity. You may need to make some lifestyle changes, such as quitting smoking or eating a healthier diet. Depending on your situation, your doctor may recommend a specific diet based on your needs."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a family history of cancer. What can I do to prevent it?",
+            "It's good that you're thinking about prevention. The best thing you can do is to maintain a healthy lifestyle. This includes eating a healthy diet, exercising regularly, not smoking, and avoiding excessive alcohol consumption.",
+            "Are there any foods that can help prevent cancer?",
+            "There are some foods that are associated with a lower risk of cancer, such as fruits, vegetables, whole grains, and lean proteins. These foods are rich in nutrients and antioxidants that help protect against cancer.",
+            "Is there anything else I can do to reduce my risk?",
+            "Yes, there are some other things you can do. For example, you should protect yourself from the sun's harmful UV rays by wearing protective clothing and using sunscreen. You should also get regular cancer screenings as recommended by your doctor.",
+            "Are there any cancer screenings I should get?",
+            "The specific screenings you should get depend on your age, gender, and family history. Some common cancer screenings include mammograms for breast cancer, colonoscopies for colon cancer, and Pap tests for cervical cancer. Talk to your doctor about which screenings are right for you.",
+            "Thanks for your advice, Medi. What is the most important thing to remember?"
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "The best thing you can do to prevent cancer is to maintain a healthy lifestyle, including eating a healthy diet, exercising regularly, not smoking, and avoiding excessive alcohol consumption. You should also protect yourself from the sun's harmful UV rays and get regular cancer screenings as recommended by your doctor."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I think I might have colon cancer.",
+            "Hi! I'm here to help. What are your symptoms?",
+            "I have been experiencing constipation and blood in my stool.",
+            "I see. Have you been taking any supplements? Folic acid supplementation may lead to colon polyps",
+            "No, I haven't. What other supplements can cause cancer?",
+            "Selenium supplementation has not been shown to reduce the risk of cancer. But there are vaccines to prevent infection by some carcinogenic viruses like HPV and hepatitis B virus.",
+            "How effective are the vaccines?",
+            "The HPV vaccine decreases the risk of developing cervical cancer, and the hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer. I recommend you get vaccinated.",
+            "What should I do now?"
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "I recommend you get vaccinated against HPV and hepatitis B virus. Also, it's important to get screened for colon cancer."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about colon cancer.",
+            "Sure, happy to help. What do you want to know?",
+            "Is colon cancer curable?",
+            "Yes. The earlier it's detected, the higher the chances of a complete cure. That's why regular screening is important.",
+            "What is screening and who should do it?",
+            "Screening is testing for cancer in people who don't have symptoms. It's recommended for people over 50 or earlier for those with a family history of colon cancer or with certain medical conditions.",
+            "What are the screening methods?",
+            "There are several, such as colonoscopy, stool DNA test, and fecal occult blood test. Your doctor will recommend the best one for you.",
+            "Thank you. I will talk to my doctor about it."
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "Yes, colon cancer is curable if detected early. Screening is recommended for people over 50 or earlier for those with a family history of colon cancer or with certain medical conditions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery for colon cancer.",
+            "Hi! How are you feeling?",
+            "I'm feeling fine, but I'm not sure about my diet and lifestyle.",
+            "After surgery, it's important to eat a balanced diet with plenty of fruits and vegetables, whole grains, and lean protein. You should also stay hydrated and avoid alcohol and tobacco products.",
+            "What kind of physical activity can I do?",
+            "You should start with light exercise, such as walking, and gradually increase the intensity and duration over time. Your doctor can recommend an exercise plan that's right for you.",
+            "What about follow-up care?",
+            "You will need regular check-ups and screenings to detect any recurrence or new cancer. Your doctor will give you a schedule for these appointments.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "You're welcome. Remember to follow your doctor's advice for a healthy lifestyle and regular check-ups."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am worried about colon cancer.",
+            "Hi, I'm here to help! What are your concerns specifically?",
+            "I read that folic acid supplementation is not effective in preventing colon cancer. Is that true?",
+            "Yes, that's correct. Research has shown that folic acid supplementation may even increase the risk of colon polyps.",
+            "What about selenium supplementation? Can it decrease the risk of cancer?",
+            "There is no evidence that selenium supplementation reduces the risk of cancer.",
+            "What about vaccines? Do they prevent infection by carcinogenic viruses?",
+            "Yes, vaccines have been developed that can prevent the infection of some carcinogenic viruses",
+            "Which vaccines are most effective and recommended for cancer prevention?"
+        ],
+        "knowledge": "Cancer Cancer Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "The HPV vaccine decreases the risk of developing cervical cancer and the hepatitis B vaccine prevents hepatitis B virus infection and liver cancer, so these are the vaccines that are most effective and recommended for cancer prevention."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a colonoscopy procedure and I need advice on my diet.",
+            "Hi there! Congratulations on taking the step to get a colonoscopy! What's your question about your diet?",
+            "What should I eat after a colonoscopy to help my body recover?",
+            "It's recommended to eat light and easy-to-digest foods like soup, crackers, and toast for the first day or two after the procedure. Avoid greasy or spicy foods and heavy meals.",
+            "Should I avoid any foods after the procedure?",
+            "Yes, it's best to avoid foods that are hard to digest like raw vegetables, beans, and nuts for a few days after the procedure.",
+            "What about physical activity? Should I avoid exercise?",
+            "It's best to avoid strenuous physical activity for a day or two after the procedure. But light physical activity like taking walks is encouraged to help with recovery.",
+            "How soon can I resume my normal diet and exercise routine?"
+        ],
+        "knowledge": "Cancer Cancer Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "You can resume your normal diet and exercise routine within a few days after the procedure, but it's best to start with light foods and physical activity and gradually increase the intensity."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about cancer screenings.",
+            "Hello! What would you like to know about cancer screenings?",
+            "What is the difference between diagnostic efforts prompted by symptoms and medical signs and cancer screenings?",
+            "Diagnostic efforts are prompted by symptoms or medical signs that indicate the presence of cancer, while cancer screening involves testing for cancer before any noticeable symptoms appear.",
+            "Why is it important to get screened for cancer?",
+            "Early detection of cancer through screening can lead to better treatment outcomes and survival rates.",
+            "Which cancer screenings are recommended?",
+            "The recommended cancer screenings vary depending on age, gender, and health history, but some common ones include colorectal cancer screening, mammography for breast cancer, and pap tests for cervical cancer.",
+            "When should I start getting screened for cancer?"
+        ],
+        "knowledge": "Cancer Cancer Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "The recommended age to start cancer screenings varies depending on the type of cancer and various other factors. It's best to talk to your doctor about your health history and when to start getting screened."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about cancer.",
+            "Sure, I'm here to help you with all your questions about cancer",
+            "Is folic acid supplementation effective in preventing colon cancer?",
+            "No, actually it's not effective and may even increase colon polyps",
+            "And how about selenium supplementation in reducing the risk of cancer?",
+            "There is no evidence that it reduces the risk of cancer",
+            "I see. What about the vaccines that are developed to prevent infection by carcinogenic viruses?",
+            "They are effective, for example, the human papillomavirus vaccine which decreases the risk of developing cervical cancer and the hepatitis B vaccine which decreases the risk of liver cancer",
+            "Thank you. Can you tell me more about cancer screening?"
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "Cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear. Screening can help detect cancer early, when it's most treatable."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had a cancer procedure recently and I'm looking for advice.",
+            "Of course, I'll do my best to help you. What kind of advice are you looking for specifically?",
+            "I'm wondering about lifestyle changes that could be helpful, such as diet and exercise.",
+            "It's important to maintain a healthy diet with lots of fruits, vegetables, and whole grains. Physical exercise is also important, but be sure to consult with your doctor before starting any exercise program",
+            "That's helpful. Are there any specific types of food or exercise I should focus on?",
+            "Aim for a balanced diet with a variety of foods. Focus on lean proteins, healthy fats, and complex carbohydrates. As for exercise, start slowly and gradually increase your activity level over time.",
+            "Got it. And what about any medications or supplements?",
+            "It's important to follow your doctor's advice regarding any medications or supplements. Do not start or stop any medications or supplements without consulting with your doctor first.",
+            "Thank you. Is there anything else you recommend?"
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "It's important to follow a healthy diet with lots of fruits, vegetables, and whole grains, and to gradually increase your physical activity level. Be sure to consult with your doctor before starting any exercise program or taking any medications or supplements."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm experiencing some symptoms related to cancer.",
+            "I'm sorry to hear that. What symptoms are you experiencing?",
+            "I've had some unexplained weight loss and fatigue lately.",
+            "Those can be symptoms of cancer, but it's important not to jump to conclusions. Have you seen a doctor?",
+            "Yes, I have an appointment scheduled next week.",
+            "That's good. In the meantime, it's important to take care of yourself and get plenty of rest.",
+            "Thank you. What else can I do to take care of myself?",
+            "Eating a healthy diet with lots of fruits and vegetables, staying hydrated, and getting regular exercise can all be helpful. And of course, follow your doctor's advice.",
+            "Thank you for your help. Is there anything else I should be aware of?"
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "It's important to take care of yourself by eating a healthy diet, staying hydrated, and getting regular exercise. And of course, follow your doctor's advice. Good luck with your appointment next week!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm worried about cancer and how to prevent it.",
+            "Hi there! I'm here to help you. What do you want to know?",
+            "Are there any supplements I can take to prevent colon cancer?",
+            "Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.",
+            "What about selenium supplementation?",
+            "Selenium supplementation has not been shown to reduce the risk of cancer.",
+            "Are there any vaccines to prevent any carcinogenic viruses?",
+            "Yes, vaccines have been developed that prevent infection by some carcinogenic viruses such as the Human papillomavirus vaccine which decreases the risk of developing cervical cancer and the hepatitis B vaccine which prevents infection with hepatitis B virus and thus decreases the risk of liver cancer. The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow.",
+            "That's really helpful. Thanks, Medi. One last question, what is cancer screening and why is it important?"
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "Cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear. It is important because it can help detect cancer early, when it is more easily treated and often curable."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a colonoscopy and I'm wondering if there are any lifestyle changes I should make.",
+            "Hi! Congrats on completing the colonoscopy. What kind of advice are you looking for?",
+            "I heard that diet can play a role in preventing colon cancer. Is that true?",
+            "Yes, a healthy diet can help reduce the risk of colon cancer. This includes eating plenty of fruits, vegetables and whole grains, and limiting red meat and processed foods.",
+            "What about physical exercise?",
+            "Physical exercise is also important. It's recommended to get at least 30 minutes of moderate exercise most days of the week to lower your risk of colon cancer.",
+            "Sounds good. Anything else?",
+            "Well, it's also important to maintain a healthy weight and avoid smoking.",
+            "Thanks, Medi. I'll keep all that in mind. One more question, how often should I get a colonoscopy?"
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "The recommended frequency of colonoscopy depends on your age, family history, and other risk factors. It's best to consult with your doctor to determine the appropriate timing for you."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about cervical cancer.",
+            "Hello! What would you like to know about cervical cancer?",
+            "How do women usually get cervical cancer?",
+            "Cervical cancer is usually caused by the human papillomavirus (HPV), which is spread through sexual contact.",
+            "How can I reduce my risk of getting cervical cancer?",
+            "Getting the HPV vaccine is the most effective way to reduce your risk of getting cervical cancer. Regular screening with a Pap test or HPV test is also important, and avoiding risky sexual behaviors like having multiple sexual partners or sex at a young age can help reduce your risk as well.",
+            "I see. Thanks for the information, Medi. One last thing, can men also get the HPV vaccine?",
+            "Yes, men can get the HPV vaccine as well. It's recommended for boys and men ages 9-26.",
+            "Great, thanks for your help, Medi."
+        ],
+        "knowledge": "Cancer Cancer  Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.  Selenium supplementation has not been shown to reduce the risk of cancer. Vaccines have been developed that prevent infection by some carcinogenic viruses.  Human papillomavirus vaccine  decrease the risk of developing cervical cancer.  The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.  The administration of human papillomavirus and hepatitis B vaccinations is recommended where resources allow. Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear Cancer Cancer",
+        "response": "You're welcome! I'm here to help anytime."
+    }
+]

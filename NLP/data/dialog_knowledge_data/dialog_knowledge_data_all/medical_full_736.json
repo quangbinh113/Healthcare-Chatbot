@@ -1,0 +1,497 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about mental illness.",
+            "Of course, I'm here to help. What would you like to know?",
+            "What are the most disabling conditions in terms of total disability-adjusted life years?",
+            "Unipolar depressive disorder is the third leading cause of disability worldwide, accounting for 65.5 million years lost.",
+            "That's alarming. What are the common psychiatric disabilities in high-income countries?",
+            "In high-income countries, unipolar major depression and alcohol use disorder are associated with most disabilities.",
+            "I see. What about the psychiatric disabilities in the eastern Mediterranean region?",
+            "In the eastern Mediterranean region, unipolar major depression and schizophrenia are associated with most disabilities.",
+            "Interesting. And what about Africa?"
+        ],
+        "knowledge": "Mental illness disability is a major concern. Unipolar depressive disorder is the third leading cause of disability worldwide, accounting for 65.5 million years lost. In high-income countries, unipolar major depression and alcohol use disorder are associated with most disabilities. In the eastern Mediterranean region, it's unipolar major depression and schizophrenia. In Africa, it's unipolar major depression and bipolar disorder.",
+        "response": "Individuals can seek professional help, engage in therapy, practice self-care, and raise awareness."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling down lately and need some advice.",
+            "I'm here to help. Could you tell me more about how you've been feeling?",
+            "I've been experiencing sadness, loss of interest, and difficulty sleeping.",
+            "It sounds like you might be going through a depressive episode. How long have you felt this way?",
+            "It's been going on for a few weeks now, and it's affecting my daily life.",
+            "I'm sorry to hear that. Have there been any major life changes or stressful events recently?",
+            "Yes, I recently lost my job and have been dealing with personal issues.",
+            "I see. It's important to prioritize self-care and seek support from loved ones or a mental health professional.",
+            "Thank you, Medi. I appreciate your advice. Is there anything else I can do to improve my mood?"
+        ],
+        "knowledge": "Depression is a common mental illness characterized by persistent sadness, loss of interest, and other symptoms. Major life changes, stress, and personal issues can contribute to depressive episodes.",
+        "response": "In addition to seeking support, practicing self-care, and engaging in activities you enjoy, maintaining a healthy lifestyle with regular exercise and a balanced diet can also help improve your mood."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a medical procedure and need guidance on my recovery.",
+            "I'm here to assist you. What kind of procedure did you undergo?",
+            "I had surgery to repair a fractured bone in my leg.",
+            "In that case, it's important to follow your doctor's instructions for post-operative care.",
+            "Are there any specific lifestyle changes I should make during my recovery period?",
+            "During recovery, it's essential to rest, eat a nutritious diet, and avoid activities that strain your healing leg.",
+            "How about physical therapy? Should I consider it?",
+            "Physical therapy can be beneficial for rehabilitation and regaining strength and mobility in your leg. Consult your doctor for a referral.",
+            "I see. Thank you for your guidance, Medi. Is there anything else I should keep in mind?"
+        ],
+        "knowledge": "Recovering from surgery requires following post-operative care instructions, resting, eating a nutritious diet, and avoiding activities that strain the healing area. Physical therapy may be recommended for rehabilitation and regaining mobility.",
+        "response": "You're welcome! Remember to attend follow-up appointments, take prescribed medications, and reach out to your doctor if needed. Wishing you a smooth recovery!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling really down lately. Can you help me?",
+            "Of course, I'm here to support you. Can you tell me more about how you've been feeling?",
+            "I have no energy, loss of interest in activities, and trouble sleeping. It's affecting my daily life.",
+            "I understand. These symptoms could be signs of depression. It's important to seek help. Have you talked to a professional?",
+            "No, I haven't. I'm not sure if it's serious enough.",
+            "It's always better to reach out and get the support you need. They can provide a proper diagnosis and recommend treatment options.",
+            "I guess you're right. I'll consider speaking to a professional. Thank you, Medi.",
+            "You're welcome. Remember, taking care of your mental health is important. Take care!",
+            "By the way, can you tell me more about the causes of depression?"
+        ],
+        "knowledge": "Depression Depression is a complex mental illness with various causes. It can be triggered by a combination of genetic, biological, environmental, and psychological factors. Stressful life events, certain medications, and underlying medical conditions can also contribute to the development of depression.",
+        "response": "Depression can have multiple causes, including genetic, biological, environmental, and psychological factors. Stress and certain medications can also play a role."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I recently had a surgical procedure. Any advice on post-surgery care?",
+            "Certainly! I can provide you with some general advice. What kind of procedure did you have?",
+            "I had a knee surgery. The doctor said I need to take it easy and rest, but I'm not sure what else I should do.",
+            "After knee surgery, it's crucial to follow your doctor's instructions. You should also perform recommended exercises and physical therapy to aid in recovery.",
+            "Are there any specific exercises I should do?",
+            "Your doctor or a physical therapist will guide you with exercises that help improve strength and flexibility. They may include gentle leg movements, stretches, and gradually increasing activity levels.",
+            "Got it. What about my diet? Are there any restrictions?",
+            "A balanced diet rich in nutrients is important for healing. Your doctor may recommend specific dietary guidelines, such as consuming foods high in protein for tissue repair.",
+            "I see. Thanks for the advice, Medi!"
+        ],
+        "knowledge": "Post-Surgery Care Post-Surgery Care After surgery, it's essential to follow your doctor's instructions and take the necessary precautions. This includes rest, proper wound care, pain management, and rehabilitation exercises. A balanced diet with adequate nutrients can aid in the healing process.",
+        "response": "After knee surgery, it's important to follow your doctor's instructions, perform recommended exercises and physical therapy, and maintain a balanced diet for proper healing."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about mental illness. Can you help me understand it better?",
+            "Of course! I'm here to provide information and answer your questions. What would you like to know?",
+            "I'm curious about the impact of mental illness on disability. How does it compare to other conditions?",
+            "Psychiatric disabilities rank among the most disabling conditions globally. Unipolar depressive disorder is the third leading cause of disability, accounting for a significant number of years lost.",
+            "That's alarming. Are there any specific age groups affected more by psychiatric disabilities?",
+            "Among 10- to 24-year-olds, nearly half of all disability is attributed to psychiatric disabilities, including substance use disorders and self-harm.",
+            "What are the most common psychiatric disabilities associated with disabilities in high-income countries?",
+            "In high-income countries, unipolar major depression and alcohol use disorder are the most prevalent psychiatric disabilities associated with disabilities.",
+            "I see. It's important to raise awareness about mental health. Thanks for the information, Medi!"
+        ],
+        "knowledge": "Mental Illness and Disability Mental Illness and Disability Psychiatric disabilities are among the most disabling conditions globally. Unipolar depressive disorder is a major cause of disability worldwide, especially in high-income countries. Among youth, psychiatric disabilities contribute significantly to disability, along with substance use disorders and conditions involving self-harm.",
+        "response": "Psychiatric disabilities rank high in terms of total disability-adjusted life years. Unipolar depressive disorder is a leading cause of disability worldwide, particularly among young people. In high-income countries, major depression and alcohol use disorder are commonly associated with disabilities."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling really down lately. I don't know what to do.",
+            "I'm here to help. Can you tell me more about what you're experiencing?",
+            "I've been feeling sad all the time, and I have no energy or motivation to do anything.",
+            "It sounds like you may be going through a depressive episode. It's important to seek professional help.",
+            "What kind of professional help should I seek?",
+            "You can start by scheduling an appointment with a mental health professional, such as a therapist or psychiatrist.",
+            "Will they be able to prescribe medication if needed?",
+            "Yes, a psychiatrist can prescribe medication if they determine it's necessary for your treatment.",
+            "I see. How do I find a good mental health professional in my area?"
+        ],
+        "knowledge": "Finding a Mental Health Professional: Start by asking your primary care doctor for recommendations. You can also search online directories or use mental health helplines to find professionals in your area. Make sure to read reviews and consider factors like their expertise and approach to treatment.",
+        "response": "You can start by asking your primary care doctor for recommendations or using online directories to find mental health professionals in your area."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a question about schizophrenia. What exactly is it?",
+            "I'm here to provide information. Schizophrenia is a chronic mental disorder characterized by hallucinations, delusions, and disordered thinking.",
+            "Can you explain what hallucinations and delusions mean?",
+            "Hallucinations are sensory experiences that aren't based in reality, such as hearing voices. Delusions are fixed false beliefs despite evidence to the contrary.",
+            "I see. What causes schizophrenia?",
+            "The exact cause is unknown, but it's believed to involve a combination of genetic, environmental, and brain chemistry factors.",
+            "Is schizophrenia treatable?",
+            "Yes, with appropriate treatment, including medication and therapy, many people with schizophrenia can manage their symptoms and live fulfilling lives.",
+            "That's good to know. Are there any early signs or symptoms of schizophrenia?"
+        ],
+        "knowledge": "Early Signs of Schizophrenia: Early signs may include social withdrawal, increased irritability, changes in sleep patterns, difficulty concentrating, and a decline in academic or occupational performance.",
+        "response": "Early signs may include social withdrawal, increased irritability, changes in sleep patterns, difficulty concentrating, and a decline in academic or occupational performance."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery, and I want to know how to take care of myself during the recovery process.",
+            "I'm here to help. It's important to follow your doctor's instructions and take care of your physical and emotional well-being.",
+            "What kind of physical activities should I avoid after surgery?",
+            "You should avoid strenuous activities, heavy lifting, and any activities that could strain the surgical area. Rest and allow your body to heal.",
+            "How can I manage pain and discomfort during the recovery period?",
+            "Your doctor will likely prescribe pain medication. Make sure to take it as directed and communicate any concerns or side effects to your healthcare provider.",
+            "What about my diet? Are there any specific recommendations?",
+            "A healthy diet is important for healing. Make sure to eat a balanced diet with plenty of fruits, vegetables, lean proteins, and stay hydrated.",
+            "I see. How long does the recovery process usually take?"
+        ],
+        "knowledge": "Recovery Time After Surgery: The recovery process can vary depending on the type of surgery and individual factors. It's important to follow your doctor's guidance and attend any follow-up appointments.",
+        "response": "The recovery process can vary depending on the type of surgery and individual factors. It's important to follow your doctor's guidance and attend any follow-up appointments."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling really down lately. Can you help me?",
+            "Of course, I'm here to support you. Can you tell me more about how you're feeling?",
+            "I have no energy, no motivation, and I can't concentrate on anything. It's affecting my daily life.",
+            "I'm sorry to hear that. These could be symptoms of depression. Have you experienced these feelings for a long time?",
+            "Yes, it's been going on for a few months now. I thought it would go away, but it hasn't.",
+            "I understand. It's important to seek help for depression. There are treatments available to help you feel better.",
+            "What kind of treatments are there for depression?",
+            "Treatment options for depression include therapy, medication, and lifestyle changes. It's best to consult with a healthcare professional to determine the most suitable approach for you.",
+            "Thank you, Medi. How can I find a healthcare professional to talk to about my depression?"
+        ],
+        "knowledge": "Depression Depression Depression is a common mental health disorder characterized by persistent sadness and a loss of interest or pleasure in activities. It can affect a person's thoughts, feelings, behavior, and overall well-being. Treatment for depression may include therapy, medication, or a combination of both. It's important to consult with a healthcare professional for an accurate diagnosis and appropriate treatment plan.",
+        "response": "You can start by reaching out to your primary care doctor. They can provide a referral to a mental health specialist who can help you with your depression."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've heard a lot about schizophrenia lately. Can you tell me more about it?",
+            "Of course! Schizophrenia is a mental disorder that affects a person's thoughts, feelings, and behavior.",
+            "What are the common symptoms of schizophrenia?",
+            "Common symptoms of schizophrenia include hallucinations, delusions, disorganized thinking, reduced motivation, and social withdrawal.",
+            "Can schizophrenia be treated?",
+            "Yes, treatment for schizophrenia usually involves a combination of medication and therapy. It's important for individuals with schizophrenia to receive ongoing support and treatment to manage their symptoms.",
+            "Are there any known causes of schizophrenia?",
+            "The exact cause of schizophrenia is unknown, but it is believed to be a combination of genetic, environmental, and neurochemical factors.",
+            "Thank you, Medi. Is schizophrenia a common mental illness?"
+        ],
+        "knowledge": "Schizophrenia Schizophrenia Schizophrenia is a chronic and severe mental disorder characterized by abnormal social behavior, disorganized thinking, and a distorted perception of reality. It affects about 1% of the population worldwide. While it is not as common as some other mental illnesses, it can have a significant impact on the individuals affected and their families.",
+        "response": "Schizophrenia is not as common as some other mental illnesses, but it still affects about 1% of the population worldwide."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery and I'm wondering how I can recover faster.",
+            "I'm here to help. Recovery after surgery depends on various factors. What type of surgery did you have?",
+            "I had knee surgery to repair a torn ligament.",
+            "After knee surgery, it's important to follow your doctor's instructions and attend physical therapy sessions. Rest, proper nutrition, and light exercises can also aid in your recovery.",
+            "Are there any specific exercises I should do?",
+            "Your physical therapist will guide you through exercises that are appropriate for your recovery. They may include range-of-motion exercises, strengthening exercises, and low-impact activities.",
+            "How long does it usually take to recover from knee surgery?",
+            "Recovery time can vary depending on the individual and the extent of the surgery. It may take several weeks to months to fully recover. Your doctor can provide a more accurate estimate based on your specific case.",
+            "Thank you, Medi. I'll make sure to follow my doctor's advice for a faster recovery."
+        ],
+        "knowledge": "Knee Surgery Knee Surgery Knee surgery is a medical procedure performed to repair damage to the knee joint. Recovery from knee surgery can take time and may involve physical therapy to regain strength and mobility. It's important to follow your doctor's instructions and attend all recommended appointments for a successful recovery.",
+        "response": "Following your doctor's instructions and attending physical therapy sessions will help you recover faster after knee surgery. Make sure to rest, eat well, and do the recommended exercises for a successful recovery."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I've been feeling really down lately. Can you help me?",
+            "Of course. I'm here to support you. Can you tell me more about what you're experiencing?",
+            "I constantly feel sad, lose interest in activities, and have trouble sleeping and concentrating.",
+            "I understand. Based on your symptoms, it's possible you may be experiencing depression.",
+            "What can I do to feel better? Any advice?",
+            "It's important to seek professional help for an accurate diagnosis and treatment plan. Therapy and medication can be beneficial.",
+            "I'm hesitant about taking medication. Are there any alternative treatments?",
+            "While medication can be effective, you can also consider lifestyle changes like exercise, maintaining a healthy diet, and practicing stress-reduction techniques.",
+            "That makes sense. Can you tell me more about depression?"
+        ],
+        "knowledge": "Depression Depression is a mood disorder that causes persistent feelings of sadness, loss of interest, and a lack of enjoyment in daily activities. Common symptoms include changes in appetite and sleep patterns, difficulty concentrating, and a loss of energy. It's important to seek professional help for an accurate diagnosis and appropriate treatment options.",
+        "response": "Depression is a mood disorder characterized by persistent sadness, loss of interest, changes in appetite and sleep patterns, difficulty concentrating, and a lack of energy."
+    },
+    {
+        "dialog": [
+            "Hey, Medi. I've been hearing a lot about anxiety lately. What exactly is it?",
+            "Anxiety is a natural response to stress or danger. It's a feeling of fear or apprehension about what's to come.",
+            "So, it's normal to feel anxious in certain situations?",
+            "Yes, it's a normal and adaptive emotion. It becomes a problem when it's excessive and interferes with daily life.",
+            "Got it. Can you give me some tips on managing anxiety?",
+            "Certainly! Deep breathing exercises, engaging in relaxation techniques, and seeking support from loved ones can help. Professional help is also available.",
+            "Thanks for the advice. What are the common symptoms of anxiety?",
+            "Common symptoms include restlessness, excessive worrying, trouble sleeping, and difficulty concentrating.",
+            "I see. How can I differentiate between normal anxiety and an anxiety disorder?"
+        ],
+        "knowledge": "Anxiety Anxiety is a natural and common human emotion characterized by feelings of worry, fear, or unease. It becomes a disorder when these feelings are excessive, persistent, and interfere with daily life. Symptoms of an anxiety disorder include restlessness, irritability, trouble sleeping, and difficulty concentrating.",
+        "response": "Anxiety becomes a disorder when feelings of worry, fear, or unease are excessive, persistent, and interfere with daily life."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I recently had surgery, and I'm wondering about the recovery process.",
+            "I can help you with that. What specific concerns do you have about your recovery?",
+            "I'm experiencing pain and discomfort. Are there any lifestyle changes I should make?",
+            "It's important to follow your doctor's instructions regarding medication, rest, and activity levels. Additionally, maintaining a nutritious diet can aid in the healing process.",
+            "What about physical exercise? Can I engage in any activities?",
+            "It depends on the type of surgery you had. Your doctor will provide specific guidelines for physical activity during your recovery.",
+            "I'm also concerned about scars. Any tips for scar management?",
+            "Keeping the surgical area clean and moisturized can promote healing and minimize scarring. Consult with your doctor for additional recommendations.",
+            "Thanks for the advice. How long does the recovery process usually take?"
+        ],
+        "knowledge": "Surgical Recovery Surgical recovery time varies depending on the type of surgery and individual factors. It can range from a few days to several weeks or months. Following your doctor's instructions, taking prescribed medications, and maintaining a healthy lifestyle can contribute to a smooth recovery.",
+        "response": "Recovery time varies based on the type of surgery and individual factors. It can range from a few days to several weeks or months."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling really down lately. I need some help.",
+            "I'm here to assist you. Can you tell me more about your symptoms?",
+            "I've been experiencing extreme sadness, loss of interest, and trouble sleeping.",
+            "Based on your symptoms, it seems like you might be dealing with depression.",
+            "What can I do to feel better, Medi?",
+            "I recommend seeking professional help and considering therapy or medication options.",
+            "Is there anything else I can do on my own?",
+            "Engaging in regular physical exercise and practicing self-care can also make a positive impact.",
+            "Thank you, Medi. How common is depression among young people?"
+        ],
+        "knowledge": "Mental illness Mental illness Disability in this context may or may not involve such things as: In terms of total disability-adjusted life years, which is an estimate of how many years of life are lost due to premature death or to being in a state of poor health and disability, psychiatric disabilities rank amongst the most disabling conditions. Unipolar depressive disorder is the third leading cause of disability worldwide, of any condition mental or physical, accounting for 65.5 million years lost. The first systematic description of global disability arising in youth, in 2011, found that among 10- to 24-year-olds nearly half of all disability was due to psychiatric disabilities, including substance use disorders and conditions involving self-harm. Second to this were accidental injuries accounting for 12 percent of disability, followed by communicable diseases at 10 percent. The psychiatric disabilities associated with most disabilities in high-income countries were unipolar major depression and alcohol use disorder. In the eastern Mediterranean region, it was unipolar major depression and schizophrenia, and in Africa it was unipolar major depression and bipolar disorder Mental illness Mental illness",
+        "response": "Depression is quite common among young people, with nearly half of all disability in the 10- to 24-year-old age group being due to psychiatric disabilities, including depression."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I've been diagnosed with schizophrenia. Can you explain it to me?",
+            "Of course. Schizophrenia is a chronic mental disorder characterized by hallucinations, delusions, and disordered thinking.",
+            "Are there any treatment options available?",
+            "Yes, treatment usually involves a combination of antipsychotic medications, therapy, and support from healthcare professionals.",
+            "Can schizophrenia be cured completely?",
+            "While there is no known cure for schizophrenia, treatment can help manage symptoms and improve quality of life.",
+            "I see. What are some common symptoms of schizophrenia?",
+            "Common symptoms include hallucinations, delusions, disorganized thinking, lack of motivation, and social withdrawal.",
+            "Thank you, Medi. How prevalent is schizophrenia globally?"
+        ],
+        "knowledge": "Mental illness Mental illness Disability in this context may or may not involve such things as: In terms of total disability-adjusted life years, which is an estimate of how many years of life are lost due to premature death or to being in a state of poor health and disability, psychiatric disabilities rank amongst the most disabling conditions. Unipolar depressive disorder is the third leading cause of disability worldwide, of any condition mental or physical, accounting for 65.5 million years lost. The first systematic description of global disability arising in youth, in 2011, found that among 10- to 24-year-olds nearly half of all disability was due to psychiatric disabilities, including substance use disorders and conditions involving self-harm. Second to this were accidental injuries accounting for 12 percent of disability, followed by communicable diseases at 10 percent. The psychiatric disabilities associated with most disabilities in high-income countries were unipolar major depression and alcohol use disorder. In the eastern Mediterranean region, it was unipolar major depression and schizophrenia, and in Africa it was unipolar major depression and bipolar disorder Mental illness Mental illness",
+        "response": "Schizophrenia is a significant mental health condition globally, particularly in the eastern Mediterranean region where it is one of the psychiatric disabilities associated with most disabilities."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a surgery. Can you give me some advice for my recovery?",
+            "Certainly. It's important to follow your doctor's instructions and take any prescribed medications.",
+            "Are there any dietary recommendations?",
+            "A balanced diet rich in nutrients can aid in the healing process. Make sure to consume plenty of fruits and vegetables.",
+            "Should I engage in physical exercise?",
+            "It's best to consult with your doctor regarding physical activity. They can provide guidance based on your specific case.",
+            "I'm concerned about potential complications. What should I watch out for?",
+            "Look out for signs of infection, excessive bleeding, or any unusual symptoms. Contact your doctor if you notice anything concerning.",
+            "Thank you, Medi. How long does the recovery process usually take?"
+        ],
+        "knowledge": "Mental illness Mental illness Disability in this context may or may not involve such things as: In terms of total disability-adjusted life years, which is an estimate of how many years of life are lost due to premature death or to being in a state of poor health and disability, psychiatric disabilities rank amongst the most disabling conditions. Unipolar depressive disorder is the third leading cause of disability worldwide, of any condition mental or physical, accounting for 65.5 million years lost. The first systematic description of global disability arising in youth, in 2011, found that among 10- to 24-year-olds nearly half of all disability was due to psychiatric disabilities, including substance use disorders and conditions involving self-harm. Second to this were accidental injuries accounting for 12 percent of disability, followed by communicable diseases at 10 percent. The psychiatric disabilities associated with most disabilities in high-income countries were unipolar major depression and alcohol use disorder. In the eastern Mediterranean region, it was unipolar major depression and schizophrenia, and in Africa it was unipolar major depression and bipolar disorder Mental illness Mental illness",
+        "response": "The recovery process can vary depending on the type of surgery and individual factors. It's best to consult with your doctor for a more accurate estimate."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling really down lately. Can you help me?",
+            "Of course, I'm here to assist you. Please tell me more about what you're experiencing.",
+            "I've been having trouble sleeping, lack of appetite, and a constant feeling of sadness.",
+            "I'm sorry to hear that. These symptoms could indicate depression. Have you been feeling this way for a while?",
+            "Yes, it's been going on for a few weeks now, and it's affecting my daily life.",
+            "I understand. It's important to seek help for depression. Have you considered talking to a mental health professional?",
+            "I haven't, but I think I should. Can you recommend any specialists in my area?",
+            "Certainly. I can provide you with a list of mental health professionals near your location. Please provide your city or zip code.",
+            "I live in New York City."
+        ],
+        "knowledge": "Depression Depression  Depression is a common mental disorder characterized by persistent sadness, a lack of interest or pleasure in activities, changes in appetite and sleep patterns, and feelings of guilt or low self-worth. It can interfere with daily functioning and lead to various emotional and physical problems. Treatment options include therapy, medication, and lifestyle changes. It's important to consult a mental health professional for a proper diagnosis and personalized treatment plan. Depression Depression",
+        "response": "I can help you find mental health professionals in New York City. Please provide your zip code."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a question about schizophrenia.",
+            "Sure, I'm here to answer your questions about schizophrenia. What would you like to know?",
+            "What are the common symptoms of schizophrenia?",
+            "Schizophrenia is characterized by symptoms such as hallucinations, delusions, disorganized thinking, and a lack of motivation or emotions.",
+            "Can schizophrenia be treated?",
+            "Yes, treatment options for schizophrenia include medications, therapy, and support services. It's important to work with a healthcare professional for an appropriate treatment plan.",
+            "Are there any risk factors or causes associated with schizophrenia?",
+            "The exact cause of schizophrenia is unknown, but it's believed to involve a combination of genetic, environmental, and neurochemical factors. Certain risk factors, such as a family history of schizophrenia or exposure to prenatal complications, may increase the likelihood of developing the disorder.",
+            "I see. Thank you for the information, Medi. Is schizophrenia common?"
+        ],
+        "knowledge": "Schizophrenia Schizophrenia  Schizophrenia is a chronic mental disorder characterized by abnormal social behavior, altered perception of reality, and disturbances in thinking, emotions, and motivation. It affects about 1% of the global population. Treatment for schizophrenia aims to manage symptoms, prevent relapses, and improve quality of life. With appropriate treatment and support, many individuals with schizophrenia can lead fulfilling lives.",
+        "response": "Schizophrenia affects about 1% of the global population."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had knee surgery. Can you provide some advice for my recovery?",
+            "Of course! I'm here to help. How long ago did you have the surgery?",
+            "It's been two weeks since the surgery. I still have some pain and difficulty walking.",
+            "Pain and difficulty walking are normal during the early stages of recovery. Have you been following your doctor's post-surgery instructions?",
+            "Yes, I've been trying my best to follow the instructions, but I'm wondering if there's anything else I can do to aid my recovery.",
+            "In addition to following your doctor's instructions, it's important to gradually increase physical activity, perform recommended exercises, and maintain a healthy diet to support healing.",
+            "Are there any specific exercises I should focus on?",
+            "Your doctor or a physical therapist can provide you with specific exercises tailored to your recovery. It's important to consult them for personalized guidance.",
+            "I will make sure to consult my doctor. Thank you for your advice, Medi."
+        ],
+        "knowledge": "Post-Surgery Recovery Post-Surgery Recovery  After a surgery, it's important to follow your doctor's instructions for proper recovery. This may include taking prescribed medications, managing pain, keeping the surgical site clean, and attending follow-up appointments. Physical therapy exercises and gradually increasing activity levels can aid in the recovery process. It's essential to consult your healthcare provider for personalized advice and guidance during the recovery period.",
+        "response": "Consulting your doctor or a physical therapist for personalized exercises is recommended for a successful recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about mental illness.",
+            "Sure, I'm here to help. What would you like to know?",
+            "What are the most disabling conditions related to psychiatric disabilities?",
+            "Unipolar depressive disorder and alcohol use disorder are the most associated with disabilities.",
+            "I see. Are there any specific age groups that are affected more?",
+            "Among 10- to 24-year-olds, nearly half of all disability is due to psychiatric disabilities.",
+            "That's concerning. What are the other leading causes of disability?",
+            "Accidental injuries account for 12% and communicable diseases account for 10% of disability.",
+            "I didn't realize mental illnesses had such a significant impact. What can be done to address them?"
+        ],
+        "knowledge": "Mental illness disabilities, including unipolar depressive disorder, alcohol use disorder, and self-harm, rank among the most disabling conditions. Among 10- to 24-year-olds, nearly half of all disability is due to psychiatric disabilities. Accidental injuries and communicable diseases also contribute to disability.",
+        "response": "Raising awareness, promoting mental health education, and ensuring access to mental health services are crucial steps in addressing these disabilities."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm experiencing symptoms related to mental illness.",
+            "I'm here to help. Please describe the symptoms you're facing.",
+            "I've been feeling extremely down, losing interest in things, and having trouble sleeping.",
+            "It sounds like you might be experiencing symptoms of depression. Have you felt this way for a while?",
+            "Yes, it has been going on for a few weeks now, and it's affecting my daily life.",
+            "I'm sorry to hear that. Have there been any recent significant events or changes in your life?",
+            "I recently went through a breakup, and it has been difficult for me to cope with the emotional stress.",
+            "Breakups can be challenging. It's important to seek support during this time. Are you open to counseling?",
+            "Yes, I think counseling could be beneficial for me. Where can I find a counselor?"
+        ],
+        "knowledge": "Unipolar depressive disorder is a leading cause of disability worldwide. Symptoms include persistent sadness, loss of interest, and sleep disturbances. Significant life events and emotional stress can contribute to depression.",
+        "response": "You can find counselors through mental health clinics, private practices, or online platforms specializing in therapy."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently received a mental health diagnosis. What should I do next?",
+            "I'm here to support you. It's important to educate yourself about the diagnosis and available resources.",
+            "What kind of resources are available for someone with a mental health diagnosis?",
+            "There are support groups, therapy options, medication management, and self-help resources.",
+            "How can I find a support group that suits my needs?",
+            "You can search online for local support groups or ask your healthcare provider for recommendations.",
+            "I'm also interested in therapy. What types of therapy are commonly used?",
+            "Cognitive Behavioral Therapy (CBT), Dialectical Behavior Therapy (DBT), and psychotherapy are commonly used.",
+            "Thank you for the information, Medi. I feel more informed and ready to take the next steps."
+        ],
+        "knowledge": "After receiving a mental health diagnosis, it's important to educate yourself about available resources, including support groups, therapy options, medication management, and self-help resources. Cognitive Behavioral Therapy (CBT), Dialectical Behavior Therapy (DBT), and psychotherapy are commonly used therapies.",
+        "response": "I'm glad I could provide you with helpful information. Remember, you're not alone, and there are resources available to support you on your journey to better mental health."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling really down lately. Can you help me?",
+            "Of course, I'm here to support you. Can you tell me more about how you've been feeling?",
+            "I've been experiencing constant sadness, loss of interest in things I used to enjoy, and trouble sleeping.",
+            "I see. These symptoms could be indicative of depression. Have you been feeling this way for a while?",
+            "Yes, it's been going on for a few weeks now. I don't know what to do.",
+            "It's important to seek help for depression. I recommend speaking with a mental health professional.",
+            "I'm a bit hesitant to do that. Is there anything else I can try?",
+            "In addition to professional help, you can also try incorporating self-care activities and talking to supportive friends or family members.",
+            "Thank you, Medi. Can you tell me more about the causes of depression?"
+        ],
+        "knowledge": "Depression Depression Depression is a mental disorder characterized by persistent sadness, loss of interest or pleasure in activities, and other symptoms that affect a person's ability to function. It can be caused by a combination of genetic, biological, environmental, and psychological factors. Stressful life events, such as the loss of a loved one or a major life change, can also trigger depression. Neurotransmitter imbalances, specifically involving serotonin, have been implicated in the development of depression. Depression can occur at any age and can be treated with therapy, medication, or a combination of both. Depression Depression",
+        "response": "Depression can be caused by a combination of genetic, biological, environmental, and psychological factors, and it can also be triggered by stressful life events."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I've recently been diagnosed with bipolar disorder. Can you explain what that means?",
+            "Certainly, I'm here to provide information and support. Bipolar disorder is a mental health condition characterized by extreme mood swings.",
+            "What kind of mood swings are we talking about?",
+            "People with bipolar disorder experience periods of intense emotional highs, known as mania or hypomania, and periods of deep sadness or depression.",
+            "That sounds challenging. How long do these mood swings last?",
+            "The duration of mood swings can vary. Some people experience episodes that last for days or weeks, while others may have more rapid mood shifts.",
+            "Are there any treatment options available for bipolar disorder?",
+            "Yes, treatment for bipolar disorder often involves a combination of medication, therapy, and lifestyle adjustments.",
+            "I see. How can I manage my lifestyle to better cope with this condition?"
+        ],
+        "knowledge": "Bipolar Disorder Bipolar Disorder Bipolar disorder is a mental health condition characterized by extreme mood swings that include episodes of mania or hypomania and depression. During manic episodes, individuals may experience elevated mood, increased energy levels, impulsive behavior, and a reduced need for sleep. Depressive episodes are characterized by persistent sadness, loss of interest, and other symptoms similar to depression. The exact cause of bipolar disorder is unknown, but it is believed to involve a combination of genetic and environmental factors. Treatment typically involves mood-stabilizing medications, psychotherapy, and the development of coping strategies. Bipolar Disorder Bipolar Disorder",
+        "response": "To better cope with bipolar disorder, it's important to maintain a regular sleep schedule, engage in stress-reducing activities, and follow your treatment plan, which may include medication and therapy."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a surgical procedure. What lifestyle changes should I make during my recovery?",
+            "I'm here to help. After a surgical procedure, it's important to prioritize rest and allow your body to heal.",
+            "Are there any specific dietary recommendations I should follow?",
+            "A balanced diet rich in nutrients can support your recovery. Focus on consuming plenty of fruits, vegetables, lean proteins, and whole grains.",
+            "Should I be doing any physical exercise during my recovery?",
+            "It's essential to follow your healthcare provider's instructions regarding physical activity. In some cases, light exercises or gentle movements may be recommended to aid in recovery.",
+            "Are there any other lifestyle changes I should consider?",
+            "Other lifestyle changes may include avoiding smoking or excessive alcohol consumption, managing stress, and taking any prescribed medications as instructed.",
+            "Thank you for the guidance, Medi. Can you tell me more about the recovery process after a surgical procedure?"
+        ],
+        "knowledge": "Surgical Procedure Recovery Surgical Procedure Recovery The recovery process after a surgical procedure can vary depending on the type of surgery and individual factors. It often involves a period of rest, wound care, pain management, and gradually returning to normal activities. Following your healthcare provider's instructions, taking prescribed medications, attending follow-up appointments, and maintaining a healthy lifestyle can support the recovery process. It's important to listen to your body and communicate any concerns or unexpected symptoms with your healthcare team. Surgical Procedure Recovery Surgical Procedure Recovery",
+        "response": "The recovery process after a surgical procedure involves rest, wound care, pain management, and gradually returning to normal activities. It's important to follow your healthcare provider's instructions and communicate any concerns during your recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling really down lately. Can you help me?",
+            "Of course, I'm here to support you. Can you describe how you've been feeling?",
+            "I've been experiencing persistent sadness, loss of interest in activities, and trouble sleeping.",
+            "Based on your symptoms, it's possible that you're dealing with depression.",
+            "What are the common treatments for depression?",
+            "Treatment options for depression include therapy, medication, and lifestyle changes.",
+            "I see. Are there any self-care practices I can try?",
+            "Certainly! Engaging in regular exercise, practicing relaxation techniques, and maintaining a healthy diet can be beneficial.",
+            "That's helpful. Can you tell me more about the causes of depression?"
+        ],
+        "knowledge": "Depression Depression  Depression can be caused by a combination of genetic, biological, environmental, and psychological factors. Life events, such as loss of a loved one or a difficult relationship, can trigger depression. Imbalances in brain chemicals, such as serotonin and norepinephrine, also play a role. Certain medical conditions and medications can contribute to depression as well.",
+        "response": "Depression can be caused by a combination of genetic, biological, environmental, and psychological factors."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I've been diagnosed with bipolar disorder. What does that mean?",
+            "Bipolar disorder is a mental health condition characterized by extreme mood swings.",
+            "What are the different mood swings associated with bipolar disorder?",
+            "Bipolar disorder involves episodes of mania, characterized by elevated mood and increased energy, and episodes of depression.",
+            "Can bipolar disorder be treated?",
+            "Yes, bipolar disorder can be managed with a combination of medication, therapy, and lifestyle adjustments.",
+            "Are there any lifestyle changes that can help?",
+            "Maintaining a regular sleep schedule, avoiding alcohol and drug use, and managing stress can be beneficial.",
+            "I see. How common is bipolar disorder?"
+        ],
+        "knowledge": "Bipolar disorder Bipolar disorder  Bipolar disorder affects approximately 2.8% of adults in the United States. It is a relatively common mental health condition.",
+        "response": "Bipolar disorder affects approximately 2.8% of adults in the United States."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a knee surgery. Any advice for my recovery?",
+            "After knee surgery, it's important to follow your doctor's instructions for post-operative care.",
+            "Are there any exercises I can do to aid in my recovery?",
+            "Physical therapy exercises, such as gentle stretching and strengthening exercises, can help improve your knee's range of motion and strength.",
+            "What about my diet during the recovery period?",
+            "A balanced diet that includes foods rich in nutrients like protein, vitamins, and minerals can support your body's healing process.",
+            "Should I avoid any activities or movements?",
+            "It's best to avoid high-impact activities and movements that put excessive strain on your knee joint while it's healing.",
+            "Got it. How long does the recovery process usually take?"
+        ],
+        "knowledge": "Knee surgery recovery Knee surgery recovery  The recovery time after knee surgery can vary depending on the type and extent of the procedure. It typically takes several weeks to months for a full recovery. Physical therapy and following post-operative care instructions are essential for optimal recovery.",
+        "response": "The recovery time after knee surgery can vary, but it typically takes several weeks to months for a full recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about mental illness.",
+            "Sure, I'm here to help. What would you like to know?",
+            "Can you explain the impact of mental illness on disability?",
+            "Mental illnesses rank among the most disabling conditions, causing a significant loss of healthy years.",
+            "I see. Which mental illnesses contribute the most to disability?",
+            "Unipolar major depression and alcohol use disorder are associated with most disabilities in high-income countries.",
+            "Interesting. Are there regional differences in disability due to mental illnesses?",
+            "Yes, in the eastern Mediterranean region, it's unipolar major depression and schizophrenia. In Africa, it's unipolar major depression and bipolar disorder.",
+            "What are the other leading causes of disability?"
+        ],
+        "knowledge": "Mental illness Mental illness Disability in this context may or may not involve such things as: In terms of total disability-adjusted life years, which is an estimate of how many years of life are lost due to premature death or to being in a state of poor health and disability, psychiatric disabilities rank amongst the most disabling conditions. Unipolar depressive disorder is the third leading cause of disability worldwide, of any condition mental or physical, accounting for 65.5 million years lost. The first systematic description of global disability arising in youth, in 2011, found that among 10- to 24-year-olds nearly half of all disability was due to psychiatric disabilities, including substance use disorders and conditions involving self-harm. Second to this were accidental injuries accounting for 12 percent of disability, followed by communicable diseases at 10 percent. The psychiatric disabilities associated with most disabilities in high-income countries were unipolar major depression and alcohol use disorder. In the eastern Mediterranean region, it was unipolar major depression and schizophrenia, and in Africa it was unipolar major depression and bipolar disorder Mental illness Mental illness",
+        "response": "Among mental illnesses, unipolar major depression and alcohol use disorder contribute the most to disability."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure. Can you give me some advice?",
+            "Of course! I'm here to assist you. What kind of advice are you looking for?",
+            "I'm wondering about lifestyle changes post-procedure. What should I focus on?",
+            "After a medical procedure, it's important to prioritize rest, maintain a balanced diet, and gradually increase physical activity.",
+            "Got it. Are there any specific dietary recommendations I should follow?",
+            "It's best to consult your doctor or a nutritionist for personalized dietary recommendations based on your specific procedure.",
+            "Okay, I'll do that. How about physical exercise? When can I start?",
+            "The timing may vary depending on the type of procedure. Your doctor will provide guidance on when you can safely begin physical exercise.",
+            "I see. Thank you for the advice, Medi."
+        ],
+        "knowledge": "No specific knowledge provided for this scenario.",
+        "response": "After a medical procedure, prioritize rest, maintain a balanced diet, and consult your doctor for personalized recommendations."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I've been experiencing symptoms related to mental illness. Can you help me?",
+            "I'm here to assist you. Please describe the symptoms you've been experiencing.",
+            "I've been feeling extremely sad, losing interest in activities, and having trouble sleeping.",
+            "These symptoms could be signs of depression. It's important to seek professional help for a proper diagnosis and treatment.",
+            "I'm afraid to reach out. Are there any self-help strategies I can try?",
+            "While self-help strategies can be helpful, it's still recommended to consult a healthcare professional for guidance and support.",
+            "I understand. Can you provide some examples of self-help strategies?",
+            "Engaging in regular physical exercise, maintaining a healthy sleep routine, and practicing relaxation techniques can be beneficial.",
+            "Thank you, Medi. I'll consider reaching out to a professional and trying these strategies."
+        ],
+        "knowledge": "No specific knowledge provided for this scenario.",
+        "response": "If you're experiencing symptoms of depression, it's important to seek professional help for a proper diagnosis and treatment. Self-help strategies can be beneficial, but consulting a healthcare professional is recommended."
+    }
+]

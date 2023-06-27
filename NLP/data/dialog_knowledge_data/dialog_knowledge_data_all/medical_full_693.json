@@ -1,0 +1,406 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have a headache and my throat is sore.",
+            "Hi, sorry to hear that. Can you describe your headache and how long have you had it?",
+            "It's a dull pain at the back of my head and it's been going on for two days.",
+            "Based on your symptoms, it is possible that you have a viral infection. You can try drinking more fluids and taking over-the-counter pain relievers.",
+            "Is there anything else I should do to get better?",
+            "Resting and keeping warm can also help. If your symptoms persist or worsen, you should consult a healthcare professional.",
+            "Thank you, Medi. What kind of viral infection could it be?",
+            "It's difficult to say without a physical examination. Your symptoms could be caused by a range of viruses, including the common cold or flu.",
+            "Okay, I will make sure to rest and monitor my symptoms."
+        ],
+        "knowledge": "Viral Infections Viral Infections  Many viral infections can cause headaches and sore throats, including the common cold, flu, and COVID-19. Symptoms usually include fever, cough, and fatigue. Treatment usually involves rest and over-the-counter pain relievers. If symptoms persist or worsen, a healthcare professional should be consulted. Viral Infections Viral Infections",
+        "response": "It's difficult to say without a physical examination. Your symptoms could be caused by a range of viruses, including the common cold or flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about meningitis. What are the symptoms?",
+            "Hi, meningitis is an inflammation of the protective membranes that surround the brain and spinal cord. Symptoms include fever, headache, and a stiff neck.",
+            "What should I do if I experience these symptoms?",
+            "If you experience these symptoms, it's important to seek medical attention immediately. Meningitis can be a very serious illness and requires prompt treatment.",
+            "How can I prevent getting meningitis?",
+            "The risk of infection can be decreased by changing the behavior that led to transmission. Many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes. This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.",
+            "Is there a vaccine for all types of meningitis?",
+            "Meningococcus vaccines exist against groups A, B, C, W135 and Y. In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially.",
+            "Thank you, Medi. That was really helpful."
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes. This has practically eliminated this pathogen as a cause of meningitis in young children in those countries. In the countries in which the disease burden is highest, however, the vaccine is still too expensive. Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y. In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "Meningococcus vaccines exist against groups A, B, C, W135 and Y. In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure how to take care of myself now.",
+            "Hi, congratulations on coming out of surgery! What kind of surgery did you have?",
+            "I had a hernia operation.",
+            "Okay, after surgery it's important to rest and take it easy for a while. You should avoid doing any heavy lifting or strenuous physical activity for a few weeks until your body has had a chance to heal.",
+            "What about my diet?",
+            "You should eat healthy foods and drink plenty of fluids to help your body heal. Avoid foods that are high in fat or sugar, as well as alcohol and caffeine.",
+            "How long will it take for me to recover?",
+            "Recovery time varies depending on the type of surgery and how your body responds to it. It's important to follow your doctor's instructions and attend any follow-up appointments to ensure a smooth recovery.",
+            "Thanks, Medi. That's really helpful."
+        ],
+        "knowledge": "Post-Surgery Care Post-Surgery Care  After surgery, it's important to rest and take it easy for a while. Patients should avoid doing any heavy lifting or strenuous physical activity for a few weeks until their body has had a chance to heal. They should eat healthy foods and drink plenty of fluids to help their body heal. Alcohol and caffeine should be avoided, as well as foods that are high in fat or sugar. Recovery time varies depending on the type of surgery and how the patient's body responds to it. Post-Surgery Care Post-Surgery Care",
+        "response": "Recovery time varies depending on the type of surgery and how your body responds to it. It's important to follow your doctor's instructions and attend any follow-up appointments to ensure a smooth recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel sick, can you help me?",
+            "Of course! What are your symptoms?",
+            "I have a headache and a fever, and I feel very tired.",
+            "How long have you been feeling this way?",
+            "Since yesterday morning.",
+            "Have you traveled recently or been in contact with anyone who is sick?",
+            "No, I haven't.",
+            "Based on your symptoms, it's possible that you have meningitis. You should see a doctor as soon as possible.",
+            "What is meningitis?"
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "Meningitis is an inflammation of the membranes that surround the brain and spinal cord. It can be caused by bacteria or viruses, and it can be very serious."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you tell me more about meningitis?",
+            "Sure, what would you like to know?",
+            "What are the symptoms of meningitis?",
+            "Symptoms of meningitis include fever, headache, and a stiff neck. Some people may also experience nausea, vomiting, and sensitivity to light.",
+            "How is meningitis treated?",
+            "Treatment depends on the cause of the meningitis. Bacterial meningitis is treated with antibiotics, and viral meningitis generally resolves on its own with supportive care.",
+            "Is there a vaccine for meningitis?",
+            "Yes, there are vaccines available for some types of meningitis, including Haemophilus influenzae type B and meningococcus.",
+            "Are there any side effects from the vaccines?"
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "Common side effects of meningitis vaccines include redness and soreness at the injection site, fever, and fatigue. Serious side effects are rare."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just recovered from meningitis. What should I do now?",
+            "Congratulations on your recovery! After meningitis, it's important to take care of yourself and monitor your health.",
+            "What kind of care should I take?",
+            "You should get plenty of rest and stay hydrated. You may also need to take medication to manage any lingering symptoms.",
+            "What kind of symptoms?",
+            "Symptoms of meningitis can include headaches, fatigue, and difficulty concentrating. Some people may also experience memory problems or depression.",
+            "Is there anything else I should do to prevent getting meningitis again?",
+            "You can decrease your risk of getting meningitis by washing your hands frequently, avoiding close contact with people who are sick, and making sure you are up to date on all recommended vaccinations.",
+            "Thank you so much for your help, Medi!"
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "You're welcome! I'm glad I could help. If you have any more questions or concerns, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm feeling sick and I'm concerned it might be meningitis.",
+            "I'll help you. Please tell me about your symptoms.",
+            "I've been experiencing a severe headache and high fever. My neck is stiff and I have a rash.",
+            "Based on your symptoms, it is important to seek medical attention immediately. Meningitis can be life-threatening.",
+            "What can I do to reduce my risk of getting meningitis?",
+            "Changing your behavior can decrease the risk of infection. Immunization against Haemophilus influenzae type B and mumps can also help.",
+            "Is there a vaccine for meningococcus?",
+            "Yes. Meningococcus vaccines exist against groups A, B, C, W135, and Y.",
+            "Can you give me more information about meningitis?"
+        ],
+        "knowledge": "Meningitis Meningitis The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes. This has practically eliminated this pathogen as a cause of meningitis in young children in those countries. In the countries in which the disease burden is highest, however, the vaccine is still too expensive. Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y. In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "Meningitis can be caused by a variety of bacteria and viruses. Symptoms include headaches, fever, neck stiffness, and a rash. It is important to seek medical attention immediately if you suspect you have meningitis."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have questions about the different types of meningitis.",
+            "Of course. What do you want to know?",
+            "What causes viral meningitis?",
+            "Viral meningitis is caused by a viral infection. The most common viruses that cause it are enteroviruses.",
+            "How is bacterial meningitis different from viral meningitis?",
+            "Bacterial meningitis is caused by bacteria, whereas viral meningitis is caused by a virus. Bacterial meningitis is more severe and can be life-threatening.",
+            "What are the symptoms of fungal meningitis?",
+            "The symptoms of fungal meningitis are similar to those of other types of meningitis, but may also include nausea and vomiting.",
+            "Can you tell me more about the symptoms of meningitis?"
+        ],
+        "knowledge": "Meningitis Meningitis Meningitis is an inflammation of the protective membranes covering the brain and spinal cord. The inflammation is usually caused by an infection of the fluid that surrounds the brain and spinal cord. The severity of the illness and the treatment depend on the cause of the infection. Bacterial meningitis is a medical emergency. The symptoms of meningitis include headache, fever, neck stiffness, nausea, vomiting, sensitivity to light, and a rash. Infants and young children may have different symptoms, such as a bulge in the soft spot on the top of their head, irritability, and poor feeding. Meningitis can be caused by a variety of bacteria and viruses. Symptoms include headaches, fever, neck stiffness, and a rash. It is important to seek medical attention immediately if you suspect you have meningitis.",
+        "response": "The symptoms of meningitis include headache, fever, neck stiffness, sensitivity to light, and a rash. Infants and young children may have different symptoms, such as a bulge in the soft spot on the top of their head, irritability, and poor feeding."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a lumbar puncture to test for meningitis. What are some things I can do after the procedure?",
+            "After a lumbar puncture, it is important to rest for a few hours and drink plenty of fluids.",
+            "Is there anything I should avoid after a lumbar puncture?",
+            "You should avoid strenuous activity, such as heavy lifting, for a few days after the procedure. You should also avoid taking a bath or swimming for at least 24 hours.",
+            "What can I eat after a lumbar puncture?",
+            "You can eat and drink normally after a lumbar puncture, but try to avoid caffeine and alcohol for a few hours.",
+            "Is there anything else I should know after a lumbar puncture?",
+            "If you experience any unusual symptoms, such as a severe headache or vision changes, seek medical attention immediately.",
+            "Thank you for your help, Medi!"
+        ],
+        "knowledge": "Meningitis Meningitis A lumbar puncture is a procedure that involves removing a small amount of cerebrospinal fluid from the back, near the spine. It is used to test for meningitis and other conditions. After a lumbar puncture, it is important to rest for a few hours and drink plenty of fluids. You should avoid strenuous activity, such as heavy lifting, for a few days after the procedure. You should also avoid taking a bath or swimming for at least 24 hours. You can eat and drink normally after a lumbar puncture, but try to avoid caffeine and alcohol for a few hours. If you experience any unusual symptoms, such as a severe headache or vision changes, seek medical attention immediately.",
+        "response": "You're welcome. If you experience any unusual symptoms, such as a severe headache or vision changes, seek medical attention immediately."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm worried about meningitis. Can you give me some info?",
+            "Sure, I can help. What would you like to know about it?",
+            "What are the ways to decrease the risk of meningitis?",
+            "One way is to change the behavior that led to the transmission. Immunization against Haemophilus influenzae type B has practically eliminated this pathogen as a cause of meningitis in young children in many countries. ",
+            "What about mumps meningitis?",
+            "Immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps.",
+            "Are there vaccines for meningococcus?",
+            "Yes, vaccines exist against groups A, B, C, W135 and Y. In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially.",
+            "Thank you, Medi. Have there been any recent developments in meningitis research?"
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "There have been recent developments in diagnosing meningitis, such as the use of biomarkers in cerebrospinal fluid."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've just had a spinal tap for meningitis. What should I do now?",
+            "After a spinal tap, you should take it easy for the rest of the day and avoid any strenuous activities. You may also experience some headache, so it is important to drink plenty of fluids and take pain medication as needed.",
+            "Is there anything else I should do?",
+            "You should also keep the puncture site clean and dry, and avoid swimming or soaking in water for a few days. If you develop a fever or any other symptoms, you should contact your healthcare provider.",
+            "What about my diet and physical activity?",
+            "It is important to maintain a healthy diet and exercise routine to support your immune system and aid in recovery. Your healthcare provider may also recommend specific lifestyle modifications based on your individual needs and medical history.",
+            "Thank you, Medi. Can I work or go to school after the spinal tap?",
+            "Usually, you can resume normal activities, including work or school, the day after a spinal tap. However, it is important to follow your healthcare provider's specific instructions and to listen to your body's needs.",
+            "Okay, thanks for your help, Medi."
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "You're welcome! Let me know if you have any other questions or concerns."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from meningitis. What should I do now?",
+            "Congratulations on your recovery! After meningitis, it is important to focus on maintaining a healthy lifestyle to support your immune system and overall health.",
+            "What kind of lifestyle changes should I make?",
+            "You should aim to eat a balanced diet rich in fruits, vegetables, and whole grains, and limit your intake of processed foods and added sugars. Regular exercise can also help boost your immune system and improve your overall health.",
+            "What about my sleep habits?",
+            "Getting adequate sleep is also important for supporting your immune system and aiding in recovery. Aim for at least 7-8 hours of sleep per night, and try to establish a consistent sleep schedule.",
+            "Thanks, Medi. What else should I do?",
+            "It is also important to attend any follow-up appointments with your healthcare provider, and to take any medications as prescribed. Your provider may also recommend additional lifestyle modifications or supplements based on your individual needs and medical history.",
+            "Okay, thanks for your help, Medi."
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "You're welcome! Let me know if you have any other questions or concerns."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am experiencing some symptoms",
+            "Hello! What are the symptoms you are experiencing?",
+            "I have a headache, fever and neck stiffness",
+            "It's best to see a doctor as these can be symptoms of meningitis",
+            "What is meningitis?",
+            "It's an inflammation of the protective membranes covering the brain and spinal cord",
+            "How can it be prevented?",
+            "It can be prevented by changing the behavior that led to transmission and through immunization.",
+            "Which types of vaccines are available for meningitis?"
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "They are vaccines for Haemophilus influenzae type B, mumps and meningococcus groups A, B, C, W135 and Y"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had a medical procedure done",
+            "I hope you are feeling better now! What sort of procedure did you have?",
+            "I had a surgery on my knee",
+            "It's important to take care of yourself post-op. Have you been doing any exercises?",
+            "No, I haven't",
+            "It's advisable to do some light exercises to aid recovery. Have you been eating well?",
+            "Yes, I have been eating a balanced diet",
+            "That's good to hear. It's important to maintain a healthy lifestyle. Do you have any questions?"
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "No, I don't have any questions. Thank you for your advice"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about meningitis",
+            "Sure, I'm here to help. What's your question?",
+            "What are the symptoms of meningitis?",
+            "The common symptoms are fever, headache and neck stiffness",
+            "Is it contagious?",
+            "Yes, it can be spread from person to person through respiratory or throat secretions",
+            "How can it be diagnosed?",
+            "It can be diagnosed through a physical examination, blood tests and a lumbar puncture",
+            "Ok thank you, Medi"
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "You're welcome! I hope that helps. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm not feeling well today. I have a fever and a headache.",
+            "Sorry to hear that. Have you taken your temperature?",
+            "Yes, it's 101.5 degrees Fahrenheit.",
+            "It sounds like you might have meningitis. You should see a doctor immediately.",
+            "What is meningitis?",
+            "Meningitis is an inflammation of the membranes that surround the brain and spinal cord. It can be caused by a viral or bacterial infection.",
+            "How can I prevent it?",
+            "The risk of infection can be decreased by changing the behavior that led to transmission. Countries have included immunization against Haemophilus influenzae type B in routine childhood vaccination schemes.",
+            "What should I do now?"
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "You should see a doctor immediately as meningitis can be very serious. They will be able to give you the proper treatment and medication."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain what meningitis is?",
+            "Sure, meningitis is an inflammation of the membranes that surround the brain and spinal cord. It can be caused by a viral or bacterial infection.",
+            "What are the symptoms of meningitis?",
+            "The symptoms can include fever, headache, stiff neck, and a rash. Other symptoms can include sensitivity to light, nausea, and vomiting.",
+            "How is meningitis treated?",
+            "The treatment depends on the cause of the meningitis. For bacterial meningitis, antibiotics are used. For viral meningitis, most people recover on their own.",
+            "Can meningitis be prevented?",
+            "The risk of infection can be decreased by changing the behavior that led to transmission. Countries have included immunization against Haemophilus influenzae type B in routine childhood vaccination schemes.",
+            "What are the long-term effects of meningitis?"
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "The long-term effects of meningitis can vary depending on the severity of the infection. Some people may experience permanent neurological damage or hearing loss, while others may recover fully."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a spinal tap. What should I do now?",
+            "You should rest for a few hours and avoid any strenuous activities.",
+            "Are there any side effects I should be aware of?",
+            "Some people may experience headaches or dizziness after a spinal tap. These symptoms usually go away on their own, but if they persist, you should contact your doctor.",
+            "Is there anything I can do to prevent these side effects?",
+            "Resting and drinking plenty of fluids can help prevent headaches and dizziness after a spinal tap.",
+            "How long do I need to rest?",
+            "It's recommended that you rest for at least 24 hours after a spinal tap. You should avoid any strenuous activities during this time.",
+            "What if I experience severe headaches or other symptoms?"
+        ],
+        "knowledge": "Spinal Tap Spinal Tap  A spinal tap is a procedure used to diagnose conditions that affect the brain and spinal cord, such as meningitis or multiple sclerosis. During a spinal tap, a needle is inserted into the spinal canal to collect a sample of cerebrospinal fluid. Some people may experience headaches or dizziness after a spinal tap. These symptoms usually go away on their own, but if they persist, you should contact your doctor. Resting and drinking plenty of fluids can help prevent headaches and dizziness after a spinal tap. It's recommended that you rest for at least 24 hours after a spinal tap. You should avoid any strenuous activities during this time. Severe headaches or other symptoms should be reported to your doctor immediately.",
+        "response": "If you experience severe headaches or other symptoms, you should contact your doctor immediately. They will be able to give you the proper treatment and medication."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm experiencing some symptoms.",
+            "Hi! Please tell me the symptoms.",
+            "I have a headache, neck stiffness and high fever.",
+            "Based on your symptoms, it can be meningitis.",
+            "What should I do now?",
+            "See a doctor immediately, it can be life-threatening.",
+            "Can meningitis be prevented?",
+            "Yes, the risk of infection can be decreased by changing behavior that led to transmission, and getting immunized against Haemophilus influenzae type B, mumps, and meningococcus vaccines can also help.",
+            "Thank you Medi, I will see a doctor right away."
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "Yes, meningitis can be prevented by changing behavior that led to transmission, and getting immunized against Haemophilus influenzae type B, mumps, and meningococcus vaccines."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a question about meningitis.",
+            "Sure, what's your question?",
+            "How is meningitis diagnosed?",
+            "It can be diagnosed by analyzing blood or cerebrospinal fluid.",
+            "What are the symptoms of meningitis?",
+            "The symptoms of meningitis include fever, headache, neck stiffness, nausea, vomiting, sensitivity to light, and confusion.",
+            "Is meningitis contagious?",
+            "Yes, meningitis is contagious and can be transmitted through respiratory and throat secretions.",
+            "Thank you for answering my questions, Medi."
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "You're welcome. If you have any more questions about meningitis, just let me know."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a lumbar puncture procedure.",
+            "Hi! How are you feeling after the procedure?",
+            "I'm feeling a bit sore and dizzy.",
+            "That's normal. What I can advise is to rest, keep yourself hydrated, and avoid any strenuous activities for the next few days.",
+            "Is there any specific food I should eat?",
+            "You should eat foods that are easy to digest and are rich in nutrients such as fruits, vegetables, and lean proteins.",
+            "How long will it take to recover?",
+            "It usually takes a day or two to recover from a lumbar puncture, but if you experience any unusual symptoms such as severe headaches or fever, please consult a doctor immediately.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Lumbar Puncture Lumbar Puncture  A lumbar puncture is a medical procedure used to obtain a sample of cerebrospinal fluid from the spinal canal.  The procedure involves inserting a needle into the spinal canal through the lower back.  It is used to diagnose and treat conditions affecting the brain and spinal cord, including meningitis and multiple sclerosis.  After the procedure, it is normal to experience soreness in the lower back and mild headache.  Resting and drinking plenty of fluids can help alleviate these symptoms. Lumbar Puncture Lumbar Puncture",
+        "response": "You're welcome. If you experience any unusual symptoms such as severe headaches or fever, please consult a doctor immediately."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a headache and feel very tired.",
+            "I see. Do you have any other symptoms?",
+            "Yes, I have a sore throat and runny nose.",
+            "Based on your symptoms, you may have influenza.",
+            "Is there anything I can do to feel better?",
+            "You can take over-the-counter medications and rest.",
+            "Okay, thank you. Can you tell me more about influenza?",
+            "Influenza is a viral infection that affects the respiratory system.",
+            "What are the common symptoms of influenza?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The common symptoms of influenza are fever, headache, muscle pain, sore throat, cough, and runny nose."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about meningitis.",
+            "Sure, I am here to help. What do you want to know?",
+            "What are the causes of meningitis?",
+            "Meningitis can be caused by viruses, bacteria, fungi, and parasites.",
+            "How can we prevent meningitis?",
+            "The risk of infection can be decreased by changing the behavior that led to transmission. Many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes. Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis. Meningococcus vaccines exist against groups A, B, C, W135 and Y.",
+            "That's helpful. Can you tell me more about these vaccines?",
+            "Meningococcus vaccines exist against groups A, B, C, W135 and Y. In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially.",
+            "I see. Thank you. Is meningitis contagious?"
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "Yes, meningitis can be contagious and is spread through contact with respiratory and throat secretions, such as saliva, from an infected person."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had meningitis and am wondering what lifestyle changes I need to make.",
+            "I'd be happy to help. What specifically are you curious about?",
+            "What should I eat or avoid after having meningitis?",
+            "It's important to eat a balanced diet with plenty of fruits and vegetables. Avoid processed and sugary foods.",
+            "Should I exercise?",
+            "It's important to start exercising gradually and listen to your body. You don't want to push yourself too hard too soon.",
+            "Are there any other lifestyle changes I should make?",
+            "It's important to get plenty of rest and avoid stressful situations when possible. Make sure to follow up with your doctor as well.",
+            "Thank you for your advice. Is there anything else I should know?"
+        ],
+        "knowledge": "Meningitis Meningitis  The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes.  This has practically eliminated this pathogen as a cause of meningitis in young children in those countries.  In the countries in which the disease burden is highest, however, the vaccine is still too expensive.  Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y.   In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "No, that covers everything. Just make sure to follow your doctor's instructions and take care of yourself."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a terrible headache.",
+            "Hello, I'm here to help. Can you tell me more about your symptoms?",
+            "I feel like my head is pounding, and I'm sensitive to light.",
+            "It seems like you might be experiencing a migraine. Have you had them before?",
+            "Yes, I've had them occasionally in the past.",
+            "In that case, you may benefit from rest and relaxation techniques. You can also try over-the-counter pain medication.",
+            "Thanks for your advice. Do you have any suggestions for preventing migraines?",
+            "Yes, you can try to avoid triggers such as stress, lack of sleep, or certain foods.",
+            "That's helpful. Thanks, Medi."
+        ],
+        "knowledge": "Migraine Migraine Migraine headaches are a type of headache that can cause intense pain, nausea, and sensitivity to light and sound. They can be triggered by stress, lack of sleep, certain foods or drinks, hormonal changes, or changes in weather. Over-the-counter pain medications and rest can help relieve symptoms. To prevent migraines, try to avoid triggers and practice relaxation techniques Migraine Migraine",
+        "response": "You're welcome. I'm glad I could help you with your headache. If you have any other questions or concerns, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about meningitis.",
+            "Of course. What would you like to know?",
+            "What are the symptoms of meningitis?",
+            "Symptoms of meningitis can include fever, headache, stiff neck, sensitivity to light, and confusion. In some cases, a rash may also appear.",
+            "How is meningitis treated?",
+            "Treatment for meningitis depends on the cause of the infection. It may involve antibiotics, antiviral medications, or supportive care such as fluids and rest.",
+            "Can meningitis be prevented?",
+            "Yes, the risk of infection can be decreased by changing behaviors that led to transmission. Vaccines are also available for certain types of meningitis, such as Haemophilus influenzae type B and meningococcus groups A, B, C, W135, and Y.",
+            "That's good to know. Thank you, Medi."
+        ],
+        "knowledge": "Meningitis Meningitis The risk of infection can be decreased by changing the behavior that led to transmission. Since the 1980s, many countries have included immunization against Haemophilus influenzae type B in their routine childhood vaccination schemes. This has practically eliminated this pathogen as a cause of meningitis in young children in those countries. In the countries in which the disease burden is highest, however, the vaccine is still too expensive. Similarly, immunization against mumps has led to a sharp fall in the number of cases of mumps meningitis, which prior to vaccination occurred in 15% of all cases of mumps. Meningococcus vaccines exist against groups A, B, C, W135 and Y. In countries where the vaccine for meningococcus group C was introduced, cases caused by this pathogen have decreased substantially Meningitis Meningitis",
+        "response": "You're welcome. If you have any other questions or concerns, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what to do next.",
+            "Hello, I'm here to help you. What kind of surgery did you have?",
+            "I had a knee replacement surgery.",
+            "After your surgery, it's important to follow your doctor's instructions for physical therapy and exercise. You should also rest and avoid heavy lifting or strenuous activity.",
+            "Are there any specific exercises I should do?",
+            "Yes, your physical therapist will give you exercises to do at home to help with your recovery.",
+            "What about my diet?",
+            "Eating a balanced diet with plenty of protein and vitamins can help with your recovery. You may also need to avoid certain foods or medications that can interfere with healing.",
+            "That's helpful. Thank you, Medi."
+        ],
+        "knowledge": "Knee replacement Knee replacement After knee replacement surgery, it's important to follow your doctor's instructions for physical therapy and exercise. You should also rest and avoid heavy lifting or strenuous activity. Your physical therapist will give you exercises to do at home to help with your recovery. Eating a balanced diet with plenty of protein and vitamins can help with your recovery. You may also need to avoid certain foods or medications that can interfere with healing Knee replacement Knee replacement",
+        "response": "You're welcome. If you have any other questions or concerns, feel free to ask."
+    }
+]

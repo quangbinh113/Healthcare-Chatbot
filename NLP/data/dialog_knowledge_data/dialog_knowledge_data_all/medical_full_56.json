@@ -1,0 +1,316 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I feel shortness of breath. Can you help me?",
+            "Of course, I will help. When do you feel that?",
+            "I feel shortness of breath for a few days but it's getting worse now. ",
+            "I see. Do you have a cough or wheezing?",
+            "Yes, I have a cough and wheezing too.",
+            "Based on your symptoms, it is possible that you have asthma",
+            "Is there a way to differentiate asthma from COPD?",
+            "Yes, there is a test called single-breath diffusing capacity that can help differentiate between the two.",
+            "Thanks, Medi. What else can I do to control asthma?"
+        ],
+        "knowledge": "Asthma Asthma  Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "You can control asthma by taking medications on time and avoiding triggers that can cause an asthma attack"
+    },
+    {
+        "dialog": [
+            "Hello Medi, what is a peak expiratory flow rate?",
+            "Peak expiratory flow rate is the maximum rate at which you can exhale air",
+            "What is the significance of this test?",
+            "It can be used to monitor your breathing and check how well your asthma is controlled",
+            "What factors can affect peak expiratory flow rate?",
+            "There are several factors that can affect this, such as age, height, weight, and gender.",
+            "Is it recommended for routine asthma diagnosis?",
+            "No, it is not recommended for routine diagnosis but it may be useful for daily self-monitoring in those with moderate to severe disease",
+            "Thanks, Medi. How often should I perform spirometry?"
+        ],
+        "knowledge": "Asthma Asthma  Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "It is reasonable to perform spirometry every one or two years to follow how well your asthma is controlled"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a methacholine challenge test",
+            "I see. Are the results positive or negative?",
+            "The result is positive, what does it mean?",
+            "A positive result means that you may have asthma, but it is not specific for the disease.",
+            "What other tests can be performed to support the diagnosis?",
+            "Other supportive evidence includes a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol or inhaled corticosteroids, or a \u226520% decrease in peak flow following exposure to a trigger",
+            "Thanks, Medi. How often should I perform spirometry?",
+            "It is reasonable to perform spirometry every one or two years to follow how well your asthma is controlled",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Asthma Asthma  Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "You're welcome. If you have any further questions, feel free to ask me anytime."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have difficulties breathing.",
+            "I'm sorry to hear that. Can you describe your other symptoms?",
+            "I have wheezing and tightness in the chest as well.",
+            "It seems like you may have asthma. Have you been diagnosed before?",
+            "Yes, I have been diagnosed before. What can I do to control it?",
+            "It is reasonable to perform spirometry every one or two years to follow how well your asthma is controlled. Avoiding triggers like smoke, pollen or dust and following medication regimen can help. ",
+            "What about the methacholine challenge?",
+            "It involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed. If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease.",
+            "Thanks for your advice. How can I differentiate asthma from COPD?"
+        ],
+        "knowledge": "Asthma Asthma  Single-breath diffusing capacity can help differentiate asthma from COPD. It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "Single-breath diffusing capacity can help differentiate asthma from COPD. Spirometry and methacholine challenge are also important tests to diagnose asthma. However, only a qualified doctor can perform these tests and make a diagnosis"
+    },
+    {
+        "dialog": [
+            "Medi, I want to know more about asthma.",
+            "Sure, what would you like to know?",
+            "What causes asthma?",
+            "Asthma is caused by a combination of genetic and environmental factors. Exposure to allergens, irritants, or respiratory infections can trigger asthma.",
+            "What are the symptoms of asthma?",
+            "The symptoms of asthma include wheezing, coughing, chest tightness, and shortness of breath.",
+            "Can asthma be cured?",
+            "Asthma is a chronic condition, but it can be managed with proper treatment and lifestyle changes. There is no known cure for asthma yet.",
+            "Thank you for your explanation. Can you recommend any physical exercise for people with asthma?"
+        ],
+        "knowledge": "Asthma Asthma  Single-breath diffusing capacity can help differentiate asthma from COPD. It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "Some low-impact exercises, such as walking, swimming, and cycling, can improve lung function and overall health for people with asthma. However, it is important to consult with a doctor before starting any new exercise routine."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have just undergone a medical procedure.",
+            "I hope everything went well. What procedure did you have?",
+            "I had a spirometry test to check my lungs.",
+            "That's good. Do you have any questions about the test results?",
+            "Yes, what is the normal result for spirometry?",
+            "The normal result varies depending on factors such as age, height, and sex. Your doctor can help you interpret your spirometry results based on these factors.",
+            "What can I expect after the test?",
+            "You may experience some shortness of breath or dizziness for a short time after the test, but this should go away quickly. If you have any concerns, contact your doctor.",
+            "Thank you for your advice. Can you recommend any lifestyle changes or diet for me?"
+        ],
+        "knowledge": "Asthma Asthma  Single-breath diffusing capacity can help differentiate asthma from COPD. It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "Some lifestyle changes that can help manage asthma include avoiding triggers, quitting smoking, and maintaining a healthy diet. A diet rich in fruits and vegetables and low in fats has been associated with better control of asthma symptoms."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have trouble breathing and feel tightness in my chest.",
+            "I understand. Do you have a history of asthma or COPD?",
+            "Yes, I have asthma. What can I do to manage my symptoms?",
+            "One option is to perform spirometry every one or two years to track your asthma's control.",
+            "What else can I do?",
+            "You can monitor your peak expiratory flow rate and take note of any changes.",
+            "How about methacholine challenge?",
+            "It is a test to check airway narrowing, but it is not specific for asthma.",
+            "I see. How often should I test my peak expiratory flow rate?"
+        ],
+        "knowledge": "Asthma Asthma Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "It is recommended to monitor your peak expiratory flow rate daily or weekly."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about asthma.",
+            "Sure. What would you like to know?",
+            "How can I differentiate asthma from COPD?",
+            "One way is to perform single-breath diffusing capacity, which can help distinguish between the two.",
+            "What other ways can I check?",
+            "Spirometry every one or two years can help track your asthma's control.",
+            "What is methacholine challenge?",
+            "It is a test that checks for airway narrowing, but it is not specific for asthma.",
+            "Thank you for your response. How can I check peak expiratory flow rate?"
+        ],
+        "knowledge": "Asthma Asthma Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "You can check your peak expiratory flow rate using a peak flow meter."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure for asthma. What advice do you have for me?",
+            "Congratulations on completing your procedure. What kind of advice do you need?",
+            "I would like advice on my diet and physical exercise.",
+            "It is important to maintain a healthy diet with plenty of fruits and vegetables. For exercise, start with light activities such as walking or yoga.",
+            "Anything else?",
+            "Make sure to follow your doctor's instructions for medication and monitor your symptoms regularly.",
+            "How can I monitor my symptoms?",
+            "You can monitor your peak expiratory flow rate and take note of any changes.",
+            "Thank you for the advice. How often should I test my peak expiratory flow rate?"
+        ],
+        "knowledge": "Asthma Asthma Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "You should test your peak expiratory flow rate daily or weekly to monitor your asthma's control."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm experiencing some symptoms in my breathing.",
+            "I'm here to help. Can you tell me more about what you're feeling?",
+            "I'm feeling short of breath and wheezing.",
+            "Based on your symptoms, it's possible that you have asthma. Have you had any previous history of asthma?",
+            "Yes, actually I did back when I was a teenager.",
+            "That could be a possibility then. I suggest you schedule an appointment with your doctor to discuss your symptoms and possibly undergo spirometry.",
+            "What is spirometry and how can it help diagnose my condition?",
+            "Spirometry is a lung function test that measures how much air you inhale, exhale, and how quickly you exhale. It can help differentiate asthma from COPD and can also track the progress of your asthma treatment.",
+            "Got it. Thanks for the advice, Medi."
+        ],
+        "knowledge": "Asthma Asthma  Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "You're welcome. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I wanted to ask you about asthma triggers.",
+            "Sure, I'd be happy to help. What do you want to know?",
+            "What are some common triggers for asthma?",
+            "Some common triggers include pollen, dust, mold, pet dander, and air pollution.",
+            "Can you tell me more about air pollution as a trigger?",
+            "Air pollution can irritate the airways and cause symptoms such as coughing, wheezing, and shortness of breath. It's important to try to avoid areas with high levels of pollution and to limit outdoor activities on high pollution days.",
+            "Got it. Thanks for the information, Medi.",
+            "You're welcome! Let me know if you have any other questions."
+        ],
+        "knowledge": "Asthma Asthma  Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "No problem, happy to help!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a procedure to treat my asthma. Any advice for recovery?",
+            "Of course! What procedure did you undergo?",
+            "I had bronchial thermoplasty.",
+            "After the procedure, you may experience some coughing, wheezing, and shortness of breath for a few days. It's important to follow your doctor's instructions and continue taking your medication as prescribed.",
+            "What about physical activity?",
+            "It's important to take it easy for a few days after the procedure and avoid any strenuous physical activity. After that, you can gradually increase your activity level as recommended by your doctor.",
+            "What about my diet?",
+            "There are no specific dietary restrictions following the procedure. However, it's important to maintain a healthy and well-balanced diet to support your overall health.",
+            "Thanks for the advice, Medi!"
+        ],
+        "knowledge": "Asthma Asthma  Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "You're welcome. Take care and feel better soon!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am feeling out of breath lately.",
+            "Hi! How often do you experience this symptom?",
+            "It's happening all the time, even when I am resting.",
+            "Based on your symptoms, you may be experiencing asthma. Have you ever been diagnosed with it?",
+            "No, I haven't. What tests can be done to diagnose asthma?",
+            "Spirometry is a good test to diagnose asthma. It can be done every one or two years to track how well your asthma is controlled.",
+            "Are there any other tests that can be done?",
+            "Yes, the methacholine challenge is another test that can help diagnose asthma. It involves inhaling increasing concentrations of a substance that causes airway narrowing in people predisposed to asthma.",
+            "Alright, thanks for the information, how do I manage my asthma?"
+        ],
+        "knowledge": "Asthma Asthma Single-breath diffusing capacity can help differentiate asthma from COPD. It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed. If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger. Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis. It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma ",
+        "response": "You can manage your asthma with medications such as short-acting inhalers like albuterol to control symptoms and long-acting inhalers like corticosteroids to prevent symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, is it possible for me to have both asthma and COPD?",
+            "Hi! Yes, it's possible to have both asthma and COPD.",
+            "What is the difference between asthma and COPD?",
+            "Asthma is a condition where the airways in your lungs narrow and swell, making it difficult to breathe. COPD, on the other hand, is a group of lung diseases that make it difficult to breathe because of damage to the lung tissue.",
+            "Is there any test that can help differentiate between asthma and COPD?",
+            "Yes, single-breath diffusing capacity is a test that can help differentiate between asthma and COPD.",
+            "What lifestyle changes can I make to manage my COPD?",
+            "You can make some changes to your lifestyle that can help manage COPD such as quitting smoking, eating a healthy diet, and getting regular exercise.",
+            "Thanks for the information. How often should I get my spirometry done?"
+        ],
+        "knowledge": "Asthma Asthma Single-breath diffusing capacity can help differentiate asthma from COPD. It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed. If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger. Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis. It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma ",
+        "response": "It's reasonable to perform spirometry every one or two years to follow how well your asthma and COPD are controlled."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure. What lifestyle changes should I make?",
+            "Hi! It's important to maintain a healthy lifestyle after a medical procedure. What procedure did you have?",
+            "I had a heart procedure done.",
+            "After a heart procedure, it's important to eat a healthy diet, exercise regularly, and quit smoking if you smoke.",
+            "Can you give me an example of a heart-healthy diet?",
+            "Sure! A heart-healthy diet should include fruits, vegetables, whole grains, lean proteins, and low-fat dairy products. It's important to limit saturated and trans fats, sodium, and added sugars.",
+            "Thanks for the information. How often should I exercise?",
+            "You should aim to get at least 150 minutes of moderate-intensity aerobic exercise per week. This can be spread out over several days.",
+            "Thanks for the advice, Medi. What is a good way to quit smoking?"
+        ],
+        "knowledge": "Heart procedure Heart procedure After a heart procedure, it is important to follow a heart-healthy lifestyle which includes eating a healthy diet, exercising regularly, and quitting smoking if you smoke. A heart-healthy diet should include fruits, vegetables, whole grains, lean proteins, and low-fat dairy products. It's important to limit saturated and trans fats, sodium, and added sugars. You should aim to get at least 150 minutes of moderate-intensity aerobic exercise per week. This can be spread out over several days. Quitting smoking can be difficult, but there are many resources available such as nicotine replacement therapy, prescription medications, and support groups. ",
+        "response": "Nicotine replacement therapy, prescription medications, and support groups are all good ways to quit smoking."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have difficulty breathing since yesterday",
+            "I am sorry to hear that, can you describe the symptoms?",
+            "Yes, shortness of breath, wheezing, and chest tightness",
+            "These symptoms could be asthma. Have you ever been diagnosed with asthma?",
+            "No, I haven't.",
+            "I suggest you visit a doctor for a spirometry test to confirm the diagnosis",
+            "What is a spirometry test?",
+            "It is a breathing test that measures lung function and can help diagnose asthma",
+            "Thanks for the advice, Medi"
+        ],
+        "knowledge": "Asthma Asthma  Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "I suggest you visit a doctor for a spirometry test to confirm the diagnosis"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have questions about asthma",
+            "Sure, I am here to answer your questions",
+            "Can you explain the difference between asthma and COPD?",
+            "Asthma is characterized by airway inflammation and reversible airway narrowing, while COPD is characterized by irreversible airway obstruction",
+            "I see. What is the methacholine challenge?",
+            "It's a test that can help diagnose asthma by inhaling increasing concentrations of a substance that causes airway narrowing. If positive, it means a person has asthma",
+            "What is peak expiratory flow?",
+            "It's the maximum speed of air that can be breathed out. It can be used to monitor the severity of asthma",
+            "Thanks, Medi. You've been very helpful"
+        ],
+        "knowledge": "Asthma Asthma  Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "You're welcome. If you have any more questions, feel free to ask"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had spirometry yesterday and I have asthma. What should I do now?",
+            "I am sorry to hear that. The first step is to create an asthma action plan. Do you have one?",
+            "No, I don't. What is it?",
+            "It is a written plan that outlines what medications to take and when, as well as what to do in case of an asthma flare-up",
+            "Okay. What about lifestyle changes?",
+            "Avoid any triggers that worsen your asthma, exercise regularly, and maintain a healthy weight",
+            "Thanks, Medi. What medication should I take?",
+            "It depends on the severity of your asthma. A doctor will prescribe medication that best suits your needs",
+            "Okay, I will make an appointment with my doctor. Thank you for your help"
+        ],
+        "knowledge": "Asthma Asthma  Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "You're welcome. I hope you feel better soon"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some trouble with my breathing lately.",
+            "Okay. Can you describe your symptoms in more detail?",
+            "I feel like my chest is tight, and I can't seem to catch my breath.",
+            "It is possible that you are experiencing an asthma attack. Have you ever been diagnosed with asthma?",
+            "No, I haven't. What should I do?",
+            "It's important to get a proper diagnosis, so I suggest you see a doctor. In the meantime, try to stay calm and take slow, deep breaths.",
+            "Will do. Thank you, Medi.",
+            "You're welcome. Stay safe and take care of yourself.",
+            "Is there anything else I should know about asthma?"
+        ],
+        "knowledge": "Asthma Asthma Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "If you or anyone you know is diagnosed with asthma, it's important to have a plan in place for managing it. This may include taking medication, avoiding triggers, and monitoring your symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, could you help me understand the difference between asthma and COPD?",
+            "Certainly. Both asthma and COPD are respiratory diseases, but they have different causes and symptoms.",
+            "Can you give me some examples?",
+            "Asthma is typically caused by inflammation in the airways, while COPD is usually caused by long-term exposure to irritants such as cigarette smoke. Symptoms of asthma can include wheezing, coughing, and shortness of breath, while symptoms of COPD can include chronic cough, chest tightness, and difficulty breathing.",
+            "Thank you for the explanation, Medi.",
+            "You're very welcome. Do you have any other questions?",
+            "Yes, one more. Can asthma and COPD be treated in the same way?",
+            "No, the treatment for each condition is different. Asthma is often treated with bronchodilators and corticosteroids, while COPD may be treated with medications such as bronchodilators and inhaled steroids, as well as oxygen therapy in more severe cases.",
+            "I see. That's good to know. Thank you again, Medi."
+        ],
+        "knowledge": "Asthma Asthma Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "It's important to consult a healthcare professional if you suspect you have either asthma or COPD, as they can provide a proper diagnosis and recommend the appropriate treatment plan."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently underwent a spirometry test. Can you explain the results to me?",
+            "Of course. Spirometry is a test that measures lung function. The results are compared to normal values for someone of your age, height, sex, and race.",
+            "What do the results show?",
+            "There are several measurements that are taken during spirometry, including the amount of air you can exhale forcefully in one second (FEV1) and the total amount of air you can exhale (FVC). The results can help diagnose conditions like asthma and COPD and monitor how well your lungs are functioning over time.",
+            "That's good to know. What do my results mean?",
+            "Without seeing your specific results, it's difficult for me to say. However, your doctor should be able to explain the results to you in more detail and discuss any necessary next steps.",
+            "Thank you for the information, Medi.",
+            "You're welcome. Is there anything else you'd like to know?",
+            "Yes, just one more question. Can spirometry be used to diagnose other respiratory conditions besides asthma and COPD?"
+        ],
+        "knowledge": "Asthma Asthma Single-breath diffusing capacity can help differentiate asthma from COPD.  It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled. The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed.  If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease. Other supportive evidence includes: a \u226520% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a \u226520% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a \u226520% decrease in peak flow following exposure to a trigger.  Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis.  It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications Asthma Asthma",
+        "response": "If you're concerned about your spirometry results, I recommend speaking with a healthcare professional who can provide you with a proper diagnosis and recommend the appropriate treatment plan."
+    }
+]

@@ -1,0 +1,361 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I think I might have the flu. What should I do?",
+            "Hello. Let me ask you a few questions to help diagnose your symptoms.",
+            "Sure, ask away.",
+            "Have you been experiencing a fever, cough, sore throat, headache, muscle aches, or fatigue?",
+            "Yes, I have a fever, headache and feel very tired.",
+            "Based on your symptoms, you may have the flu. I recommend you stay home, rest, and drink plenty of fluids. If your symptoms get worse or don't improve after a few days, contact your healthcare provider.",
+            "Got it. Is there anything else I can do to feel better?",
+            "Yes, you can take over-the-counter medications like acetaminophen or ibuprofen to help reduce fever and relieve aches and pains.",
+            "Thank you, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Stay home, rest, drink plenty of fluids, and take over-the-counter medications like acetaminophen or ibuprofen to help reduce fever and relieve aches and pains."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about the flu?",
+            "Of course, what do you want to know?",
+            "What causes the flu?",
+            "The flu is caused by the influenza virus.",
+            "How is the flu spread?",
+            "The flu is spread through respiratory droplets when an infected person talks, coughs, or sneezes. It can also be spread by touching a surface contaminated with the virus and then touching your mouth, nose, or eyes.",
+            "Who is most at risk of getting the flu?",
+            "People who are elderly, very young, pregnant, or immunocompromised are at a higher risk of getting the flu. Children under the age of 5 are also at a higher risk for complications from the flu.",
+            "Thanks, Medi. How can I prevent getting the flu?"
+        ],
+        "knowledge": "Influenza Influenza  The role of genetics in influenza is not well researched, but it may be a factor in influenza mortality. Influenza is typically characterized by seasonal epidemics and sporadic pandemics.  Most of the burden of influenza is a result of flu seasons caused by IAV and IBV.  Among IAV subtypes, H1N1 and H3N2 circulate in humans and are responsible for seasonal influenza.  Cases disproportionately occur in children, but most severe causes are among the elderly, the very young, and the immunocompromised.  In a typical year, influenza viruses infect 5\u201315% of the global population, causing 3\u20135 million cases of severe illness annually and accounting for 290,000\u2013650,000 deaths each year due to respiratory illness.  5\u201310% of adults and 20\u201330% of children contract influenza each year Influenza Influenza",
+        "response": "You're welcome. Remember to get an annual flu vaccine, wash your hands frequently, and avoid close contact with people who are sick to prevent getting the flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently recovered from the flu. What should I do to prevent getting it again?",
+            "Hello. I'm glad to hear you're feeling better. The best way to prevent getting the flu again is to get an annual flu vaccine.",
+            "How effective is the flu vaccine?",
+            "The effectiveness of the flu vaccine varies each year, depending on how well the vaccine matches the flu strains that are circulating. However, even if the vaccine isn't a perfect match, it can still reduce the severity of symptoms if you do get the flu.",
+            "What else can I do to prevent getting the flu?",
+            "You can also practice good hygiene by washing your hands frequently, avoiding close contact with people who are sick, and covering your mouth and nose when you cough or sneeze.",
+            "Thanks, Medi. Is there anything else I should know?",
+            "It's also important to maintain a healthy lifestyle by getting enough sleep, eating a balanced diet, and exercising regularly to help boost your immune system.",
+            "Great, thank you for the advice, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The role of genetics in influenza is not well researched, but it may be a factor in influenza mortality. Influenza is typically characterized by seasonal epidemics and sporadic pandemics.  Most of the burden of influenza is a result of flu seasons caused by IAV and IBV.  Among IAV subtypes, H1N1 and H3N2 circulate in humans and are responsible for seasonal influenza.  Cases disproportionately occur in children, but most severe causes are among the elderly, the very young, and the immunocompromised.  In a typical year, influenza viruses infect 5\u201315% of the global population, causing 3\u20135 million cases of severe illness annually and accounting for 290,000\u2013650,000 deaths each year due to respiratory illness.  5\u201310% of adults and 20\u201330% of children contract influenza each year Influenza Influenza",
+        "response": "You're welcome. Remember to get an annual flu vaccine, practice good hygiene, and maintain a healthy lifestyle to prevent getting the flu again."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am having a cough and fever",
+            "I'm sorry to hear that. How long have you been experiencing these symptoms?",
+            "For the past two days",
+            "Have you traveled recently or come into contact with someone who has been sick?",
+            "No, I haven't",
+            "Do you have any other symptoms like a runny nose or sore throat?",
+            "Yes, I do have a runny nose and my throat is sore",
+            "Based on your symptoms, it's possible that you have a seasonal flu. You should take plenty of rest and drink fluids",
+            "What do I do if my symptoms get worse?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "If your symptoms get worse, you should see a doctor for further evaluation and treatment"
+    },
+    {
+        "dialog": [
+            "Hi Medi, what is influenza and how is it spread?",
+            "Influenza is a respiratory illness caused by influenza viruses that can be spread from person to person through the air by coughing or sneezing or by touching a surface contaminated with the virus",
+            "What are the symptoms of influenza?",
+            "The symptoms of influenza include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills and fatigue",
+            "Is there a cure for influenza?",
+            "There is no cure for influenza. Treatment typically involves rest and fluids and possibly antiviral medications",
+            "Can influenza lead to other complications?",
+            "Yes, influenza can lead to complications like pneumonia and bronchitis, especially in people with weakened immune systems or underlying health conditions",
+            "How can I prevent getting influenza?"
+        ],
+        "knowledge": "Influenza Influenza  The role of genetics in influenza is not well researched, but it may be a factor in influenza mortality. Influenza is typically characterized by seasonal epidemics and sporadic pandemics.  Most of the burden of influenza is a result of flu seasons caused by IAV and IBV.  Among IAV subtypes, H1N1 and H3N2 circulate in humans and are responsible for seasonal influenza.  Cases disproportionately occur in children, but most severe causes are among the elderly, the very young, and the immunocompromised.  In a typical year, influenza viruses infect 5\u201315% of the global population, causing 3\u20135 million cases of severe illness annually and accounting for 290,000\u2013650,000 deaths each year due to respiratory illness.  5\u201310% of adults and 20\u201330% of children contract influenza each year Influenza Influenza",
+        "response": "You can prevent getting influenza by getting vaccinated, washing your hands frequently, avoiding close contact with sick people, and staying home if you are sick"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from influenza. What should I do to stay healthy?",
+            "I'm glad to hear that you've recovered. To stay healthy, you should get plenty of rest, eat a balanced diet, exercise regularly, and wash your hands frequently",
+            "Is there anything I can do to boost my immune system?",
+            "Yes, you can boost your immune system by eating foods high in vitamins and antioxidants, getting regular exercise, reducing stress, and getting enough sleep",
+            "What else can I do to prevent getting sick again?",
+            "You can also prevent getting sick again by avoiding close contact with sick people, covering your mouth and nose when you cough or sneeze, and avoiding touching your face with unwashed hands",
+            "Thank you, Medi. That was very helpful",
+            "You're welcome. If you have any more questions, feel free to ask",
+            "Actually, can the influenza virus mutate and become resistant to antiviral medications?"
+        ],
+        "knowledge": "Influenza Influenza  Influenza viruses can mutate rapidly, which is why the flu vaccine needs to be updated annually. Antiviral medications can also become less effective if the virus mutates, making it harder to treat. However, there are typically several antiviral medications that can be used to treat influenza, so resistance is not a major concern at this time",
+        "response": "While influenza viruses can mutate and become resistant to antiviral medications, it is not currently a major concern because there are several different antiviral medications available to treat the virus"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am not feeling well, can you help me?",
+            "Of course, I'll do my best. What are your symptoms?",
+            "I have a fever, a runny nose, and a cough.",
+            "How long have you been feeling like this?",
+            "For two days now.",
+            "Have you traveled anywhere recently?",
+            "No, I haven't gone anywhere.",
+            "Based on your symptoms, I think you may have the flu.",
+            "What should I do to feel better?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "I recommend that you rest, drink plenty of fluids, and take over-the-counter medication to relieve your symptoms. If your condition worsens or your symptoms persist, you should seek medical attention."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I am looking to avoid getting the flu this season.",
+            "Good for you! The flu can be pretty nasty. What can I help you with?",
+            "What are some things I can do to avoid getting the flu?",
+            "The most important thing you can do is get vaccinated, but there are other steps you can take too.",
+            "Like what?",
+            "Wash your hands regularly, avoid close contact with people who are sick, cover your mouth and nose when coughing or sneezing, and avoid touching your face.",
+            "Is there anything else I can do?",
+            "Yes, you can boost your immune system by eating a healthy diet, getting enough sleep, and staying active.",
+            "Thanks, I'll do my best to stay healthy!"
+        ],
+        "knowledge": "Influenza Influenza  The role of genetics in influenza is not well researched, but it may be a factor in influenza mortality. Influenza is typically characterized by seasonal epidemics and sporadic pandemics.  Most of the burden of influenza is a result of flu seasons caused by IAV and IBV.  Among IAV subtypes, H1N1 and H3N2 circulate in humans and are responsible for seasonal influenza.  Cases disproportionately occur in children, but most severe causes are among the elderly, the very young, and the immunocompromised.  In a typical year, influenza viruses infect 5\u201315% of the global population, causing 3\u20135 million cases of severe illness annually and accounting for 290,000\u2013650,000 deaths each year due to respiratory illness.  5\u201310% of adults and 20\u201330% of children contract influenza each year Influenza Influenza",
+        "response": "Great! Remember to also avoid crowded places and to take extra precautions during flu season."
+    },
+    {
+        "dialog": [
+            "Hi there Medi, I just got over the flu. What can I do to prevent getting it again?",
+            "It's good to hear that you're feeling better. I can give you some tips on how to avoid getting it again.",
+            "That would be great!",
+            "Firstly, continue to practice good hygiene by washing your hands regularly and avoiding close contact with people who are sick.",
+            "Ok, what else can I do?",
+            "Boost your immune system by eating a healthy diet, getting enough sleep, and staying active.",
+            "I will do that, anything else?",
+            "Yes, it's also important to disinfect surfaces that are frequently touched, such as doorknobs, light switches, and remote controls.",
+            "Thanks for your help, Medi!"
+        ],
+        "knowledge": "Influenza Influenza  The role of genetics in influenza is not well researched, but it may be a factor in influenza mortality. Influenza is typically characterized by seasonal epidemics and sporadic pandemics.  Most of the burden of influenza is a result of flu seasons caused by IAV and IBV.  Among IAV subtypes, H1N1 and H3N2 circulate in humans and are responsible for seasonal influenza.  Cases disproportionately occur in children, but most severe causes are among the elderly, the very young, and the immunocompromised.  In a typical year, influenza viruses infect 5\u201315% of the global population, causing 3\u20135 million cases of severe illness annually and accounting for 290,000\u2013650,000 deaths each year due to respiratory illness.  5\u201310% of adults and 20\u201330% of children contract influenza each year Influenza Influenza",
+        "response": "You're welcome. Remember to keep these tips in mind to help prevent getting the flu again."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and a cough.",
+            "Hello there, Based on your symptoms, you likely have influenza.",
+            "What should I do to treat it?",
+            "Drink plenty of fluids, get lots of rest, and take over-the-counter medications such as acetaminophen or ibuprofen.",
+            "Can I prevent it?",
+            "Wash your hands regularly, avoid touching your face, and get an annual flu vaccine.",
+            "Thanks, Medi. How long will it last?",
+            "The symptoms usually last for two to eight days.",
+            "What can I do to avoid getting it again?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You can avoid getting influenza by washing your hands regularly, avoiding touching your face, and getting an annual flu vaccine."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I want to know more about influenza.",
+            "Of course, what specific aspect of the disease do you want to know?",
+            "What causes influenza?",
+            "Influenza is caused by influenza viruses that primarily infect the respiratory tract of humans and some animals.",
+            "What are the different types of influenza viruses?",
+            "There are three types of influenza viruses: influenza A, B, and C.",
+            "What is the difference between them?",
+            "Influenza A and B are the types that commonly cause seasonal epidemics in humans, while influenza C usually causes mild respiratory illness and does not typically cause epidemics.",
+            "Thanks for the information, Medi. How is it treated?"
+        ],
+        "knowledge": "Influenza Influenza  The role of genetics in influenza is not well researched, but it may be a factor in influenza mortality. Influenza is typically characterized by seasonal epidemics and sporadic pandemics.  Most of the burden of influenza is a result of flu seasons caused by IAV and IBV.  Among IAV subtypes, H1N1 and H3N2 circulate in humans and are responsible for seasonal influenza.  Cases disproportionately occur in children, but most severe causes are among the elderly, the very young, and the immunocompromised.  In a typical year, influenza viruses infect 5\u201315% of the global population, causing 3\u20135 million cases of severe illness annually and accounting for 290,000\u2013650,000 deaths each year due to respiratory illness.  5\u201310% of adults and 20\u201330% of children contract influenza each year Influenza Influenza",
+        "response": "Influenza is typically treated by drinking plenty of fluids, getting lots of rest, and taking over-the-counter medications such as acetaminophen or ibuprofen."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had the flu shot. What should I expect?",
+            "Hello! You may experience some mild side effects such as soreness, redness, or swelling at the injection site, a low-grade fever, and muscle aches.",
+            "How long do these side effects last?",
+            "These side effects usually last for one to two days.",
+            "Is the vaccine safe?",
+            "Yes, the flu vaccine is safe and the most effective way to prevent the flu.",
+            "Can I still get the flu even if I got the vaccine?",
+            "Yes, it is possible to get the flu even if you got the vaccine, but the symptoms will be milder and the flu will be less likely to lead to complications.",
+            "Thanks, Medi. When should I get the flu vaccine?"
+        ],
+        "knowledge": "Influenza Influenza  The role of genetics in influenza is not well researched, but it may be a factor in influenza mortality. Influenza is typically characterized by seasonal epidemics and sporadic pandemics.  Most of the burden of influenza is a result of flu seasons caused by IAV and IBV.  Among IAV subtypes, H1N1 and H3N2 circulate in humans and are responsible for seasonal influenza.  Cases disproportionately occur in children, but most severe causes are among the elderly, the very young, and the immunocompromised.  In a typical year, influenza viruses infect 5\u201315% of the global population, causing 3\u20135 million cases of severe illness annually and accounting for 290,000\u2013650,000 deaths each year due to respiratory illness.  5\u201310% of adults and 20\u201330% of children contract influenza each year Influenza Influenza",
+        "response": "The best time to get the flu vaccine is in the fall, before flu season begins."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms.",
+            "What are your symptoms?",
+            "I feel very tired and have a fever. I also have a dry cough and body aches.",
+            "Based on your symptoms, you may have the flu. Please rest and stay hydrated.",
+            "What should I do if it gets worse?",
+            "You should seek medical attention if your symptoms worsen or if you have trouble breathing.",
+            "Thanks for the advice.",
+            "You're welcome.",
+            "Is there anything I can do to prevent getting the flu again?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Yes, you can prevent the flu by getting a flu shot and practicing good hygiene like washing your hands frequently."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about the flu.",
+            "Sure, what would you like to know?",
+            "How does the flu spread?",
+            "The flu is spread through respiratory droplets when an infected person coughs, sneezes, or talks.",
+            "What can I do to prevent getting the flu?",
+            "You can prevent getting the flu by getting a flu shot, washing your hands frequently, and avoiding close contact with sick people.",
+            "Thanks for the information.",
+            "You're welcome.",
+            "Can the flu be deadly?"
+        ],
+        "knowledge": "Influenza Influenza The role of genetics in influenza is not well researched, but it may be a factor in influenza mortality. Influenza is typically characterized by seasonal epidemics and sporadic pandemics. Most of the burden of influenza is a result of flu seasons caused by IAV and IBV. Among IAV subtypes, H1N1 and H3N2 circulate in humans and are responsible for seasonal influenza. Cases disproportionately occur in children, but most severe causes are among the elderly, the very young, and the immunocompromised. In a typical year, influenza viruses infect 5\u201315% of the global population, causing 3\u20135 million cases of severe illness annually and accounting for 290,000\u2013650,000 deaths each year due to respiratory illness. 5\u201310% of adults and 20\u201330% of children contract influenza each year Influenza Influenza",
+        "response": "Yes, the flu can be deadly, especially for those in high risk groups like the elderly and immunocompromised."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had the flu.",
+            "I'm sorry to hear that. How are you feeling now?",
+            "I'm feeling better now, but I'm wondering what I can do to prevent getting the flu again.",
+            "You can prevent getting the flu again by getting a flu shot, practicing good hygiene like washing your hands frequently, and avoiding close contact with sick people.",
+            "What can I do to boost my immune system?",
+            "You can boost your immune system by getting enough sleep, exercising regularly, and eating a healthy diet with lots of fruits and vegetables.",
+            "Thanks for the advice.",
+            "You're welcome.",
+            "Can you recommend any natural remedies for the flu?"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "There are not many natural remedies for the flu, but you can try drinking plenty of fluids and getting enough rest."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am feeling very sick today",
+            "Hello, I am sorry to hear that. Can you please describe your symptoms?",
+            "I have a fever, body aches, and a cough",
+            "Okay, based on your symptoms, it's possible that you have the flu",
+            "What can I do to feel better?",
+            "You should rest, drink plenty of fluids, and take over-the-counter pain relievers",
+            "How long will it take for me to feel better?",
+            "It usually takes about a week to start feeling better, but it can take up to two weeks. If your symptoms get worse, you should see a doctor.",
+            "Thank you for your help, Medi"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Don't hesitate to reach out if you need further assistance."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I heard that the flu can be deadly. Is that true?",
+            "Yes, that's correct. Influenza can be deadly, especially for people who are at high risk",
+            "Who is at high risk?",
+            "The elderly, young children, pregnant women, and people with weakened immune systems are all at high risk",
+            "How can I reduce my risk of getting the flu?",
+            "The best way to reduce your risk is to get vaccinated every year and practice good hand hygiene",
+            "What should I do if I think I have the flu?",
+            "You should stay home, rest, and drink plenty of fluids. Over-the-counter pain relievers can help with fever and body aches. If your symptoms get worse or you develop complications, you should see a doctor.",
+            "Thank you for the information, Medi"
+        ],
+        "knowledge": "Influenza Influenza The role of genetics in influenza is not well researched, but it may be a factor in influenza mortality. Influenza is typically characterized by seasonal epidemics and sporadic pandemics. Most of the burden of influenza is a result of flu seasons caused by IAV and IBV. Among IAV subtypes, H1N1 and H3N2 circulate in humans and are responsible for seasonal influenza. Cases disproportionately occur in children, but most severe causes are among the elderly, the very young, and the immunocompromised. In a typical year, influenza viruses infect 5\u201315% of the global population, causing 3\u20135 million cases of severe illness annually and accounting for 290,000\u2013650,000 deaths each year due to respiratory illness. 5\u201310% of adults and 20\u201330% of children contract influenza each year Influenza Influenza",
+        "response": "You're welcome. Stay safe and healthy!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had the flu and I'm wondering what I can do to prevent getting it again in the future",
+            "The best way to prevent getting the flu is to get vaccinated every year",
+            "Is the vaccine effective?",
+            "Yes, the vaccine is very effective at preventing the flu. However, it's still possible to get the flu even if you've been vaccinated, but the symptoms will likely be milder",
+            "What else can I do to prevent getting the flu?",
+            "You should practice good hand hygiene, avoid close contact with people who are sick, and avoid touching your face",
+            "What should I do if I come into contact with someone who has the flu?",
+            "You should monitor yourself for symptoms and consider getting vaccinated if you haven't already. If you develop symptoms, you should stay home, rest, and drink plenty of fluids",
+            "Thank you for your help, Medi"
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Remember to take care of yourself and try to stay healthy."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I've been feeling very unwell lately.",
+            "Hello, what are your symptoms?",
+            "I have a fever, body aches, and a sore throat.",
+            "You might have the flu. It's a viral infection that causes these symptoms.",
+            "What should I do?",
+            "Get plenty of rest, drink plenty of fluids, and take over-the-counter pain relievers to ease your symptoms.",
+            "Thanks for the advice, Medi.",
+            "You're welcome. I hope you feel better soon.",
+            "One last thing, how can I prevent the flu from spreading to others?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You can prevent the flu from spreading to others by avoiding close contact with them, covering your mouth and nose with a tissue when you cough or sneeze, and washing your hands regularly with soap and water."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm worried about getting the flu this season.",
+            "Hello, what can I help you with?",
+            "What steps can I take to prevent the flu?",
+            "The best way to prevent the flu is to get vaccinated every year.",
+            "What if I don't want to get the flu vaccine?",
+            "You can also prevent the flu by washing your hands regularly, covering your mouth and nose with a tissue when you cough or sneeze, and avoiding close contact with people who are sick.",
+            "Thanks, Medi! That's very helpful.",
+            "You're welcome. Stay safe and healthy!",
+            "One last thing, how do I know if I have the flu or just a cold?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The flu usually comes on suddenly and is more severe than the common cold. Symptoms such as fever, body aches, and a sore throat are more common with the flu than with a cold."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just recovered from the flu and I want to make sure it doesn't come back.",
+            "Hello, what's on your mind?",
+            "What steps can I take to boost my immune system and prevent the flu?",
+            "You can boost your immune system by eating a healthy diet rich in vitamins and minerals, getting enough sleep, exercising regularly, and reducing stress.",
+            "Thanks, Medi. What else can I do to prevent the flu?",
+            "You can also get vaccinated every year, wash your hands regularly with soap and water, and avoid close contact with people who are sick.",
+            "That's great advice, Medi. Thanks!",
+            "You're welcome. Stay safe and healthy!",
+            "One last thing, can you get the flu even if you've been vaccinated?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Yes, you can still get the flu even if you've been vaccinated, but the vaccine can reduce the severity of your symptoms and the risk of complications."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I feel like I might have the flu.",
+            "I am here to help. Can you tell me about your symptoms?",
+            "Well, I have a fever and a sore throat, and I feel really tired.",
+            "Okay, it sounds like you might have the flu. Rest and drink plenty of fluids.",
+            "Is there anything else I can do to help alleviate my symptoms?",
+            "You can take over-the-counter medication for fever and pain relief.",
+            "Okay, thank you for your advice. How long will it take for me to recover?",
+            "It usually takes about a week to recover from the flu.",
+            "Alright, thank you so much Medi."
+        ],
+        "knowledge": "Influenza Influenza The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days. A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. Remember to rest and drink plenty of fluids to help alleviate your symptoms."
+    },
+    {
+        "dialog": [
+            "Hey Medi, can you explain to me how the flu spreads?",
+            "Of course! The flu is highly contagious and is spread through airborne droplets from coughing and sneezing.",
+            "How can I avoid getting the flu?",
+            "You can avoid getting the flu by getting vaccinated every year and practicing good hygiene, such as washing your hands frequently.",
+            "What if someone I know has the flu? How can I avoid getting infected?",
+            "If someone you know has the flu, try to avoid close contact with them and wash your hands frequently.",
+            "Thanks for your advice, Medi. Is there anything else I should know about the flu?",
+            "It's important to seek medical attention if you experience severe symptoms or if you are at high risk for complications from the flu.",
+            "Got it. Thanks for your help, Medi!"
+        ],
+        "knowledge": "Influenza Influenza The role of genetics in influenza is not well researched, but it may be a factor in influenza mortality. Influenza is typically characterized by seasonal epidemics and sporadic pandemics. Most of the burden of influenza is a result of flu seasons caused by IAV and IBV. Among IAV subtypes, H1N1 and H3N2 circulate in humans and are responsible for seasonal influenza. Cases disproportionately occur in children, but most severe causes are among the elderly, the very young, and the immunocompromised. In a typical year, influenza viruses infect 5\u201315% of the global population, causing 3\u20135 million cases of severe illness annually and accounting for 290,000\u2013650,000 deaths each year due to respiratory illness. 5\u201310% of adults and 20\u201330% of children contract influenza each year Influenza Influenza",
+        "response": "You're welcome. Remember to get vaccinated and practice good hygiene to avoid getting the flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently recovered from the flu. What can I do to prevent getting sick again?",
+            "Great to hear that you've recovered! You can prevent getting sick again by maintaining a healthy lifestyle and avoiding close contact with sick people.",
+            "What are some specific lifestyle changes I can make to prevent getting sick?",
+            "You can maintain good hygiene by washing your hands frequently and disinfecting surfaces in your home and workplace. You can also eat a healthy diet and get regular exercise to boost your immune system.",
+            "Thanks for your advice. How long should I wait before resuming my normal activities?",
+            "It's important to listen to your body and make sure you are fully recovered before resuming your normal activities.",
+            "Got it. Thanks for your help, Medi!",
+            "You're welcome. Remember to take care of yourself and stay healthy!"
+        ],
+        "knowledge": "Influenza Influenza The role of genetics in influenza is not well researched, but it may be a factor in influenza mortality. Influenza is typically characterized by seasonal epidemics and sporadic pandemics. Most of the burden of influenza is a result of flu seasons caused by IAV and IBV. Among IAV subtypes, H1N1 and H3N2 circulate in humans and are responsible for seasonal influenza. Cases disproportionately occur in children, but most severe causes are among the elderly, the very young, and the immunocompromised. In a typical year, influenza viruses infect 5\u201315% of the global population, causing 3\u20135 million cases of severe illness annually and accounting for 290,000\u2013650,000 deaths each year due to respiratory illness. 5\u201310% of adults and 20\u201330% of children contract influenza each year Influenza Influenza",
+        "response": "You're welcome. Remember to take care of yourself and maintain a healthy lifestyle to prevent getting sick again."
+    }
+]

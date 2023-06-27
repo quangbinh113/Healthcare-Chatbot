@@ -1,0 +1,450 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing some gut issues lately",
+            "Okay, can you elaborate on that? What type of symptoms are you experiencing?",
+            "I have been having diarrhea and stomach cramps",
+            "Based on your symptoms, it is possible that you may have inflammatory bowel disease. Have you been tested for this?",
+            "No, I haven't. What are the tests that need to be done?",
+            "Fecal calprotectin is a useful initial investigation, which may suggest the possibility of IBD. Other tests to be done include colonoscopies and CT scans",
+            "I see. What are the similarities between Crohn's disease and ulcerative colitis?",
+            "Both conditions have similar symptoms such as abdominal pain, diarrhea, and rectal bleeding. However, Crohn's disease can affect the entire digestive tract, while ulcerative colitis only affects the colon",
+            "Okay, thanks for the information. How can I manage the symptoms of inflammatory bowel disease?"
+        ],
+        "knowledge": "Inflammatory bowel disease (IBD) is a group of inflammatory conditions of the colon and small intestine. Common symptoms include abdominal pain, diarrhea, rectal bleeding, weight loss, and fever. The most common types of IBD are Crohn's disease and ulcerative colitis. Fecal calprotectin is a useful initial investigation, which may suggest the possibility of IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. ",
+        "response": "The symptoms of inflammatory bowel disease can be managed through medications such as anti-inflammatory drugs and immunosuppressants, and changes in diet such as avoiding dairy and high fiber foods"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had my colonoscopy yesterday",
+            "Okay, how did it go? Were there any issues?",
+            "It went well. However, I have a few questions about the results",
+            "Sure, what do you want to know?",
+            "The results showed that I have elevated liver function tests. What does this mean?",
+            "Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels. The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver",
+            "Okay, thanks for letting me know. What lifestyle changes can I make to help manage inflammatory bowel disease?",
+            "You can make changes to your diet such as avoiding dairy and high fiber foods, and incorporating more fruits and vegetables. Exercise can also help to manage symptoms",
+            "I see. Thanks for the advice, Medi. Is there anything else I should know?"
+        ],
+        "knowledge": "Inflammatory bowel disease (IBD) is a group of inflammatory conditions of the colon and small intestine. Common symptoms include abdominal pain, diarrhea, rectal bleeding, weight loss, and fever. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels. The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver",
+        "response": "No, that is all for now. Please let me know if you have any more questions"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I was diagnosed with Crohn's disease a month ago",
+            "I'm sorry to hear that. How are you feeling now?",
+            "I'm feeling better now, but I am still struggling with managing my symptoms",
+            "What medication are you currently taking?",
+            "I am taking anti-inflammatory drugs and immunosuppressants",
+            "Apart from medications, what lifestyle changes have you made?",
+            "I have been avoiding dairy and high fiber foods, and I have also incorporated more fruits and vegetables into my diet",
+            "That's a good start. Have you considered doing any physical exercise?",
+            "I have thought about it, but I am unsure of what exercises are safe for me to do"
+        ],
+        "knowledge": "Inflammatory bowel disease (IBD) is a group of inflammatory conditions of the colon and small intestine. Common symptoms include abdominal pain, diarrhea, rectal bleeding, weight loss, and fever. The most common types of IBD are Crohn's disease and ulcerative colitis. The symptoms of inflammatory bowel disease can be managed through medications such as anti-inflammatory drugs and immunosuppressants, and changes in diet such as avoiding dairy and high fiber foods. Exercise can also help to manage symptoms",
+        "response": "That's good advice. Thank you, Medi. I will consult my doctor about incorporating low-impact exercises into my routine"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I'm not feeling well.",
+            "Hello, I'm here to help you. Can you please tell me your symptoms?",
+            "I'm having abdominal pain and diarrhea.",
+            "How long have you been experiencing these symptoms?",
+            "For the past two weeks",
+            "Have you noticed any changes in your bowel habits or any blood in your stool?",
+            "Yes, I have seen some blood in my stool.",
+            "Based on your symptoms, you may have inflammatory bowel disease. I recommend you see a doctor as soon as possible.",
+            "What kind of tests do I need to undergo?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "You will need to get a stool test to measure fecal calprotectin levels, which can suggest the possibility of IBD. Further tests may be required based on the results."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about Crohn's disease.",
+            "Sure, I'm here to help. What would you like to know?",
+            "What are the symptoms of Crohn's disease?",
+            "The symptoms of Crohn's disease include diarrhea, abdominal pain, rectal bleeding, weight loss, and fatigue.",
+            "What are the treatment options for Crohn's disease?",
+            "The treatment options for Crohn's disease include medication such as anti-inflammatory drugs, immune system suppressors, and antibiotics. In severe cases, surgery may be required.",
+            "Is Crohn's disease curable?",
+            "There is no cure for Crohn's disease, but proper treatment can help manage symptoms and improve quality of life.",
+            "What are the risks of untreated Crohn's disease?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "Untreated Crohn's disease can lead to complications such as bowel obstruction, malnutrition, and intestinal fistulas."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a colonoscopy.",
+            "That's great, how did it go?",
+            "The doctor found some polyps and removed them. He also took some biopsies.",
+            "That's normal during a colonoscopy. Do you have any questions about the procedure or aftercare?",
+            "Yes, what should I eat after the colonoscopy?",
+            "After the procedure, it's important to eat light, easily digestible foods such as soups, broths, and yogurt. You should avoid spicy or greasy foods as well as alcohol and caffeine for a few days.",
+            "How long will it take for me to recover from the colonoscopy?",
+            "Most people recover quickly after a colonoscopy, but it may take a day or two for the effects of the sedative to wear off. You may experience some bloating or cramping, but this should subside within 24 hours.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "You're welcome. If you have any other questions about your colonoscopy or aftercare, feel free to ask me."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some uncomfortable symptoms in my stomach",
+            "Hi, can you explain more about your symptoms?",
+            "I often feel abdominal pain, bloating and diarrhea after eating some foods",
+            "I think you may have IBD, you should take a fecal calprotectin test to make sure",
+            "What is IBD and what cause it?",
+            "IBD is the inflammation disease of the digestive tract, the cause is unknown",
+            "What can I do if I have IBD?",
+            "You should modify your diet, physical activities and take medication to control inflammation",
+            "What foods should I avoid and what kind of medication should I take?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "You should avoid dairy, high fiber foods, caffeine, and spicy food. Medications such as anti-inflammatory drugs or immunosuppressants can be taken to control inflammation"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about IBD",
+            "Hi, I'm here to answer your questions about IBD",
+            "What is the difference between Crohn's disease and ulcerative colitis?",
+            "Crohn's disease can involve any part of the digestive tract while ulcerative colitis only affects the colon and rectum",
+            "How can I know if I have IBD or other similar conditions?",
+            "You can take a fecal calprotectin test and other diagnostic tests such as colonoscopy and biopsy",
+            "What are the common symptoms of IBD?",
+            "The common symptoms are abdominal pain, diarrhea, rectal bleeding, weight loss, and fatigue",
+            "Is IBD curable?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "There is no cure for IBD, but medications and surgery can help control symptoms and reduce inflammation"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a colonoscopy and biopsy for IBD",
+            "Hi, how was the result of the tests?",
+            "The test shows that I have ulcerative colitis, what should I do now?",
+            "You should take medication such as anti-inflammatory drugs and immunosuppressants to control inflammation and prevent complications, and also modify your diet and lifestyle",
+            "What complications may occur if I don't treat my ulcerative colitis?",
+            "If left untreated, ulcerative colitis may cause severe bleeding, perforation of the colon, and even increase the risk of colon cancer",
+            "What kind of diet should I follow?",
+            "You should eat a low-fiber, low-fat, and low-dairy diet and avoid spicy food, caffeine, and alcohol",
+            "Is there any natural remedy to cure ulcerative colitis?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "There is no natural remedy to cure ulcerative colitis, but some may help relieve symptoms such as probiotics, omega-3 fatty acids, and acupuncture. However, you should always consult your doctor before trying any natural remedy"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms. Can you help me with them?",
+            "Of course! What symptoms are you experiencing?",
+            "I'm having some abdominal pain and irregular bowel movements.",
+            "I understand. Have you noticed any blood in your stool or any unexplained weight loss?",
+            "No, I haven't noticed any blood in my stool, but I have lost some weight.",
+            "Based on your symptoms, I think you may have inflammatory bowel disease. I recommend you see a gastroenterologist for further evaluation.",
+            "What can I do to manage my symptoms in the meantime?",
+            "In the meantime, it would be best to avoid foods that may trigger your symptoms, such as spicy or greasy foods. Additionally, try to manage stress as it can exacerbate your symptoms.",
+            "Thank you, Medi! What further tests may be needed to confirm the diagnosis?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "You may need to undergo a colonoscopy or a biopsy to confirm the diagnosis of inflammatory bowel disease."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've heard of inflammatory bowel disease. Can you explain what it is?",
+            "Sure! Inflammatory bowel disease is a chronic condition that causes inflammation in the digestive tract. It includes two main types: Crohn's disease and ulcerative colitis.",
+            "What are the symptoms of inflammatory bowel disease?",
+            "The symptoms vary depending on the type and severity of the disease, but common symptoms include abdominal pain, diarrhea, rectal bleeding, weight loss, and fatigue.",
+            "What causes inflammatory bowel disease?",
+            "The exact cause of inflammatory bowel disease is unknown, but it is believed to be caused by a combination of genetics, environmental factors, and an abnormal immune response.",
+            "Can it be cured?",
+            "There is no cure for inflammatory bowel disease, but it can be managed with medications, lifestyle changes, and sometimes surgery.",
+            "Thank you for your explanation, Medi! Is it a common condition?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "You're welcome! Let me know if you have any other questions about inflammatory bowel disease."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a colonoscopy. What should I do now?",
+            "After a colonoscopy, it is important to follow your doctor's instructions. They may recommend a specific diet, medications, or lifestyle changes depending on the results.",
+            "What should I eat?",
+            "Your doctor may recommend a low-fiber diet or a liquid diet for a short period of time after the procedure. They may also recommend avoiding certain foods that can irritate your digestive tract, such as spicy or greasy foods.",
+            "What medications should I take?",
+            "Your doctor may prescribe medications to manage any inflammation or pain you may be experiencing after the procedure. They may also recommend over-the-counter pain relievers such as acetaminophen.",
+            "What lifestyle changes should I make?",
+            "Your doctor may recommend changes to your lifestyle such as increasing your physical activity, quitting smoking, or reducing stress.",
+            "Thank you for your advice, Medi! When should I follow up with my doctor?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "You're welcome! I'm glad I could help. If you have any questions or concerns, don't hesitate to ask your doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been having some digestive problems lately",
+            "Sure, I'm here to help. Can you tell me more about your symptoms?",
+            "I have been experiencing abdominal pain and diarrhea",
+            "Okay, based on your symptoms, it's possible that you have inflammatory bowel disease",
+            "What is inflammatory bowel disease?",
+            "Inflammatory bowel disease (IBD) is a chronic inflammatory condition of the digestive tract",
+            "Oh, is there a test to confirm it?",
+            "Yes, a fecal calprotectin test can be done to suggest the possibility of IBD",
+            "What are some other possible conditions that could cause an increased excretion of fecal calprotectin?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "Other conditions that may cause an increased excretion of fecal calprotectin include infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells"
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just underwent a colonoscopy. Are there any lifestyle changes I should make?",
+            "Yes, there are some things you can do to improve your digestive health",
+            "Can you give me some advice?",
+            "You should eat smaller, more frequent meals, limit your intake of fatty and spicy foods, and drink plenty of water",
+            "Got it. Are there any specific exercises I should do?",
+            "Yes, exercise can improve digestion. Walking, jogging, and yoga are good choices",
+            "What about supplements or vitamins?",
+            "Consult with your healthcare provider, but probiotics and vitamin D can have benefits for digestive health",
+            "Thanks for the advice, Medi. How long should I wait before resuming my normal activities?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "It's best to wait until the effects of sedation have worn off, usually 24 hours, before resuming normal activities"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm concerned about my elevated liver function tests",
+            "I see, can you tell me more about your symptoms?",
+            "I don't have any symptoms, but my liver function tests were recently elevated",
+            "Okay. Drug-induced hepatotoxicity and fatty liver are the most relevant mechanisms of elevated liver function tests in IBD",
+            "I see. Are there any other possible causes?",
+            "Yes, other possible causes include alcohol use, viral hepatitis, and nonalcoholic fatty liver disease",
+            "I don't drink alcohol or have hepatitis. What is nonalcoholic fatty liver disease?",
+            "Nonalcoholic fatty liver disease (NAFLD) is when fat accumulates in the liver of people who drink little to no alcohol",
+            "Thanks for explaining. What can I do to reduce my risk of developing NAFLD?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "To reduce your risk of developing NAFLD, maintain a healthy weight, exercise regularly, and eat a healthy diet that is low in sugar and saturated fats"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about inflammatory bowel disease.",
+            "Sure, I am here to help. What do you want to know about it?",
+            "What are the symptoms of IBD?",
+            "The symptoms of inflammatory bowel disease vary depending on the type of IBD. The main symptoms are abdominal pain, diarrhea, fatigue, and weight loss.",
+            "What tests can help diagnose IBD?",
+            "Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD. Colonoscopy, endoscopy, and biopsy can confirm the diagnosis.",
+            "Are there any other diseases that can cause similar symptoms to IBD?",
+            "Yes, there are other diseases that can cause similar symptoms to IBD, such as intestinal tuberculosis, ulcerative colitis, and irritable bowel syndrome.",
+            "What are the treatment options for IBD?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are generally mild and spontaneous. Drug-induced hepatotoxicity and fatty liver are the most relevant mechanisms of elevated liver functions tests in IBD. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "The treatment options for IBD include anti-inflammatory medications, immunosuppressive drugs, antibiotics, and surgery in severe cases."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been diagnosed with IBD. What should I do?",
+            "I am sorry to hear that. Do you know what type of IBD you have?",
+            "Yes, I have Crohn's disease.",
+            "In that case, you should follow a healthy diet, avoid foods that trigger your symptoms, and take your medications as prescribed by your doctor.",
+            "What are some examples of foods that trigger my symptoms?",
+            "Foods that are high in fiber, dairy products, high-fat foods, and spicy foods can trigger your symptoms. It is best to keep a food diary to identify your triggers.",
+            "Can stress affect my IBD?",
+            "Yes, stress can aggravate your symptoms. It is important to manage your stress levels through relaxation techniques, exercise, and therapy.",
+            "Is surgery ever necessary for Crohn's disease?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are generally mild and spontaneous. Drug-induced hepatotoxicity and fatty liver are the most relevant mechanisms of elevated liver functions tests in IBD. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "Surgery may be necessary for Crohn's disease if medication and lifestyle changes are not effective, or if there are complications such as blockages or fistulas."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have recently had a colonoscopy and was diagnosed with ulcerative colitis. What should I do?",
+            "I am sorry to hear that. The first step is to follow a healthy diet and take your medication as prescribed by your doctor.",
+            "What foods should I include in my diet?",
+            "You should include foods that are high in fiber, such as fruits, vegetables, and whole grains. You should also avoid foods that are high in fat and sugar.",
+            "Can physical activity help with my symptoms?",
+            "Yes, physical activity can help with your symptoms by reducing inflammation and improving your overall health.",
+            "What medications are commonly used to treat ulcerative colitis?",
+            "Anti-inflammatory medications, immunosuppressive drugs, and biologics are commonly used to treat ulcerative colitis. Your doctor will determine the best course of treatment for you.",
+            "Can I still work with ulcerative colitis?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are generally mild and spontaneous. Drug-induced hepatotoxicity and fatty liver are the most relevant mechanisms of elevated liver functions tests in IBD. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "Yes, you can still work with ulcerative colitis. It is important to manage your symptoms through medication, diet, and physical activity, and to communicate with your employer about your needs."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been having some digestive issues lately.",
+            "I'm here to help. Can you tell me more about your symptoms?",
+            "I've been experiencing abdominal pain and diarrhea.",
+            "Have you noticed any blood in your stool?",
+            "No, I haven't.",
+            "Based on your symptoms, it's possible that you have inflammatory bowel disease (IBD).",
+            "What is IBD and how is it treated?",
+            "IBD is a chronic inflammatory condition of the digestive tract. Treatment depends on the severity of the disease, but can include medications and lifestyle changes.",
+            "Thank you for the information, Medi. What lifestyle changes would you recommend?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "I would recommend avoiding trigger foods such as spicy or fatty foods, increasing your fiber intake, staying hydrated, and getting regular exercise."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about inflammatory bowel disease.",
+            "I'm here to help. What's your question?",
+            "What are the symptoms of inflammatory bowel disease?",
+            "The symptoms of inflammatory bowel disease can vary, but may include abdominal pain, diarrhea, bloody stools, fatigue, and weight loss.",
+            "What is the difference between Crohn's disease and ulcerative colitis?",
+            "Crohn's disease can affect any part of the digestive tract, while ulcerative colitis affects only the colon and rectum.",
+            "Can IBD be cured?",
+            "There is no cure for IBD, but it can be managed through medication and lifestyle changes.",
+            "Thank you for your help, Medi. What are some common medications used to treat IBD?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "Common medications include anti-inflammatory drugs such as corticosteroids and immunosuppressants, as well as biologic therapies that target specific proteins involved in inflammation."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a colonoscopy and was diagnosed with inflammatory bowel disease.",
+            "I'm sorry to hear that. Do you have any questions?",
+            "Yes, I'm wondering if there are any foods I should avoid.",
+            "Yes, there are certain foods that can trigger symptoms, such as spicy or fatty foods, dairy products, and high-fiber foods.",
+            "Are there any supplements or vitamins that can help manage my symptoms?",
+            "There is some evidence that omega-3 fatty acids and vitamin D may help reduce inflammation in the digestive tract.",
+            "What kind of physical activity is safe?",
+            "Low-impact activities such as walking, swimming, and yoga are generally safe, but it's important to talk to your doctor before starting any new exercise routine.",
+            "Thank you for your help, Medi. What can I expect in terms of disease progression?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "The course of IBD is unpredictable and varies from person to person. In some cases, symptoms may be mild and easily managed, while in others, the disease may progress and cause complications such as strictures or fistulas."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been having some stomach issues lately",
+            "Okay, can you please tell me the symptoms in detail?",
+            "I have abdominal pain, diarrhea, and blood in my stool. It's really concerning",
+            "Those symptoms are similar to Inflammatory Bowel Disease (IBD). You need to get some tests done",
+            "What tests? That sounds scary",
+            "Fecal calprotectin test is a good initial investigation. It can suggest the possibility of IBD. But the test is not specific for IBD",
+            "What other diseases could be causing these symptoms?",
+            "Other diseases that can cause an increased excretion of fecal calprotectin include infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis, and neoplastic pediatric tumor cells.",
+            "What should I do next, Medi?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "You should book an appointment with a gastroenterologist and get some tests done like fecal calprotectin test to know the exact cause of your symptoms"
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you explain what Inflammatory Bowel Disease (IBD) is?",
+            "Sure, IBD is a chronic inflammatory condition of the gastrointestinal tract",
+            "What are the chief types of IBD?",
+            "The chief types of IBD are Crohn's disease and ulcerative colitis",
+            "What are the symptoms of Crohn's disease?",
+            "Symptoms of Crohn's disease include abdominal pain, diarrhea, fever, fatigue, and weight loss",
+            "What about the symptoms of ulcerative colitis?",
+            "Symptoms of ulcerative colitis include abdominal pain, diarrhea, blood in the stool, and rectal bleeding",
+            "What causes IBD?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "The exact cause of IBD is unknown, but it is believed to be a combination of genetic, environmental, and immunological factors."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just underwent a medical procedure. What lifestyle changes should I make?",
+            "It depends on the type of procedure you underwent. Can you provide me with more information?",
+            "I had a colonoscopy done",
+            "After a colonoscopy, you should avoid eating any solid food for a few hours. Drink plenty of fluids and gradually ease back into your normal diet",
+            "What about physical activity? Can I exercise?",
+            "You can resume exercise after a colonoscopy, but avoid any strenuous activity for a few days",
+            "Are there any foods I should avoid?",
+            "You should avoid foods that are difficult to digest and may irritate your gastrointestinal tract. Examples include spicy foods, alcohol, caffeine, and high-fat foods",
+            "Thanks, Medi. How long should I follow these guidelines for?"
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "You should follow these guidelines for a few days after the procedure. However, consult with your doctor on how long you should follow these guidelines as it may differ based on your individual situation"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms and I need your help.",
+            "Sure, please tell me what the symptoms are.",
+            "I have stomach cramps and diarrhea.",
+            "Okay, that could be caused by several things. Have you taken a fecal calprotectin test?",
+            "No, I haven't. What is that and why do I need it?",
+            "It's a test that can suggest the possibility of Inflammatory Bowel Disease, which could be causing your symptoms. Other diseases can cause an increased excretion of fecal calprotectin too, so it's not specific to IBD. It's best to check it out with your doctor.",
+            "I see. What other diseases could be causing my symptoms?",
+            "Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy.",
+            "I understand. Thank you for the information. I will go see my doctor and ask about the fecal calprotectin test."
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "You're welcome. It's good to check with the doctor before things get worse."
+    },
+    {
+        "dialog": [
+            "Medi, I have been diagnosed with Inflammatory Bowel Disease. What should I do to improve my condition?",
+            "I'm sorry to hear that. There are a few things you could do to improve your condition. Have you talked to your doctor about a treatment plan?",
+            "Yes, I have. They told me about some medication but I'm not sure about the diet and lifestyle changes I should make.",
+            "A balanced diet is important for people with IBD, especially if you are experiencing diarrhea. It's best to avoid foods that cause inflammation, such as greasy or fried foods, processed foods, and dairy products. Foods that are high in fiber may also cause problems. Getting regular exercise is also important. You should talk to your doctor about how much and what type of exercise is best for you.",
+            "Okay, I will try to make those changes. What about stress? Could that make my condition worse?",
+            "Yes, stress can make IBD symptoms worse for some people. It's important to find ways to manage stress, such as exercise, meditation, or therapy.",
+            "I see. Thank you for the advice, Medi.",
+            "You're welcome. Remember to follow your doctor's advice and take your medication as prescribed."
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "You're welcome. Don't hesitate to reach out if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a sigmoidoscopy. What should I do now to ensure a speedy recovery?",
+            "Congratulations on finishing the procedure! After a sigmoidoscopy, it's best to rest for a few days. You should avoid any strenuous activity and heavy lifting for a few days. Also, avoid any food or drinks that could irritate your bowel, such as spicy foods or alcohol.",
+            "Okay, I will take it easy for a few days. What about my diet?",
+            "It's best to start with a clear liquid diet, such as water, broth, and apple juice. After a day, you can start eating low-fiber foods, such as white bread, rice, and boiled or baked chicken. You should avoid red meat, dairy products, and high-fiber foods for a few days.",
+            "Got it. Is there anything else I should know?",
+            "You may experience some mild cramping or bloating after the procedure. This is normal and should go away on its own. If you experience severe pain or bleeding, you should contact your doctor right away.",
+            "Okay, I will keep that in mind. Thank you for the advice, Medi.",
+            "You're welcome. Take care of yourself and follow your doctor's instructions."
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "You're welcome. Don't hesitate to contact your doctor if you have any concerns during your recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm having a symptom of IBD. Can you help me?",
+            "Of course, what's your symptom?",
+            "I'm having frequent diarrhea and abdominal pain.",
+            "You might have IBD, but other diseases can cause the same symptoms. Have you checked your fecal calprotectin level?",
+            "No, I haven't. What does it mean?",
+            "Fecal calprotectin is useful as an initial investigation. It may suggest the possibility of IBD, but it's not specific. Other diseases can cause an increased excretion of fecal calprotectin.",
+            "So what should I do?",
+            "I suggest you see your doctor to get a fecal calprotectin test. Based on the result, your doctor can advise you on the next steps.",
+            "Thank you, Medi."
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis, and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome, and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis, and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "You should see your doctor to get a fecal calprotectin test. Based on the result, your doctor can advise you on the next steps."
+    },
+    {
+        "dialog": [
+            "Hi Medi, what is inflammatory bowel disease?",
+            "Inflammatory bowel disease is a chronic inflammation of your digestive tract. It can be either Crohn's disease or ulcerative colitis.",
+            "What are the symptoms?",
+            "The symptoms can include abdominal pain, diarrhea, fatigue, weight loss, and blood in stool.",
+            "Can it lead to other health problems?",
+            "Yes, it can. For example, it can cause inflammation in other parts of your body, such as your joints, skin, and eyes.",
+            "Is there any cure for it?",
+            "Unfortunately, there is no cure for inflammatory bowel disease yet. But there are treatments that can help control the symptoms and reduce inflammation.",
+            "Thank you, Medi. That's very helpful."
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis, and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome, and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis, and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "You're welcome. Feel free to ask me anything else about IBD."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a colonoscopy. Do you have any advice for me?",
+            "Sure, after a colonoscopy, you should rest for the day. Avoid driving, operating machinery, or making important decisions for the next 24 hours.",
+            "What about my diet?",
+            "Your doctor may advise you to avoid solid food for a few hours and then slowly start eating light meals. You should also drink plenty of fluids to avoid dehydration.",
+            "How about physical exercise?",
+            "You should avoid doing any strenuous physical activity for at least 24 hours.",
+            "Are there any side effects of colonoscopy?",
+            "Common side effects include cramping, bloating, and gas. If you have a fever, severe pain, or bleeding, contact your doctor immediately.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Inflammatory bowel disease Inflammatory bowel disease  Fecal calprotectin is useful as an initial investigation, which may suggest the possibility of IBD, as this test is sensitive but not specific for IBD. Other diseases may cause an increased excretion of fecal calprotectin, such as infectious diarrhea, untreated celiac disease, necrotizing enterocolitis, intestinal cystic fibrosis, and neoplastic pediatric tumor cells. Conditions with similar symptoms as Crohn's disease includes intestinal tuberculosis, Beh\u00e7et's disease, ulcerative colitis, nonsteroidal anti-inflammatory drug enteropathy, irritable bowel syndrome, and coeliac disease. Conditions with similar symptoms as ulcerative colitis includes acute self-limiting colitis, amebic colitis, schistosomiasis, Crohn's disease, colon cancer, irritable bowel syndrome, intestinal tuberculosis, and nonsteroidal anti-inflammatory drug enteropathy. Liver function tests are often elevated in inflammatory bowel disease, and are often mild and generally return spontaneously to normal levels.  The most relevant mechanisms of elevated liver functions tests in IBD are drug-induced hepatotoxicity and fatty liver. The chief types of inflammatory bowel disease are Crohn's disease and ulcerative colitis  Inflammatory bowel disease Inflammatory bowel disease",
+        "response": "You're welcome. Let me know if you have any other questions."
+    }
+]

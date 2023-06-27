@@ -1,0 +1,407 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I've been having trouble breathing lately.",
+            "I'm sorry to hear that. Can you describe your symptoms further?",
+            "I feel short of breath, especially when I'm exerting myself or in dusty areas.",
+            "You may have asthma, which is triggered by air pollutants. ",
+            "Is there anything I can do to prevent it?",
+            "Avoiding triggers like tobacco smoke, air pollution, and chemical irritants including perfume can help.",
+            "What about pets? Can they cause asthma?",
+            "Pets can trigger asthma symptoms, so it's recommended to remove them if you have allergic symptoms to said pet. ",
+            "I see, thank you for your advice. How can I know for sure that I have asthma?"
+        ],
+        "knowledge": "Asthma Asthma The evidence for the effectiveness of measures to prevent the development of asthma is weak.  The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections.  Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well supported enough to be recommended for this indication. Early pet exposure may be useful.  Results from exposure to pets at other times are inconclusive and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet. Dietary restrictions during pregnancy or when breast feeding have not been found to be effective at preventing asthma in children and are not recommended.  Omega-3 consumption, mediterranean diet and anti-oxidants have been suggested by some studies that might help preventing crisis but the evidence is still inconclusive Asthma Asthma",
+        "response": "You should consult your doctor to get a proper diagnosis through physical examination and lung function tests."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about asthma.",
+            "Of course, ask away!",
+            "Can asthma be cured?",
+            "Unfortunately, asthma cannot be cured but it can be managed effectively with the right treatment and lifestyle changes.",
+            "What kind of treatment do I need to take?",
+            "Your doctor may prescribe bronchodilators, steroids, or a combination of both to keep your airways open and reduce inflammation.",
+            "What about over-the-counter medicines?",
+            "Over-the-counter drugs like antihistamines and decongestants can help relieve symptoms but are not used as a primary treatment for asthma.",
+            "I see. How can I manage my asthma on a day-to-day basis?"
+        ],
+        "knowledge": "Asthma Asthma The evidence for the effectiveness of measures to prevent the development of asthma is weak.  The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections.  Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well supported enough to be recommended for this indication. Early pet exposure may be useful.  Results from exposure to pets at other times are inconclusive and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet. Dietary restrictions during pregnancy or when breast feeding have not been found to be effective at preventing asthma in children and are not recommended.  Omega-3 consumption, mediterranean diet and anti-oxidants have been suggested by some studies that might help preventing crisis but the evidence is still inconclusive Asthma Asthma",
+        "response": "It's important to avoid triggers, take your medication as prescribed, and have a written asthma action plan to manage symptoms and know when to seek medical attention."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure done.",
+            "Oh, I hope everything went well! What was the procedure?",
+            "It was a bronchoscopy to diagnose my asthma.",
+            "I see. What kind of advice are you looking for?",
+            "I want to know how to take care of myself after the procedure.",
+            "You should follow your doctor's instructions on post-procedure care. It's important to rest and avoid strenuous activity for a few days.",
+            "What about my diet? Can I eat anything I want?",
+            "It's best to eat light and healthy foods and avoid heavy, greasy, or spicy foods that may trigger acid reflux. Drink plenty of water to stay hydrated.",
+            "That's good advice. What about physical activity?"
+        ],
+        "knowledge": "Asthma Asthma The evidence for the effectiveness of measures to prevent the development of asthma is weak.  The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections.  Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well supported enough to be recommended for this indication. Early pet exposure may be useful.  Results from exposure to pets at other times are inconclusive and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet. Dietary restrictions during pregnancy or when breast feeding have not been found to be effective at preventing asthma in children and are not recommended.  Omega-3 consumption, mediterranean diet and anti-oxidants have been suggested by some studies that might help preventing crisis but the evidence is still inconclusive Asthma Asthma",
+        "response": "It's important to follow your doctor's instructions and to seek medical attention if you experience any complications or unusual symptoms."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have difficulty breathing and coughing at night.",
+            "I'm sorry to hear that. Have you been experiencing these symptoms for long?",
+            "Yes, for the past few days.",
+            "Based on your symptoms, it's possible that you have asthma. Have you been diagnosed with it before?",
+            "No, I haven't. What should I do now?",
+            "You should see a doctor as soon as possible. In the meantime, try to avoid triggers like smoke and pollution.",
+            "Okay, thank you for your advice. Is there anything else I should do?",
+            "You can try using a humidifier at night and take prescribed medication if necessary.",
+            "Thank you. What are the common triggers for asthma?"
+        ],
+        "knowledge": "Asthma Asthma The evidence for the effectiveness of measures to prevent the development of asthma is weak. The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections. Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well supported enough to be recommended for this indication. Early pet exposure may be useful. Results from exposure to pets at other times are inconclusive and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet. Dietary restrictions during pregnancy or when breast feeding have not been found to be effective at preventing asthma in children and are not recommended. Omega-3 consumption, mediterranean diet, and anti-oxidants have been suggested by some studies that might help preventing crisis, but the evidence is still inconclusive. Asthma Asthma",
+        "response": "Some common triggers for asthma include smoke, pollution, and allergens like dust and pet dander."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about asthma.",
+            "Sure thing, ask away!",
+            "What causes asthma?",
+            "Asthma is caused by a combination of genetic and environmental factors. Certain triggers like allergens, pollution, and smoke can also exacerbate symptoms.",
+            "Can asthma be cured?",
+            "Unfortunately, there is currently no cure for asthma. But it can be managed with medication and lifestyle changes.",
+            "What are some lifestyle changes that can help with asthma?",
+            "Regular exercise, a healthy diet, and avoiding triggers like smoke and pollution can all help manage asthma symptoms.",
+            "Thanks for your help. One last question, can asthma develop later in life?"
+        ],
+        "knowledge": "Asthma Asthma Asthma is caused by a combination of genetic and environmental factors. Certain triggers like allergens, pollution, and smoke can also exacerbate symptoms. There is no cure for asthma, but it can be managed with medication and lifestyle changes. Regular exercise, a healthy diet, and avoiding triggers like smoke and pollution can all help manage asthma symptoms. Asthma can develop at any age, even in adulthood. Asthma Asthma",
+        "response": "Yes, asthma can develop at any age, even in adulthood."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had an asthma attack. What should I do now?",
+            "I'm sorry to hear that. Have you been prescribed medication for your asthma?",
+            "Yes, I have. But I'm worried about having another attack.",
+            "It's important to always carry your medication with you and take it as prescribed. It's also important to identify and avoid triggers that can exacerbate your symptoms.",
+            "What else can I do to prevent another attack?",
+            "Regular exercise, a healthy diet, and avoiding triggers like smoke and pollution can all help manage asthma symptoms. It's also important to have an asthma action plan in place.",
+            "What's an asthma action plan?",
+            "An asthma action plan is a personalized plan that outlines what to do in case of an asthma attack. It includes instructions on when and how to take medication, when to seek emergency care, and how to identify and avoid triggers.",
+            "Thanks for your help, Medi. How often should I see my doctor for my asthma?"
+        ],
+        "knowledge": "Asthma Asthma Asthma attacks can be prevented by always carrying medication, identifying and avoiding triggers, and having an asthma action plan in place. Regular exercise, a healthy diet, and avoiding triggers like smoke and pollution can all help manage asthma symptoms. An asthma action plan is a personalized plan that outlines what to do in case of an asthma attack. It includes instructions on when and how to take medication, when to seek emergency care, and how to identify and avoid triggers. It's important to see your doctor regularly to ensure your asthma is being properly managed. Asthma Asthma",
+        "response": "It's recommended that you see your doctor at least twice a year to monitor your asthma and adjust your medication if necessary."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have been having trouble breathing lately.",
+            "I'm sorry to hear that. Can you tell me more about your symptoms?",
+            "I experience shortness of breath and wheezing when I exercise or at night.",
+            "Based on your symptoms, it could be asthma. Do you have any allergies?",
+            "Yes, I am allergic to pollen and dust.",
+            "Those are common triggers for asthma. You should avoid them as much as possible.",
+            "What else can I do to manage my asthma?",
+            "Take your medications as prescribed by your doctor and keep a rescue inhaler with you at all times.",
+            "That's very helpful. Thanks, Medi."
+        ],
+        "knowledge": "Asthma Asthma The evidence for the effectiveness of measures to prevent the development of asthma is weak.  The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections.  Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well supported enough to be recommended for this indication. Early pet exposure may be useful.  Results from exposure to pets at other times are inconclusive and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet. Dietary restrictions during pregnancy or when breast feeding have not been found to be effective at preventing asthma in children and are not recommended.  Omega-3 consumption, mediterranean diet and anti-oxidants have been suggested by some studies that might help preventing crisis but the evidence is still inconclusive Asthma Asthma",
+        "response": "You're welcome. If you have any more questions, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain what asthma is?",
+            "Sure thing. Asthma is a chronic respiratory condition that causes airflow obstruction and inflammation of the airways.",
+            "What are the symptoms of asthma?",
+            "The symptoms of asthma include coughing, wheezing, chest tightness, and shortness of breath.",
+            "How is asthma diagnosed?",
+            "Asthma can be diagnosed using a combination of medical history, physical exams, and pulmonary function tests.",
+            "Can asthma be cured?",
+            "Asthma cannot be cured, but it can be managed with proper treatment and lifestyle changes.",
+            "Thanks for explaining that, Medi. "
+        ],
+        "knowledge": "Asthma Asthma The evidence for the effectiveness of measures to prevent the development of asthma is weak.  The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections.  Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well supported enough to be recommended for this indication. Early pet exposure may be useful.  Results from exposure to pets at other times are inconclusive and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet. Dietary restrictions during pregnancy or when breast feeding have not been found to be effective at preventing asthma in children and are not recommended.  Omega-3 consumption, mediterranean diet and anti-oxidants have been suggested by some studies that might help preventing crisis but the evidence is still inconclusive Asthma Asthma",
+        "response": "No problem. If you need any more information, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a spirometry test. What should I do now?",
+            "Great. Spirometry tests are used to measure lung function. What were the results?",
+            "The test showed that I have asthma. What do I do now?",
+            "You should talk to your doctor about starting a treatment plan. This may include medications or inhalers to manage your symptoms.",
+            "I don't want to rely on medication. Are there any lifestyle changes I can make?",
+            "Absolutely. You can reduce your exposure to triggers like smoke, pollution, and allergens. You should also exercise regularly and maintain a healthy weight.",
+            "That's really helpful. Thanks, Medi.",
+            "You're welcome. Let me know if you have any more questions.",
+            "Actually, can you recommend any specific exercises for people with asthma?"
+        ],
+        "knowledge": "Asthma Asthma The evidence for the effectiveness of measures to prevent the development of asthma is weak.  The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections.  Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well supported enough to be recommended for this indication. Early pet exposure may be useful.  Results from exposure to pets at other times are inconclusive and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet. Dietary restrictions during pregnancy or when breast feeding have not been found to be effective at preventing asthma in children and are not recommended.  Omega-3 consumption, mediterranean diet and anti-oxidants have been suggested by some studies that might help preventing crisis but the evidence is still inconclusive Asthma Asthma",
+        "response": "I'm glad I could help. Let me know if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am feeling a bit short of breath. What should I do?",
+            "Hello. First, you need to check your breathing rate and keep calm.",
+            "What is the normal breathing rate?",
+            "Normally it is 12-20 breaths per minute. Can you check it now?",
+            "Yes, it is 25 breaths per minute. Is it bad?",
+            "Yes, it is higher than normal. You could have asthma",
+            "What should I do now?",
+            "You should see a doctor as soon as possible.",
+            "What are the common causes of asthma?"
+        ],
+        "knowledge": "Asthma Asthma The evidence for the effectiveness of measures to prevent the development of asthma is weak.  The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections.  Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well supported enough to be recommended for this indication. Early pet exposure may be useful.  Results from exposure to pets at other times are inconclusive and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet. Dietary restrictions during pregnancy or when breast feeding have not been found to be effective at preventing asthma in children and are not recommended.  Omega-3 consumption, mediterranean diet and anti-oxidants have been suggested by some studies that might help preventing crisis but the evidence is still inconclusive Asthma Asthma",
+        "response": "Asthma can be caused by various factors such as tobacco smoke, air pollution, chemical irritants including perfume, and respiratory infections."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery on my knee. What should I do next?",
+            "Hello, you should rest and not put too much weight on your knee.",
+            "For how long should I rest?",
+            "It depends on the type of surgery you had, but around 4-6 weeks is common.",
+            "What type of exercise should I do after the rest?",
+            "You should ease back into physical activity with gentle exercises like walking and stretching.",
+            "What type of food should I eat during my recovery period?",
+            "You should eat a diet that is high in protein and vitamins to help your body recover.",
+            "What types of foods are high in protein?"
+        ],
+        "knowledge": "Protein Protein Foods containing protein include meat, poultry, fish, legumes, tofu, cheese, eggs, nuts, and seeds. Protein is an important component of a healthy diet and is necessary for growth and repair of body tissues.  Consuming protein in adequate amounts is important during recovery from injury or surgery Protein Protein",
+        "response": "Foods that contain protein include meat, fish, poultry, tofu, legumes, cheese, eggs, nuts, and seeds."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I want to prevent asthma. Any suggestions?",
+            "Hello, the best way to prevent asthma is to avoid the risk factors.",
+            "What are the most common risk factors for asthma?",
+            "The most common risk factors are tobacco smoke, air pollution, chemical irritants including perfume, and lower respiratory infections.",
+            "What else can I do to prevent asthma?",
+            "Early pet exposure may be useful. However, pets should be removed from the home if you experience allergic symptoms.",
+            "Anything else that could help?",
+            "Breastfeeding and exposure to daycare or large families have been shown to be promising, but not enough to be recommended. Dietary restrictions during pregnancy or when breastfeeding are not effective.",
+            "What about omega-3 consumption, Mediterranean diet and antioxidants?"
+        ],
+        "knowledge": "Asthma Asthma The evidence for the effectiveness of measures to prevent the development of asthma is weak.  The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections.  Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well supported enough to be recommended for this indication. Early pet exposure may be useful.  Results from exposure to pets at other times are inconclusive and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet. Dietary restrictions during pregnancy or when breast feeding have not been found to be effective at preventing asthma in children and are not recommended.  Omega-3 consumption, mediterranean diet and anti-oxidants have been suggested by some studies that might help preventing crisis but the evidence is still inconclusive Asthma Asthma",
+        "response": "Some studies suggest that omega-3 consumption, a Mediterranean diet, and antioxidants may help prevent asthma, but more research is needed to confirm this."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have coughing and difficulty breathing.",
+            "I'm sorry to hear that. How long have you been experiencing these symptoms?",
+            "It's been a week now. I also feel tightness in my chest.",
+            "Based on your symptoms, you may have asthma. It's important to see a doctor for proper diagnosis.",
+            "Can asthma be prevented?",
+            "The evidence for the effectiveness of measures to prevent the development of asthma is weak. The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections.",
+            "What lifestyle changes can I make to manage asthma?",
+            "You can manage asthma by avoiding triggers like cigarette smoke and air pollution. Regular exercise can also help improve lung function.",
+            "Thank you, Medi. What should I do if my symptoms get worse?"
+        ],
+        "knowledge": "Asthma Asthma The evidence for the effectiveness of measures to prevent the development of asthma is weak. The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections. Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well-supported enough to be recommended for this indication. Early pet exposure may be useful. Results from exposure to pets at other times are inconclusive and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet. Dietary restrictions during pregnancy or when breastfeeding have not been found to be effective at preventing asthma in children and are not recommended. Omega-3 consumption, Mediterranean diet, and antioxidants have been suggested by some studies that might help prevent crises, but the evidence is still inconclusive. Asthma Asthma",
+        "response": "If your symptoms get worse, it's important to seek medical attention immediately."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about asthma.",
+            "Sure, what would you like to know?",
+            "What is asthma and what causes it?",
+            "Asthma is a chronic respiratory disease that results in inflammation and narrowing of the airways. It can be caused by a variety of factors, including genetics, environmental factors, and certain respiratory infections.",
+            "Can asthma be cured?",
+            "Asthma cannot be cured, but it can be managed with proper treatment and lifestyle changes.",
+            "What kind of treatment is available for asthma?",
+            "Treatment options for asthma include inhaled corticosteroids, bronchodilators, and leukotriene modifiers. Your doctor can help determine the best treatment plan for you.",
+            "Thank you, Medi. How can I prevent asthma attacks?"
+        ],
+        "knowledge": "Asthma Asthma Asthma is a common chronic respiratory disease that results in inflammation and narrowing of the airways. Symptoms include coughing, wheezing, and difficulty breathing, particularly during exercise or exposure to allergens. Asthma can be caused by a variety of factors, including genetics, environmental factors, and certain respiratory infections. Genetic factors also play a role in the development of asthma. Treatment options for asthma include inhaled corticosteroids, bronchodilators, and leukotriene modifiers. Asthma cannot be cured, but it can be managed with proper treatment and lifestyle changes. Asthma Asthma",
+        "response": "You can prevent asthma attacks by avoiding triggers like cigarette smoke and air pollution. Regular use of your prescribed inhaler can also help prevent attacks."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had an asthma attack and was hospitalized. What lifestyle changes can I make to prevent future attacks?",
+            "I'm sorry to hear that. In addition to following your doctor's treatment plan, you can make lifestyle changes such as avoiding triggers like cigarette smoke and air pollution. Regular exercise can also help improve lung function.",
+            "Can my diet affect my asthma?",
+            "Dietary restrictions during pregnancy or when breastfeeding have not been found to be effective at preventing asthma in children and are not recommended. Omega-3 consumption, Mediterranean diet, and antioxidants have been suggested by some studies that might help prevent crises, but the evidence is still inconclusive.",
+            "What about my pet? Can I keep it at home?",
+            "Early pet exposure may be useful. Results from exposure to pets at other times are inconclusive, and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet.",
+            "Thank you, Medi. Are there any medications available for long-term asthma management?",
+            "Yes, there are several medications available for long-term asthma management, including inhaled corticosteroids and bronchodilators.",
+            "Thank you, Medi. How often should I see my doctor for follow-up appointments?"
+        ],
+        "knowledge": "Asthma Asthma The evidence for the effectiveness of measures to prevent the development of asthma is weak. The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections. Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well-supported enough to be recommended for this indication. Early pet exposure may be useful. Results from exposure to pets at other times are inconclusive and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet. Dietary restrictions during pregnancy or when breastfeeding have not been found to be effective at preventing asthma in children and are not recommended. Omega-3 consumption, Mediterranean diet, and antioxidants have been suggested by some studies that might help prevent crises, but the evidence is still inconclusive. Asthma Asthma",
+        "response": "You should see your doctor regularly, as recommended by your doctor. It's important to monitor your symptoms and adjust your treatment plan as needed."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been suffering from coughing for a week",
+            "Hello! Have you had other symptoms such as fever or shortness of breath?",
+            "Yes, I have a fever and experience shortness of breath sometimes",
+            "Based on your symptoms, it's possible that you have developed pneumonia. You should see a doctor immediately.",
+            "What causes pneumonia?",
+            "Pneumonia can be caused by bacteria, viruses, or fungi.",
+            "How can I prevent pneumonia?",
+            "You can prevent pneumonia by washing your hands regularly and avoiding contact with people who are sick. It's also recommended to get vaccinated against pneumonia.",
+            "Thank you, Medi!"
+        ],
+        "knowledge": "Pneumonia Pneumonia Pneumonia is an inflammatory condition of the lung affecting primarily the tiny air sacs known as alveoli.  Symptoms typically include some combination of productive or dry cough, chest pain, fever, and trouble breathing. The severity of the condition is variable.  Pneumonia is usually caused by infection with viruses or bacteria and less commonly by other microorganisms, certain medications and conditions such as autoimmune diseases.  People with pneumonia may be treated at home with antibiotics, depending on the severity of symptoms and underlying health conditions. Pneumonia can be prevented by getting vaccinated and practicing good hand hygiene. Pneumonia Pneumonia",
+        "response": "You're welcome! Remember to see a doctor urgently because you might have developed pneumonia."
+    },
+    {
+        "dialog": [
+            "Medi, I am worried that I might have asthma. What should I do?",
+            "Hello, do you have any symptoms such as wheezing, coughing, or difficulty breathing?",
+            "Yes, I have been coughing a lot and have trouble breathing sometimes.",
+            "Based on your symptoms, it's possible that you have developed asthma. You should see a doctor to confirm a diagnosis.",
+            "How is asthma usually treated?",
+            "Asthma is usually treated with inhaled corticosteroids to reduce inflammation and bronchodilators to help open up the airways.",
+            "How can asthma be prevented?",
+            "You can prevent asthma attacks by avoiding triggers such as tobacco smoke, air pollution, and allergens. You should also try to maintain a healthy weight and exercise regularly.",
+            "Thank you, Medi!"
+        ],
+        "knowledge": "Asthma Asthma The main symptoms of asthma are wheezing, coughing, chest tightness, and shortness of breath. Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways.  It is caused by a combination of genetic and environmental factors.  The best way to manage asthma is to avoid triggers such as tobacco smoke, air pollution, and allergens.  Asthma can be treated with inhaled corticosteroids to reduce inflammation and bronchodilators to help open up the airways.  Regular exercise can help improve lung function and reduce symptoms. Asthma Asthma",
+        "response": "You're welcome! Seeing a doctor is the first step to confirm a diagnosis of asthma."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I have some questions about post-surgery recovery.",
+            "Hello! What kind of surgery did you have?",
+            "I had heart surgery.",
+            "After heart surgery, it's important to follow your doctor's instructions for recovery. You should avoid heavy lifting, strenuous activity, and soaking the incision site until it's fully healed.",
+            "How long does it take for the incision site to heal?",
+            "It can take several weeks for the incision site to fully heal, depending on the type of surgery you had.",
+            "What should I do to speed up the recovery process?",
+            "You should eat a healthy diet, get enough sleep, and avoid alcohol and tobacco. You should also take any medications your doctor prescribed as directed.",
+            "Thank you, Medi!"
+        ],
+        "knowledge": "Heart Surgery Heart Surgery After heart surgery, it's important to follow your doctor's instructions for recovery. You should avoid heavy lifting, strenuous activity, and soaking the incision site until it's fully healed. Depending on the type of surgery you had, it can take several weeks for the incision site to fully heal. To speed up the recovery process, you should eat a healthy diet, get enough sleep, and avoid alcohol and tobacco. Taking any medications your doctor prescribed as directed can also help. Heart Surgery Heart Surgery",
+        "response": "You're welcome! Remember to follow your doctor's instructions for recovery and take care of yourself."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some trouble breathing.",
+            "What kind of trouble?",
+            "I feel like my breath is short and I cough a lot.",
+            "It may be asthma. I advise you to avoid smoking and contact a doctor for further examination.",
+            "Do I need some medication?",
+            "It is better to consult a doctor first before taking any medication.",
+            "What should I do to prevent it happening again?",
+            "Avoid environmental irritants and keep your airways clear.",
+            "Thank you Medi. I will see a doctor."
+        ],
+        "knowledge": "Asthma Asthma The evidence for the effectiveness of measures to prevent the development of asthma is weak.  The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections.  Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well supported enough to be recommended for this indication. Early pet exposure may be useful.  Results from exposure to pets at other times are inconclusive and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet. Dietary restrictions during pregnancy or when breast feeding have not been found to be effective at preventing asthma in children and are not recommended.  Omega-3 consumption, mediterranean diet and anti-oxidants have been suggested by some studies that might help preventing crisis but the evidence is still inconclusive Asthma Asthma",
+        "response": "It is better to avoid environmental irritants and contact a doctor for further examination before taking any medication"
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you explain to me what asthma is?",
+            "Asthma is a chronic respiratory disease that makes it difficult to breathe.",
+            "What causes asthma?",
+            "Asthma is caused by inflammation and narrowing of the airways in the lungs in response to triggers such as allergens or irritants.",
+            "Can asthma be cured?",
+            "There is no cure for asthma, but it can be managed effectively with medication and lifestyle changes.",
+            "What lifestyle changes should I make?",
+            "You can avoid triggers such as smoke and pollution, maintain a healthy weight and exercise regularly.",
+            "Thanks Medi, that was helpful."
+        ],
+        "knowledge": "Asthma Asthma Asthma is a chronic respiratory disease that makes it difficult to breathe. The underlying mechanisms are complex and still not fully understood.  It is characterized by variable and recurring symptoms, reversible airflow obstruction, and easily triggered bronchospasms.  Symptoms include episodes of wheezing, coughing, chest tightness, and shortness of breath.  These episodes may occur a few times a day or a few times per week.  Depending on the person, they may become worse at night or with exercise.  Asthma is caused by inflammation and narrowing of the airways in the lungs in response to triggers such as allergens or irritants. Genetics and environmental factors are also believed to play a role.  There is no cure for asthma, but it can be managed effectively with medication and lifestyle changes. Asthma Asthma",
+        "response": "You can avoid triggers such as smoke and pollution, maintain a healthy weight and exercise regularly."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had a lung biopsy recently.",
+            "How are you feeling now?",
+            "I am feeling better but a little anxious about the future.",
+            "What advice do you need from me?",
+            "I want to know what lifestyle changes I should make after the procedure?",
+            "You should avoid smoking and exposure to environmental irritants, and rest for a few days after the procedure.",
+            "Anything else?",
+            "You should also follow your doctor's advice and attend follow-up appointments as scheduled.",
+            "Thanks Medi, I will do that."
+        ],
+        "knowledge": "Lung Biopsy Lung Biopsy A lung biopsy is a medical procedure in which a small piece of lung tissue is removed for examination under a microscope.  It is typically performed to diagnose lung disease or infection.  There are three main types of lung biopsy: bronchoscopic biopsy, transthoracic needle biopsy, and open biopsy.  The procedure is usually performed under local anesthesia and mild sedation.  After the procedure, the patient is typically monitored for a few hours and then allowed to go home.  Recovery time varies depending on the type of biopsy and individual patient factors.  Patients are typically advised to rest for a few days and avoid heavy lifting or strenuous activity for a week or two after the procedure. Lung Biopsy Lung Biopsy",
+        "response": "You should avoid smoking and exposure to environmental irritants, and rest for a few days after the procedure. You should also follow your doctor's advice and attend follow-up appointments as scheduled."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am experiencing difficulty breathing and coughing.",
+            "Hello! Based on your symptoms, you could be having Asthma.",
+            "Is Asthma a serious medical condition?",
+            "It can be, but with proper management, it is possible to live a normal life.",
+            "What are some ways to manage Asthma?",
+            "You can avoid your triggers, take your medication as prescribed, and practice breathing exercises.",
+            "Can you tell me some common triggers?",
+            "Some common triggers include allergies, air pollution, tobacco smoke, and exercise.",
+            "How can I avoid these triggers?"
+        ],
+        "knowledge": "Asthma Asthma The evidence for the effectiveness of measures to prevent the development of asthma is weak.  The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections.  Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well supported enough to be recommended for this indication. Early pet exposure may be useful.  Results from exposure to pets at other times are inconclusive and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet. Dietary restrictions during pregnancy or when breast feeding have not been found to be effective at preventing asthma in children and are not recommended.  Omega-3 consumption, mediterranean diet and anti-oxidants have been suggested by some studies that might help preventing crisis but the evidence is still inconclusive Asthma Asthma",
+        "response": "You can avoid triggers by staying indoors during high pollen counts, avoiding smoking areas, using air purifiers, and wearing a mask when outside."
+    },
+    {
+        "dialog": [
+            "Hi Medi, my child has just been diagnosed with Asthma.",
+            "Hello! I'm sorry to hear that. Do you have any questions?",
+            "Is Asthma genetic? Will my other children have it too?",
+            "While genetics can play a role, it is not a guaranteed outcome that your other children will have it as well.",
+            "How can I help my child manage their Asthma?",
+            "You can make sure they take their medication as prescribed, avoid triggers, and make sure they know how to use their inhaler properly.",
+            "What should I do if my child has an Asthma attack?",
+            "Stay calm and use their inhaler as prescribed. If the symptoms worsen, seek medical attention immediately.",
+            "Can Asthma be cured?"
+        ],
+        "knowledge": "Asthma Asthma Asthma is a disease that affects the airways of the lungs, causing them to narrow and making breathing difficult. It is caused by a combination of genetic and environmental factors. It is a chronic disease, which means it is ongoing and cannot be cured. However, with proper management, it is possible to live a normal life.",
+        "response": "While Asthma cannot be cured, with proper management, it is possible to live a normal life."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure to remove my appendix.",
+            "Hello! I hope you're feeling okay. Do you have any questions about post-operative care?",
+            "Yes, what should I avoid eating?",
+            "In the first few days, avoid fried or high-fat foods, spicy foods, and caffeine.",
+            "Can I exercise after the surgery?",
+            "It's best to wait a week or two before resuming strenuous exercise. Start with light walks and gradually increase the intensity.",
+            "What can I do to help with the healing process?",
+            "Make sure to get plenty of rest, eat a balanced diet, and follow any instructions given to you by your doctor.",
+            "How do I know if something is wrong during the healing process?"
+        ],
+        "knowledge": "Appendectomy Appendectomy After an appendectomy, it is important to watch for signs of infection, such as fever, increased pain, or redness or drainage at the incision site. Follow any instructions given to you by your doctor, and make sure to get plenty of rest and stay hydrated. It is common to experience some discomfort and limited movement in the first few days after surgery, but this should improve over time. Be sure to follow any dietary restrictions or recommendations given to you by your doctor.",
+        "response": "If you experience fever, increased pain, or redness or drainage at the incision site, seek medical attention immediately."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been coughing for a week.",
+            "Hello, I can help you with that. Can you describe the cough?",
+            "It's a dry cough and it's been constant for a week.",
+            "Have you had any fever or difficulty breathing?",
+            "No, I haven't had any fever or difficulty breathing.",
+            "Based on your symptoms, you might have a viral infection. Drink lots of fluids and get rest.",
+            "What can I do to prevent getting sick in the future?",
+            "Wash your hands regularly, avoid close contact with people who are sick, and avoid touching your face.",
+            "Thanks, Medi. How can I tell if it's serious enough to go to the doctor?"
+        ],
+        "knowledge": "Respiratory infection Respiratory infection The common symptoms of a respiratory infection include coughing, fever, and difficulty breathing. Treatment usually involves getting rest, drinking fluids, and taking over-the-counter medications to relieve symptoms. To prevent respiratory infections, it is recommended to wash your hands regularly, avoid close contact with people who are sick, and avoid touching your face. If you have difficulty breathing, chest pain, or a high fever, you should seek medical attention immediately. Respiratory infection Respiratory infection",
+        "response": "If you start experiencing difficulty breathing or chest pain, or if your fever gets too high, you should see a doctor right away."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm concerned about my child's asthma.",
+            "Hi there. What specific concerns do you have?",
+            "I'm worried about how to prevent asthma attacks.",
+            "The best way to prevent asthma attacks is to avoid triggers. These may include allergens such as pollen or dust, respiratory infections, exercise, or emotional stress.",
+            "What can I do to decrease the likelihood of my child having an asthma attack?",
+            "Make sure your child takes their asthma medicine as prescribed, and have a written asthma action plan in place. This should outline what to do in case of an asthma attack.",
+            "Can I do anything to prevent asthma from developing in the first place?",
+            "There is no surefire way to prevent asthma from developing, but avoiding tobacco smoke and air pollution may help. Early pet exposure and having a large family may also help prevent asthma from developing.",
+            "Thanks, Medi. The information helps a lot. Are there any dietary restrictions to be considered?"
+        ],
+        "knowledge": "Asthma Asthma The best way to prevent asthma attacks is to avoid triggers such as allergens, respiratory infections, exercise, and emotional stress. If you have asthma, you should take your medicine as prescribed and have a written asthma action plan in place. There is no surefire way to prevent asthma from developing, but early pet exposure and having a large family may help prevent asthma from developing. Dietary restrictions during pregnancy or when breastfeeding have not been found to be effective at preventing asthma in children and are not recommended.  Omega-3 consumption, Mediterranean diet, and antioxidants have been suggested by some studies that might help prevent asthma attacks, but the evidence is still inconclusive.",
+        "response": "There are no dietary restrictions to prevent asthma, but some studies suggest that omega-3 consumption, a Mediterranean diet, and antioxidants might help prevent asthma attacks."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a bronchoscopy. What should I do now?",
+            "Hi. You should take it easy for the next 24 hours, avoid driving, and avoid heavy lifting. You may also have a sore throat or cough.",
+            "How long will it take to recover fully?",
+            "It may take a few days to recover fully, but you should be able to resume your normal activities within a week.",
+            "Are there any lifestyle changes I should make after the procedure?",
+            "You should avoid smoking and exposure to secondhand smoke. You should also avoid air pollution and other irritants. Eating a healthy diet and getting regular exercise can also help improve lung health.",
+            "Thanks, Medi. I will take your advice. Will there be any follow-up appointments or medication I should take?",
+            "Your doctor will let you know if you need any follow-up appointments or medication. Be sure to follow their instructions carefully.",
+            "Thanks, Medi. That's all the information I need for now."
+        ],
+        "knowledge": "Bronchoscopy Bronchoscopy After a bronchoscopy, you should take it easy for the next 24 hours, avoid driving, and avoid heavy lifting. You may also have a sore throat or cough. It may take a few days to recover fully, but you should be able to resume your normal activities within a week. To improve lung health, avoid smoking and exposure to secondhand smoke, air pollution, and other irritants. Eating a healthy diet and getting regular exercise can also help. Your doctor will let you know if you need any follow-up appointments or medication. Bronchoscopy Bronchoscopy",
+        "response": "No problem. If you have any further questions or concerns, don't hesitate to contact your doctor."
+    }
+]

@@ -1,0 +1,359 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I've been feeling sick lately and I think I might have something.",
+            "Hello, sorry to hear that. Can you tell me more about your symptoms?",
+            "I have a cough, fever, and my throat hurts. I also feel very tired.",
+            "I see. Based on your symptoms, it's possible that you have the flu.",
+            "What should I do? Is there any medication I can take?",
+            "Rest and drink plenty of fluids. You can also take over-the-counter medications like acetaminophen or ibuprofen to help relieve your symptoms.",
+            "Okay, thank you. Should I go to the doctor?",
+            "If your symptoms persist or become more severe, it's best to see a doctor. Otherwise, just make sure to take care of yourself.",
+            "Alright, thank you for your help."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it's possible that you have the flu. Rest and drink plenty of fluids. You can also take over-the-counter medications like acetaminophen or ibuprofen to help relieve your symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about a disease called Influenza. What can you tell me about it?",
+            "Hello, Influenza is a viral disease that affects the respiratory system. It's highly contagious and spreads easily from person to person.",
+            "How is it transmitted?",
+            "It's transmitted through respiratory droplets when someone infected with the virus coughs or sneezes. You can also get it by touching surfaces contaminated with the virus and then touching your mouth, nose, or eyes.",
+            "What are the symptoms of Influenza?",
+            "The symptoms include fever, sore throat, cough, body aches, headache, chills, and fatigue. Some people may also experience vomiting and diarrhea.",
+            "Is there any treatment available?",
+            "There are antiviral medications that can help reduce the severity and duration of the illness. However, the best way to prevent getting the flu is to get vaccinated every year and practice good hygiene.",
+            "Thank you for the information Medi. I'll make sure to take the necessary precautions."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The symptoms of Influenza include fever, sore throat, cough, body aches, headache, chills, and fatigue. There are antiviral medications that can help reduce the severity and duration of the illness. However, the best way to prevent getting the flu is to get vaccinated every year and practice good hygiene."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure done and I was wondering if you could give me some advice on what to do now.",
+            "Hello, of course. What procedure did you have?",
+            "I had a surgery on my knee and I'm not sure what I should be doing now to help with my recovery.",
+            "After a knee surgery, it's important to rest and elevate your leg to reduce swelling. You should also do light exercises to help improve your range of motion.",
+            "What kind of exercises should I do?",
+            "You can do exercises like ankle pumps, straight leg raises, and wall slides. Your doctor or physical therapist can give you more specific exercises based on your situation.",
+            "Are there any foods I should avoid or include in my diet?",
+            "You should make sure to eat a healthy and balanced diet. Foods that are high in protein and vitamin C can be especially beneficial for healing and recovery.",
+            "Thank you for your help Medi. I'll make sure to follow your advice."
+        ],
+        "knowledge": "Knee Surgery Knee Surgery  After a knee surgery, it's important to rest and elevate your leg to reduce swelling. You should also do light exercises to help improve your range of motion.  Physical therapy is often recommended to help with recovery.  Pain medication may also be prescribed to help manage any discomfort.  It's important to follow all post-operative instructions from your doctor to ensure proper healing.  A healthy and balanced diet can also be beneficial for healing and recovery Knee Surgery Knee Surgery",
+        "response": "After a knee surgery, it's important to rest and elevate your leg to reduce swelling. You should also do light exercises to help improve your range of motion. You should make sure to eat a healthy and balanced diet. Foods that are high in protein and vitamin C can be especially beneficial for healing and recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am worried about bird flu.",
+            "I understand your concern, what symptoms are you experiencing?",
+            "I don't have any symptoms, but I want to know more about how it spreads.",
+            "Bird flu spreads from ducks to poultry, and then to humans through contaminated water, aerosols and fomites.",
+            "What can be done to prevent it?",
+            "Prevention includes adequate biosecurity measures, especially in live animal markets, and avoiding contact with infected poultry.",
+            "Should I be worried about wild birds?",
+            "Although back-transmission of bird flu viruses from poultry to wild birds has occurred, direct transmission from wild birds to humans is rare.",
+            "Thank you for the information, Medi. Is there anything else I should know?"
+        ],
+        "knowledge": "Influenza Influenza  Ducks therefore act as key intermediates between wild and domestic birds.  Transmission to poultry typically occurs in backyard farming and live animal markets where multiple species interact with each other.  From there, AIVs can spread to poultry farms in the absence of adequate biosecurity.  Among poultry, HPAI transmission occurs through aerosols and contaminated feces, cages, feed, and dead animals.  Back-transmission of HPAI viruses from poultry to wild birds has occurred and is implicated in mass die-offs and intercontinental spread. AIVs have occasionally infected humans through aerosols, fomites, and contaminated water.  Direction transmission from wild birds is rare Influenza Influenza",
+        "response": "No, that's all you should know for now. If you experience any concerning symptoms, please let me know."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a flu shot.",
+            "Great, getting a flu shot can help prevent the flu.",
+            "But I heard that the flu shot can make you sick.",
+            "Some people may experience mild side effects, such as a low-grade fever or muscle aches, but these typically go away on their own.",
+            "What if I get the flu anyway?",
+            "Even if you get the flu after getting vaccinated, the vaccine can still reduce the severity and duration of the illness.",
+            "That's good to know. How long does the vaccine protect me?",
+            "The vaccine is usually effective for the entire flu season, which typically lasts from October to May.",
+            "Thanks for the information, Medi. I appreciate it."
+        ],
+        "knowledge": "Influenza Influenza  Influenza vaccines are designed to protect against the influenza viruses that research indicates will be most common during the upcoming season.  There are two types of influenza vaccines: inactivated (killed) and live attenuated (weakened).  Inactivated influenza vaccines are given by injection into the muscle.  They contain dead virus particles and cannot cause the flu.  Live attenuated influenza vaccine is given as a nasal spray. It contains live but weakened influenza viruses that do not cause the flu. Side effects are generally mild Influenza Influenza",
+        "response": "You're welcome. If you have any further questions or concerns, please don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a flu and I'm feeling better now.",
+            "That's good to hear. How long were you sick?",
+            "It lasted for about a week. I had a fever, cough, and sore throat.",
+            "I'm sorry to hear that. Did you see a doctor?",
+            "No, I didn't feel it was necessary. I just stayed home and rested.",
+            "That's a good approach. Did you take any medication?",
+            "Yes, I took some over-the-counter pain relievers and cough medicine.",
+            "That's a good idea. It's important to stay hydrated too. Do you have any questions for me?",
+            "No, I don't think so. Thanks for your help, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "I'm glad you're feeling better. If you experience any recurring symptoms or concerns, please don't hesitate to reach out to me."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and sore throat. What should I do?",
+            "Don't worry. Let me check. Try drinking warm water and do gargling with salt water",
+            "Okay, I'll try that. What else should I do?",
+            "Take a rest, and if the fever gets worse take some over-the-counter medicine like paracetamol.",
+            "I see. Is there anything that I should avoid?",
+            "Avoid cold and sugary food. And if the symptom persists, you should see a doctor",
+            "I understand. Thank you.",
+            "You're welcome. Take care.",
+            "Can I get the flu from my cat?"
+        ],
+        "knowledge": "Influenza Influenza: Influenza is caused by viruses that are primarily spread by sneezing, coughing, or touching surfaces contaminated with the virus. The incubation period is typically 1-4 days. It causes a fever, cough, sore throat, runny or stuffy nose, muscle or body aches, headache, chills, and fatigue. Children may also have nausea, vomiting, or diarrhea. Treatment is usually limited to rest, fluids, and over-the-counter medications. It is not usually necessary to see a doctor unless the symptoms are severe or last for more than 2 weeks. Influenza is not transmitted from cats to people",
+        "response": "No, Influenza is not transmitted from cats to people"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I want to know more about how to prevent Influenza",
+            "Sure. The most effective way to prevent influenza is to get vaccinated every year.",
+            "What else can I do to prevent it?",
+            "Wash your hands frequently, avoid touching your eyes, nose, and mouth, cover your nose and mouth when you sneeze and cough, and avoid close contact with sick people",
+            "I see. Is there anything I should avoid?",
+            "Avoid crowded places during influenza season, and try not to share personal items like drinking glasses and towels",
+            "All right. Thank you, Medi.",
+            "You're welcome. Stay healthy!",
+            "How long does the Influenza vaccine last?"
+        ],
+        "knowledge": "Influenza Influenza: The influenza vaccine is usually effective for one flu season, which lasts approximately six months. Protection starts about two weeks after vaccination and decreases over time. The vaccine is usually reformulated each year to include the strains expected to be most prevalent during the upcoming flu season. ",
+        "response": "The influenza vaccine is usually effective for one flu season, which lasts approximately six months."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I had a flu shot yesterday and now my arm is sore. What should I do?",
+            "Don't worry, this is a common side effect of the flu vaccine. Apply a cool, damp cloth to the injection site and take an over-the-counter pain reliever like ibuprofen or acetaminophen if necessary",
+            "Okay, thank you. How long will the soreness last?",
+            "The soreness usually lasts for about 1-2 days. If it lasts longer or is severe, you should contact your doctor",
+            "I see. Is there anything else I should be aware of?",
+            "You may experience other side effects like a low-grade fever, headache, or fatigue, but these are usually mild and go away on their own",
+            "I understand. Thank you for your help.",
+            "You're welcome. Be sure to drink plenty of fluids and get plenty of rest",
+            "How long does it take for the flu vaccine to start working?"
+        ],
+        "knowledge": "Influenza Influenza: Protection starts about two weeks after vaccination. It takes time for the body to produce enough antibodies to fight off the influenza virus. ",
+        "response": "Protection starts about two weeks after vaccination. It takes time for the body to produce enough antibodies to fight off the influenza virus."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms that I am not familiar with.",
+            "Hi, I'm here to help. Can you tell me about the symptoms you are experiencing?",
+            "I have a high fever, cough, runny nose, and feel very tired.",
+            "Okay, based on your symptoms, you might have Influenza. You should rest and drink plenty of fluids.",
+            "What else should I do?",
+            "You should avoid contact with others to prevent the spread of the virus. You can take over-the-counter medication for fever and body aches. If your symptoms worsen, you should contact a doctor.",
+            "Alright, thank you for your help. I'll take your advice.",
+            "You're welcome. I hope you feel better soon."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it is possible that you have Influenza. You should rest and drink plenty of fluids to help your body fight off the virus. If your symptoms worsen, contact a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about how to prevent obesity.",
+            "Hi, I'm here to help. What do you want to know?",
+            "What kind of food should I eat to prevent obesity?",
+            "You should eat a well-balanced diet with plenty of fruits and vegetables. You should avoid foods high in sugar and fat.",
+            "What kind of exercises should I do to prevent obesity?",
+            "You should aim for at least 30 minutes of exercise per day, such as walking, jogging, or swimming. Strength training can also help build muscle and increase your metabolism.",
+            "Are there any other tips you can give me to prevent obesity?",
+            "Yes, you should try to get enough sleep and reduce your stress levels. These factors can contribute to weight gain.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Obesity Obesity Obesity is a complex public health and policy problem because of its prevalence, costs, and health effects.  As such, managing it requires changes in the wider societal context and effort by communities, local authorities, and governments.  Public health efforts seek to understand and correct the environmental factors responsible for the increasing prevalence of obesity in the population.  Solutions look at changing the factors that cause excess food energy consumption and inhibit physical activity.  Efforts include federally reimbursed meal programs in schools, limiting direct junk food marketing to children, and decreasing access to sugar-sweetened beverages in schools.  The World Health Organization recommends the taxing of sugary drinks.  When constructing urban environments, efforts have been made to increase access to parks and to develop pedestrian routes Obesity Obesity",
+        "response": "To prevent obesity, you should eat a well-balanced diet with plenty of fruits and vegetables, avoid foods high in sugar and fat. You should aim for at least 30 minutes of exercise per day, such as walking, jogging, or swimming. Strength training can also help build muscle and increase your metabolism. Additionally, you should try to get enough sleep and reduce your stress levels."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure. Can you give me some advice on what to do next?",
+            "Of course, I'm here to help. What kind of procedure did you have?",
+            "I had surgery to remove a tumor from my stomach.",
+            "Okay, after surgery, it's important to rest and take it easy. You should avoid any strenuous activity for at least a few weeks.",
+            "Are there any specific foods I should eat or avoid?",
+            "You should eat a well-balanced diet with plenty of protein and fiber to help your body heal. You should avoid fatty or greasy foods, alcohol, and caffeine.",
+            "What about medication? Do I need to take anything?",
+            "Your doctor will prescribe pain medication to help manage any discomfort you may have. They may also give you antibiotics to prevent infection.",
+            "Thank you for your help, Medi. I'll make sure to follow your advice."
+        ],
+        "knowledge": "Medical Procedures Medical Procedures  After a medical procedure, it's important to rest and take it easy. You should avoid any strenuous activity for at least a few weeks. You should eat a well-balanced diet with plenty of protein and fiber to help your body heal. You should avoid fatty or greasy foods, alcohol, and caffeine. Your doctor will prescribe pain medication to help manage any discomfort you may have. They may also give you antibiotics to prevent infection.",
+        "response": "After surgery, it's important to rest and take it easy. You should avoid any strenuous activity for at least a few weeks. You should eat a well-balanced diet with plenty of protein and fiber to help your body heal. You should avoid fatty or greasy foods, alcohol, and caffeine. Your doctor will prescribe pain medication to help manage any discomfort you may have. They may also give you antibiotics to prevent infection."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been around ducks recently and I am feeling sick.",
+            "Hello! Can you tell me more about your symptoms?",
+            "I have a fever and a headache and I am feeling very tired",
+            "Based on your symptoms, it's possible that you have contracted avian influenza. I recommend that you visit a doctor immediately.",
+            "Is avian influenza serious?",
+            "Yes, it can be very dangerous to humans. It's important to get treatment as soon as possible",
+            "Thank you for the advice, Medi. I will go to the doctor right away.",
+            "You're welcome. I hope you get better soon."
+        ],
+        "knowledge": "Influenza Influenza  Ducks therefore act as key intermediates between wild and domestic birds.  Transmission to poultry typically occurs in backyard farming and live animal markets where multiple species interact with each other.  From there, AIVs can spread to poultry farms in the absence of adequate biosecurity.  Among poultry, HPAI transmission occurs through aerosols and contaminated feces, cages, feed, and dead animals.  Back-transmission of HPAI viruses from poultry to wild birds has occurred and is implicated in mass die-offs and intercontinental spread. AIVs have occasionally infected humans through aerosols, fomites, and contaminated water.  Direction transmission from wild birds is rare Influenza Influenza",
+        "response": "Avian influenza can be very dangerous to humans, so it's important that you visit a doctor right away."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have been reading about avian influenza. Can you tell me more about it?",
+            "Of course! What would you like to know?",
+            "How does it spread?",
+            "Avian influenza usually spreads from birds to other birds, but it can also spread to humans who have close contact with infected birds.",
+            "What are the symptoms?",
+            "The symptoms of avian influenza in humans are similar to those of regular influenza, such as fever, headache, muscle aches, coughing, and sore throat",
+            "Is there any way to prevent it?",
+            "The best way to prevent avian influenza is to avoid close contact with infected birds",
+            "Thanks for the information, Medi. I appreciate it."
+        ],
+        "knowledge": "Influenza Influenza  Ducks therefore act as key intermediates between wild and domestic birds.  Transmission to poultry typically occurs in backyard farming and live animal markets where multiple species interact with each other.  From there, AIVs can spread to poultry farms in the absence of adequate biosecurity.  Among poultry, HPAI transmission occurs through aerosols and contaminated feces, cages, feed, and dead animals.  Back-transmission of HPAI viruses from poultry to wild birds has occurred and is implicated in mass die-offs and intercontinental spread. AIVs have occasionally infected humans through aerosols, fomites, and contaminated water.  Direction transmission from wild birds is rare Influenza Influenza",
+        "response": "To prevent avian influenza, avoid close contact with infected birds."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just recovered from avian influenza. What should I do to stay healthy?",
+            "Welcome back! My advice is to get plenty of rest, drink lots of fluids, and eat a healthy diet.",
+            "What about exercise?",
+            "Exercise is also important for staying healthy. Start with light exercises and gradually increase the intensity over time.",
+            "What foods should I eat?",
+            "You should eat plenty of fruits, vegetables, whole grains, and lean proteins. Avoid foods that are high in sugar, saturated fat, and sodium.",
+            "Thanks for the advice, Medi!",
+            "You're welcome. Take care of yourself!"
+        ],
+        "knowledge": "Influenza Influenza  Ducks therefore act as key intermediates between wild and domestic birds.  Transmission to poultry typically occurs in backyard farming and live animal markets where multiple species interact with each other.  From there, AIVs can spread to poultry farms in the absence of adequate biosecurity.  Among poultry, HPAI transmission occurs through aerosols and contaminated feces, cages, feed, and dead animals.  Back-transmission of HPAI viruses from poultry to wild birds has occurred and is implicated in mass die-offs and intercontinental spread. AIVs have occasionally infected humans through aerosols, fomites, and contaminated water.  Direction transmission from wild birds is rare Influenza Influenza",
+        "response": "To stay healthy after recovering from avian influenza, get plenty of rest, drink lots of fluids, eat a healthy diet, and exercise regularly."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a headache and fever.",
+            "Hi there, sorry to hear that. How long has this been going on?",
+            "Just today, but it's getting worse.",
+            "Have you noticed any other symptoms?",
+            "I feel tired and my throat is sore.",
+            "Based on your symptoms, it's possible that you have the flu.",
+            "What should I do, Medi?",
+            "Rest and drink plenty of fluids. If your symptoms worsen, see a doctor.",
+            "Thanks for the advice. What causes the flu?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "The flu is caused by the influenza virus and is highly contagious. It spreads easily from person to person through the air when someone coughs or sneezes."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about avian influenza.",
+            "Of course, I'm here to help. What would you like to know?",
+            "First of all, what is avian influenza?",
+            "Avian influenza is a viral infection that primarily affects birds, but it can also infect humans.",
+            "How do humans get infected?",
+            "Humans can contract the virus from infected birds, either through direct contact or by coming in contact with contaminated surfaces or materials.",
+            "Is it a serious illness?",
+            "It can be. Symptoms can range from mild to severe and can even be fatal in some cases. It's important to take precautions to avoid infection.",
+            "What are some precautions I can take?"
+        ],
+        "knowledge": "Influenza Influenza  Ducks therefore act as key intermediates between wild and domestic birds.  Transmission to poultry typically occurs in backyard farming and live animal markets where multiple species interact with each other.  From there, AIVs can spread to poultry farms in the absence of adequate biosecurity.  Among poultry, HPAI transmission occurs through aerosols and contaminated feces, cages, feed, and dead animals.  Back-transmission of HPAI viruses from poultry to wild birds has occurred and is implicated in mass die-offs and intercontinental spread. AIVs have occasionally infected humans through aerosols, fomites, and contaminated water.  Direction transmission from wild birds is rare Influenza Influenza",
+        "response": "You're welcome. It's important to be careful around birds and to cook poultry thoroughly to avoid infection."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a medical procedure. What lifestyle changes do I need to make?",
+            "Hi there. It depends on the procedure you had. Can you give me more information?",
+            "I had surgery on my knee.",
+            "After surgery, it's important to rest and allow your body to heal. Avoid strenuous physical activity and follow your doctor's instructions for physical therapy.",
+            "What about my diet?",
+            "A healthy diet is important for recovery. Eating foods high in protein and vitamins can help your body heal faster.",
+            "Are there any specific foods I should eat or avoid?",
+            "It's a good idea to avoid processed foods and foods high in sugar. Instead, focus on eating lean proteins, fruits and vegetables, and whole grains.",
+            "Thanks for the advice, Medi. Is there anything else I should keep in mind?"
+        ],
+        "knowledge": "Surgery Surgery  After surgery, it's important to rest and allow your body to heal. Avoid strenuous physical activity and follow your doctor's instructions for physical therapy. A healthy diet is important for recovery. Eating foods high in protein and vitamins can help your body heal faster. It's a good idea to avoid processed foods and foods high in sugar. Instead, focus on eating lean proteins, fruits and vegetables, and whole grains. Make sure to get plenty of rest and avoid smoking or drinking alcohol. This will help your body heal faster and reduce the risk of complications. Surgery Surgery",
+        "response": "You're welcome. Remember to get plenty of rest and avoid smoking and drinking alcohol to help your body heal faster."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling unwell and I think I might have caught the flu.",
+            "I'm sorry to hear that! What are your symptoms?",
+            "I have a fever, a sore throat, and a runny nose. I also feel very tired.",
+            "Based on your symptoms, you may have the flu. You should rest and drink plenty of fluids.",
+            "Is there anything else I can do to feel better?",
+            "You can take over-the-counter pain relievers like ibuprofen or acetaminophen to reduce fever and relieve pain.",
+            "Thanks for the advice, Medi. How long does the flu usually last?",
+            "The flu usually lasts for about a week, but some symptoms may persist for a few weeks.",
+            "Okay, thanks for your help!"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion. These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose. Coughing is the most common symptom. Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children. The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome! The flu usually lasts for about a week, but some symptoms may persist for a few weeks."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been diagnosed with HPAI. What can I do to prevent it from spreading?",
+            "I'm sorry to hear about your diagnosis. The best way to prevent HPAI from spreading is to practice good biosecurity measures.",
+            "What are some examples of good biosecurity measures?",
+            "Examples include keeping your birds isolated from other birds, wearing protective clothing and footwear, and disinfecting equipment and surfaces regularly.",
+            "Are there any other things I should be doing?",
+            "You should also monitor your birds for signs of illness, such as decreased egg production or sudden death, and report any cases of illness to your local authorities.",
+            "Okay, thank you for your advice, Medi.",
+            "You're welcome. Let me know if there's anything else I can do to help.",
+            "Actually, I have one more question. Can HPAI be transmitted to humans?"
+        ],
+        "knowledge": "Influenza Influenza  Ducks therefore act as key intermediates between wild and domestic birds. Transmission to poultry typically occurs in backyard farming and live animal markets where multiple species interact with each other. From there, AIVs can spread to poultry farms in the absence of adequate biosecurity. Among poultry, HPAI transmission occurs through aerosols and contaminated feces, cages, feed, and dead animals. Back-transmission of HPAI viruses from poultry to wild birds has occurred and is implicated in mass die-offs and intercontinental spread. AIVs have occasionally infected humans through aerosols, fomites, and contaminated water. Direction transmission from wild birds is rare Influenza Influenza",
+        "response": "Yes, while it's rare, HPAI can be transmitted to humans through contact with infected birds or their droppings, so it's important to practice good hygiene when handling birds or their products."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure and I'm not sure what I should be doing to take care of myself.",
+            "I'd be happy to help. What kind of procedure did you have?",
+            "I had surgery on my knee.",
+            "After surgery, it's important to rest and elevate your leg to reduce swelling. You should also follow the doctor's instructions for taking pain medication.",
+            "Okay, what about physical activity?",
+            "You should start with gentle exercises, like stretching and walking, and gradually increase your activity level over time.",
+            "Should I be doing anything else?",
+            "You should also eat a healthy diet and drink plenty of fluids to promote healing. And make sure to attend all follow-up appointments with your doctor.",
+            "Thank you, Medi. Is there anything else I should know?"
+        ],
+        "knowledge": "Medical Procedure Medical Procedure  After surgery, it's important to rest and elevate the affected area to reduce swelling. You should also follow the doctor's instructions for taking pain medication and perform gentle exercises to promote healing. A healthy diet and plenty of fluids are also important for recovery. It's important to watch for signs of infection, like fever or redness around the incision site, and attend all follow-up appointments with your doctor. If you have any concerns, don't hesitate to contact your doctor Medical Procedure Medical Procedure",
+        "response": "You're welcome! Just watch for signs of infection, like fever or redness around the incision site, and attend all follow-up appointments with your doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I might have contracted avian influenza.",
+            "Can you please describe your symptoms for me?",
+            "I have been experiencing fever, cough, body aches, and headache.",
+            "It sounds like a possibility. Have you been exposed to live poultry recently?",
+            "Yes, I have been to live animal markets where multiple species interacted with each other.",
+            "I see. You should get tested immediately and avoid contact with other people.",
+            "What can I do to prevent infecting others?",
+            "Stay home and avoid contact with others. Also, cover your nose and mouth when coughing or sneezing.",
+            "Thank you, Medi."
+        ],
+        "knowledge": "Influenza Influenza Ducks therefore act as key intermediates between wild and domestic birds. Transmission to poultry typically occurs in backyard farming and live animal markets where multiple species interact with each other. From there, AIVs can spread to poultry farms in the absence of adequate biosecurity. Among poultry, HPAI transmission occurs through aerosols and contaminated feces, cages, feed, and dead animals. Back-transmission of HPAI viruses from poultry to wild birds has occurred and is implicated in mass die-offs and intercontinental spread. AIVs have occasionally infected humans through aerosols, fomites, and contaminated water. Direction transmission from wild birds is rare Influenza Influenza",
+        "response": "You should get tested immediately and avoid contact with other people. Stay home and avoid contact with others. Also, cover your nose and mouth when coughing or sneezing."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. Can you please explain to me what avian influenza is?",
+            "Certainly. Avian influenza, also known as bird flu, is a virus that infects birds.",
+            "Can it infect humans?",
+            "Yes, it can occasionally infect humans who have been in contact with infected birds.",
+            "What are the symptoms?",
+            "The symptoms are similar to regular influenza, including fever, cough, sore throat, and body aches.",
+            "Is there a cure?",
+            "There is no cure, but antiviral medications can help to reduce the severity of symptoms and prevent complications.",
+            "Thank you, Medi."
+        ],
+        "knowledge": "Influenza Influenza Ducks therefore act as key intermediates between wild and domestic birds. Transmission to poultry typically occurs in backyard farming and live animal markets where multiple species interact with each other. From there, AIVs can spread to poultry farms in the absence of adequate biosecurity. Among poultry, HPAI transmission occurs through aerosols and contaminated feces, cages, feed, and dead animals. Back-transmission of HPAI viruses from poultry to wild birds has occurred and is implicated in mass die-offs and intercontinental spread. AIVs have occasionally infected humans through aerosols, fomites, and contaminated water. Direction transmission from wild birds is rare Influenza Influenza",
+        "response": "Avian influenza is a virus that infects birds and can occasionally infect humans who have been in contact with infected birds. The symptoms are similar to regular influenza and there is no cure, but antiviral medications can help to reduce the severity of symptoms and prevent complications."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently underwent surgery and would like some advice on postoperative care.",
+            "Of course. What type of surgery did you have?",
+            "I had a knee replacement surgery.",
+            "You should focus on physical therapy to regain strength and mobility in the knee.",
+            "What about my diet?",
+            "You should eat a balanced diet with plenty of protein for healing and avoid foods that can cause inflammation.",
+            "What types of food should I avoid?",
+            "You should avoid sugary and processed foods, and limit your intake of red meat.",
+            "Thank you, Medi. What physical activities should I avoid?"
+        ],
+        "knowledge": "Influenza Influenza Ducks therefore act as key intermediates between wild and domestic birds. Transmission to poultry typically occurs in backyard farming and live animal markets where multiple species interact with each other. From there, AIVs can spread to poultry farms in the absence of adequate biosecurity. Among poultry, HPAI transmission occurs through aerosols and contaminated feces, cages, feed, and dead animals. Back-transmission of HPAI viruses from poultry to wild birds has occurred and is implicated in mass die-offs and intercontinental spread. AIVs have occasionally infected humans through aerosols, fomites, and contaminated water. Direction transmission from wild birds is rare Influenza Influenza",
+        "response": "You should focus on physical therapy to regain strength and mobility in the knee, eat a balanced diet with plenty of protein for healing, and avoid foods that can cause inflammation, and high-impact activities like running or jumping, as well as any activities that may put excessive stress on the knee."
+    }
+]

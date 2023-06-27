@@ -1,0 +1,407 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling uneasy and I have a cough.",
+            "Hi there, can you tell me more about your symptoms?",
+            "I have a cough and I feel like I have a fever.",
+            "Okay, I see. Are you experiencing any shortness of breath or chest pain?",
+            "No, I'm not, just the cough and fever.",
+            "I recommend taking some over-the-counter medication and getting rest. If your symptoms persist, please see a doctor.",
+            "Got it. Thank you. Do you have any suggestions for boosting my immune system?",
+            "Yes, you can eat a balanced diet, exercise regularly, and get enough sleep.",
+            "Great, thank you. How does smoking affect the immune system and lung health?"
+        ],
+        "knowledge": "Cancer Cancer  Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world.  Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers.  Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths.  Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer",
+        "response": "Smoking can weaken the immune system and increase the risk of lung cancer and other types of cancer."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a question about cancer.",
+            "Sure, what would you like to know?",
+            "How does alcohol consumption affect the risk of developing cancer?",
+            "Heavy alcohol consumption can increase the risk of developing cancer, particularly in the liver and digestive tract.",
+            "What about work-related substance exposure?",
+            "Exposure to certain substances in the workplace, such as asbestos or benzene, can increase the risk of developing certain types of cancer.",
+            "I see. Thank you for the information. What is the best way to prevent cancer?",
+            "Maintaining a healthy lifestyle, such as eating a balanced diet, getting regular physical activity, not smoking, and limiting alcohol consumption can help reduce the risk of developing cancer.",
+            "Great, thank you for the advice. What are some common signs and symptoms of cancer?"
+        ],
+        "knowledge": "Cancer Cancer  Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world.  Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers.  Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths.  Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer",
+        "response": "Some common types of cancer include lung cancer, breast cancer, prostate cancer, and colon cancer."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently underwent chemotherapy. What should I do to maintain my health?",
+            "Hi there. After chemotherapy, it is important to maintain a healthy lifestyle, including eating a balanced diet, getting regular physical activity, and getting enough sleep.",
+            "Anything else I should know?",
+            "It is also important to avoid exposure to infections and to follow up with your doctor regularly.",
+            "What should I do about my diet?",
+            "Eating a healthy, balanced diet with plenty of fruits and vegetables can help support your immune system and overall health.",
+            "I see. What about physical activity?",
+            "Regular physical activity can help improve your energy levels and overall health, but be sure to check with your doctor before starting any new exercise program.",
+            "Great, thank you for the advice. What are some common side effects of chemotherapy?"
+        ],
+        "knowledge": "Cancer treatments Cancer treatments  Common side effects of chemotherapy include nausea, fatigue, hair loss, and changes in appetite.  It is important to maintain a healthy lifestyle, including eating a balanced diet, getting regular physical activity, and getting enough sleep.  It is also important to avoid exposure to infections and to follow up with your doctor regularly. Cancer treatments Cancer treatments",
+        "response": "After chemotherapy, it is important to maintain a healthy lifestyle, avoid exposure to infections, and follow up with your doctor regularly."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am feeling very tired and weak recently.",
+            "I am here to help. Can you describe more about your symptoms?",
+            "I have lost my appetite and I have a persistent cough.",
+            "Do you have a fever or trouble breathing?",
+            "No, I don't have a fever and I can breathe fine.",
+            "Based on your symptoms, you may have a cold or the flu. You should rest and stay hydrated.",
+            "Thank you for your help, Medi. Is there anything else I can do to feel better?",
+            "You can take over-the-counter medication for cough and fever, and drink warm liquids to soothe your throat.",
+            "Thanks for your advice, Medi. I will do that."
+        ],
+        "knowledge": "Cold/Flu Cold/Flu  Symptoms include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills and fatigue.  Some people may have vomiting and diarrhea, though this is more common in children than adults.   The cold usually resolves on its own within two weeks.  Self-care measures such as getting plenty of rest, drinking fluids, and taking over-the-counter pain relievers and decongestants can help manage symptoms.  The flu typically resolves on its own within one week, but it can cause complications such as pneumonia.  Prescription antiviral drugs can help shorten the duration and severity of the flu if taken early. Cold/Flu Cold/Flu",
+        "response": "Based on your symptoms, it sounds like you may have a cold or the flu. You should rest and stay hydrated. You can take over-the-counter medication for cough and fever, and drink warm liquids to soothe your throat."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about smoking and cancer.",
+            "Sure, I am here to help you with your questions.",
+            "I heard that tobacco smoke contains many carcinogens. Is that true?",
+            "Yes, that's correct. Tobacco smoke contains over fifty known carcinogens.",
+            "Wow, that's a lot. Is smoking a major cause of cancer?",
+            "Yes, smoking is responsible for about one in five cancer deaths worldwide and about one in three in the developed world.",
+            "Are there any specific types of cancer that are caused by smoking?",
+            "Yes, lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers.",
+            "That's good to know. Thank you for the information, Medi."
+        ],
+        "knowledge": "Cancer Cancer  Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world.  Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers.  Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths.  Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid, which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer",
+        "response": "Yes, smoking is responsible for about one in five cancer deaths worldwide and about one in three in the developed world. Lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery to remove a tumor. What should I do now?",
+            "I am here to help you with your post-operative care. Can you give me more details?",
+            "I had a liver tumor removed, and the surgical site is still sore.",
+            "It's important to take it easy and avoid any strenuous activity for a while.",
+            "How long should I rest for?",
+            "You should follow your doctor's instructions, but typically it takes about two weeks to recover from surgery.",
+            "Are there any specific exercises or activities that I should do?",
+            "You should try to do light exercises like walking to promote healing and prevent blood clots. Also, be sure to eat a healthy diet to aid in recovery.",
+            "Thank you for your advice, Medi. I will follow your suggestions."
+        ],
+        "knowledge": "Surgery Surgery  After surgery, it's important to rest and avoid any strenuous activity. Depending on the type and complexity of the surgery, recovery time can vary.  It's important to follow your doctor's instructions and take any prescribed medication.  You may need to do physical therapy or rehabilitation exercises to regain strength and mobility.  Eating a healthy diet with plenty of protein and nutrients can help aid in recovery. Surgery Surgery",
+        "response": "You should take it easy and avoid any strenuous activity for a while. You should try to do light exercises like walking to promote healing and prevent blood clots. Also, be sure to eat a healthy diet to aid in recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm worried about my health. I smoke a lot and I'm scared I might get cancer.",
+            "Hello! Smoking is a major cause of cancer. Have you experienced any symptoms?",
+            "I've been coughing a lot recently and I feel short of breath.",
+            "These are common signs of lung cancer, but they could also be caused by other factors. It's important to speak to your doctor.",
+            "What are some other things I can do to reduce my risk of getting cancer?",
+            "You can reduce your risk by quitting smoking, eating a healthy diet, staying active, and getting regular cancer screenings.",
+            "What types of cancer screenings should I get?",
+            "It depends on your age and other risk factors. Talk to your doctor about what tests are right for you.",
+            "Thanks, I'll make an appointment with my doctor. Bye Medi!"
+        ],
+        "knowledge": "Cancer Cancer  Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world.  Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers.  Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths.  Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer",
+        "response": "You're welcome! Good luck with your appointment."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been reading about cancer on the internet and I'm confused. Can you help me understand it better?",
+            "Of course! What would you like to know?",
+            "Can you explain how cancer develops?",
+            "Cancer begins when cells begin to grow out of control. This can happen in any part of the body.",
+            "What are some common causes of cancer?",
+            "Some common causes include smoking, exposure to radiation, genetics, and environmental factors.",
+            "What are some common treatments for cancer?",
+            "Treatment options depend on the type and stage of cancer. They may include surgery, radiation therapy, and chemotherapy.",
+            "Thanks for explaining it to me, Medi!"
+        ],
+        "knowledge": "Cancer Cancer  Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world.  Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers.  Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths.  Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer",
+        "response": "You're welcome! It's always good to have accurate information about such an important subject."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery for cancer and I'm not sure what I should do next.",
+            "I'm sorry to hear that. What kind of cancer did you have?",
+            "I had breast cancer and I had a mastectomy.",
+            "After surgery, it's important to take care of yourself and follow your doctor's instructions. You may need radiation or chemotherapy.",
+            "What can I do to help my body recover from surgery?",
+            "You can eat a healthy diet, get plenty of rest, and avoid strenuous activity. Make sure to follow your doctor's instructions for wound care.",
+            "Are there any support groups for cancer patients?",
+            "Yes, there are many support groups for cancer patients and survivors. They can provide emotional support and help you connect with others who are going through similar experiences.",
+            "Thanks for your advice, Medi. I'm feeling a bit better now."
+        ],
+        "knowledge": "Cancer Cancer  Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world.  Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers.  Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths.  Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer",
+        "response": "I'm glad to hear that! Take care of yourself and don't hesitate to reach out for support."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm worried about cancer. Can you give me some information?",
+            "Certainly, what specific information are you looking for?",
+            "I'm wondering about the causes of cancer.",
+            "There are many causes of cancer such as tobacco smoke, alcohol, and work-related substances.",
+            "What types of cancer can be caused by inhaling tobacco smoke or asbestos fibers?",
+            "Lung cancer and mesothelioma are two types of cancer that can be caused by inhaling tobacco smoke or asbestos fibers.",
+            "What about leukemia?",
+            "Leukemia can be caused by exposure to benzene.",
+            "Thanks for the information, Medi. What can we do to prevent cancer?"
+        ],
+        "knowledge": "Cancer Cancer  Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world.  Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers.  Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths.  Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer",
+        "response": "You can prevent cancer by avoiding tobacco and alcohol, reducing exposure to work-related substances, and maintaining a healthy lifestyle."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a biopsy. Can you give me some advice on what to do next?",
+            "Of course, what was the outcome of the biopsy?",
+            "I was diagnosed with melanoma.",
+            "I'm sorry to hear that. Did your doctor discuss treatment options with you?",
+            "Yes, they recommended surgery to remove the cancer.",
+            "That's a good option. After the surgery, you should take care of your wound and follow your doctor's instructions for recovery.",
+            "What about after the recovery?",
+            "After the recovery, it's important to take steps to prevent recurrence, such as protecting your skin from sun damage and getting regular check-ups with your doctor.",
+            "Thank you for the advice, Medi. I feel a lot better about what to do next."
+        ],
+        "knowledge": "Melanoma Melanoma Melanoma is a type of cancer that develops in the cells that produce melanin, the pigment that gives your skin its color.  Melanomas can develop anywhere on the skin, but they are more likely to develop in areas that have been exposed to the sun.  They are also more common in people with fair skin, and those with a family history of the disease.  Treatment for melanoma usually involves surgery to remove the cancerous cells.  If the cancer has spread to other parts of the body, additional treatments such as chemotherapy or radiation therapy may be necessary.  After treatment, it is important to take steps to prevent recurrence, such as protecting your skin from sun damage and getting regular check-ups with your doctor. Melanoma Melanoma",
+        "response": "You should follow your doctor's advice for surgery recovery and take steps to prevent melanoma recurrence, such as protecting your skin from sun damage and getting regular check-ups with your doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently finished chemotherapy. Can you give me some advice on how to recover?",
+            "Certainly, congratulations on finishing chemotherapy. What kind of advice are you looking for?",
+            "I'm wondering about how I can regain my strength and energy.",
+            "It's important to listen to your body and take things slow. Gradually increase physical activity as you feel comfortable, and make sure to get plenty of rest and eat a healthy, balanced diet.",
+            "What kind of physical activity do you recommend?",
+            "Walking, gentle yoga, and swimming are all good options. But again, it's important to listen to your body and not push yourself too hard.",
+            "What about my diet?",
+            "Aim for a well-balanced diet that includes plenty of fruits and vegetables, lean proteins, and whole grains. Make sure to drink plenty of water and avoid sugary or processed foods.",
+            "Thanks for the advice, Medi. I will make sure to take it slow and focus on my recovery."
+        ],
+        "knowledge": "Chemotherapy Chemotherapy Chemotherapy is a treatment for cancer that uses drugs to destroy cancer cells.  The drugs are usually given intravenously or orally, and they work by targeting rapidly growing cells, including cancer cells.  Chemotherapy can be used to treat many different types of cancer, but it can also cause a range of side effects, such as fatigue, nausea, and hair loss.  After chemotherapy, it is important to take steps to regain your strength and energy, such as gradually increasing physical activity and eating a healthy, balanced diet. Chemotherapy Chemotherapy",
+        "response": "To regain your strength and energy after chemotherapy, you should listen to your body, gradually increase physical activity, and eat a healthy, balanced diet."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I have a cough and fever.",
+            "Hello, let me check your symptoms. How long have you had these symptoms?",
+            "I have had these symptoms for 3 days.",
+            "Based on what you're telling me, it seems like you have a cold or flu. You should rest and drink plenty of fluids.",
+            "What about medication?",
+            "I recommend taking over-the-counter medications like acetaminophen to help relieve your symptoms.",
+            "Thank you for your advice. Do you think I should see a doctor?",
+            "If your symptoms worsen or persist for more than a week, you should see a doctor.",
+            "Okay, I'll rest and see how I feel. Thank you, Medi."
+        ],
+        "knowledge": "Cold and flu Cold and flu  Cold symptoms usually appear 1\u20133 days after exposure to a cold virus, last for about 7\u201310 days, and are mainly confined to the nose.  Symptoms of the common cold include a runny or stuffy nose, sneezing, cough, and sore throat.  Fever is uncommon in adults but may be seen in infants and young children.  Flu symptoms are more severe than cold symptoms and appear suddenly.  Symptoms of flu include a fever, body aches, headache, chills, and fatigue.  The fever is usually high, above 100.4\u00b0F (38\u00b0C), and is sometimes accompanied by sweating and shivering.  Flu symptoms usually last 2 \u2013 5 days, but cough and fatigue can persist for up to 2 weeks. Cold and flu Cold and flu",
+        "response": "You're welcome. If you have any further concerns, feel free to contact me anytime."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I have a question about lung cancer.",
+            "Of course, I'm here to help you. What would you like to know?",
+            "What are the causes of lung cancer?",
+            "There are numerous factors that can cause lung cancer, but the most common cause is smoking or exposure to secondhand smoke.",
+            "Is there any other cause?",
+            "Yes, exposure to asbestos, radon, and air pollution can also increase your risk of developing lung cancer.",
+            "What are the symptoms of lung cancer?",
+            "Common symptoms of lung cancer include a cough that doesn't go away, chest pain, shortness of breath, and fatigue.",
+            "Thank you, Medi. Should I be concerned about lung cancer?"
+        ],
+        "knowledge": "Lung Cancer Lung Cancer  The most common cause of lung cancer is smoking or exposure to secondhand smoke.  Other risk factors include exposure to radon, asbestos, air pollution, and other substances.  Lung cancer usually does not cause noticeable symptoms until it has spread beyond the lungs.  Symptoms may include a cough that does not go away, chest pain, shortness of breath, fatigue, unexplained weight loss, or voice changes.  Treatment depends on the type of lung cancer, its stage, and your overall health.  Options may include surgery, radiation therapy, chemotherapy, and targeted drug therapy. Lung Cancer Lung Cancer",
+        "response": "You're welcome, and please don't hesitate to contact me if you have any more questions or concerns."
+    },
+    {
+        "dialog": [
+            "Hey, Medi. I just had a surgery, and I'm wondering how I can recover quickly.",
+            "Hello, I'm here to help. What type of surgery did you have?",
+            "I had a hernia surgery.",
+            "It's important to get plenty of rest and avoid strenuous activities for a few weeks. You should also avoid lifting heavy objects and follow your doctor's instructions for pain management.",
+            "What about my diet? Can I eat anything I want?",
+            "It's important to eat a healthy diet with plenty of fruits, vegetables, and lean proteins to help speed up your recovery. You should also drink plenty of water to stay hydrated.",
+            "What type of physical activity can I do?",
+            "You should start with light exercises like walking and gradually increase the intensity as you feel better. You should also avoid any exercises that strain your abdominal muscles.",
+            "Thank you, Medi. How long will it take for me to recover?"
+        ],
+        "knowledge": "Hernia Surgery Hernia Surgery  After hernia surgery, it's important to get plenty of rest and avoid strenuous activities for a few weeks.  You should also avoid lifting heavy objects and follow your doctor's instructions for pain management.  It's important to eat a healthy diet with plenty of fruits, vegetables, and lean proteins to help speed up your recovery.  You should also drink plenty of water to stay hydrated.  You should start with light exercises like walking and gradually increase the intensity as you feel better.  You should also avoid any exercises that strain your abdominal muscles. Hernia Surgery Hernia Surgery",
+        "response": "You're welcome, and I hope you have a speedy recovery. Please contact me if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am worried about lung cancer because I have been smoking for years.",
+            "It's good you're seeking advice. How many cigarettes do you smoke per day?",
+            "I smoke one pack a day.",
+            "That is a lot. Smoking is responsible for about one in three cancer deaths in developed countries, including lung cancer.",
+            "I know, I am really worried about having this disease",
+            "It's never too late to quit smoking, even if you have smoked for years. It can improve your health and reduce your risk of lung cancer.",
+            "What other things can I do to reduce my risk of cancer?",
+            "You should also avoid exposure to secondhand smoke and other substances like asbestos and benzene, which can cause lung cancer. Protect yourself from air pollution and eat a healthy diet rich in fruits and vegetables.",
+            "Thanks for the advice, Medi. What are the symptoms of lung cancer that I should look out for?"
+        ],
+        "knowledge": "Cancer Cancer  Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world.  Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers.  Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths.  Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer",
+        "response": "Some symptoms of lung cancer include persistent coughing, chest pain, shortness of breath, and unexplained weight loss."
+    },
+    {
+        "dialog": [
+            "Medi, I have a family history of cancer and I'm scared of getting it. Is there anything I can do to prevent it?",
+            "It's good to be proactive about your health. One thing you can do is get regular cancer screenings.",
+            "What kind of cancer screenings should I get?",
+            "It depends on your age and sex, but some common screenings include mammograms for breast cancer, colonoscopies for colon cancer, and pap smears for cervical cancer.",
+            "Is there anything else I can do to lower my risk of cancer?",
+            "Yes, you can maintain a healthy lifestyle by eating a balanced diet, exercising regularly, and avoiding tobacco and excessive alcohol consumption.",
+            "That sounds like good advice. Is there anything else I should be aware of?",
+            "It's also important to protect yourself from the sun and avoid exposure to harmful chemicals and radiation.",
+            "Thanks for the advice, Medi. I will do my best to take care of myself."
+        ],
+        "knowledge": "Cancer Cancer  Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world.  Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers.  Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths.  Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer",
+        "response": "Remember that prevention is key, and early detection can greatly improve cancer outcomes."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery to remove a tumor and I want to know what I can do to prevent it from coming back.",
+            "It's great that you're taking steps to protect your health. One thing you can do is follow a healthy lifestyle.",
+            "What does a healthy lifestyle entail?",
+            "Eating a healthy diet, exercising regularly, and avoiding tobacco and excessive alcohol consumption are all important factors in maintaining a healthy lifestyle.",
+            "Are there any specific foods or exercises that can help prevent cancer?",
+            "Foods that are high in antioxidants, such as fruits and vegetables, can help protect against cancer. Exercises that increase cardiovascular fitness and build muscle mass, such as walking and weightlifting, can also be beneficial.",
+            "That makes sense. What about stress and mental health?",
+            "Good mental health is important for overall health and well-being. Stress can have negative effects on the immune system, which can increase the risk of cancer. It's important to manage stress through activities like meditation and exercise.",
+            "Thanks for the advice, Medi. It's good to know that there are things I can do to protect my health."
+        ],
+        "knowledge": "Cancer Cancer  Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world.  Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers.  Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths.  Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer",
+        "response": "Remember that lifestyle changes can have a big impact on your health outcomes."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have trouble breathing and I'm coughing a lot.",
+            "I'm sorry to hear that. How long have you had these symptoms?",
+            "It's been about a week now.",
+            "Have you traveled recently or been in contact with someone who has?",
+            "No, I haven't gone anywhere or met anyone who has been sick.",
+            "Based on your symptoms, it's possible that you have an upper respiratory tract infection. You should rest and drink plenty of fluids.",
+            "Thank you for your help, Medi.",
+            "You're welcome. If your symptoms get worse, please visit your doctor immediately.",
+            "Sure, I will. Thank you, Medi."
+        ],
+        "knowledge": "Upper respiratory tract infection Upper respiratory tract infections (URTIs) are illnesses caused by an acute infection that involves the upper respiratory tract: nose, sinuses, pharynx or larynx. Symptoms include coughing, sore throat, runny or stuffy nose, sneezing, and difficulty breathing. They are usually caused by viruses, but can also be caused by bacteria. Most URTIs are self-limiting and resolve within a week, but some can progress to more serious conditions such as pneumonia. Treatment is usually symptomatic and involves rest and over-the-counter medications to relieve symptoms. URTIs are highly contagious and can be spread through respiratory droplets from coughs and sneezes. ",
+        "response": "Based on your symptoms, it's possible that you have an upper respiratory tract infection."
+    },
+    {
+        "dialog": [
+            "Hi Medi, my grandfather was just diagnosed with lung cancer. Can you tell me more about it?",
+            "I'm sorry to hear that. Lung cancer is a type of cancer that begins in the lungs.",
+            "What are the symptoms?",
+            "The most common symptoms of lung cancer are coughing (including coughing up blood), chest pain, shortness of breath, and weight loss. However, some people with lung cancer may not have any symptoms at all.",
+            "Is it curable?",
+            "The treatment options for lung cancer depend on the stage of the cancer. If it is caught early, surgery may be an option to remove the tumor. Chemotherapy and radiation therapy are also used to treat lung cancer. However, if the cancer has spread to other parts of the body, it may not be curable.",
+            "How can we prevent it?",
+            "The most effective way to prevent lung cancer is to not smoke or quit smoking if you already do. Second-hand smoke can also increase the risk of lung cancer, so it's important to avoid exposure to it.",
+            "Thank you, Medi. I'll make sure to let my grandfather know."
+        ],
+        "knowledge": "Lung cancer Lung cancer is a type of cancer that begins in the lungs. The most common symptoms of lung cancer are coughing (including coughing up blood), chest pain, shortness of breath, and weight loss. However, some people with lung cancer may not have any symptoms at all. The treatment options for lung cancer depend on the stage of the cancer. If it is caught early, surgery may be an option to remove the tumor. Chemotherapy and radiation therapy are also used to treat lung cancer. However, if the cancer has spread to other parts of the body, it may not be curable. The most effective way to prevent lung cancer is to not smoke or quit smoking if you already do. Second-hand smoke can also increase the risk of lung cancer, so it's important to avoid exposure to it. ",
+        "response": "The most effective way to prevent lung cancer is to not smoke or quit smoking if you already do. Second-hand smoke can also increase the risk of lung cancer, so it's important to avoid exposure to it."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery to remove a tumor. Do you have any advice for my recovery?",
+            "Of course, it's important to follow your doctor's instructions for recovery. You should also get plenty of rest and eat a healthy diet.",
+            "What kind of diet should I be eating?",
+            "It's important to eat a balanced diet that includes plenty of fruits, vegetables, whole grains, and lean protein. You should also stay hydrated by drinking plenty of water.",
+            "Can I exercise?",
+            "You should avoid strenuous exercise for at least a few weeks after surgery. However, gentle exercise such as walking or stretching can help with your recovery.",
+            "What about pain management?",
+            "Your doctor will prescribe pain medication to help manage any pain you may have. It's important to take the medication as directed.",
+            "Thank you, Medi. That's very helpful."
+        ],
+        "knowledge": "Surgery Surgery is a medical procedure that involves cutting into the body to repair or remove damaged or diseased tissue. Recovery from surgery can take time and it's important to follow your doctor's instructions for recovery. It's important to eat a balanced diet that includes plenty of fruits, vegetables, whole grains, and lean protein. You should also stay hydrated by drinking plenty of water. Gentle exercise such as walking or stretching can help with your recovery. Your doctor will prescribe pain medication to help manage any pain you may have. It's important to take the medication as directed. ",
+        "response": "Your doctor will prescribe pain medication to help manage any pain you may have. It's important to take the medication as directed."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a persistent cough and chest pain",
+            "I see, have you ever smoked?",
+            "Yes, I have been a smoker for over a decade",
+            "Based on your symptoms and history, it's likely that you have developed lung cancer.",
+            "Oh my god, what should I do now?",
+            "I advise you to get a CT scan and see an oncologist for further evaluation and treatment options",
+            "Will I need to go through chemotherapy?",
+            "It depends on the stage of your cancer. I suggest discussing treatment options with your doctor",
+            "Thank you for your advice, Medi. I will make an appointment. "
+        ],
+        "knowledge": "Cancer Cancer Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world. Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers. Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths. Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer",
+        "response": "It is important to get a CT scan and see an oncologist for further evaluation and treatment options"
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about lung cancer?",
+            "Sure, what would you like to know?",
+            "What are the common symptoms?",
+            "The symptoms of lung cancer can include a persistent cough, shortness of breath, chest pain, hoarseness, and coughing up blood",
+            "What are the risk factors for lung cancer?",
+            "Smoking is the biggest risk factor for lung cancer. Other risk factors include exposure to radon, asbestos, and air pollution",
+            "Can lung cancer be cured?",
+            "The prognosis for lung cancer depends on the stage and type of cancer, as well as the patient's overall health. While it can be difficult to cure, there are treatments available that can help manage the cancer and improve quality of life",
+            "Thank you for the information, Medi. I will be sure to quit smoking."
+        ],
+        "knowledge": "Cancer Cancer Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world. Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers. Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths. Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer",
+        "response": "Quitting smoking is a great step towards preventing lung cancer"
+    },
+    {
+        "dialog": [
+            "Hey Medi, I recently had a lung biopsy. What lifestyle changes can I make?",
+            "Firstly, it's important to prioritize your mental health and reduce stress",
+            "That sounds good, what can I do next?",
+            "Keeping a healthy diet and maintaining a healthy weight can help improve lung function and overall health",
+            "Sounds good, anything else?",
+            "Physical activity can also improve lung function and help maintain a healthy weight. Consult with your doctor on what exercises are safe for you",
+            "Got it. Is there anything I should avoid?",
+            "Avoid exposure to air pollution and secondhand smoke. Wear a mask when needed, especially during allergy season",
+            "Thanks for the advice, Medi. I'll make sure to follow it."
+        ],
+        "knowledge": "Cancer Cancer Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world. Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers. Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths. Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer",
+        "response": "Maintaining a healthy weight, healthy diet, exercise, and avoiding exposure to air pollution and secondhand smoke can improve lung function and overall health after lung biopsy."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I am worried about getting cancer. What can I do?",
+            "That's a valid concern. Do you have any unhealthy habits that might increase your risk?",
+            "I smoke cigarettes occasionally.",
+            "You should quit smoking. Tobacco is responsible for about one in five cancer deaths worldwide.",
+            "What else can I do to reduce my risk?",
+            "You can also limit your alcohol consumption because 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure.",
+            "Got it. What about exercise?",
+            "Physical activity can also reduce your risk of cancer. Aim for 30 minutes of moderate exercise daily.",
+            "Thanks for the advice. Do you have any other recommendations for reducing my risk of cancer?"
+        ],
+        "knowledge": "Cancer Cancer  Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world.  Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers.  Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths.  Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer.",
+        "response": "The other things you can do to reduce your risk include eating a healthy diet, maintaining a healthy weight, and protecting your skin from the sun."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just finished chemotherapy. What can I do to help my body recover?",
+            "Congratulations on finishing your treatment! Rest is important, but it's also important to stay active.",
+            "What kind of physical activity do you recommend?",
+            "You should start with light exercise like walking and gradually increase the intensity as you feel comfortable.",
+            "What about diet? Is there anything I can do with my food to help my body?",
+            "Eating a balanced diet rich in fruits and vegetables can provide your body with the nutrients it needs to heal.",
+            "Are there any specific foods I should be eating?",
+            "Foods high in protein like chicken, fish, and beans can help your body recover. You should also stay hydrated.",
+            "Thank you for the advice. Anything else I should be doing?"
+        ],
+        "knowledge": "Cancer Cancer  Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world.  Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers.  Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths.  Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer.",
+        "response": "It's also important to avoid smoking and limit your alcohol intake. Be sure to follow your doctor's instructions and attend all follow-up appointments."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery. What should I be doing to recover?",
+            "Congratulations on making it through surgery! Rest is important, but it's also important to stay active.",
+            "What kind of physical activity do you recommend?",
+            "Start with light exercise like walking and gradually increase the intensity as you feel comfortable. But be sure to consult with your doctor before starting any exercise program.",
+            "What about diet? Is there anything I can do with my food to help my body?",
+            "Eating a balanced diet rich in fruits and vegetables can provide your body with the nutrients it needs to heal.",
+            "Are there any specific foods I should be eating?",
+            "Foods high in protein like chicken, fish, and beans can help your body recover. You should also stay hydrated.",
+            "Thank you for the advice. Anything else I should be doing?"
+        ],
+        "knowledge": "Cancer Cancer  Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons. Tobacco is responsible for about one in five cancer deaths worldwide and about one in three in the developed world.  Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990. In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers.  Cancer from work-related substance exposures may cause between 2 and 20% of cases, causing at least 200,000 deaths.  Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene. Exposure to perfluorooctanoic acid , which is predominantly used in the production of Teflon, is known to cause two kinds of cancer Cancer Cancer.",
+        "response": "Be sure to follow your doctor's instructions and attend all follow-up appointments. Avoid lifting anything heavy and get plenty of rest."
+    }
+]

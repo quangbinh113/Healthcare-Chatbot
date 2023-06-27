@@ -21,6 +21,8 @@ parser.add_argument('--thres', type=float,default=-100,
                     help='threshold for eliminating unrelevant document')
 parser.add_argument('--type', type=str,default="bm25",
                     help='algorithm type of choosing relevant document')
+parser.add_argument('--model_path', type=str,default="",
+                    help='path to the finetune model')
 parser.add_argument('--strategy', type=str,default="combine",
                     help='"combine" all the relevant document found or \
                       "best-fit" for choosing the document with highest score or\
@@ -30,9 +32,9 @@ args = parser.parse_args()
 
 root =os.getcwd()
 version = "1.0.0"
-if len(os.listdir(f"{root}/Godel/official_model/model-v{version}")) >0:
-    tokenizer = AutoTokenizer.from_pretrained(f"./official_model/model-v{version}/")
-    model = AutoModelForSeq2SeqLM.from_pretrained(f"./official_model/model-v{version}/")
+if args.model_path != "":
+    tokenizer = AutoTokenizer.from_pretrained(args.model_path)
+    model = AutoModelForSeq2SeqLM.from_pretrained(args.model_path)
 else:
     tokenizer = AutoTokenizer.from_pretrained("microsoft/GODEL-v1_1-base-seq2seq")
     model = AutoModelForSeq2SeqLM.from_pretrained("microsoft/GODEL-v1_1-base-seq2seq")
@@ -157,13 +159,13 @@ if __name__ =="__main__":
         if question.lower() == "quit":
             break
         dialog.append(question)
-        relevant_doc = document_search(question, document_list,num = args["num"], thres = args["thres"],type= args["type"])
+        relevant_doc = document_search(question, document_list,num = args.num, thres = args.thres,type= args.type)
         print("Document: "+ str(relevant_doc[0][1]))
-        if args["strategy"] == "combine":
+        if args.strategy == "combine":
            knowledge = " ".join([i[1] for i in relevant_doc])
-        if args["strategy"] == "best-fit":
+        if args.strategy == "best-fit":
            knowledge = relevant_doc[0][1]
-        if args['strategy'] == "random":
+        if args.strategy == "random":
            knowledge = random.choice(relevant_doc)[1]
         answer = generate(knowledge, dialog)
         print("Medi: "+ str(answer))

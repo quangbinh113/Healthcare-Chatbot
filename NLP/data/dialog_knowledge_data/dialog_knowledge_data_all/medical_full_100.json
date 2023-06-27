@@ -1,0 +1,404 @@
+[
+    {
+        "dialog": [
+            "Hi there, how can I help you today?",
+            "I've been having some back pain, can you give me some advice?",
+            "Of course, have you had any major risk factors or clinical suspicion of cancer or spinal infection?",
+            "No, I don't think so",
+            "In that case, x-rays combined with laboratory studies are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy. Imaging is not needed for the majority of patients with back pain",
+            "I see, but what about if the back pain is acute?",
+            "In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.",
+            "Thanks, that's helpful. Can imaging findings be correlated with severity or outcome? "
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "No, imaging findings are not correlated with severity or outcome."
+    },
+    {
+        "dialog": [
+            "Hello, I have some questions about back pain",
+            "Sure, what would you like to know?",
+            "Is imaging always necessary for back pain?",
+            "No, imaging is not needed for the majority of patients with back pain. In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits",
+            "What about for patients with subacute to chronic back pain?",
+            "MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present",
+            "I see. And do early imaging studies during the acute phase improve care or prognosis?",
+            "No, early imaging studies during the acute phase do not improve care or prognosis",
+            "Thanks for the information. One last question, when are laboratory studies employed for back pain?"
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure done and was wondering if you could give me some advice",
+            "Of course, what kind of procedure did you have?",
+            "I had a procedure done on my back",
+            "In that case, I would recommend that you avoid heavy lifting or other strenuous activities for the first few days after the procedure",
+            "How about after the first few days?",
+            "After the first few days, you should begin to gradually increase your activity level as tolerated",
+            "Okay, thanks for letting me know. What about diet?",
+            "It's important to maintain a balanced diet with plenty of vitamins and nutrients to help with healing and avoid smoking or alcohol consumption",
+            "Thank you, those are some helpful tips. One last question, what about physical therapy?"
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome. Let me know if you have any other questions related to your procedure."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some back pain",
+            "Okay, can you tell me more about the pain?",
+            "The pain is at my lower back and it has been going on for a few days",
+            "Have you had any recent injuries or accidents?",
+            "No, I haven't had any recent injuries",
+            "Based on what you've told me, I recommend not doing any heavy lifting and taking some pain medication.",
+            "I see. What if the pain persists?",
+            "If the pain persists or gets worse, you should schedule an appointment with your doctor.",
+            "Okay, thank you for your help."
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "Based on your symptoms, I recommend not doing any heavy lifting and taking some pain medication, but if the pain persists or gets worse, you should schedule an appointment with your doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you tell me more about back pain?",
+            "Of course, back pain can be caused by many things such as muscle strain, ligament sprain, or disc herniation.",
+            "What are some things I can do to prevent back pain?",
+            "Some things you can do are maintain a healthy weight, exercise regularly, and use proper lifting techniques.",
+            "Are there any treatments for back pain?",
+            "Treatments for back pain include pain medication, physical therapy, and sometimes surgery.",
+            "What should I do if I have back pain?",
+            "If you have back pain, you should rest and apply heat or cold to the affected area. If the pain persists, you should schedule an appointment with your doctor.",
+            "Thank you for your help."
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "Back pain can be caused by many things such as muscle strain, ligament sprain, or disc herniation. To prevent back pain, you should maintain a healthy weight, exercise regularly, and use proper lifting techniques. If the pain persists, you should schedule an appointment with your doctor."
+    },
+    {
+        "dialog": [
+            "Medi, I just had back surgery. What should I do now?",
+            "After back surgery, you should take it easy and get plenty of rest. You should also avoid any strenuous activities or heavy lifting.",
+            "What should I eat?",
+            "You should eat a well-balanced diet that includes plenty of protein, fruits, and vegetables.",
+            "What about physical therapy?",
+            "Physical therapy can be very helpful after back surgery. It can help you regain strength and range of motion.",
+            "How long will it take to recover?",
+            "Recovery time varies depending on the type of surgery you had. Your doctor will be able to give you a more specific timeline.",
+            "Thank you for your help."
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "After back surgery, you should take it easy and get plenty of rest. You should also avoid any strenuous activities or heavy lifting. A well-balanced diet that includes plenty of protein, fruits, and vegetables is recommended. Physical therapy can be very helpful after back surgery to help you regain strength and range of motion. Recovery time varies depending on the type of surgery you had."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have been experiencing back pain for few days now.",
+            "Hello! Sorry to hear that, How severe is the pain?",
+            "It's mild but disturbing.",
+            "Okay, Imaging is not needed for the majority of back pain cases. Do you have any major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits?",
+            "No, I don't think so.",
+            "Then, you can try some home remedies like hot or cold compresses, massages, and exercises. I can suggest some exercises for you.",
+            "That would be great!",
+            "Lie on your back with both knees bent; feet flat on the ground. Slowly raise your left knee towards your chest and hold the stretch for 5 seconds. Repeat the same with the right knee. Do it 5 times on each side.",
+            "Thank you so much for your help, Medi!"
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome! Try the exercises I suggested and let me know if you feel any improvement."
+    },
+    {
+        "dialog": [
+            "Hi, Medi! Can you explain to me the causes of back pain?",
+            "Sure! Back pain can be caused by conditions such as muscle or ligament strain, bulging or ruptured disks, arthritis, osteoporosis, or skeletal irregularities.",
+            "Wow! That's a lot of causes. And can it also be caused by an unhealthy lifestyle?",
+            "Yes! Having poor posture and carrying heavy bags or backpacks can cause back pain. Also, lack of physical activity, smoking, and obesity are risk factors that can increase the likelihood of experiencing back pain.",
+            "Interesting, thanks for explaining it to me. And what about the treatment of back pain?",
+            "Treatment of back pain can include over-the-counter pain medications, hot or cold compresses, physical therapy, massages, and in severe cases, surgery.",
+            "That's good to know. Thank you, Medi!",
+            "You're welcome! Don't hesitate to contact me again if you have any other questions or concerns."
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome! Let me know if you have any other questions about back pain."
+    },
+    {
+        "dialog": [
+            "Hello, Medi! I recently had a back surgery. What kind of lifestyle will help my recovery?",
+            "Hello! After back surgery, it's important to avoid lifting heavy objects and to maintain good posture. You should also gradually increase your physical activity, starting with light exercises recommended by the doctor.",
+            "Are there any specific exercises that would be helpful for me?",
+            "Yes! After the surgery, you can do exercises like walking, swimming, and stretching. But it's best to consult with your doctor before starting any new exercise program.",
+            "That makes sense. And what about my diet?",
+            "A healthy diet can also help with your recovery. You should eat foods that are rich in vitamins and minerals, and avoid processed and fast foods.",
+            "Thank you so much for the advice, Medi!",
+            "You're welcome! Take care of yourself and let me know if you have any other questions or concerns.",
+            "Sure, I will. Bye, Medi!"
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome! Good luck with your recovery, and don't hesitate to contact me again if you have any other questions or concerns."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a severe pain in my back.",
+            "I'm sorry to hear that. Can you tell me more about the pain?",
+            "Yes, it started a few days ago and it's getting worse day by day.",
+            "Have you experienced any trauma or major injury that could have caused the pain?",
+            "No, I haven't. I woke up feeling pain one day.",
+            "Based on what you're telling me, it's most likely a case of acute back pain.",
+            "What should I do, Medi?",
+            "You should rest, apply heat or ice, and take painkillers if needed. If the pain persists, we may need to consider an MRI.",
+            "What are the risk factors for acute back pain?"
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "The major risk factors for acute back pain include spinal infection, cancer, and severe progressive neurological deficits."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about back pain. Can you explain why imaging is not needed for the majority of patients with back pain?",
+            "Sure, the reason is that for most patients with back pain, imaging does not provide any useful information to guide their treatment.",
+            "So when is imaging recommended for back pain?",
+            "Imaging is recommended for patients with major risk factors or clinical suspicion of cancer, spinal infection, or severe progressive neurological deficits.",
+            "What kind of imaging is recommended in these cases?",
+            "For acute back pain, MRI is recommended. For subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis, or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present.",
+            "I see. Thank you for the explanation, Medi.",
+            "You're welcome. Do you have any other questions?",
+            "No, that's all. Thank you for your help."
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome. Don't hesitate to reach out if you have any other questions."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently underwent a medical procedure for my back pain. Can you give me some advice on lifestyle and diet?",
+            "Of course, I'm happy to help. What kind of medical procedure did you undergo?",
+            "I had surgery to correct a herniated disc.",
+            "I see. After surgery, it's important to get enough rest and avoid strenuous activity to allow your body to heal.",
+            "What kind of physical activities can I do?",
+            "You should start with low-impact exercises like walking and gradually increase your activity level over time.",
+            "What about my diet?",
+            "You should eat a balanced diet with plenty of fruits, vegetables, and lean protein to support your body's healing process.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome. I'm here to help if you need any more advice."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a terrible back pain.",
+            "I am here to help. Can you tell me more about your back pain?",
+            "It's been going on for a few days and I can barely move. What should I do?",
+            "X-rays are a less costly initial option for patients with a low clinical suspicion of infection or malignancy. Imaging is not needed for the majority of patients with back pain. In your case, you should do some physical exercises to relieve the pain.",
+            "What kind of exercises should I do?",
+            "Stretching exercises and aerobic exercise, such as walking or swimming, can help you manage your back pain.",
+            "Are there any foods that I should avoid while experiencing back pain?",
+            "Eating foods that are high in antioxidants, fiber, and omega-3 fatty acids can help reduce inflammation. You should avoid sugary and processed foods.",
+            "Can you give me some examples of foods that are high in antioxidants, fiber, and omega-3 fatty acids?"
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "Some examples of foods that are high in antioxidants, fiber, and omega-3 fatty acids are: berries, spinach, avocados, nuts, and fish."
+    },
+    {
+        "dialog": [
+            "Hi Medi, can you give me some information about back pain?",
+            "Sure, what would you like to know?",
+            "What are the common causes of back pain?",
+            "The most common causes of back pain are poor posture, muscle strain, and injury.",
+            "Is back pain always caused by a spinal cord problem?",
+            "Not always. In fact, the majority of back pain is caused by muscle strains or sprains. However, if you have severe or persistent back pain, you should consult a doctor.",
+            "Are there any lifestyle changes I can make to prevent back pain?",
+            "Maintaining a healthy weight, doing exercises that strengthen your core muscles, and practicing good posture can help prevent back pain.",
+            "What are some core strengthening exercises I can do?"
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "Some core strengthening exercises you can try are planks, bridges, and bird dogs."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a back surgery. What lifestyle changes can I make to help with my recovery?",
+            "Congratulations on your surgery. You can help with your recovery by getting rest, staying hydrated, and eating a healthy diet.",
+            "Are there any specific foods I should eat to help with my recovery?",
+            "You should eat foods that are high in protein, such as lean meats and beans, as well as foods that are high in vitamin C and D, such as citrus fruits and leafy green vegetables.",
+            "Can I exercise after my surgery?",
+            "You should avoid any strenuous exercise for at least six weeks after your surgery, but gentle exercises such as walking and stretching can help with your recovery.",
+            "Should I expect any pain after the surgery and how can I manage it?",
+            "It is normal to experience some pain after the surgery, and your doctor will prescribe pain medication to help manage it. You can also try relaxation techniques such as deep breathing and meditation to help manage your pain.",
+            "When can I return to my normal activities?"
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome. I hope you have a speedy recovery from your surgery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been having back pain recently.",
+            "I see. Can you describe the pain? How long have you been experiencing it?",
+            "It's a dull and constant ache. I've had it for a week now.",
+            "Have you been injured recently or done any heavy lifting?",
+            "No, I haven't. I'm not sure what caused it.",
+            "Most back pain will go away on its own within four to six weeks. I recommend taking over-the-counter pain relievers and applying heat or ice to the area.",
+            "Okay, I'll try that. But when should I see a doctor about it?",
+            "If the pain is severe, lasts longer than six weeks, or is accompanied by other symptoms like fever, chills, or weakness, you should see a doctor.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome. If the pain doesn't go away or gets worse, you should visit a doctor."
+    },
+    {
+        "dialog": [
+            "Hi there, Medi. I have a question about back pain.",
+            "Sure, I'm here to help. What's your question?",
+            "How common is back pain?",
+            "Back pain is incredibly common, with up to 80% of people experiencing it at some point in their lives.",
+            "What are some causes of back pain?",
+            "There are many causes of back pain, including poor posture, muscle strain, injury, and herniated discs.",
+            "Can back pain be prevented?",
+            "Maintaining good posture, exercising regularly, and avoiding heavy lifting can help prevent back pain.",
+            "Thank you for the information, Medi. It was very helpful."
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome. I'm always here to help if you have any other questions about back pain."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I recently had a medical procedure for my back pain. What should I do now?",
+            "After a medical procedure, it's important to take it easy for a few days and avoid any heavy lifting.",
+            "What kind of exercise should I be doing?",
+            "You should start with low-impact exercises like walking or swimming, and gradually increase the intensity as you feel better.",
+            "What about my diet?",
+            "Eating a healthy and balanced diet with plenty of fruits, vegetables, and lean protein can help speed up the healing process.",
+            "Should I be doing anything else to help with my recovery?",
+            "Applying heat or cold to the affected area, practicing good posture, and getting enough rest are all important for a speedy recovery.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome. I hope you have a speedy recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been having back pain for a while now and I don't know what to do.",
+            "I understand, can you tell me more about the type of pain you are experiencing?",
+            "It's a dull aching pain, mostly in the lower back and it gets worse when I sit or stand for too long.",
+            "I see. Have you had any recent injuries or accidents that could have caused this pain?",
+            "No, I haven't. It just started gradually and has gotten worse over time.",
+            "In that case, it's possible that you have subacute to chronic back pain. Imaging is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present.",
+            "So, should I get an imaging test?",
+            "If you have any of the risk factors or symptoms I mentioned, it would be a good idea to get an imaging test.",
+            "Thank you, Medi. If I were to get an imaging test, what kind of test should I get?"
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "If you have minor risk factors for cancer, ankylosing spondylitis or vertebral compression fracture, or if you have significant trauma or symptomatic spinal stenosis, an MRI would be recommended."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a medical procedure and I'm not sure what I should be doing to take care of myself.",
+            "Of course, I'm here to help. Can you tell me more about the procedure you had?",
+            "It was a minor surgery on my lower back.",
+            "Okay, after a procedure like that, it's important to take it easy and avoid any strenuous activity for a few days.",
+            "How long should I avoid strenuous activity?",
+            "It depends on the type of procedure you had and how your body is recovering. Your doctor should be able to give you a better estimate.",
+            "What about my diet? Are there any foods I should avoid?",
+            "It's always a good idea to eat a well-balanced diet, with plenty of fruits, vegetables, and lean proteins. You may also want to avoid spicy or greasy foods for a few days after your procedure.",
+            "Okay, that makes sense. What else can I do to help my recovery?"
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You should also make sure to get plenty of rest, stay hydrated, and follow any other instructions your doctor may have given you."
+    },
+    {
+        "dialog": [
+            "Medi, I've been experiencing some back pain and I'm not sure if I should be concerned.",
+            "I understand. Can you tell me more about the pain you're experiencing?",
+            "It's a sharp pain in my upper back, and it's been getting worse over time.",
+            "Have you had any recent injuries or accidents that could have caused this pain?",
+            "No, I haven't had any accidents or injuries that I can think of.",
+            "Given the type of pain you're experiencing, it may be a good idea to see your doctor and get an MRI to rule out any serious conditions.",
+            "What kind of conditions could be causing my pain?",
+            "There are many conditions that can cause back pain, including herniated discs, spinal stenosis, and degenerative disc disease, among others.",
+            "Thanks for the information, Medi. What should I do in the meantime to manage my pain?"
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "In the meantime, you may want to try some gentle stretching exercises, apply heat or ice to the affected area, and take over-the-counter pain medication as directed. However, it's important to talk to your doctor before trying any new treatments."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been suffering from back pain for a few days now.",
+            "I'm here to help you. Can you describe the intensity and the location of your pain?",
+            "It's mostly in my lower back and sometimes it's quite intense.",
+            "I suggest you go for an X-ray first, as it's less costly and interpretive",
+            "Do I need any other tests?",
+            "Yes, with X-ray you also need laboratory studies for interpretation",
+            "What if the pain persists?",
+            "If it persists, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.",
+            "Thank you. What are the risks of early imaging?"
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You are welcome. I hope the information was helpful."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question. Does back pain always need imaging tests?",
+            "No, it's not always necessary. Imaging is not needed for the majority of patients with back pain.",
+            "When do I need imaging?",
+            "In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.",
+            "What about chronic back pain?",
+            "For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present.",
+            "How important is early imaging?",
+            "Early imaging studies during the acute phase do not improve care or prognosis.",
+            "I see. Thank you for the information."
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome. Let me know if there's anything else you would like to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a medical procedure. What can I do to speed up my recovery?",
+            "Hi, what kind of procedure did you have and when did you have it?",
+            "I had a surgery a few days ago to correct a spinal problem.",
+            "Alright. You should avoid heavy lifting and exercise for a while and get plenty of rest. Eat a well-balanced diet and drink plenty of water.",
+            "Should I avoid any specific food?",
+            "You should avoid sugary and processed foods. Eat more fruits, vegetables, and lean protein.",
+            "What about physical activities?",
+            "You should avoid heavy lifting and exercise for a while. After that, start with light exercise like walking and gradually increase it, depending on your doctor's advice",
+            "What else can I do to make my recovery faster?"
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome. If there's anything else you'd like to know, don't hesitate to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been experiencing some lower back pain lately.",
+            "Hello there! Can you please describe your pain symptoms?",
+            "It's a dull and constant pain that radiates to my legs sometimes.",
+            "That sounds like a nerve root compression. Have you tried any over-the-counter medicine?",
+            "Yes, I have taken some ibuprofen but it doesn't seem to help that much.",
+            "Okay, you should come in for a checkup. An MRI is recommended for nerve root compression.",
+            "Will it be expensive?",
+            "It depends on your insurance, but X-rays may be a less costly initial option.",
+            "Alright, that's helpful. Thank you, Medi."
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome! Do you have any other questions or concerns?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you explain to me what could cause back pain?",
+            "Sure! There are many things that can cause back pain like muscle or ligament strain, bulging or ruptured discs, or arthritis.",
+            "What about spinal stenosis?",
+            "Yes, that's another possible cause. It's a narrowing of the spinal canal that puts pressure on the spinal cord and nerves.",
+            "Is it serious?",
+            "It can cause significant pain and discomfort, but it's generally treatable with medication and physical therapy.",
+            "Good to know. Can exercise help relieve my back pain?",
+            "Yes, low-impact exercises like walking and swimming may help. Consult with a doctor or physical therapist for a personalized plan.",
+            "Thank you, Medi! You've been very helpful."
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome, let me know if you need anything else!"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a spinal fusion surgery. What lifestyle changes should I make to aid my recovery?",
+            "Hello! After a spinal fusion surgery, it's best to avoid any rigorous activities or heavy lifting. Walking and gentle stretching exercises are recommended.",
+            "What about my diet and sleep schedule?",
+            "Make sure to eat a balanced and nutritious diet to aid in healing. Sleep is also important, try to get enough rest and avoid sleeping on your stomach.",
+            "Should I take any supplements?",
+            "Consult with your doctor before taking any supplements, but vitamin D and calcium supplements may be beneficial for bone and spine health.",
+            "Thank you for the advice, Medi.",
+            "You're welcome, take care of yourself and follow up with your doctor regularly!"
+        ],
+        "knowledge": "Back pain Back pain  X-rays are a less costly initial option offered to patients with a low clinical suspicion of infection or malignancy, and they are combined with laboratory studies for interpretation. Imaging is not needed for the majority of patients with back pain.  In cases of acute back pain, MRI is recommended for those with major risk factors or clinical suspicion of cancer, spinal infection or severe progressive neurological deficits.  For patients with subacute to chronic back pain, MRI is recommended if minor risk factors exist for cancer, ankylosing spondylitis or vertebral compression fracture, or if significant trauma or symptomatic spinal stenosis is present. Early imaging studies during the acute phase do not improve care or prognosis.  Imaging findings are not correlated with severity or outcome. Laboratory studies are employed when there are suspicions of autoimmune causes, infection or malignancy Back pain Back pain",
+        "response": "You're welcome! How have you been feeling since your surgery?"
+    }
+]

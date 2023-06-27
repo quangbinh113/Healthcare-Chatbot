@@ -1,0 +1,451 @@
+[
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and I feel very tired.",
+            "I am sorry to hear that. Any other symptoms?",
+            "Yes, my throat is sore, and I have a runny nose.",
+            "Based on your symptoms, you may have a viral infection. Please rest and drink plenty of fluids.",
+            "What can I do to feel better?",
+            "You can take over-the-counter medication for fever and sore throat. You can also gargle with salt water.",
+            "Thank you for your advice.",
+            "You're welcome. Take care.",
+            "How long will it take for me to recover?"
+        ],
+        "knowledge": "Viral infection Viral infection  Common symptoms include fever, cough, and sore throat, often accompanied by muscle and joint aches, headaches, and fatigue.  Less common symptoms include upper respiratory infection, nausea, vomiting, and diarrhea.  The most common cause of viral infections is a viral infection.  Viruses are tiny infectious agents that replicate inside the living cells of other organisms, which can include humans.  Viral infections can be caused by a variety of different viruses, including influenza, the common cold, and the coronavirus.  Treatment for viral infections typically involves rest, hydration, and over-the-counter medications to alleviate symptoms. Viral infection Viral infection",
+        "response": "The recovery time for a viral infection can vary, but it usually takes between a few days to a week or two."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure and I'm not sure what to do now.",
+            "What kind of procedure did you have?",
+            "I had surgery on my knee.",
+            "After surgery, it's important to rest and avoid putting weight on your knee. You should also do exercises recommended by your physical therapist.",
+            "What kind of exercises should I do?",
+            "You should do gentle exercises to keep your knee mobile, such as ankle pumps and leg lifts. You should also do exercises to strengthen your quadriceps.",
+            "Thank you for your advice.",
+            "You're welcome. Is there anything else you're unsure about?",
+            "Yes, when can I start walking again?"
+        ],
+        "knowledge": "Post-surgery recovery Post-surgery recovery  After surgery, it's important to rest and avoid putting weight on the affected area.  You should also follow any instructions given by your doctor or physical therapist, such as doing exercises to strengthen the affected area.  The recovery time after surgery can vary depending on the type of surgery and your overall health.  It's important to follow your doctor's instructions and attend any follow-up appointments to ensure a full recovery. Post-surgery recovery Post-surgery recovery",
+        "response": "You should start walking again when your doctor or physical therapist says it's safe to do so. They will give you specific instructions based on your individual recovery process."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm worried that I might have a serious illness.",
+            "What are your symptoms?",
+            "I've been experiencing severe headaches and a fever.",
+            "Based on your symptoms, you should see a doctor as soon as possible.",
+            "What could it be? I'm really worried.",
+            "It's hard to say without a proper diagnosis, but it could be a number of things, including a viral infection, bacterial infection, or a more serious condition.",
+            "What should I do in the meantime?",
+            "You should rest and drink plenty of fluids. If your symptoms worsen, seek medical attention immediately.",
+            "Thank you for your help."
+        ],
+        "knowledge": "Headaches and fever Headaches and fever  Headaches and fever can be caused by a number of things, including viral infections, bacterial infections, and more serious conditions such as meningitis or encephalitis.  It's important to see a doctor as soon as possible if you experience severe or persistent symptoms. Headaches and fever Headaches and fever",
+        "response": "It's hard to say without a proper diagnosis, but it could be anything from a viral or bacterial infection to a more serious condition such as meningitis or encephalitis. It's important to see a doctor as soon as possible."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have symptoms of infectious disease.",
+            "Sure, what symptoms do you have?",
+            "I have a fever and I feel very weak, my throat hurts, and I have a headache.",
+            "Based on your symptoms, it could be any type of infection. You should see a doctor.",
+            "What could be the cause of my symptoms?",
+            "With the symptoms you have described, it is difficult to know the exact cause of the infection. ",
+            "But the most common cause of your symptoms could be a viral or bacterial infection.",
+            "What can I do to relieve my symptoms?",
+            "You can take over-the-counter medications to relieve your fever and headache. Drink plenty of fluids and get lots of rest."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "You should see a doctor for a proper diagnosis and treatment plan."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you explain infectious diseases to me?",
+            "Sure, infectious diseases are caused by pathogenic microorganisms like bacteria and viruses",
+            "What are some common examples of infectious diseases?",
+            "Some common examples are the flu, pneumonia, and strep throat.",
+            "How are infectious diseases spread?",
+            "Infectious diseases can be spread through contact with an infected person, contaminated food or water, or through contact with contaminated surfaces.",
+            "How can I prevent infectious diseases?",
+            "You can prevent infectious diseases by washing your hands frequently, covering your mouth and nose when you cough or sneeze, and avoiding close contact with infected people. Vaccines are also available for some infectious diseases.",
+            "Thank you for your explanation."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "You're welcome. If you have any more questions, feel free to ask."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had a medical procedure and need advice for my recovery.",
+            "Of course, what kind of procedure did you have?",
+            "I had surgery on my knee and now I'm not sure what I should be doing for exercise.",
+            "After surgery, you should start with gentle exercises like walking and then gradually increase your activity level",
+            "What should I do to manage my pain?",
+            "You can take over-the-counter pain medication like acetaminophen or ibuprofen. Ice and elevation can also help reduce pain and swelling.",
+            "Is there anything I should avoid doing?",
+            "You should avoid any high-impact exercises or activities that could put stress on your knee until your doctor gives you the all-clear.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "You're welcome. Remember, always follow your doctor's instructions for a safe recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a headache and a fever",
+            "I see, have you taken any medication for the fever?",
+            "Yes, I took some over-the-counter medicine but it didn't help much.",
+            "Alright, I recommend you to visit a doctor as soon as possible.",
+            "Why is that?",
+            "A headache and fever can be symptoms of a variety of infectious diseases. It's better to have a professional diagnosis to determine the cause and proper treatment",
+            "Okay, I understand. Thank you for your advice",
+            "You're welcome. Take care of yourself.",
+            "Can you tell me some possible diseases that cause these symptoms?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  A headache and fever can be symptoms of a variety of infectious diseases. Some common infectious diseases that can cause these symptoms include meningitis, encephalitis, pneumonia, and the flu. It's important to get a proper diagnosis from a healthcare professional to determine the cause and ensure proper treatment. Infectious diseases Infectious diseases",
+        "response": "There are many possible diseases that cause these symptoms, such as meningitis, encephalitis, pneumonia, and the flu."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure done and I'm not sure what I should be doing post-surgery.",
+            "Sure, I can help you with that. What kind of procedure did you have?",
+            "I had a gallbladder removal surgery",
+            "Alright, after the surgery it's important to rest and avoid any strenuous activities for a few days.",
+            "Got it. What about my diet?",
+            "You should avoid fatty and spicy foods for a few weeks as your body adjusts to the absence of the gallbladder. Stick to a low-fat diet with plenty of fruits and vegetables.",
+            "That makes sense. Should I be doing any physical therapy or exercises?",
+            "No, you don't need to do any specific physical therapy or exercises unless your doctor recommends it.",
+            "Understood, thank you for your help!"
+        ],
+        "knowledge": "Gallbladder removal surgery Gallbladder removal surgery  After gallbladder removal surgery, it's normal to experience some pain and discomfort. Your doctor will likely prescribe pain medication to help manage this. It's important to rest and avoid any strenuous activities for a few days following the surgery. Your diet should consist of low-fat foods with plenty of fruits and vegetables for a few weeks after the surgery. Some possible complications following the surgery include infection, bleeding, and injury to nearby organs. If you experience severe pain, vomiting, or fever, seek medical attention immediately. Gallbladder removal surgery Gallbladder removal surgery",
+        "response": "Some possible complications following the surgery include infection, bleeding, and injury to nearby organs. If you experience severe pain, vomiting, or fever, seek medical attention immediately."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you explain what encephalitis is?",
+            "Of course, encephalitis is a severe inflammation of the brain that can be caused by a viral or bacterial infection.",
+            "Is it a common disease?",
+            "Encephalitis is relatively rare, but it can be very serious and even life-threatening in some cases.",
+            "What are the symptoms of encephalitis?",
+            "The symptoms of encephalitis can vary depending on the cause, but common symptoms include fever, headache, confusion, seizures, and sensitivity to light and sound.",
+            "Is there a cure for encephalitis?",
+            "There is no specific cure for encephalitis, but treatment focuses on managing the symptoms and preventing complications. In some cases, antiviral medications or antibiotics may be prescribed if the cause of the encephalitis is known.",
+            "Thank you for explaining that to me, Medi."
+        ],
+        "knowledge": "Encephalitis Encephalitis Encephalitis is a severe inflammation of the brain that can be caused by a viral or bacterial infection. It is relatively rare, but it can be very serious and even life-threatening in some cases. The symptoms of encephalitis can vary depending on the cause, but common symptoms include fever, headache, confusion, seizures, and sensitivity to light and sound. There is no specific cure for encephalitis, but treatment focuses on managing the symptoms and preventing complications. In some cases, antiviral medications or antibiotics may be prescribed if the cause of the encephalitis is known. Encephalitis is typically diagnosed through a combination of physical examination, medical history, and laboratory tests such as a spinal tap, blood tests, and imaging tests like a CT or MRI scan. Encephalitis Encephalitis",
+        "response": "Encephalitis is typically diagnosed through a combination of physical examination, medical history, and laboratory tests such as a spinal tap, blood tests, and imaging tests like a CT or MRI scan."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I feel very bad. I have a headache, high fever, and a sore throat",
+            "Oh, I am sorry to hear that. Based on your symptoms, it seems like you have an infection.",
+            "What do you suggest for my recovery?",
+            "You should rest and take some over-the-counter pain relievers. You can also drink plenty of fluids.",
+            "Is there anything else I can do to help myself?",
+            "Yes, you can try some home remedies like gargling with salt water and using a humidifier to ease your symptoms.",
+            "Thank you for your advice. Can you tell me more about infections?",
+            "Infections are caused by microorganisms like bacteria, viruses or fungi that invade and multiply in the body.",
+            "What are some common types of infections?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "Common types of infections include the common cold, flu, strep throat, and urinary tract infections."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about infections.",
+            "Of course, I'd be happy to answer any questions you may have about infections.",
+            "How can I prevent getting an infection?",
+            "You can prevent infections by practicing good hygiene, washing your hands frequently, avoiding close contact with sick people, and keeping your vaccines up to date.",
+            "What are some symptoms of infections?",
+            "Symptoms of infections include fever, fatigue, body aches, coughing, and sore throat.",
+            "How is an infection diagnosed?",
+            "Infections can be diagnosed through a physical exam, blood tests, or imaging tests like a chest x-ray.",
+            "What are some treatments for infections?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "Some treatments for infections include antibiotics, antiviral medications, and over-the-counter pain relievers."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure done. Can you give me some advice for post-care?",
+            "Sure, what kind of procedure did you have done?",
+            "I had a minor surgery a few days ago",
+            "After surgery, it's important to get enough rest and take care of the incision site to prevent infection. You should also avoid heavy lifting or strenuous exercise for a few weeks.",
+            "What about my diet?",
+            "You should eat a balanced diet that includes plenty of fruits, vegetables, and protein. Avoid processed foods and foods high in sugar or salt.",
+            "What can I do to prevent complications?",
+            "You should follow the instructions given to you by your doctor and attend any follow-up appointments. If you have any concerns or experience unusual symptoms, contact your doctor right away.",
+            "Okay, thank you for your advice. Can you tell me more about the recovery process?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "The recovery process can vary depending on the procedure and the individual, but it generally involves rest, taking care of the incision site, following a balanced diet, and attending any follow-up appointments."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms and I need your help.",
+            "Of course, I'm here to help. Please tell me your symptoms.",
+            "I have a fever and severe headache.",
+            "Do you have any other symptoms?",
+            "Yes, I feel very tired and weak, and I have a rash on my skin.",
+            "Okay, based on your symptoms, you may have contracted a virus or a bacterial infection.",
+            "What should I do, Medi?",
+            "It's best to visit a doctor to get a proper diagnosis and treatment.",
+            "Thank you, Medi. I'll see a doctor soon."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "You're welcome. I hope you feel better soon."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about infectious diseases.",
+            "Sure, ask me anything.",
+            "How can I prevent infectious diseases?",
+            "The best way to prevent infectious diseases is to practice good hygiene.",
+            "Can you give me some tips?",
+            "Yes, you should wash your hands often, especially before and after eating or going to the bathroom. Also, avoid contact with people who are sick and make sure to cover your mouth and nose when you cough or sneeze.",
+            "Okay, that's very helpful. Thanks, Medi!",
+            "You're welcome. Is there anything else you want to ask?",
+            "No, that's all for now. Thanks again."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "You're welcome. Feel free to ask me anything else anytime."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had a medical procedure recently and I need some advice.",
+            "Of course, I can help you with that. What do you need advice on?",
+            "I want to know what kind of physical activity is safe for me to do now.",
+            "That depends on the type of procedure you had and your current condition. It's best to consult with your doctor to determine what kind of physical activity is safe for you.",
+            "Okay, that makes sense. What about my diet?",
+            "Again, it depends on your specific situation. Your doctor can provide you with customized advice on your diet based on your needs and restrictions.",
+            "All right, I'll talk to my doctor. Thank you, Medi.",
+            "You're welcome. Is there anything else you need help with?",
+            "No, that's all for now. Thanks again."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "You're welcome. I hope everything goes well with your recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms. Can you help me to diagnose it?",
+            "Of course, what are the symptoms you are experiencing right now?",
+            "I have a headache, fever, and my throat is sore.",
+            "I see, based on your symptoms, you might have a viral infection.",
+            "Is it serious? What should I do?",
+            "Most viral infections can be treated with rest and over-the-counter medications. But if your condition worsens, you should see a doctor.",
+            "I understand, thank you. By the way, how can I avoid getting a viral infection?",
+            "Wash your hands often, avoid close contact with someone who is sick, and practice good hygiene.",
+            "Thanks for the advice"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "You're welcome. Stay healthy and safe!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just got out of surgery. What should I do next?",
+            "First, you should rest and avoid any heavy lifting or strenuous activity for a few days. Also, take the prescribed medications as instructed by your doctor",
+            "What about my diet?",
+            "You should eat foods that are easy to digest and avoid any spicy, greasy, or heavy foods. Drink plenty of water and other fluids.",
+            "What about exercise?",
+            "You should avoid any strenuous exercise or activities for a few days, but walking is okay if it's comfortable for you.",
+            "Thank you, Medi. By the way, how long should I wait before I can go back to work?",
+            "It depends on the type of surgery you had. Your doctor will give you specific instructions on when you can return to work.",
+            "Thank you for the advice and information."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "You're welcome. Wishing you a speedy recovery!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some questions about infectious diseases.",
+            "Sure, I'll try my best to answer your questions.",
+            "What are the most common infectious diseases?",
+            "Some of the most common infectious diseases include the flu, colds, chickenpox, and Hepatitis A, B, and C.",
+            "What are the ways to prevent infectious diseases?",
+            "Wash your hands regularly, avoid close contact with people who are sick, and get vaccinated if possible.",
+            "What are the treatments for infectious diseases?",
+            "The treatment for infectious diseases depends on the specific disease. Antibiotics are used for bacterial infections, while antiviral and antifungal medications are used for viral and fungal infections respectively.",
+            "Thank you for the information, Medi. How can I tell if I have an infectious disease?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "You're welcome. Stay healthy and avoid getting sick!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and cough. What should I do?",
+            "Based on your symptoms, it's best to contact your doctor for further evaluation.",
+            "Can you tell me more about what could be causing my symptoms?",
+            "Based on your symptoms, it's possible that you have a respiratory infection such as the flu or COVID-19.",
+            "How can I prevent getting sick in the future?",
+            "Washing your hands frequently, wearing a mask in public spaces, and avoiding close contact with sick individuals can help prevent sickness.",
+            "Thank you for the advice, Medi.",
+            "You're welcome. I hope you feel better soon.",
+            "Is there anything else I should be aware of?"
+        ],
+        "knowledge": "Respiratory Infections Respiratory Infections Respiratory infections can be caused by bacteria, viruses, or fungi and affect the upper or lower respiratory tract. Symptoms may include fever, cough, shortness of breath, chest pain, sore throat, runny or stuffy nose, body aches, and fatigue. Respiratory infections are highly contagious and can be prevented by washing hands frequently, wearing a mask in public spaces, and avoiding close contact with sick individuals. Treatment may involve rest, fluids, and over-the-counter medications to relieve symptoms, or antibiotics if the infection is bacterial. Respiratory Infections Respiratory Infections",
+        "response": "Respiratory infections can be caused by bacteria, viruses, or fungi and affect the upper or lower respiratory tract."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling really run down lately. What should I do?",
+            "It's important to get enough sleep, eat a balanced diet, and exercise regularly.",
+            "Can you give me more specific advice on what to eat and how much?",
+            "Aim for a diet that is high in fruits, vegetables, whole grains, and lean protein. Limit processed foods, saturated and trans fats, and sugary drinks. Portion control is also important.",
+            "Thank you for the advice, Medi. What about exercise?",
+            "Aim for at least 30 minutes of moderate exercise most days of the week, such as brisk walking, cycling, or swimming.",
+            "That seems doable. Thank you, Medi.",
+            "You're welcome. Remember to take care of yourself.",
+            "What are some benefits of following this advice?"
+        ],
+        "knowledge": "Healthy Lifestyle Healthy Lifestyle A healthy lifestyle involves getting enough sleep, eating a balanced diet, and exercising regularly. A diet that is high in fruits, vegetables, whole grains, and lean protein can help reduce the risk of chronic diseases such as heart disease and diabetes. Limiting processed foods, saturated and trans fats, and sugary drinks can also improve health. Portion control is important to maintain a healthy weight. Regular exercise can help reduce the risk of chronic diseases, improve mental health, and increase energy levels. Healthy Lifestyle Healthy Lifestyle",
+        "response": "Following a healthy lifestyle can reduce the risk of chronic diseases such as heart disease and diabetes, improve mental health, and increase energy levels."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what to do next.",
+            "It's important to follow your doctor's instructions for aftercare and attend any follow-up appointments.",
+            "What about my diet and exercise?",
+            "Your doctor may have specific instructions for your diet and exercise. It's important to follow these to aid in your recovery.",
+            "What about pain management?",
+            "Your doctor may prescribe pain medication or recommend over-the-counter options to manage pain. It's important to follow their instructions and not exceed recommended dosages.",
+            "Thank you for the advice, Medi.",
+            "You're welcome. Take care of yourself and don't hesitate to contact your doctor if you have any concerns.",
+            "What are some common complications of surgery?"
+        ],
+        "knowledge": "Surgery Surgery Surgery carries risks and it's important to follow your doctor's instructions for aftercare. Common complications include bleeding, infection, and blood clots. Pain management is an important part of recovery and your doctor may prescribe medication or recommend over-the-counter options. Follow-up appointments are important to monitor healing and address any concerns. Surgery Surgery",
+        "response": "Common complications of surgery include bleeding, infection, and blood clots."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and headache.",
+            "I'm sorry to hear that. Can you tell me more about your symptoms?",
+            "I feel weak, dizzy, and my throat is sore.",
+            "Have you been traveling recently or been in contact with anyone who has been sick?",
+            "No, I haven't traveled and no one around me has been sick.",
+            "Based on your symptoms, you may have a viral infection. I recommend getting rest, drinking fluids, and taking fever reducers.",
+            "What kind of fever reducers should I take?",
+            "You can start with over-the-counter medication like acetaminophen or ibuprofen.",
+            "Thank you, Medi. What else can I do to feel better?"
+        ],
+        "knowledge": "Viral infections Viral infections  Viral infections can cause a range of symptoms, including fever, headache, body aches, and sore throat.  They are typically spread through respiratory droplets or contact with infected surfaces.  Many viral infections are self-limited, meaning they go away on their own with time.  Treatment involves supportive care such as rest, hydration, and fever reducers.  Antiviral medications are available for some viral infections, but their effectiveness varies.  Prevention includes good hand hygiene, avoiding contact with sick individuals, and getting vaccinated for diseases such as influenza. ",
+        "response": "You can also try gargling with salt water and getting plenty of rest."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and I'm not sure what I should do next.",
+            "I see. What kind of surgery did you have?",
+            "I had a knee replacement surgery.",
+            "After surgery, it's important to follow the doctor's instructions for physical therapy and to take any prescribed medications.",
+            "What kind of physical therapy should I do?",
+            "Your doctor will likely recommend exercises to strengthen your knee and improve your range of motion.",
+            "What about my diet? Are there any foods I should avoid?",
+            "It's important to eat a balanced diet with plenty of protein and nutrients to aid in healing. Your doctor may recommend avoiding foods high in sugar and unhealthy fats.",
+            "Thank you, Medi. When can I go back to work?"
+        ],
+        "knowledge": "Knee replacement Knee replacement  Knee replacement surgery is a common procedure for individuals with severe knee damage or arthritis.  After surgery, it is important to follow the doctor's instructions for physical therapy and to take any prescribed medications.  Physical therapy will focus on strengthening the knee and improving range of motion.  It is also important to eat a balanced diet with plenty of protein and nutrients to aid in healing.  Recovery time varies depending on the individual and the extent of the surgery, but most people return to work within 4-6 weeks. ",
+        "response": "It's best to consult with your doctor to determine when it's safe for you to return to work."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm curious about Lyme disease.",
+            "Sure, I can help answer your questions. What would you like to know?",
+            "What is Lyme disease and what are the symptoms?",
+            "Lyme disease is an infectious disease caused by the bacterium Borrelia burgdorferi. Symptoms may include fever, headache, fatigue, and a characteristic skin rash called erythema migrans.",
+            "How is it spread?",
+            "Lyme disease is usually transmitted to humans through the bite of infected blacklegged ticks. ",
+            "Is it treatable?",
+            "Yes, Lyme disease is usually treated with antibiotics. The sooner treatment is started, the better the outcome.",
+            "Thank you, Medi. How can I prevent getting Lyme disease?"
+        ],
+        "knowledge": "Lyme disease Lyme disease  Lyme disease is an infectious disease caused by the bacterium Borrelia burgdorferi.  It is usually transmitted to humans through the bite of infected blacklegged ticks.  Symptoms may include fever, headache, fatigue, and a characteristic skin rash called erythema migrans.  Treatment involves antibiotics, and the sooner treatment is started, the better the outcome.  Prevention includes avoiding tick-infested areas, wearing protective clothing, using insect repellent, and checking for ticks after being in wooded or grassy areas. ",
+        "response": "You can also reduce your risk by wearing long sleeves and pants, using insect repellent, and checking for ticks after spending time outdoors."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms that are worrying me.",
+            "Hi, please tell me your symptoms so that I can help you.",
+            "I have been experiencing a high fever and a severe headache",
+            "You might be suffering from encephalitis, a severe illness affecting the brain.",
+            "What should I do now?",
+            "You need to undergo testing using state-of-the-art clinical laboratory methods for diagnosis and treatment.",
+            "How do I undertake state-of-the-art clinical laboratory methods?",
+            "You can check with your doctor for any medical assistance.",
+            "Alright, thank you Medi. I will do that."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "You can check with your doctor for any medical assistance."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about the metagenomic sequencing-based diagnostic test mentioned in the context",
+            "Sure, what would you like to know about it?",
+            "How does it work?",
+            "It is a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test. It is similar to current PCR tests, but an untargeted whole genome amplification is used rather than primers for a specific infectious agent. This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.",
+            "What are the advantages of this test?",
+            "The advantages include that it can show promise for more sensitive and specific diagnosis, being able to test for multiple pathogens in one test and the ability to generate an antimicrobial resistance profile, which can facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection.",
+            "That's fascinating! But is there any limitation of this test?",
+            "It can be expensive and requires specialized equipment and expertise to perform, and it may not be readily available in all healthcare facilities.",
+            "Thank you for explaining it to me, Medi. It was really helpful."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "You are welcome! Let me know if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery, and I need help with my lifestyle after surgery.",
+            "Hi. Congratulations on your successful surgery. What advice do you need?",
+            "I'm concerned about my diet and physical activity.",
+            "It's important to eat healthy foods and maintain physical activity after surgery to promote recovery. You should consult your doctor for specific recommendations.",
+            "What kind of food is best for me?",
+            "You should consume a balanced diet consisting of plenty of fruits and vegetables, lean protein, whole grains, and low-fat dairy. Avoid processed foods, added sugars, and unhealthy fats.",
+            "I see. What kind of physical activity should I do?",
+            "You should start with light physical activity, such as walking and gradually increase the intensity and duration as you recover. Consult your doctor before starting any new exercise regimen.",
+            "Alright, I understand. Thanks, Medi!"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  For example, more than half of cases of encephalitis, a severe illness affecting the brain, remain undiagnosed, despite extensive testing using the standard of care  and state-of-the-art clinical laboratory methods.  Metagenomic sequencing-based diagnostic tests are currently being developed for clinical use and show promise as a sensitive, specific, and rapid way to diagnose infection using a single all-encompassing test.  This test is similar to current PCR tests; however, an untargeted whole genome amplification is used rather than primers for a specific infectious agent.  This amplification step is followed by next-generation sequencing or third-generation sequencing, alignment comparisons, and taxonomic classification using large databases of thousands of pathogen and commensal reference genomes.  Simultaneously, antimicrobial resistance genes within pathogen and plasmid genomes are sequenced and aligned to the taxonomically classified pathogen genomes to generate an antimicrobial resistance profile \u2013 analogous to antibiotic sensitivity testing \u2013 to facilitate antimicrobial stewardship and allow for the optimization of treatment using the most effective drugs for a patient's infection. Metagenomic sequencing could prove especially useful for diagnosis when the patient is immunocompromised.  An ever-wider array of infectious agents can cause serious harm to individuals with immunosuppression, so clinical screening must often be broader Infectious diseases Infectious diseases",
+        "response": "You're welcome. I'm glad to help. Take care of yourself!"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a headache and feel a little dizzy",
+            "I am sorry to hear that, what else do you feel?",
+            "I also feel a slight fever and my throat is sore",
+            "Based on your symptoms, it seems to be a possible case of a viral infection. I advise you to rest and take paracetamol for fever",
+            "Okay, thank you. Is there anything else I can do to speed up my recovery?",
+            "Taking lots of fluids and having a balanced diet can help your recovery",
+            "Understood, thank you Medi",
+            "You're welcome. Do you have any more questions?"
+        ],
+        "knowledge": "Viral infections Viral infections  Viral infections are caused by viruses that invade healthy cells in the host\u2019s body.  This can cause a wide range of symptoms depending on the type of virus, its virulence (capacity to cause harm), the host\u2019s immunity, and the area of the body affected.  Common symptoms include fever, muscle aches, fatigue, coughing, and sore throat.  Viral infections can also cause gastrointestinal symptoms such as nausea and vomiting.  Treatment includes antiviral drugs, managing symptoms, and giving the immune system time to fight off the infection.  To prevent viral infections, it is important to practice good hygiene and get vaccinated when possible. Viral infections Viral infections",
+        "response": "No, thanks for your help Medi"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about a vaccine. How does it work?",
+            "Sure, vaccines work by stimulating the immune system to produce an immune response to a specific virus or bacteria",
+            "So how do they do that?",
+            "Vaccines contain a weakened or inactive form of the virus or bacteria they protect against. This tricks the immune system into thinking it is under attack and causes it to produce antibodies to fight off the infection",
+            "That makes sense. Is it safe to get vaccinated?",
+            "Yes, vaccines are very safe and have been thoroughly tested before they are approved for use",
+            "I see. One more question, how long does immunity from a vaccine last?",
+            "It depends on the vaccine, but for many diseases, vaccines provide lifelong immunity. For others, booster shots may be necessary over time",
+            "Thanks for your help Medi"
+        ],
+        "knowledge": "Vaccines Vaccines  Vaccines work by stimulating the immune system to produce an immune response to a specific virus or bacteria, without causing disease.  The immune response helps the body fight off the infection if the person is exposed to the virus or bacteria in the future.  Vaccines contain a weakened, inactivated, or parts of the virus or bacteria they protect against, which tricks the immune system into thinking it is under attack and causes it to produce antibodies to fight off the infection.  Vaccines are very safe and have been thoroughly tested before they are approved for use.  Booster shots may be necessary over time, as for some diseases, immunity wanes over time. Vaccines Vaccines",
+        "response": "No, that's all. Thank you for the explanation Medi"
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just had a surgical procedure and I'm not sure what kind of exercise is safe for me",
+            "I understand your concerns. For the first few weeks, it is best to avoid any kind of strenuous exercise",
+            "What about walking or light stretching?",
+            "Walking and light stretching can be good for you as long as it is not causing any pain or discomfort",
+            "When can I return to my usual exercise routine?",
+            "It depends on the type of surgery you had, but it is best to wait for at least 6 weeks before returning to your usual exercise routine. Be sure to consult with your doctor before doing so",
+            "I see. How about my diet? Are there any restrictions?",
+            "It depends on your surgery and specific dietary needs, but it is important to eat a balanced and nutritious diet to aid in your recovery",
+            "Thank you for your advice, Medi"
+        ],
+        "knowledge": "Surgical procedures Surgical procedures  After a surgical procedure, it is important to get enough rest and follow the doctor\u2019s instructions for recovery.  Avoiding strenuous exercise for a few weeks is generally recommended, but walking and light stretching can be good for you as long as it is not causing any pain or discomfort.  It is also important to eat a balanced and nutritious diet to aid in your recovery.  Depending on the type of surgery you had, there may be dietary restrictions or specific dietary needs to be aware of.  It is best to consult with your doctor to get specific recommendations for your recovery. Surgical procedures Surgical procedures",
+        "response": "No, that's all. Thank you Medi"
+    }
+]

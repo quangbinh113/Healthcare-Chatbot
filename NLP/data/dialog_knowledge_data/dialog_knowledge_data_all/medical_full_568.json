@@ -1,0 +1,358 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have a fever since two days ago and feel weak.",
+            "Thank you for contacting me. Have you checked your temperature?",
+            "Yes, I did. The temperature is 101.5 degrees. What is the cause of a fever?",
+            "Fever is usually a sign of an underlying infection. It could be bacterial, viral, or fungal.",
+            "How can I take care of myself at home?",
+            "You should rest and drink plenty of fluids. Over-the-counter medications like acetaminophen can help reduce fever and relieve pain.",
+            "Should I see a doctor?",
+            "It depends on the severity of your symptoms. If you have a high fever, severe headache or body aches, chest pain, difficulty breathing, or confusion, you should seek medical attention immediately.",
+            "Thank you for the advice, Medi. What should I do if my symptoms get worse?"
+        ],
+        "knowledge": "Fever Fever  Fever is usually a sign of an underlying infection, bacterial, viral, or fungal.  Other important causes of fever include autoimmune disorders, cancer, drugs, and vaccines.  Fever is a common symptom of COVID-19.  Mild to moderate fever is beneficial.  It can help the body's immune system fight off infections by making it harder for bacteria and viruses to survive.  Fever also helps the body produce more white blood cells, which are essential for fighting off infections.  Over-the-counter medications like acetaminophen can help reduce fever and relieve pain. Fever Fever",
+        "response": "If your symptoms get worse, such as high fever, severe headache or body aches, chest pain, difficulty breathing, or confusion, you should seek medical attention immediately."
+    },
+    {
+        "dialog": [
+            "Hello Medi, what are the common symptoms of food poisoning?",
+            "Hello! The common symptoms are nausea, vomiting, diarrhea, stomach cramps, and fever.",
+            "What are the causes of food poisoning?",
+            "Food poisoning is caused by eating contaminated food or drinking contaminated water. Bacteria, viruses, parasites, and toxins are the most common causes.",
+            "How can it be prevented?",
+            "You can prevent food poisoning by washing your hands and food thoroughly, cooking food to the appropriate temperature, storing food properly, and avoiding cross-contamination.",
+            "What should I do if I suspect I have food poisoning?",
+            "If you suspect you have food poisoning, you should drink plenty of fluids to prevent dehydration and rest. Over-the-counter medications like loperamide can help relieve diarrhea. If your symptoms persist or worsen, you should seek medical attention.",
+            "Thank you, Medi. What is the most effective way to treat food poisoning?"
+        ],
+        "knowledge": "Food poisoning Food poisoning  Food poisoning is caused by eating contaminated food or drinking contaminated water.  Bacteria, viruses, parasites, and toxins are the most common causes.  Symptoms include nausea, vomiting, diarrhea, stomach cramps, and fever.  You can prevent food poisoning by washing your hands and food thoroughly, cooking food to the appropriate temperature, storing food properly, and avoiding cross-contamination.  If you suspect you have food poisoning, you should drink plenty of fluids to prevent dehydration and rest.  Over-the-counter medications like loperamide can help relieve diarrhea.  Antibiotics are generally not recommended for most types of food poisoning, but they may be prescribed in certain cases Food poisoning Food poisoning",
+        "response": "The most effective way to treat food poisoning is to stay hydrated and rest. Over-the-counter medications like loperamide can help relieve diarrhea. If your symptoms persist or worsen, you should seek medical attention."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had my appendix removed. What should I do to recover quickly?",
+            "Hello! After surgery, it's important to rest and avoid strenuous activities. You should also follow your doctor's instructions for wound care.",
+            "What about my diet?",
+            "You should start with clear liquids and then slowly progress to solid foods as tolerated. Avoid fatty, greasy, or spicy foods for the first few days.",
+            "When can I return to work?",
+            "It depends on the type of work you do and your individual recovery. Your doctor will advise you on when it's safe to return to work.",
+            "How about physical activity?",
+            "You should avoid heavy lifting, strenuous exercise, and other activities that could put strain on your incision site for at least 2-4 weeks.",
+            "Thank you, Medi. How can I tell if I have an infection in my incision site?"
+        ],
+        "knowledge": "Appendectomy Appendectomy  After surgery, it's important to rest and avoid strenuous activities.  You should also follow your doctor's instructions for wound care.  You should start with clear liquids and then slowly progress to solid foods as tolerated.  Avoid fatty, greasy, or spicy foods for the first few days.  It depends on the type of work you do and your individual recovery.  Your doctor will advise you on when it's safe to return to work.  You should avoid heavy lifting, strenuous exercise, and other activities that could put strain on your incision site for at least 2-4 weeks.  Signs of infection in your incision site include redness, swelling, warmth, drainage, or fever.  If you have any of these symptoms, you should contact your doctor immediately. Appendectomy",
+        "response": "Signs of infection in your incision site include redness, swelling, warmth, drainage, or fever. If you have any of these symptoms, you should contact your doctor immediately."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a high fever and persistent cough with difficulty in breathing.",
+            "Those symptoms could be a sign of respiratory infection. You should consult a doctor immediately.",
+            "What causes respiratory infections?",
+            "There are many causes of respiratory infections such as viruses, bacteria, or fungi.",
+            "Is there anything I can do to prevent respiratory infections?",
+            "Yes, you can prevent respiratory infections by washing your hands frequently, avoiding close contact with sick people, and covering your nose and mouth with a tissue when you cough or sneeze.",
+            "Are there any treatments for respiratory infections?",
+            "Yes, the treatment for respiratory infections depends on the underlying cause and severity of the infection.",
+            "What should I do now?"
+        ],
+        "knowledge": "Respiratory infections Respiratory infections  Respiratory infections are caused by viruses, bacteria, or fungi and can range in severity from mild to life-threatening. Common symptoms include fever, cough, and difficulty breathing. Respiratory infections can be prevented by practicing good hygiene, avoiding close contact with sick people, and covering your nose and mouth when you cough or sneeze. Treatment depends on the underlying cause and severity of the infection Respiratory infections Respiratory infections",
+        "response": "You should consult a doctor as soon as possible to get proper treatment for your symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a surgery. What should I do to recover faster?",
+            "After surgery, it is important to rest and follow your doctor's instructions.",
+            "Is there anything else I can do to speed up my recovery?",
+            "Yes, you can also eat a healthy diet, stay hydrated, and avoid activities that could cause further injury.",
+            "Is physical exercise helpful for recovery?",
+            "Yes, light physical activity can be beneficial for recovery, but it's important to listen to your body and not overdo it.",
+            "What about medication?",
+            "Your doctor may prescribe medications to help manage pain or prevent infection. It's important to take these as directed.",
+            "Okay, thanks for the advice. What else should I know about post-surgery recovery?"
+        ],
+        "knowledge": "Surgery Recovery Surgery Recovery  After surgery, it is important to rest and follow your doctor's instructions. Eating a healthy diet, staying hydrated, and avoiding activities that could cause further injury can also speed up recovery. Light physical activity can be beneficial, but it's important not to overdo it. Your doctor may prescribe medications to help manage pain or prevent infection. It's important to take these as directed. Recovery time varies depending on the type of surgery and individual factors Surgery Recovery Surgery Recovery",
+        "response": "You should also monitor your incision site for signs of infection and contact your doctor if you experience any unusual symptoms or complications."
+    },
+    {
+        "dialog": [
+            "Hi Medi, what are the symptoms of tuberculosis?",
+            "The symptoms of tuberculosis include coughing up blood or sputum, chest pain, weakness or fatigue, fever, and night sweats.",
+            "How is tuberculosis diagnosed?",
+            "Tuberculosis is usually diagnosed through a combination of medical history, physical examination, and various tests such as a TB skin test or chest x-ray.",
+            "Is tuberculosis contagious?",
+            "Yes, tuberculosis is highly contagious and can spread through the air when an infected person coughs or sneezes.",
+            "Is there a cure for tuberculosis?",
+            "Yes, tuberculosis can be cured with a combination of antibiotics over a period of several months.",
+            "How can I prevent tuberculosis?"
+        ],
+        "knowledge": "Tuberculosis Tuberculosis  The symptoms of tuberculosis include coughing up blood or sputum, chest pain, weakness or fatigue, fever, and night sweats. Diagnosis usually involves a combination of medical history, physical examination, and various tests such as a TB skin test or chest x-ray. Tuberculosis is highly contagious and can spread through the air when an infected person coughs or sneezes. Treatment involves a combination of antibiotics over a period of several months. Tuberculosis can be prevented through vaccination and by avoiding close contact with infected individuals Tuberculosis Tuberculosis",
+        "response": "Tuberculosis can be prevented through vaccination and by avoiding close contact with infected individuals."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I need help.",
+            "Please tell me more about the symptoms.",
+            "I feel tired, have a fever, and my throat hurts.",
+            "It sounds like you might have a throat infection.",
+            "What can I do about it?",
+            "You should rest, drink fluids, and take pain relievers.",
+            "Thanks, Medi. Should I go to the doctor?",
+            "If the symptoms persist or get worse, you should see a doctor."
+        ],
+        "knowledge": "Throat infections Throat infections Throat infections are usually caused by viruses, but can also be caused by bacteria. They cause pain, redness and swelling of the throat, often with a fever. Treatment is aimed at relieving symptoms and supporting the immune system. Rest, fluids and pain relief are recommended. Antibiotics are only needed in cases caused by bacteria, which can be diagnosed by a doctor's examination of the throat. Throat infections usually clear up within a week, but if symptoms persist or get worse, medical attention is recommended. Throat infections Throat infections",
+        "response": "What kind of pain relievers are recommended for a throat infection?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some questions about infectious diseases.",
+            "Sure, what would you like to know?",
+            "How are infectious diseases diagnosed?",
+            "They are usually diagnosed by medical history and physical examination.",
+            "What about more detailed diagnosis?",
+            "Culture of infectious agents isolated from a patient is used to identify infectious organisms.",
+            "Are there any other techniques used?",
+            "Yes, other techniques such as producing images of internal abnormalities resulting from the growth of an infectious agent are also used.",
+            "Thanks, Medi. Can infectious diseases be cured?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases Given sufficient effort, all known infectious agents can be specifically identified. The benefits of identification, however, are often greatly outweighed by the cost, as often there is no specific treatment, the cause is obvious, or the outcome of an infection is benign. Diagnosis of infectious disease is nearly always initiated by medical history and physical examination. More detailed identification techniques involve the culture of infectious agents isolated from a patient. Culture allows identification of infectious organisms by examining their microscopic features, by detecting the presence of substances produced by pathogens, and by directly identifying an organism by its genotype. Other techniques are used to produce images of internal abnormalities resulting from the growth of an infectious agent. The images are useful in detection of, for example, a bone abscess or a spongiform encephalopathy produced by a prion Infectious diseases Infectious diseases",
+        "response": "Can all infectious diseases be cured with antibiotics?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just underwent a medical procedure. What advice do you have for me?",
+            "It depends on the specific procedure you had. What procedure did you have?",
+            "I had surgery to remove my appendix.",
+            "After surgery, it is important to rest and avoid strenuous physical activity.",
+            "What about my diet?",
+            "Your diet should consist of easily digestible foods and plenty of fluids. Avoid foods that are high in fiber or spicy.",
+            "How long will the recovery take?",
+            "It usually takes 4-6 weeks to fully recover from an appendectomy.",
+            "Thanks, Medi. What kind of physical activity can I do?"
+        ],
+        "knowledge": "Appendectomy Appendectomy An appendectomy is a surgical procedure to remove the appendix. After surgery, it is important to rest and avoid strenuous physical activity. Your diet should consist of easily digestible foods and plenty of fluids. Avoid foods that are high in fiber or spicy. Recovery usually takes 4-6 weeks, and during this time, you should avoid lifting heavy objects and doing any strenuous exercise until your doctor gives you clearance. Appendectomy Appendectomy",
+        "response": "When can I start exercising again after an appendectomy?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a fever and I feel very tired.",
+            "Hi, I'm here to help. Have you taken your temperature?",
+            "Yes, I have. It's 101 degrees Fahrenheit.",
+            "Okay, your fever is quite high. Have you been in contact with anyone who has been sick recently?",
+            "Yes, my sister had a cold a few days ago.",
+            "Based on your symptoms, it's possible that you have a viral infection. I recommend resting and drinking plenty of fluids.",
+            "Should I take any medicine?",
+            "It's best to speak with a doctor before taking any medication.",
+            "Okay, thank you for your advice. How long should I rest?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases Given sufficient effort, all known infectious agents can be specifically identified. The benefits of identification, however, are often greatly outweighed by the cost, as often there is no specific treatment, the cause is obvious, or the outcome of an infection is benign. Diagnosis of infectious disease is nearly always initiated by medical history and physical examination. More detailed identification techniques involve the culture of infectious agents isolated from a patient. Culture allows identification of infectious organisms by examining their microscopic features, by detecting the presence of substances produced by pathogens, and by directly identifying an organism by its genotype. Other techniques are used to produce images of internal abnormalities resulting from the growth of an infectious agent. The images are useful in detection of, for example, a bone abscess or a spongiform encephalopathy produced by a prion Infectious diseases Infectious diseases",
+        "response": "It's best to rest for a few days until your fever subsides and symptoms improve. If your symptoms persist or get worse, make sure to make an appointment with your doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a rash on my arm, what should I do?",
+            "Hi, have you noticed any other symptoms?",
+            "No, just the rash.",
+            "Okay, can you describe the rash to me?",
+            "It's red and bumpy, and it's slightly itchy.",
+            "Based on your description, it could be a contact dermatitis. This is an allergic reaction to something that your skin has come into contact with.",
+            "What should I do to treat it?",
+            "Try to avoid whatever caused the reaction, and you can apply an over-the-counter topical cream to soothe the itching. If it doesn't improve in a few days, see a doctor.",
+            "Okay, thank you for your advice. Is there anything else I should do?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases Given sufficient effort, all known infectious agents can be specifically identified. The benefits of identification, however, are often greatly outweighed by the cost, as often there is no specific treatment, the cause is obvious, or the outcome of an infection is benign. Diagnosis of infectious disease is nearly always initiated by medical history and physical examination. More detailed identification techniques involve the culture of infectious agents isolated from a patient. Culture allows identification of infectious organisms by examining their microscopic features, by detecting the presence of substances produced by pathogens, and by directly identifying an organism by its genotype. Other techniques are used to produce images of internal abnormalities resulting from the growth of an infectious agent. The images are useful in detection of, for example, a bone abscess or a spongiform encephalopathy produced by a prion Infectious diseases Infectious diseases",
+        "response": "Just continue to apply the cream and avoid whatever caused the reaction. If it doesn't improve in a few days, make sure to see a doctor."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery on my knee. What should I do to help it heal?",
+            "Hi, congratulations on your surgery. Rest is the most important thing right now to help the knee heal.",
+            "What about physical therapy?",
+            "Yes, physical therapy can be very helpful in speeding up the healing process and getting you back to your normal activities.",
+            "Should I be doing any specific exercises?",
+            "Your physical therapist will give you a customized plan based on your specific needs and abilities, so follow their instructions closely.",
+            "What about my diet?",
+            "Eating a balanced diet with plenty of protein, vitamins, and minerals can help with the healing process. Make sure to drink plenty of water as well.",
+            "Thank you for your advice. How long should I expect the recovery process to take?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases Given sufficient effort, all known infectious agents can be specifically identified. The benefits of identification, however, are often greatly outweighed by the cost, as often there is no specific treatment, the cause is obvious, or the outcome of an infection is benign. Diagnosis of infectious disease is nearly always initiated by medical history and physical examination. More detailed identification techniques involve the culture of infectious agents isolated from a patient. Culture allows identification of infectious organisms by examining their microscopic features, by detecting the presence of substances produced by pathogens, and by directly identifying an organism by its genotype. Other techniques are used to produce images of internal abnormalities resulting from the growth of an infectious agent. The images are useful in detection of, for example, a bone abscess or a spongiform encephalopathy produced by a prion Infectious diseases Infectious diseases",
+        "response": "The recovery process can vary based on the specific surgery and your individual health, so it's best to ask your doctor or physical therapist for an estimated timeline."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a rash on my arm and it's really itchy.",
+            "I see. Can you describe the rash to me? Is it red, bumpy, blistered, or scaly?",
+            "It's red and bumpy. And it looks like it's spreading.",
+            "Based on the description, it could be a contact dermatitis. Have you come into contact with anything new lately?",
+            "Come to think of it, I started using a new laundry detergent last week.",
+            "That could be the cause. Try switching to a fragrance-free detergent and see if the rash improves.",
+            "Thank you, Medi. I'll definitely try that. One more question: is it contagious?",
+            "No, contact dermatitis is not contagious. It's just a reaction to an irritant or allergen.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Contact Dermatitis Contact dermatitis is a type of inflammation of the skin that occurs when substances to which the skin is sensitive are contacted.  Common causes of irritant contact dermatitis include solvents, acids, and detergents.  Allergic contact dermatitis is a result of an overreaction of the immune system to a substance.  Allergic reactions can result from repeated exposure to even small amounts of a substance.  The primary symptom of contact dermatitis is a skin rash with itching, blisters, and redness. The rash may take several days to appear after contact with the irritant or allergen.  Treatment of contact dermatitis involves avoiding the irritant or allergen and using topical or oral medications to relieve symptoms. Contact Dermatitis Contact Dermatitis",
+        "response": "You're welcome. Good luck with the new detergent. And no, it's not contagious."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I was just diagnosed with strep throat. What should I do?",
+            "Sorry to hear that. Have you been prescribed antibiotics?",
+            "Yes, I have. But I'm worried about the side effects and if it's really necessary.",
+            "Strep throat is caused by a bacterial infection, so antibiotics are necessary to treat it. The side effects are usually mild and go away on their own.",
+            "Okay, I'll start taking them. Any other tips for managing my symptoms?",
+            "Gargling with warm salt water can help soothe your throat, and drinking plenty of fluids will help keep you hydrated.",
+            "Thanks, I'll try that. One more question: how long will it take for me to feel better?",
+            "It usually takes about 24-48 hours for antibiotics to start working. Make sure you finish the full course of antibiotics even if you start feeling better before it's finished.",
+            "Got it. Thanks for the advice, Medi."
+        ],
+        "knowledge": "Strep Throat Strep throat is a bacterial infection that causes inflammation and pain in the throat.  It is caused by the streptococcus bacteria and is most common in children and teenagers.  Symptoms of strep throat include a sore throat, difficulty swallowing, fever, and swollen lymph nodes.  The infection is usually diagnosed with a throat culture or rapid strep test.  Treatment involves antibiotics to kill the bacteria and relieve symptoms.  It is important to finish the full course of antibiotics to prevent complications.  Home remedies such as drinking warm liquids, gargling with warm salt water, and getting plenty of rest can also help manage symptoms. Strep Throat Strep Throat",
+        "response": "You're welcome. It usually takes about 24-48 hours for antibiotics to start working and make sure you finish the full course of antibiotics even if you start feeling better before it's finished."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a major surgery and I'm not sure what I should do to recover.",
+            "Sorry to hear that. What kind of surgery did you have?",
+            "I had a knee replacement surgery.",
+            "Okay, after a knee replacement surgery, it's important to stay active to prevent blood clots and to promote healing. You should start with gentle exercises and physical therapy as soon as possible.",
+            "Got it. Is there anything else I should be doing?",
+            "Make sure to follow your doctor's instructions for wound care and take your medications as prescribed. Also, eat a healthy diet and get plenty of rest to aid in your recovery.",
+            "Thanks, Medi. One more question: when can I expect to be back to my normal activities?",
+            "The recovery time varies, but most people can return to normal activities within 3-6 months after surgery. However, it's important to follow your doctor's instructions and take it slow.",
+            "Thanks for your help, Medi."
+        ],
+        "knowledge": "Knee Replacement Surgery Knee replacement surgery is a procedure in which a damaged knee joint is replaced with an artificial joint.  This surgery is usually performed to relieve pain and improve mobility in patients with severe arthritis or injury.  After surgery, it is important to stay active to prevent blood clots and promote healing.  Gentle exercises and physical therapy should be started as soon as possible.  Wound care is also important to prevent infection, and medications should be taken as prescribed.  Recovery time varies, but most people can return to normal activities within 3-6 months after surgery. Knee Replacement Surgery Knee Replacement Surgery",
+        "response": "You're welcome. Most people can return to normal activities within 3-6 months after surgery, but it's important to follow your doctor's instructions and take it slow."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a rash on my arm",
+            "Hi, I can help you with that. Can you describe the rash?",
+            "It's red and itchy, and it seems to be spreading",
+            "Based on what you're telling me, it could be a fungal infection or an allergic reaction. Have you been in contact with anything new?",
+            "Now that you mention it, I tried a new laundry detergent recently",
+            "That could be the cause of the allergic reaction. I suggest you switch back to your old detergent and apply some hydrocortisone cream to the rash",
+            "Okay, I'll do that. Thank you so much for your help, Medi!",
+            "You're welcome! Let me know if you have any other questions.",
+            "Actually, can you recommend anything for the itching? It's driving me crazy"
+        ],
+        "knowledge": "Rashes Rashes A rash is a change in the skin's color, appearance, or texture. Some rashes are itchy, painful, or irritated, while others are not. There are many causes of rashes, including infections, allergies, and illnesses. To diagnose a rash, a doctor will examine the affected area and ask questions about your medical history and symptoms. Treatment for a rash depends on the underlying cause. If it's an allergic reaction, antihistamines or topical creams may be recommended. If it's a fungal infection, antifungal creams or oral medication may be needed. In some cases, a rash may go away on its own without treatment. Rashes Rashes",
+        "response": "I suggest you apply some hydrocortisone cream to the rash to relieve the itching."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just came back from a trip abroad and I'm not feeling well",
+            "I'm sorry to hear that. Can you tell me what symptoms you're experiencing?",
+            "I have a fever, headache, and a sore throat. I also feel very tired and achy all over",
+            "Based on those symptoms, you may have contracted a viral infection. Have you been to a doctor yet?",
+            "No, not yet. I was hoping to get some advice from you first",
+            "I understand. My advice is to rest, drink plenty of fluids, and take over-the-counter medications like acetaminophen or ibuprofen to reduce fever and pain. If your symptoms persist or worsen, you should see a doctor",
+            "Okay, thank you for your advice. I'll do that",
+            "You're welcome. Let me know if you have any other questions.",
+            "Actually, is it safe for me to go to work or should I stay home?"
+        ],
+        "knowledge": "Viral infections Viral infections Viral infections are caused by a virus and can affect any part of the body. The symptoms of a viral infection depend on the type of virus and the area of the body that it affects. Common symptoms include fever, headache, sore throat, cough, runny nose, body aches, and fatigue. Treatment for a viral infection depends on the type of virus and the severity of the symptoms. In some cases, rest and over-the-counter medications like acetaminophen or ibuprofen may be all that's needed. In other cases, antiviral medication may be necessary. It's important to see a doctor if your symptoms persist or worsen Viral infections Viral infections",
+        "response": "It's best for you to stay home and rest until you feel better. You don't want to risk infecting others at work."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I'm not sure what I should do to recover properly",
+            "Congratulations on your surgery! Recovery is important. Can you tell me what type of surgery you had?",
+            "I had a hernia repair surgery",
+            "Okay, after hernia repair surgery, it's important to avoid heavy lifting or strenuous activity for at least 4-6 weeks. You should also follow your doctor's instructions for incision care and take any prescribed pain medications as directed. A healthy diet and regular exercise can also aid in your recovery",
+            "Thank you for the advice. What type of exercise should I do?",
+            "For the first few weeks, it's best to stick to light activities like walking or stretching. As you start to feel better, you can gradually increase your activity level. Your doctor or a physical therapist can provide more specific recommendations based on your individual needs",
+            "Okay, I'll keep that in mind. Thanks again for your help",
+            "Of course! Let me know if you have any other questions or concerns",
+            "One more thing, should I be concerned about any possible complications from the surgery?"
+        ],
+        "knowledge": "Hernia surgery Hernia surgery Hernia repair surgery is a common surgical procedure used to repair a hernia, which occurs when an organ or tissue bulges through a weak spot in the abdominal wall. Recovery from hernia repair surgery can take several weeks. During this time, it's important to avoid heavy lifting or strenuous activity to give your body time to heal. Following a healthy diet and engaging in regular exercise can also aid in your recovery. While complications from hernia repair surgery are rare, it's important to watch for signs of infection or other issues Hernia surgery Hernia surgery",
+        "response": "Complications from hernia repair surgery are rare, but it's important to keep an eye out for signs of infection or other issues. Contact your doctor if you experience any concerning symptoms like fever, severe pain, redness or swelling around the incision site."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I don't feel well and I have a fever.",
+            "I'm sorry to hear that, can you tell me more about your symptoms?",
+            "I feel cold, shivery and have a headache.",
+            "It seems like you have a fever, I recommend you to take a rest and drink plenty of water.",
+            "Is there anything else I should do?",
+            "You can also take some over-the-counter painkillers to relieve your headache, but if your symptoms persist or get worse, you should see a doctor.",
+            "Okay, thanks for your advice.",
+            "You're welcome. Take care of yourself.",
+            "Do you think I might have an infectious disease?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Given sufficient effort, all known infectious agents can be specifically identified.  The benefits of identification, however, are often greatly outweighed by the cost, as often there is no specific treatment, the cause is obvious, or the outcome of an infection is benign. Diagnosis of infectious disease is nearly always initiated by medical history and physical examination.  More detailed identification techniques involve the culture of infectious agents isolated from a patient.  Culture allows identification of infectious organisms by examining their microscopic features, by detecting the presence of substances produced by pathogens, and by directly identifying an organism by its genotype.  Other techniques  are used to produce images of internal abnormalities resulting from the growth of an infectious agent.  The images are useful in detection of, for example, a bone abscess or a spongiform encephalopathy produced by a prion Infectious diseases Infectious diseases",
+        "response": "Based on your symptoms, it is possible that you have an infectious disease. However, it's hard to say without further examination. If your symptoms persist or get worse, you should see a doctor."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I was recently diagnosed with an infectious disease.",
+            "I'm sorry to hear that. Which infectious disease do you have?",
+            "The doctor said it's tuberculosis, but I don't know much about it.",
+            "Tuberculosis is a serious infectious disease that mainly affects the lungs. It is caused by a bacterium called Mycobacterium tuberculosis.",
+            "What are the symptoms of tuberculosis?",
+            "Some of the common symptoms include coughing, chest pain, fatigue, fever, and night sweats. However, some people may not have any symptoms at all.",
+            "How is tuberculosis treated?",
+            "Tuberculosis is usually treated with a combination of antibiotics. The treatment can take several months, and it's important to take all the medication as prescribed.",
+            "Okay, thank you for the information."
+        ],
+        "knowledge": "Tuberculosis Tuberculosis Tuberculosis is caused by a bacterium called Mycobacterium tuberculosis.  It mainly affects the lungs, but it can also affect other parts of the body, such as the brain, kidneys, or spine.  Symptoms include coughing, chest pain, fatigue, fever, and night sweats.  However, some people may not have any symptoms at all.  Tuberculosis is usually treated with a combination of antibiotics.  The treatment can take several months, and it's important to take all the medication as prescribed.  To prevent getting tuberculosis, it's important to avoid close contact with people who have the disease.  If you work or live in a high-risk environment, you may need to be screened for tuberculosis regularly. Tuberculosis Tuberculosis",
+        "response": "To prevent getting tuberculosis, it's important to avoid close contact with people who have the disease. If you work or live in a high-risk environment, you may need to be screened for tuberculosis regularly."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I just had surgery to remove an infected abscess.",
+            "I hope you're feeling better now. How was the surgery?",
+            "It went well, but I'm a bit worried about how to take care of myself after surgery.",
+            "After surgery, it's important to get plenty of rest and follow your doctor's instructions. You may also need to take antibiotics and painkillers.",
+            "What about my diet?",
+            "You should follow a healthy and balanced diet, but your doctor may recommend some specific dietary restrictions depending on your condition.",
+            "What kind of physical activity am I allowed to do?",
+            "You should avoid any strenuous physical activity for a while and focus on light exercise such as walking. Your doctor will let you know when it's safe to resume your normal activities.",
+            "Thanks, Medi. You've been very helpful."
+        ],
+        "knowledge": "Abscesses Abscesses An abscess is a collection of pus that can occur anywhere in the body.  They are usually caused by a bacterial infection.  Treatment usually involves draining the abscess and taking antibiotics.  After surgery to remove an abscess, it's important to get plenty of rest and follow your doctor's instructions.  You may also need to take antibiotics and painkillers.  To prevent getting abscesses, it's important to practice good hygiene and keep any wounds clean and covered.  If you have a weakened immune system, you may also need to take extra precautions to avoid getting infections. Abscesses Abscesses",
+        "response": "To prevent getting abscesses, it's important to practice good hygiene and keep any wounds clean and covered. If you have a weakened immune system, you may also need to take extra precautions to avoid getting infections."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I need some advice. I have symptoms of an infection.",
+            "Hello! I\u2019m here to help. Can you describe your symptoms please?",
+            "I have a fever, a dry cough, and a headache.",
+            "Based on your symptoms, you might have a respiratory infection. You should see a doctor and get tested for COVID-19.",
+            "What should I do to prevent spreading the disease?",
+            "You should stay home and avoid contact with other people. Wear a mask, and wash your hands regularly.",
+            "I will do that. Thank you for your help, Medi.",
+            "You're welcome. Stay safe!"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Given sufficient effort, all known infectious agents can be specifically identified.  The benefits of identification, however, are often greatly outweighed by the cost, as often there is no specific treatment, the cause is obvious, or the outcome of an infection is benign. Diagnosis of infectious disease is nearly always initiated by medical history and physical examination.  More detailed identification techniques involve the culture of infectious agents isolated from a patient.  Culture allows identification of infectious organisms by examining their microscopic features, by detecting the presence of substances produced by pathogens, and by directly identifying an organism by its genotype.  Other techniques  are used to produce images of internal abnormalities resulting from the growth of an infectious agent.  The images are useful in detection of, for example, a bone abscess or a spongiform encephalopathy produced by a prion Infectious diseases Infectious diseases",
+        "response": "You're welcome. Stay safe and don't hesitate to contact me if you have any further questions."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. Can you explain what an infectious disease is?",
+            "Hello! Of course, an infectious disease is a disease caused by a microbe such as a virus, bacterium, or fungus. It can be transmitted from one person to another.",
+            "How can I prevent getting an infectious disease?",
+            "You can prevent getting an infectious disease by washing your hands regularly, covering your mouth when you cough or sneeze, and avoiding close contact with people who are sick.",
+            "That's helpful. What should I do if I think I have an infectious disease?",
+            "If you think you have an infectious disease, you should see a doctor immediately. They will be able to diagnose your condition and suggest an appropriate treatment plan.",
+            "Thank you for your advice, Medi.",
+            "You're welcome. Stay healthy!"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Given sufficient effort, all known infectious agents can be specifically identified.  The benefits of identification, however, are often greatly outweighed by the cost, as often there is no specific treatment, the cause is obvious, or the outcome of an infection is benign. Diagnosis of infectious disease is nearly always initiated by medical history and physical examination.  More detailed identification techniques involve the culture of infectious agents isolated from a patient.  Culture allows identification of infectious organisms by examining their microscopic features, by detecting the presence of substances produced by pathogens, and by directly identifying an organism by its genotype.  Other techniques  are used to produce images of internal abnormalities resulting from the growth of an infectious agent.  The images are useful in detection of, for example, a bone abscess or a spongiform encephalopathy produced by a prion Infectious diseases Infectious diseases",
+        "response": "You're welcome. Don't hesitate to contact me if you have any further questions."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I just had surgery. What should I do next?",
+            "Hello! After surgery, it's important to follow your doctor's instructions carefully. You should rest and avoid strenuous physical activity.",
+            "What should I eat?",
+            "You should eat a balanced diet with plenty of protein, fruits, and vegetables to help your body heal.",
+            "How can I prevent infection?",
+            "You should keep your incision clean and dry. Wash your hands regularly, and avoid touching the incision unless you need to clean it.",
+            "Thank you for your advice, Medi.",
+            "You're welcome. Stay healthy and take care!"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Given sufficient effort, all known infectious agents can be specifically identified.  The benefits of identification, however, are often greatly outweighed by the cost, as often there is no specific treatment, the cause is obvious, or the outcome of an infection is benign. Diagnosis of infectious disease is nearly always initiated by medical history and physical examination.  More detailed identification techniques involve the culture of infectious agents isolated from a patient.  Culture allows identification of infectious organisms by examining their microscopic features, by detecting the presence of substances produced by pathogens, and by directly identifying an organism by its genotype.  Other techniques  are used to produce images of internal abnormalities resulting from the growth of an infectious agent.  The images are useful in detection of, for example, a bone abscess or a spongiform encephalopathy produced by a prion Infectious diseases Infectious diseases",
+        "response": "You're welcome. Don't hesitate to contact me if you have any further questions."
+    }
+]

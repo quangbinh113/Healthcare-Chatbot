@@ -1,0 +1,362 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I'm not feeling well today",
+            "Hi there! What's bothering you?",
+            "I have a fever, cough, and body aches",
+            "It sounds like you might have the flu. Have you been vaccinated?",
+            "No, I haven't. Is it too late to get vaccinated now?",
+            "It's not too late. You should get vaccinated as soon as possible to help your body fight the flu",
+            "Thanks for the advice. What else can I do to feel better?",
+            "You can get plenty of rest, drink lots of fluids, and take over-the-counter medication for your symptoms.",
+            "Okay. Thanks for your help, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, you might have the flu. You should get vaccinated as soon as possible to help your body fight it. You can also get plenty of rest, drink lots of fluids, and take over-the-counter medication for your symptoms."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about COVID-19",
+            "Sure thing! What would you like to know?",
+            "Can you explain how COVID-19 spreads from person to person?",
+            "Certainly. COVID-19 spreads mainly from person to person through respiratory droplets when an infected person talks, coughs, or sneezes.",
+            "Is it possible to get COVID-19 from touching surfaces, like doorknobs or shopping carts?",
+            "It's possible, but not the main way it spreads. The virus can live on surfaces for a few hours or up to several days, depending on the type of surface.",
+            "What can I do to protect myself from getting COVID-19?",
+            "You can protect yourself and others by wearing a mask, practicing social distancing, washing your hands frequently, and avoiding large gatherings.",
+            "Thank you for the information, Medi!"
+        ],
+        "knowledge": "COVID-19 COVID-19 COVID-19 spreads mainly from person to person through respiratory droplets when an infected person talks, coughs, or sneezes.  It can also be spread by touching a surface contaminated with the virus and then touching your mouth, nose, or eyes.  Symptoms can range from mild (or no symptoms) to severe illness and death.  The most common symptoms include fever, cough, and difficulty breathing.  In severe cases, COVID-19 can cause pneumonia, acute respiratory distress syndrome, and death.  There is currently no specific treatment for COVID-19, but most people recover with supportive care, such as rest, fluids, and fever-reducing medicine. COVID-19 COVID-19",
+        "response": "COVID-19 spreads mainly from person to person through respiratory droplets when an infected person talks, coughs, or sneezes. It's also possible to get it from touching surfaces contaminated with the virus. You can protect yourself and others by wearing a mask, practicing social distancing, washing your hands frequently, and avoiding large gatherings."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had surgery and I'm not sure what kind of physical activity is safe for me to do",
+            "Hello! What type of surgery did you have?",
+            "I had a knee replacement surgery two weeks ago.",
+            "It's important to avoid high-impact activities for at least six weeks after knee replacement surgery. Instead, focus on low-impact exercises like cycling or swimming.",
+            "What about weightlifting or other strength training exercises?",
+            "You should avoid activities that put too much stress on your knees, like squats or lunges. However, you can do exercises that focus on building strength in your upper body or core.",
+            "Okay, thank you for the advice. What else should I be doing to ensure a smooth recovery?",
+            "Make sure to follow your physical therapy exercises and avoid any activities that cause pain or discomfort. Also, be sure to eat a healthy diet and get plenty of rest.",
+            "Thank you for your help, Medi!"
+        ],
+        "knowledge": "Knee Replacement Knee Replacement After knee replacement surgery, it's important to avoid high-impact activities for at least six weeks.  You should focus on low-impact exercises like cycling or swimming.  You should avoid activities that put too much stress on your knees, like squats or lunges.  However, you can do exercises that focus on building strength in your upper body or core.  Physical therapy is also a crucial part of the recovery process and can help you regain strength and mobility.  You should also eat a healthy diet and get plenty of rest to ensure a smooth recovery Knee Replacement Knee Replacement",
+        "response": "After knee replacement surgery, you should avoid high-impact activities for at least six weeks and focus on low-impact exercises like cycling or swimming. You should also avoid activities that put too much stress on your knees and follow your physical therapy exercises. Be sure to eat a healthy diet and get plenty of rest to ensure a smooth recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and a headache.",
+            "Hello, sorry to hear that. How long have you had these symptoms?",
+            "I've had them for two days now.",
+            "Have you been in contact with anyone who has a fever or cough?",
+            "No, I haven't. I've been staying at home.",
+            "I think it's better to take some rest and drink plenty of fluids. If you don't feel better in a few days, then please consult a doctor.",
+            "Thank you, Medi. Can you advise me on any specific medications?",
+            "For now, just take some paracetamol or ibuprofen for the fever and headache. But I suggest you consult a doctor if the symptoms persist.",
+            "Understood, thank you, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, you may have the flu. Rest and plenty of fluids are essential, and taking paracetamol or ibuprofen can help with the fever and headache. Consult a doctor if the symptoms persist."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I read about social distancing measures for pandemics. Can you explain more about it?",
+            "Hello. Yes, social distancing measures include school closures, avoiding contact with infected people via isolation or quarantine, and limiting mass gatherings. These measures may reduce transmission, but they are often expensive, unpopular, and difficult to implement.",
+            "I see, what other methods are recommended for infection control?",
+            "The commonly recommended methods of infection control are respiratory etiquette, hand hygiene, and mask wearing, which are inexpensive and easy to perform.",
+            "What about medication?",
+            "Pharmaceutical measures are effective but may not be available in the early stages of an outbreak. In health care settings, infected individuals may be cohorted or assigned to individual rooms. Protective clothing such as masks, gloves, and gowns is recommended when coming into contact with infected individuals if there is a risk of exposure to infected bodily fluids.",
+            "Oh, I didn't know about that. I think I will start practicing respiratory etiquette and wearing a mask in public.",
+            "That's a good idea. These measures can help prevent the spread of infectious diseases.",
+            "Thank you, Medi. Is there anything else you recommend to stay healthy during a pandemic?"
+        ],
+        "knowledge": "Influenza Influenza  Likewise, the effectiveness of screening at points of entry into countries is not well researched.  Social distancing measures such as school closures, avoiding contact with infected people via isolation or quarantine, and limiting mass gatherings may reduce transmission, but these measures are often expensive, unpopular, and difficult to implement.  Consequently, the commonly recommended methods of infection control are respiratory etiquette, hand hygiene, and mask wearing, which are inexpensive and easy to perform.  Pharmaceutical measures are effective but may not be available in the early stages of an outbreak. In health care settings, infected individuals may be cohorted or assigned to individual rooms.  Protective clothing such as masks, gloves, and gowns is recommended when coming into contact with infected individuals if there is a risk of exposure to infected bodily fluids.  Keeping patients in negative pressure rooms and avoiding aerosol-producing activities may help, but special air handling and ventilation systems are not considered necessary to prevent the spread of influenza in the air Influenza Influenza",
+        "response": "Social distancing measures include school closures, avoiding contact with infected people via isolation or quarantine, and limiting mass gatherings. But respiratory etiquette, hand hygiene, and mask wearing are the most commonly recommended methods of infection control. Maintaining a healthy lifestyle, such as eating a balanced diet, exercising regularly, and getting enough sleep can also boost your immune system and improve your overall health."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I had a flu vaccine shot yesterday. What should I do after getting it?",
+            "Hello. After receiving the flu vaccine, it's essential to rest for a while and avoid any intense physical activity or heavy lifting for at least 24 hours.",
+            "Do I need to take any medication?",
+            "No, you don't need to take any medication. However, if you experience any side effects such as fever, headache, or muscle pain, you can take some paracetamol.",
+            "Is there anything else I need to do to stay healthy after the vaccine?",
+            "Yes, it's important to continue practicing good hygiene habits, such as washing your hands regularly and covering your mouth when coughing or sneezing. Also, try to avoid close contact with people who are sick.",
+            "Thank you for your advice, Medi. Is there anything else I should know?",
+            "Yes, it's important to remember that the flu vaccine doesn't provide complete protection against the flu, but it can reduce the risk of getting sick. If you do get sick, the vaccine can make your symptoms less severe.",
+            "Thanks for letting me know, Medi. That's all my questions for now."
+        ],
+        "knowledge": "Influenza Influenza  The influenza vaccine may cause mild side effects such as fever, headache, and muscle pain.  These side effects are usually mild and go away on their own within a few days.  After receiving the vaccine, it is important to continue practicing good hygiene habits, such as washing your hands regularly and covering your mouth when coughing or sneezing.  If you do get sick, the vaccine can make your symptoms less severe.  It's important to remember that the flu vaccine doesn't provide complete protection against the flu, but it can reduce the risk of getting sick Influenza Influenza",
+        "response": "After receiving the flu vaccine, rest for a while and avoid any intense physical activity for at least 24 hours. If you experience any side effects such as fever, headache, or muscle pain, you can take some paracetamol. Remember to continue practicing good hygiene habits, as the vaccine can make your symptoms less severe. Also, it's important to remember that the flu vaccine doesn't provide complete protection against the flu."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I think I have the flu.",
+            "I'm sorry to hear that. Can you tell me more about your symptoms?",
+            "I have a fever and a terrible cough. My throat is sore, and I'm extremely tired.",
+            "Okay, based on your symptoms, it's possible that you have the flu. Have you been in contact with anyone who has had the flu recently?",
+            "Yes, my co-worker had the flu a few days ago.",
+            "That could be the source of your illness. My advice is to rest and stay hydrated. You should also avoid contact with others to prevent the spread of the illness.",
+            "Thank you for your advice, Medi.",
+            "You're welcome. Is there anything else you need help with?",
+            "No, that's all for now."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it's possible that you have the flu. Rest and stay hydrated. Avoid contact with others to prevent the spread of the illness."
+    },
+    {
+        "dialog": [
+            "Hello Medi, can you explain to me what social distancing measures are?",
+            "Sure, social distancing measures are actions taken to reduce the spread of a contagious disease by minimizing close contact between individuals.",
+            "What are some examples of social distancing measures?",
+            "Some examples include avoiding large gatherings, working from home if possible, and maintaining a distance of at least 6 feet from others in public spaces.",
+            "Why are these measures necessary?",
+            "They are necessary to prevent the spread of contagious diseases, like the flu or COVID-19.",
+            "I see. Thank you for the explanation, Medi.",
+            "You're welcome. Do you have any other questions?",
+            "No, that's all for now."
+        ],
+        "knowledge": "Influenza Influenza  Likewise, the effectiveness of screening at points of entry into countries is not well researched.  Social distancing measures such as school closures, avoiding contact with infected people via isolation or quarantine, and limiting mass gatherings may reduce transmission, but these measures are often expensive, unpopular, and difficult to implement.  Consequently, the commonly recommended methods of infection control are respiratory etiquette, hand hygiene, and mask wearing, which are inexpensive and easy to perform.  Pharmaceutical measures are effective but may not be available in the early stages of an outbreak. In health care settings, infected individuals may be cohorted or assigned to individual rooms.  Protective clothing such as masks, gloves, and gowns is recommended when coming into contact with infected individuals if there is a risk of exposure to infected bodily fluids.  Keeping patients in negative pressure rooms and avoiding aerosol-producing activities may help, but special air handling and ventilation systems are not considered necessary to prevent the spread of influenza in the air Influenza Influenza",
+        "response": "Social distancing measures are actions taken to reduce the spread of a contagious disease by minimizing close contact between individuals, such as avoiding large gatherings, working from home if possible, and maintaining a distance of at least 6 feet from others in public spaces."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just received a flu shot. What should I do now?",
+            "You should continue to practice good hygiene habits, such as washing your hands regularly and avoiding touching your face. You should also stay away from people who are sick.",
+            "Are there any side effects of the flu shot?",
+            "Some people may experience mild side effects, such as soreness or redness at the injection site, a low-grade fever, or body aches. These side effects usually go away within a few days.",
+            "Is the flu shot effective?",
+            "Yes, the flu shot is effective in preventing the flu. However, it may not protect against all strains of the flu virus.",
+            "I see. Thank you for your advice, Medi.",
+            "You're welcome. Is there anything else you need help with?",
+            "No, that's all for now."
+        ],
+        "knowledge": "Influenza Influenza  The influenza vaccine is effective in preventing the flu, with a reduction in risk of around 40-60%.  Its effectiveness varies from year to year and by population.  Vaccines are usually effective against some strains but not others, and are not effective against the common cold or other illnesses that resemble influenza.  Vaccines need to be updated every few years to account for antigenic drift and to provide protection against the current strains of influenza virus.  The World Health Organization determines the recommended strains for annual vaccines to prevent influenza.  The vaccine is usually well tolerated. Side effects are generally mild and go away within a few days.  Common side effects include soreness or redness at the injection site, a low-grade fever, and body aches.  The vaccine is recommended for most people over 6 months of age, especially those at high risk of complications from the flu. Influenza Influenza",
+        "response": "You should continue to practice good hygiene habits, such as washing your hands regularly and avoiding touching your face. You should also stay away from people who are sick. The flu shot is effective in preventing the flu, but it may not protect against all strains of the flu virus."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I have a fever and a cough. What should I do?",
+            "You should stay at home and monitor your symptoms for a few days.",
+            "What if my condition gets worse?",
+            "If your fever persists or gets higher or you have difficulty breathing, you should go to the hospital.",
+            "Is it possible that I have influenza? ",
+            "It's possible. Influenza symptoms include fever, cough, and body aches.",
+            "What can I do to prevent getting the influenza?",
+            "You should practice good hand hygiene, avoid close contact with people who are sick, and get a flu vaccine every year.",
+            "Thanks, Medi. I will get myself checked if my condition worsens."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. It's always better to be safe and seek medical attention if your symptoms get worse."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I would like to know what I can do to prevent getting infected with influenza.",
+            "You can practice good hand hygiene, such as washing your hands regularly with soap and water or using hand sanitizer. You should also avoid close contact with people who are sick.",
+            "What else can I do?",
+            "You should also get a flu vaccine every year. This will help protect you from getting the flu or reduce the severity of your symptoms if you do get infected.",
+            "Is there anything else I can do to prevent getting the influenza?",
+            "Yes, you should avoid touching your face, especially your nose, mouth, and eyes. You should also cover your mouth and nose when you cough or sneeze, and dispose of used tissues properly.",
+            "What should I do if I think I have the flu?",
+            "If you have flu-like symptoms, you should stay at home and avoid contact with other people to prevent the spread of the virus. You should also monitor your symptoms and seek medical attention if they get worse.",
+            "Thanks, Medi. I will follow your advice."
+        ],
+        "knowledge": "Influenza Influenza  Likewise, the effectiveness of screening at points of entry into countries is not well researched.  Social distancing measures such as school closures, avoiding contact with infected people via isolation or quarantine, and limiting mass gatherings may reduce transmission, but these measures are often expensive, unpopular, and difficult to implement.  Consequently, the commonly recommended methods of infection control are respiratory etiquette, hand hygiene, and mask wearing, which are inexpensive and easy to perform.  Pharmaceutical measures are effective but may not be available in the early stages of an outbreak. In health care settings, infected individuals may be cohorted or assigned to individual rooms.  Protective clothing such as masks, gloves, and gowns is recommended when coming into contact with infected individuals if there is a risk of exposure to infected bodily fluids.  Keeping patients in negative pressure rooms and avoiding aerosol-producing activities may help, but special air handling and ventilation systems are not considered necessary to prevent the spread of influenza in the air Influenza Influenza",
+        "response": "You're welcome. Glad I could help. Stay safe!"
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I just recovered from influenza. What should I do to prevent getting it again?",
+            "You should practice good hand hygiene, avoid close contact with people who are sick, and get a flu vaccine every year. ",
+            "Is there anything else I can do? ",
+            "Yes, you should also maintain a healthy lifestyle, including eating a well-balanced diet, getting regular exercise, and managing stress levels. ",
+            "What else can I do?",
+            "You should try to get enough sleep and avoid people who are sick. If you are feeling unwell, you should stay home.",
+            "What about my family members? How can they prevent getting infected?",
+            "Your family members should also get vaccinated for the flu every year and practice good hand hygiene. They should also avoid close contact with people who are sick.",
+            "Thank you, Medi. I will follow your advice and take care of myself and my family."
+        ],
+        "knowledge": "Influenza Influenza  Likewise, the effectiveness of screening at points of entry into countries is not well researched.  Social distancing measures such as school closures, avoiding contact with infected people via isolation or quarantine, and limiting mass gatherings may reduce transmission, but these measures are often expensive, unpopular, and difficult to implement.  Consequently, the commonly recommended methods of infection control are respiratory etiquette, hand hygiene, and mask wearing, which are inexpensive and easy to perform.  Pharmaceutical measures are effective but may not be available in the early stages of an outbreak. In health care settings, infected individuals may be cohorted or assigned to individual rooms.  Protective clothing such as masks, gloves, and gowns is recommended when coming into contact with infected individuals if there is a risk of exposure to infected bodily fluids.  Keeping patients in negative pressure rooms and avoiding aerosol-producing activities may help, but special air handling and ventilation systems are not considered necessary to prevent the spread of influenza in the air Influenza Influenza",
+        "response": "You're welcome. Take care and get enough rest. "
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am feeling unwell. I have a headache and a dry cough.",
+            "I'm sorry to hear that. Based on your symptoms, you may have a cold or flu.",
+            "What should I do?",
+            "Rest, drink fluids, and take over-the-counter medication to relieve your symptoms.",
+            "How long will it last?",
+            "It usually lasts a few days to a week.",
+            "Thank you, Medi. Is there anything else I should know?",
+            "Just make sure to get plenty of rest and stay hydrated.",
+            "Thank you. I'll do that."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, you may have a cold or flu. Rest, drink fluids, and take over-the-counter medication to relieve your symptoms. Just make sure to get plenty of rest and stay hydrated."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I have a question about the flu vaccine.",
+            "Of course, what would you like to know?",
+            "Is the flu vaccine effective?",
+            "Yes, the flu vaccine is effective in reducing the risk of getting the flu.",
+            "Do I need to get vaccinated every year?",
+            "Yes, it is recommended to get vaccinated every year because the flu virus changes every year.",
+            "Are there any side effects?",
+            "The most common side effects are redness and soreness at the injection site and a low-grade fever.",
+            "Thank you, Medi. I'll consider getting vaccinated."
+        ],
+        "knowledge": "Influenza Influenza  Influenza vaccination is effective in reducing the risk of getting the flu.  In healthy adults, the vaccine can reduce the risk of illness by up to 60%.  In addition to reducing the risk of illness, vaccination can also reduce the severity of illness, reduce the risk of complications, and reduce the risk of hospitalization and death.  Influenza vaccination is recommended for everyone over the age of 6 months, especially those at high risk of complications or those who live or work with people at high risk of complications.  The flu vaccine is updated annually to protect against the most prevalent strains of the virus.  The most common side effects are redness and soreness at the injection site and a low-grade fever Influenza Influenza",
+        "response": "Yes, the flu vaccine is effective in reducing the risk of getting the flu. It is recommended to get vaccinated every year because the flu virus changes every year. The most common side effects are redness and soreness at the injection site and a low-grade fever."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I want to know how to prevent the spread of influenza.",
+            "Sure, I can help you with that. The most effective way to prevent the spread of influenza is to get vaccinated.",
+            "What else can I do?",
+            "Washing your hands regularly, avoiding close contact with sick people, covering your mouth when you cough or sneeze, and staying home when you're sick can also help prevent the spread of influenza.",
+            "What about wearing a mask?",
+            "Wearing a mask can also be helpful, especially if you are sick and need to be around others.",
+            "Is there anything else I should know?",
+            "Keeping surfaces clean and disinfected can also help prevent the spread of influenza.",
+            "Thank you, Medi. I'll try to follow these guidelines."
+        ],
+        "knowledge": "Influenza Influenza  Likewise, the effectiveness of screening at points of entry into countries is not well researched.  Social distancing measures such as school closures, avoiding contact with infected people via isolation or quarantine, and limiting mass gatherings may reduce transmission, but these measures are often expensive, unpopular, and difficult to implement.  Consequently, the commonly recommended methods of infection control are respiratory etiquette, hand hygiene, and mask wearing, which are inexpensive and easy to perform.  Pharmaceutical measures are effective but may not be available in the early stages of an outbreak. In health care settings, infected individuals may be cohorted or assigned to individual rooms.  Protective clothing such as masks, gloves, and gowns is recommended when coming into contact with infected individuals if there is a risk of exposure to infected bodily fluids.  Keeping patients in negative pressure rooms and avoiding aerosol-producing activities may help, but special air handling and ventilation systems are not considered necessary to prevent the spread of influenza in the air Influenza Influenza",
+        "response": "The most effective way to prevent the spread of influenza is to get vaccinated. Washing your hands regularly, avoiding close contact with sick people, covering your mouth when you cough or sneeze, and staying home when you're sick can also help prevent the spread of influenza. Wearing a mask can also be helpful, especially if you are sick and need to be around others. Keeping surfaces clean and disinfected can also help prevent the spread of influenza."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a sore throat and cough. Can you help me?",
+            "Sure, let me ask you some questions. How long have you been experiencing these symptoms?",
+            "It's been about 3 days now.",
+            "Have you had a fever or body aches?",
+            "No, just the cough and sore throat.",
+            "Based on your symptoms, it's possible you have a viral infection. I recommend taking over-the-counter cough medicine and throat lozenges.",
+            "Okay, thank you Medi. I'll try that.",
+            "You're welcome. Let me know if your symptoms persist or worsen.",
+            "Sure, I will. Thanks again."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it's possible you have a viral infection. I recommend taking over-the-counter cough medicine and throat lozenges."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about hand hygiene.",
+            "Sure, what's your question?",
+            "Is soap and water more effective than hand sanitizer?",
+            "While both soap and water and hand sanitizer are effective at killing germs, soap and water is generally considered more effective as it physically removes germs from your hands.",
+            "I see. What's the proper way to wash your hands?",
+            "You should wash your hands for at least 20 seconds with soap and water, making sure to scrub all surfaces including the backs of your hands, between your fingers, and under your nails. Then, rinse your hands under running water and dry them with a clean towel or air dry them.",
+            "Very helpful information. Thank you, Medi.",
+            "You're welcome. Remember to wash your hands frequently to prevent the spread of germs.",
+            "I will. Thanks again."
+        ],
+        "knowledge": "Influenza Influenza  Likewise, the effectiveness of screening at points of entry into countries is not well researched.  Social distancing measures such as school closures, avoiding contact with infected people via isolation or quarantine, and limiting mass gatherings may reduce transmission, but these measures are often expensive, unpopular, and difficult to implement.  Consequently, the commonly recommended methods of infection control are respiratory etiquette, hand hygiene, and mask wearing, which are inexpensive and easy to perform.  Pharmaceutical measures are effective but may not be available in the early stages of an outbreak. In health care settings, infected individuals may be cohorted or assigned to individual rooms.  Protective clothing such as masks, gloves, and gowns is recommended when coming into contact with infected individuals if there is a risk of exposure to infected bodily fluids.  Keeping patients in negative pressure rooms and avoiding aerosol-producing activities may help, but special air handling and ventilation systems are not considered necessary to prevent the spread of influenza in the air Influenza Influenza",
+        "response": "Remember to wash your hands frequently to prevent the spread of germs."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had the flu and was wondering if there are any lifestyle changes I can make to prevent getting sick again.",
+            "Yes, there are several lifestyle changes you can make to help prevent getting sick in the future. For example, getting enough sleep, eating a healthy diet, and exercising regularly can all boost your immune system.",
+            "What about supplements?",
+            "While supplements like vitamin C and zinc can help support your immune system, it's best to get nutrients from whole foods whenever possible.",
+            "That makes sense. What should I do if I feel like I'm getting sick again?",
+            "If you feel like you're getting sick again, it's important to rest and stay hydrated. You can also try taking over-the-counter medications like decongestants and pain relievers to help alleviate your symptoms.",
+            "Thank you, Medi. I'll try to implement those lifestyle changes.",
+            "You're welcome. Remember to also wash your hands frequently and avoid close contact with sick people.",
+            "I will. Thanks again."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Remember to also wash your hands frequently and avoid close contact with sick people."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and a sore throat.",
+            "Hello, I can help you with that. How high is your fever?",
+            "It's around 38 degrees Celsius.",
+            "Okay, have you tried taking any medication?",
+            "Not yet. What do you recommend?",
+            "You can take some paracetamol to reduce your fever and pain relief for your sore throat.",
+            "Thank you. What else can I do to feel better?",
+            "It's important to hydrate and get rest. If your symptoms persist or worsen, please contact a healthcare professional.",
+            "What are the common ways to prevent the spread of infection?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Some common ways to prevent the spread of infection are respiratory etiquette, hand hygiene, and wearing a mask. Avoiding contact with infected people and limiting mass gatherings may also reduce transmission."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a cough that won't go away.",
+            "Hello, I'd be happy to help you. How long have you had the cough?",
+            "It's been about two weeks now.",
+            "Have you tried any cough medicine or remedies?",
+            "Yes, I've been taking some over-the-counter cough syrup but it doesn't seem to be helping.",
+            "Okay, it's possible that you may have a respiratory infection. I recommend seeing a healthcare professional for a proper diagnosis and treatment.",
+            "Is there anything else I can do to alleviate my symptoms while I wait for an appointment?",
+            "Drinking plenty of fluids and getting rest can help. Avoiding smoking or exposure to secondhand smoke can also reduce irritation in the airways.",
+            "What are some potential complications of a persistent cough?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Complications of a persistent cough can include asthma, pneumonia, or lung cancer. It's important to get a proper diagnosis if your cough persists."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had the flu and I'm wondering what I can do to prevent getting sick again.",
+            "Hello, glad to hear that you are recovered. Did you get a flu shot?",
+            "No, I didn't. Is it too late to get one now?",
+            "It's not too late. The flu shot is recommended for everyone over 6 months of age, especially those at high risk for complications from the flu.",
+            "What are some other ways I can prevent getting sick?",
+            "Washing your hands often, avoiding contact with sick people, and covering your mouth and nose when coughing or sneezing can help prevent the spread of infection.",
+            "That's good to know. What should I do if I start feeling sick again?",
+            "If you start experiencing flu-like symptoms, it's important to stay home from work or school and avoid contact with others to prevent the spread of infection.",
+            "What are some potential complications of the flu?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Complications of the flu can include pneumonia, bronchitis, and sinus and ear infections. In severe cases, hospitalization may be necessary."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm not feeling well. I have a fever and cough.",
+            "I'm sorry to hear that. How long have you had these symptoms?",
+            "I think it's been a couple of days now.",
+            "Based on your symptoms, it's possible that you have influenza. Have you been in contact with anyone who has had the flu recently?",
+            "Yes, actually my coworker was just out sick with the flu last week.",
+            "That could definitely be the cause. I recommend resting and drinking plenty of fluids. If your symptoms get worse, please see a doctor.",
+            "Okay, I'll take your advice. Is there anything else I should do to prevent spreading the flu to others?",
+            "Yes, covering your nose and mouth when you cough or sneeze, washing your hands frequently, and avoiding close contact with others can all help prevent the spread of the flu.",
+            "Thank you for your help, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "You're welcome. I hope you feel better soon. Remember to cover your nose and mouth when you cough or sneeze, wash your hands frequently, and avoid close contact with others to prevent spreading the flu."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I have a question about social distancing.",
+            "Sure, what's your question?",
+            "What are some effective ways to practice social distancing?",
+            "Some effective ways to practice social distancing include avoiding close contact with others, wearing a mask, and frequently washing your hands.",
+            "Okay, that sounds pretty straightforward. Is there anything else I should know?",
+            "Yes, it's also important to avoid large gatherings, stay at home when possible, and keep a safe distance from others when you do need to go out in public.",
+            "Great, thank you for the advice. I'll make sure to follow those guidelines.",
+            "You're welcome. Stay safe out there.",
+            "Thanks, Medi. One more question - do you have any information about the effectiveness of screening at points of entry into countries?"
+        ],
+        "knowledge": "Influenza Influenza  Likewise, the effectiveness of screening at points of entry into countries is not well researched.  Social distancing measures such as school closures, avoiding contact with infected people via isolation or quarantine, and limiting mass gatherings may reduce transmission, but these measures are often expensive, unpopular, and difficult to implement.  Consequently, the commonly recommended methods of infection control are respiratory etiquette, hand hygiene, and mask wearing, which are inexpensive and easy to perform.  Pharmaceutical measures are effective but may not be available in the early stages of an outbreak. In health care settings, infected individuals may be cohorted or assigned to individual rooms.  Protective clothing such as masks, gloves, and gowns is recommended when coming into contact with infected individuals if there is a risk of exposure to infected bodily fluids.  Keeping patients in negative pressure rooms and avoiding aerosol-producing activities may help, but special air handling and ventilation systems are not considered necessary to prevent the spread of influenza in the air Influenza Influenza",
+        "response": "You're welcome. Stay safe by practicing social distancing, avoiding large gatherings, and wearing a mask. Regarding your question about screening at points of entry into countries, it's not well researched. It's generally thought that social distancing measures are more effective, but these measures can be difficult to implement."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a flu shot. Is there anything else I can do to prevent getting the flu?",
+            "That's a great start. Other things you can do include washing your hands frequently, avoiding close contact with others who are sick, and staying home if you are feeling sick.",
+            "Okay, those seem pretty easy to do. Is there anything else?",
+            "Yes, eating a healthy diet, getting plenty of rest, and staying active can all help boost your immune system and prevent illness.",
+            "Thanks for the advice, Medi. Are there any other vaccines I should consider getting?",
+            "Yes, there are several other vaccines that are recommended for adults, including the pneumonia vaccine, the shingles vaccine, and the Tdap vaccine.",
+            "What does the Tdap vaccine protect against?",
+            "The Tdap vaccine protects against tetanus, diphtheria, and pertussis (whooping cough). It's recommended that adults get a Tdap booster every 10 years.",
+            "Okay, that's good to know. Thank you for the information, Medi."
+        ],
+        "knowledge": "Influenza Influenza  Influenza vaccination is the most effective way to prevent infection.  Other effective ways to prevent the spread of influenza include covering your nose and mouth when you cough or sneeze, washing your hands frequently, and avoiding close contact with others who are sick.  It's also important to stay home if you are feeling sick.  Eating a healthy diet, getting plenty of rest, and staying active can all help boost your immune system and prevent illness.  Other vaccines that are recommended for adults include the pneumonia vaccine, the shingles vaccine, and the Tdap vaccine, which protects against tetanus, diphtheria, and pertussis (whooping cough).  It's recommended that adults get a Tdap booster every 10 years. Influenza Influenza",
+        "response": "You're welcome. Remember to wash your hands frequently, avoid close contact with others who are sick, and stay home if you are feeling sick to prevent the spread of the flu. Additionally, getting plenty of rest, eating a healthy diet, and staying active can all help boost your immune system and prevent illness. Other vaccines to consider include the pneumonia vaccine, the shingles vaccine, and the Tdap vaccine."
+    }
+]

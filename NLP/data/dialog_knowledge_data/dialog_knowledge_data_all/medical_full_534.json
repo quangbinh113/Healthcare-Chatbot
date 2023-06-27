@@ -1,0 +1,452 @@
+[
+    {
+        "dialog": [
+            "Hello Medi, I have some symptoms that concern me.",
+            "What symptoms do you have?",
+            "I have a fever, chills, and a dry cough.",
+            "Do you have any other symptoms?",
+            "No, I don't.",
+            "Based on your symptoms, you might have the flu.",
+            "What should I do next, Medi?",
+            "You should rest, drink plenty of fluids, and take over-the-counter fever reducers as needed.",
+            "Thank you, Medi. How long do you think I'll be sick?"
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Typically, the flu lasts for 2-7 days, but it can take up to 2 weeks for your symptoms to completely go away."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I'm not sure if I have a cold or allergies.",
+            "What symptoms are you experiencing?",
+            "I have a runny nose, sneezing, and a sore throat.",
+            "Do you have itchy or watery eyes or a fever?",
+            "No, I don't.",
+            "It's possible that you have a cold or allergies.",
+            "How can I tell the difference?",
+            "Allergy symptoms last longer than cold symptoms and usually include itchy eyes and a runny nose with clear mucus.",
+            "Thanks, Medi. How can I relieve my symptoms?"
+        ],
+        "knowledge": "Colds and Allergies Colds and Allergies  Colds are caused by viruses, while allergies are caused by an overactive immune system's response to allergens. Colds typically come on gradually, while allergies usually come on suddenly. Allergies can be seasonal or year-round, depending on the allergen.  Allergy symptoms can include sneezing, itching, runny nose, and congestion.  Common cold symptoms include sneezing, coughing, sore throat, and congestion. Colds and Allergies Colds and Allergies",
+        "response": "You can try taking over-the-counter allergy or cold medication and drink plenty of fluids to relieve your symptoms."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had surgery and I'm not sure what my recovery should look like.",
+            "What type of surgery did you have?",
+            "I had appendectomy surgery.",
+            "Typically, patients will need to take it easy and avoid strenuous activity for 1-2 weeks.",
+            "What else should I do during my recovery?",
+            "You should rest, stay hydrated, and follow your doctor's instructions for pain management.",
+            "What should I eat?",
+            "You should eat a healthy, well-balanced diet with plenty of protein and vegetables to help your body heal.",
+            "Thank you, Medi. What else should I know about my recovery?"
+        ],
+        "knowledge": "Recovery from Surgery Recovery from Surgery  Recovering from surgery can take time, depending on the type of surgery and your overall health. After surgery, you should rest and avoid strenuous activity for a period of time, usually 1-2 weeks. You should also follow your doctor's instructions for pain management, which may include taking pain medication or receiving physical therapy. Eating a healthy, well-balanced diet with plenty of protein and vegetables can help your body heal. You should also stay hydrated by drinking plenty of water. Recovery from Surgery Recovery from Surgery",
+        "response": "Make sure to follow your doctor's instructions closely and attend any follow-up appointments to ensure that you are healing properly."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm feeling unwell. I have a sore throat, runny nose and headaches.",
+            "Hello! I'm sorry to hear that. Based on your symptoms, it could be a common cold.",
+            "What can I do to feel better?",
+            "You can try some home remedies like drinking warm fluids, getting rest, and taking over-the-counter pain relievers.",
+            "Okay, that sounds easy enough. How long does it usually last?",
+            "It usually lasts for about a week, but if you don't feel better after that, you should see a doctor.",
+            "Alright, thanks for your help. One more thing, how can I prevent getting sick again?",
+            "Washing your hands regularly, avoiding close contact with sick people, and getting a flu shot can help prevent getting sick again.",
+            "Got it. Thanks, Medi!"
+        ],
+        "knowledge": "Common cold Common cold  The common cold is a viral infectious disease that primarily affects the upper respiratory tract. The symptoms include coughing, sore throat, runny nose, and fever, which usually resolve in seven to ten days, with some symptoms lasting up to three weeks.  The common cold is spread through the air when someone who is infected sneezes or coughs.  Direct contact with infected secretions, such as touching a surface contaminated with infected secretions, and then touching the nose or mouth, is another way the virus can be spread.  There is no cure for the common cold, but symptoms can be treated with over-the-counter medications to help relieve symptoms. Common cold Common cold",
+        "response": "You're welcome. Take care of yourself and don't forget to wash your hands regularly and avoid close contact with sick people."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I'm experiencing some symptoms and I'm not sure what's wrong.",
+            "Hello! I'm here to help. Can you tell me more about your symptoms?",
+            "I have a fever, chills, headache, muscle pain, and a cough.",
+            "Based on your symptoms, it could be the flu. Have you gotten a flu shot?",
+            "No, I haven't. What should I do now?",
+            "You should try to get plenty of rest, drink lots of fluids, and take over-the-counter pain relievers. If your symptoms get worse or don't improve, you should see a doctor.",
+            "Okay, thank you for your help. One more question, how can I prevent getting the flu again?",
+            "Getting a flu shot every year, washing your hands regularly, and avoiding close contact with sick people can help prevent getting the flu again.",
+            "Got it. Thanks, Medi!"
+        ],
+        "knowledge": "Influenza Influenza  The flu is a contagious respiratory illness caused by influenza viruses. It can cause mild to severe illness and, in some cases, can lead to death. Symptoms include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue. The flu can be treated with antiviral medications, but they work best if started within the first 48 hours of illness onset.  The flu is spread through the air by coughs and sneezes, and by touching contaminated surfaces.  The best way to prevent the flu is to get a flu shot every year, wash your hands regularly, and avoid close contact with sick people. Influenza Influenza",
+        "response": "You're welcome. Take care of yourself and don't forget to get a flu shot every year, wash your hands regularly, and avoid close contact with sick people."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I recently had a medical procedure. Can you give me some advice on how to heal?",
+            "Of course! What kind of procedure did you have?",
+            "I had surgery on my knee.",
+            "You should rest as much as possible, but also try to get up and move around a bit. You can also use ice and compression to help reduce swelling and pain.",
+            "What should I eat to help my knee heal faster?",
+            "Foods high in protein, vitamin C, and calcium can all help promote healing. Try to eat lean meats, fruits and vegetables, and dairy products.",
+            "Thanks for the advice. One more question, what kind of exercises can I do to strengthen my knee?",
+            "Exercises like walking, cycling, and swimming can all help strengthen your knee. Make sure to start slowly and gradually increase the intensity.",
+            "Okay, thank you for your help, Medi!"
+        ],
+        "knowledge": "Knee surgery Knee surgery  After knee surgery, it's important to rest and keep your knee elevated as much as possible to reduce swelling and pain. You can also use ice and compression to help reduce swelling and pain. Foods high in protein, vitamin C, and calcium can all help promote healing. Try to eat lean meats, fruits and vegetables, and dairy products. Exercise is also important to help strengthen your knee. Walking, cycling, and swimming are all good options. Make sure to start slowly and gradually increase the intensity. Knee surgery Knee surgery",
+        "response": "You're welcome. Take care of yourself and make sure to rest, elevate your knee, eat well, and exercise regularly to help promote healing."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have some symptoms and I need your help.",
+            "Of course, happy to help. Can you tell me more about your symptoms?",
+            "I have a fever, a cough, and I feel very tired.",
+            "Based on your symptoms, it's possible that you have a respiratory infection. I suggest you rest and drink plenty of fluids.",
+            "Should I see a doctor?",
+            "If your symptoms persist or worsen, it's best to schedule an appointment with your primary care physician.",
+            "Okay, thank you for your help Medi.",
+            "You're welcome. Take care.",
+            "How can I prevent getting a respiratory infection?"
+        ],
+        "knowledge": "Respiratory infections Respiratory infections are common and can be caused by a variety of viruses and bacteria. Symptoms include fever, cough, and fatigue. Rest and fluid intake are important for recovery. Respiratory infections can be prevented by washing hands, avoiding close contact with people who are sick, and practicing good respiratory hygiene. Vaccines are also available for certain respiratory infections.",
+        "response": "To prevent respiratory infections, wash your hands frequently, avoid close contact with people who are sick, and practice good respiratory hygiene."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about infectious diseases.",
+            "Sure, what would you like to know?",
+            "What is an infectious disease?",
+            "An infectious disease is a condition caused by a pathogen such as a virus, bacteria, or fungus that can spread from one person to another.",
+            "How are infectious diseases spread?",
+            "Infectious diseases can be spread through direct contact with an infected person, contact with contaminated surfaces or objects, or through airborne particles.",
+            "What are some examples of infectious diseases?",
+            "Some examples of infectious diseases include influenza, measles, tuberculosis, and COVID-19.",
+            "Is there a way to prevent infectious diseases?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases can be caused by a variety of pathogens including viruses, bacteria, and fungi. They can be spread through direct contact with an infected person, contact with contaminated surfaces or objects, or through airborne particles. Examples of infectious diseases include influenza, measles, tuberculosis, and COVID-19. Vaccines are available for many infectious diseases and work by stimulating the immune system to produce antibodies to the pathogen. This provides protection against the disease.",
+        "response": "Vaccines work by stimulating the immune system to produce antibodies to the pathogen and provide protection against the disease."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure done and I need some advice.",
+            "Of course, what type of procedure did you have?",
+            "I had surgery on my knee.",
+            "After a knee surgery, it's important to rest and elevate your leg. You should also ice your knee for the first 48-72 hours to reduce swelling.",
+            "What about physical activity?",
+            "Physical activity should be limited for the first few weeks after surgery. You can start with simple exercises such as ankle pumps and leg lifts. Your doctor will give you specific instructions on when you can start more strenuous exercises.",
+            "How about my diet?",
+            "A balanced diet with plenty of protein and nutrients is important for healing after surgery. Make sure to eat plenty of fruits and vegetables and drink plenty of fluids.",
+            "Thank you for your advice, Medi."
+        ],
+        "knowledge": "After surgery After a surgery, it is important to rest and give the body time to heal. Rest helps reduce swelling and pain, and gives the body time to repair damaged tissue. Physical activity should be limited for the first few weeks after surgery to allow the body to recover. Specific exercises may be recommended by a doctor or physical therapist to help strengthen the affected area. A balanced diet with plenty of protein and nutrients is important for healing after surgery.",
+        "response": "Rest is important after surgery because it helps reduce swelling and pain, and gives the body time to repair damaged tissue."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have been having a fever and cough for a few days now.",
+            "I see. Do you have any other symptoms?",
+            "Yes, I also have a headache and body aches.",
+            "Okay. Based on these symptoms, it's possible that you have a viral infection. It's best to rest and drink plenty of fluids.",
+            "Is there anything else I can do to relieve my symptoms?",
+            "You can take over-the-counter pain relievers like acetaminophen or ibuprofen. Gargling with warm salt water may also help with the sore throat.",
+            "Thank you for your help, Medi.",
+            "You're welcome. Please let me know if your symptoms worsen or if you have any other concerns.",
+            "Okay. Goodbye!"
+        ],
+        "knowledge": "Viral infections Viral infections  Symptoms of a viral infection typically include fever, cough, headache, body aches, and fatigue. Other symptoms may include sore throat, runny nose, and gastrointestinal symptoms such as nausea, vomiting, and diarrhea.  Treatment for viral infections is usually symptomatic, with rest and plenty of fluids. Over-the-counter pain relievers such as acetaminophen or ibuprofen may help with the fever and body aches. Gargling with warm salt water may help with the sore throat. Viral infections usually resolve on their own within a few days to a week. ",
+        "response": "Based on your symptoms, it's possible that you have a viral infection. It's best to rest and drink plenty of fluids. You can take over-the-counter pain relievers like acetaminophen or ibuprofen to relieve your symptoms."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have a question about antibiotics.",
+            "Sure, what would you like to know?",
+            "I've heard that antibiotics can help cure illnesses. Is that true?",
+            "Antibiotics are effective against bacterial infections, but they are not effective against viral infections. In fact, taking antibiotics unnecessarily can lead to antibiotic resistance.",
+            "What is antibiotic resistance?",
+            "Antibiotic resistance occurs when bacteria develop the ability to resist the effects of antibiotics. This can lead to the development of superbugs that are resistant to multiple antibiotics.",
+            "How can I prevent antibiotic resistance?",
+            "You can prevent antibiotic resistance by only taking antibiotics as prescribed by your doctor. It's also important to finish the entire course of antibiotics, even if you start feeling better before the medication is finished.",
+            "Thank you for the information, Medi."
+        ],
+        "knowledge": "Antibiotics Antibiotics  Antibiotics are medications used to treat bacterial infections. They work by killing or stopping the growth of bacteria. However, antibiotics are not effective against viral infections such as the common cold or flu. Taking antibiotics unnecessarily can lead to antibiotic resistance, which occurs when bacteria develop the ability to resist the effects of antibiotics. This can lead to the development of superbugs that are resistant to multiple antibiotics. To prevent antibiotic resistance, it's important to only take antibiotics as prescribed by your doctor and to finish the entire course of antibiotics.",
+        "response": "Antibiotics are effective against bacterial infections, but they are not effective against viral infections. In fact, taking antibiotics unnecessarily can lead to antibiotic resistance, which occurs when bacteria develop the ability to resist the effects of antibiotics."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery and I'm not sure what I should do to help with my recovery.",
+            "Congratulations on completing your surgery! What kind of surgery did you have?",
+            "I had a procedure on my knee.",
+            "Okay. After knee surgery, it's important to rest and avoid putting weight on the affected knee. You may also need to use crutches or a walker to get around.",
+            "What about physical therapy? Should I be doing any exercises?",
+            "Yes, physical therapy is an important part of recovery after knee surgery. Your doctor or physical therapist will provide you with a list of exercises to do.",
+            "What about my diet? Should I be eating anything in particular?",
+            "A healthy diet is important for recovery after surgery. Eat plenty of fruits and vegetables, lean protein, and whole grains. Drink plenty of water and avoid sugary or processed foods.",
+            "Thank you for the advice, Medi."
+        ],
+        "knowledge": "Surgery recovery Surgery recovery  After surgery, it's important to follow your doctor's instructions for recovery. This may include rest and avoiding certain activities, physical therapy or exercises, and a healthy diet. It's important to drink plenty of water and eat a well-balanced diet with plenty of fruits and vegetables, lean protein, and whole grains. Avoid sugary or processed foods.",
+        "response": "After knee surgery, it's important to rest and avoid putting weight on the affected knee. You may also need to use crutches or a walker to get around. Your doctor or physical therapist will provide you with a list of exercises to do. A healthy diet is important for recovery after surgery. Eat plenty of fruits and vegetables, lean protein, and whole grains. Drink plenty of water and avoid sugary or processed foods."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I have some kind of infection",
+            "Hello, please tell me more about your symptoms",
+            "I have a fever, chills, and a sore throat",
+            "Based on your symptoms, it might be a bacterial infection",
+            "Oh no, what should I do?",
+            "You should see a doctor and get a proper diagnosis and treatment",
+            "Can I take any painkillers to alleviate the symptoms?",
+            "Yes, you can take some over-the-counter painkillers such as acetaminophen or ibuprofen to reduce fever and relieve pain",
+            "Thank you, Medi. What kind of precautions should I take?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Additionally, the expression of symptoms is often atypical, making a clinical diagnosis based on presentation more difficult.  Thirdly, diagnostic methods that rely on the detection of antibodies are more likely to fail.  A rapid, sensitive, specific, and untargeted test for all known human pathogens that detects the presence of the organism's DNA rather than antibodies is therefore highly desirable. There is usually an indication for a specific identification of an infectious agent only when such identification can aid in the treatment or prevention of the disease, or to advance knowledge of the course of an illness prior to the development of effective therapeutic or preventative measures.  For example, in the early 1980s, prior to the appearance of AZT for the treatment of AIDS, the course of the disease was closely followed by monitoring the composition of patient blood samples, even though the outcome would not offer the patient any further treatment options.  In part, these studies on the appearance of HIV in specific communities permitted the advancement of hypotheses as to the route of transmission of the virus.  By understanding how the disease was transmitted, resources could be targeted to the communities at greatest risk in campaigns aimed at reducing the number of new infections Infectious diseases Infectious diseases",
+        "response": "You should avoid contact with other people as much as possible and use a mask to prevent the spread of the infection. You should also stay hydrated and get plenty of rest to help your body fight the infection."
+    },
+    {
+        "dialog": [
+            "Hi, Medi. I am concerned about infections related to travel",
+            "Hello, what kind of travel are you planning?",
+            "I am planning to go to a foreign country for vacation",
+            "Which country are you planning to visit?",
+            "I am planning to visit a country with a high risk of infectious diseases",
+            "I see, it is important that you get vaccinated before you travel",
+            "What kind of vaccines do I need?",
+            "It depends on the country you are visiting and the specific diseases that are prevalent there. You should talk to your doctor to get a recommended vaccination schedule",
+            "What about other precautions?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Additionally, the expression of symptoms is often atypical, making a clinical diagnosis based on presentation more difficult.  Thirdly, diagnostic methods that rely on the detection of antibodies are more likely to fail.  A rapid, sensitive, specific, and untargeted test for all known human pathogens that detects the presence of the organism's DNA rather than antibodies is therefore highly desirable. There is usually an indication for a specific identification of an infectious agent only when such identification can aid in the treatment or prevention of the disease, or to advance knowledge of the course of an illness prior to the development of effective therapeutic or preventative measures.  For example, in the early 1980s, prior to the appearance of AZT for the treatment of AIDS, the course of the disease was closely followed by monitoring the composition of patient blood samples, even though the outcome would not offer the patient any further treatment options.  In part, these studies on the appearance of HIV in specific communities permitted the advancement of hypotheses as to the route of transmission of the virus.  By understanding how the disease was transmitted, resources could be targeted to the communities at greatest risk in campaigns aimed at reducing the number of new infections Infectious diseases Infectious diseases",
+        "response": "You should also bring a hand sanitizer and use it frequently, avoid eating raw or undercooked food, and practice safe sex if you engage in sexual activity."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had surgery and I am wondering about my recovery",
+            "Hello, what kind of surgery did you have?",
+            "I had a knee replacement surgery",
+            "Okay, it is important that you follow your doctor's instructions for recovery",
+            "What kind of instructions?",
+            "You should rest and elevate your leg for several days, take pain medication as prescribed, and start physical therapy as soon as possible",
+            "What kind of physical therapy?",
+            "You should do exercises that help strengthen your leg muscles and improve your range of motion. Your physical therapist will give you specific exercises to do",
+            "How long does the recovery process take?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Additionally, the expression of symptoms is often atypical, making a clinical diagnosis based on presentation more difficult.  Thirdly, diagnostic methods that rely on the detection of antibodies are more likely to fail.  A rapid, sensitive, specific, and untargeted test for all known human pathogens that detects the presence of the organism's DNA rather than antibodies is therefore highly desirable. There is usually an indication for a specific identification of an infectious agent only when such identification can aid in the treatment or prevention of the disease, or to advance knowledge of the course of an illness prior to the development of effective therapeutic or preventative measures.  For example, in the early 1980s, prior to the appearance of AZT for the treatment of AIDS, the course of the disease was closely followed by monitoring the composition of patient blood samples, even though the outcome would not offer the patient any further treatment options.  In part, these studies on the appearance of HIV in specific communities permitted the advancement of hypotheses as to the route of transmission of the virus.  By understanding how the disease was transmitted, resources could be targeted to the communities at greatest risk in campaigns aimed at reducing the number of new infections Infectious diseases Infectious diseases",
+        "response": "The recovery process can take several weeks to several months, depending on the extent of the surgery and your overall health condition. You should be patient and follow your doctor's instructions to ensure a successful recovery."
+    },
+    {
+        "dialog": [
+            "Hello, Medi. I have a sore throat and runny nose.",
+            "Hi there. Based on your symptoms, you may have a common cold.",
+            "Can you recommend any treatments for my cold?",
+            "You can try getting extra rest, drinking more fluids, and taking over-the-counter cold medicine.",
+            "Thank you. How long does a cold usually last?",
+            "On average, a cold lasts for about a week. But it can last for 10 days or more.",
+            "Is it contagious?",
+            "Yes, it is highly contagious. You should stay home and avoid close contact with others to prevent spreading the virus.",
+            "Okay, thank you for the advice."
+        ],
+        "knowledge": "Common cold  The common cold is a viral infectious disease that affects the upper respiratory tract.  The symptoms include sore throat, runny nose, coughing, sneezing, and fever. The viruses that cause colds are highly contagious and spread through the air or close personal contact.  There is no cure for the common cold, but its symptoms can be treated with over-the-counter medication, rest, and hydration.  A cold usually lasts for about a week, but can last for 10 days or more. Common cold",
+        "response": "You're welcome. Take care and get plenty of rest. If your symptoms persist or worsen, please see a medical professional."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I recently had a medical procedure. Can you give me advice on my diet and lifestyle?",
+            "Of course. What kind of procedure did you have?",
+            "I had a surgical procedure to remove my gallbladder.",
+            "After a procedure like that, it is important to avoid fatty and greasy foods. Instead, try eating smaller, more frequent meals that are low in fat and high in fiber.",
+            "What about exercise?",
+            "You should avoid any strenuous activity for at least a week or two. After that, you can gradually increase your physical activity, starting with light exercise such as walking.",
+            "Are there any other things I should avoid?",
+            "Yes, you should avoid alcohol and smoking, which can delay your recovery and increase your risk of complications.",
+            "Okay, thank you for the advice."
+        ],
+        "knowledge": "Gallbladder surgery  After gallbladder surgery, it is important to maintain a healthy diet and lifestyle.  You should avoid fatty and greasy foods and instead eat smaller, more frequent meals that are low in fat and high in fiber.  You should also avoid strenuous physical activity for at least a week or two, as well as alcohol and smoking, which can delay your recovery and increase your risk of complications. Gallbladder surgery",
+        "response": "You're welcome. Please follow your doctor's post-operative instructions for a smooth recovery."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a fever and I'm not sure what is causing it.",
+            "Hello. How high is your fever?",
+            "My temperature is around 101 degrees.",
+            "Okay, have you experienced any other symptoms?",
+            "Yes, I have a headache and body aches.",
+            "Based on your symptoms, it's possible that you have the flu.",
+            "What should I do?",
+            "You should rest and drink plenty of fluids. Over-the-counter medication can help relieve your symptoms. If your fever persists or worsens, please see a medical professional.",
+            "Is there anything else I can do?"
+        ],
+        "knowledge": "Flu  The flu is a viral illness that affects the respiratory system.  Symptoms include fever, headache, body aches, cough, sore throat, and runny or stuffy nose.  The flu is highly contagious and spreads through respiratory droplets.  To prevent the flu, it is important to wash your hands frequently, cover your mouth and nose when you cough or sneeze, and avoid close contact with sick people.  If you have the flu, you should rest and drink plenty of fluids.  Over-the-counter medication can help relieve your symptoms.  If your fever persists or worsens, please see a medical professional. Flu",
+        "response": "You're welcome. Please take care and stay hydrated. If your fever persists or worsens, please see a medical professional."
+    },
+    {
+        "dialog": [
+            "Hey Medi, I'm feeling unwell since yesterday, what should I do?",
+            "Sorry to hear that, can you tell me what kind of symptoms you have?",
+            "I have a sore throat, fever, and a headache.",
+            "It seems like you have a viral infection, you should rest and drink enough fluids.",
+            "Can you recommend any medication for me?",
+            "I suggest you take some pain relievers like acetaminophen and gargle with salt water to soothe your throat. ",
+            "Thanks, Medi. But what if my symptoms don't improve?",
+            "If your symptoms continue for more than three days, you should see a doctor. ",
+            "Okay, I will keep that in mind. Thank you, Medi."
+        ],
+        "knowledge": "Viral Infections Viral Infections  Many viral infections are self-limited, meaning the infection will resolve on its own after a period of time.  Treatment for viral infections focuses on relieving symptoms with pain relievers, decongestants, cough suppressants, and antihistamines.  Antibiotics are not effective against viral infections.  There are no effective antiviral drugs for many viral infections, and some antiviral drugs have significant side effects.  Vaccines can protect against some viral infections, but not all.  The best way to protect against viral infections is to avoid exposure to the viruses. Viral Infections Viral Infections",
+        "response": "You're welcome. If your symptoms continue for more than three days, you should see a doctor."
+    },
+    {
+        "dialog": [
+            "Hey, Medi. I got vaccinated against COVID-19 last week and still worried about the side effects.",
+            "It's normal to feel worried, do you have any side effects?",
+            "Yes, I have a fever and a headache.",
+            "Don't worry, these are common side effects of the vaccine and usually go away within a few days.",
+            "But what if they don't go away?",
+            "If your side effects persist or get worse, you should contact your healthcare provider.",
+            "Do I need to take any medication for these side effects?",
+            "You can take some pain relievers like acetaminophen to reduce your fever. Also, you should rest and drink plenty of fluids.",
+            "Thanks for your advice, Medi. I feel better now."
+        ],
+        "knowledge": "Covid-19 Vaccine Covid-19 Vaccine  Common side effects of COVID-19 vaccines include fever, fatigue, headache, muscle pain, and chills.  These side effects usually occur within 1-2 days after vaccination and resolve on their own within a few days.  Pain and swelling at the injection site is also common.  Serious side effects are rare but can occur.  If you experience any serious side effects, you should seek medical attention.  COVID-19 vaccines are safe and effective at preventing COVID-19, and all adults are recommended to get vaccinated. Covid-19 Vaccine Covid-19 Vaccine",
+        "response": "You're welcome. Don't hesitate to contact me if you have any more questions."
+    },
+    {
+        "dialog": [
+            "Medi, I recently had a major surgery, what should I do to recover faster?",
+            "Congratulations on your successful surgery. You should take it easy and rest as much as possible.",
+            "How long should I rest?",
+            "It depends on the type of surgery you had, but typically you should rest for at least a few days.",
+            "What about diet and physical activity?",
+            "You should eat a healthy and balanced diet with plenty of protein to promote healing. Also, you should start with light exercises as soon as your doctor allows.",
+            "Can you recommend any specific exercises?",
+            "Walking is a great exercise after surgery, but you should check with your doctor before starting any physical activity.",
+            "Thanks for the advice, Medi. Do you have any other tips for a speedy recovery?"
+        ],
+        "knowledge": "Post-Surgical Recovery Post-Surgical Recovery  The recovery period after surgery can take weeks or months, depending on the type of surgery and the patient's overall health.  During this time, patients should rest as much as possible and avoid heavy lifting or strenuous activity.  Patients should eat a healthy and balanced diet with plenty of protein to promote healing.  Light exercise such as walking can help speed up the recovery process.  Patients should also attend all follow-up appointments with their doctor and follow their doctor's instructions. Post-Surgical Recovery Post-Surgical Recovery",
+        "response": "You're welcome. Make sure to attend all follow-up appointments and avoid smoking and excessive alcohol consumption for a speedy recovery."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I am not feeling well today.",
+            "I'm sorry to hear that. What seems to be the problem?",
+            "I have a fever, cough, and sore throat.",
+            "Based on your symptoms, it seems you may have contracted a respiratory infection.",
+            "What can I do to feel better?",
+            "Rest, stay hydrated, and take medication to relieve your symptoms. If it gets worse, seek medical attention.",
+            "Thank you, Medi. How can I prevent getting sick in the future?",
+            "Wash your hands frequently, avoid close contact with sick people, and keep your immune system strong with a healthy lifestyle.",
+            "Great advice, thank you!"
+        ],
+        "knowledge": "Respiratory Infections Respiratory infections  Common symptoms include fever, cough, and sore throat. The severity of symptoms can vary widely, from mild symptoms resembling the common cold to severe pneumonia.  Respiratory infections can be caused by various pathogens, including bacteria, viruses, and fungi.  They can be transmitted through the air, close contact with an infected person, or contact with contaminated surfaces.  Good hygiene practices, such as washing your hands frequently and avoiding close contact with sick people, can help prevent respiratory infections. Vaccines are also available for certain pathogens that cause respiratory infections Respiratory Infections Respiratory Infections",
+        "response": "You're welcome! Is there anything else I can help you with?"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I've been experiencing some gastrointestinal problems.",
+            "I'm sorry to hear that. Can you describe your symptoms?",
+            "I have stomach pain, diarrhea, and nausea.",
+            "Based on your symptoms, you may have gastroenteritis, which is caused by a virus or bacteria.",
+            "What can I do to feel better?",
+            "Stay hydrated and rest. Avoid dairy products, fatty foods, caffeine, and alcohol. If it gets worse, seek medical attention.",
+            "Thank you, Medi. How can I prevent getting sick in the future?",
+            "Wash your hands frequently, avoid close contact with sick people, and avoid eating raw or undercooked food.",
+            "Good to know, thanks!"
+        ],
+        "knowledge": "Gastroenteritis Gastroenteritis is inflammation of the stomach and intestines that causes vomiting and diarrhea.  It is usually caused by a virus or bacteria and is highly contagious, spreading easily through contaminated food or water, or close contact with an infected person.  Symptoms include stomach pain, diarrhea, and nausea, which can last for several days.  Treatment includes rest, staying hydrated, and avoiding dairy products, fatty foods, caffeine, and alcohol. Gastroenteritis",
+        "response": "You're welcome! Is there anything else I can help you with?"
+    },
+    {
+        "dialog": [
+            "Hey Medi, I need advice on how to boost my immune system.",
+            "Sure! What do you want to know?",
+            "What are some simple lifestyle changes I can make to strengthen my immune system?",
+            "Eating a balanced diet, getting enough sleep, exercising regularly, and reducing stress can all contribute to a stronger immune system.",
+            "Great! Are there any specific foods that can help boost my immune system?",
+            "Yes, foods rich in Vitamin C, such as citrus fruits and leafy greens, as well as foods high in zinc, like seafood and nuts, can help boost your immune system.",
+            "Is there anything else I can do to improve my immune system?",
+            "Avoiding smoking, limiting alcohol consumption, and washing your hands frequently can also help keep your immune system strong.",
+            "Thank you, Medi. I appreciate your help!"
+        ],
+        "knowledge": "Immune System The immune system helps protect the body from infections and diseases by identifying and attacking pathogens, such as bacteria and viruses.  A healthy lifestyle, including a balanced diet, adequate sleep, regular exercise, and stress reduction, can all contribute to a stronger immune system.  Certain foods, such as those rich in Vitamin C and Zinc, can also help boost your immune system.  Good hygiene practices, like washing your hands frequently and avoiding close contact with sick people, can help prevent the spread of infections and keep your immune system strong. Immune System",
+        "response": "You're welcome! Is there anything else I can help you with?"
+    },
+    {
+        "dialog": [
+            "Hello Medi, I have severe headache and fever.",
+            "Hi there, sorry to hear that. Can you tell me more about your symptoms?",
+            "I feel very weak, have a high temperature and a headache.",
+            "Based on your symptoms, it seems like you have the flu. Get plenty of rest and drink fluids.",
+            "What medicine should I take for this fever?",
+            "You can take paracetamol or ibuprofen, and don't forget to take enough rest.",
+            "Thanks for your advice, Medi. How long will it last?",
+            "Typically, the flu lasts about a week. But if your symptoms get worse, please seek medical attention.",
+            "Okay, thank you very much, Medi."
+        ],
+        "knowledge": "Influenza Influenza  The onset of symptoms is sudden, and initial symptoms are predominately non-specific, including fever, chills, headaches, muscle pain or aching, a feeling of discomfort, loss of appetite, lack of energy/fatigue, and confusion.  These symptoms are usually accompanied by respiratory symptoms such as a dry cough, sore or dry throat, hoarse voice, and a stuffy or runny nose.  Coughing is the most common symptom.  Gastrointestinal symptoms may also occur, including nausea, vomiting, diarrhea, and gastroenteritis, especially in children.  The standard influenza symptoms typically last for 2 - 8 days.   A 2021 study suggests influenza can cause long lasting symptoms in a similar way to long COVID. Symptomatic infections are usually mild and limited to the upper respiratory tract, but progression to pneumonia is relatively common Influenza Influenza",
+        "response": "Based on your symptoms, it seems like you have the flu. You can take paracetamol or ibuprofen, and don't forget to take enough rest."
+    },
+    {
+        "dialog": [
+            "Hello Medi, what is the best way to prevent infectious diseases?",
+            "Hello! The best way to prevent infectious diseases is to practice good hygiene",
+            "What is good hygiene? Do I need to wash my hands frequently?",
+            "Yes, washing your hands frequently with soap and water for at least 20 seconds is one of the most effective ways to prevent the spread of infectious diseases.",
+            "What about wearing face masks?",
+            "Yes, wearing a mask is also important, especially in public places where it's difficult to maintain social distancing.",
+            "What else do I need to do?",
+            "Covering your mouth and nose when you cough or sneeze, avoiding close contact with sick people, and disinfecting frequently-touched objects and surfaces are also good practices.",
+            "Okay, Medi, thank you for your advice."
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Additionally, the expression of symptoms is often atypical, making a clinical diagnosis based on presentation more difficult.  Thirdly, diagnostic methods that rely on the detection of antibodies are more likely to fail.  A rapid, sensitive, specific, and untargeted test for all known human pathogens that detects the presence of the organism's DNA rather than antibodies is therefore highly desirable. There is usually an indication for a specific identification of an infectious agent only when such identification can aid in the treatment or prevention of the disease, or to advance knowledge of the course of an illness prior to the development of effective therapeutic or preventative measures.  For example, in the early 1980s, prior to the appearance of AZT for the treatment of AIDS, the course of the disease was closely followed by monitoring the composition of patient blood samples, even though the outcome would not offer the patient any further treatment options.  In part, these studies on the appearance of HIV in specific communities permitted the advancement of hypotheses as to the route of transmission of the virus.  By understanding how the disease was transmitted, resources could be targeted to the communities at greatest risk in campaigns aimed at reducing the number of new infections Infectious diseases Infectious diseases",
+        "response": "One of the most effective ways to prevent the spread of infectious diseases is to practice good hygiene. This includes washing your hands frequently with soap and water for at least 20 seconds, wearing a mask in public places, covering your mouth and nose when you cough or sneeze, avoiding close contact with sick people, and disinfecting frequently-touched objects and surfaces."
+    },
+    {
+        "dialog": [
+            "Hello Medi, I just had surgery. What should I do now?",
+            "Hello, congratulations! After surgery, it's important to take care of yourself properly.",
+            "What kind of care do I need to take?",
+            "You need to eat healthy foods, avoid smoking and alcohol, get enough rest, and follow your doctor's orders.",
+            "Okay, what kind of food is good for me?",
+            "You should consume more fruits, vegetables, lean protein, and whole grains. It's also important to drink plenty of water to stay hydrated.",
+            "What about exercise? Can I do physical activity after surgery?",
+            "It depends on the type of surgery you had. Your doctor will let you know when it's safe to start exercising again.",
+            "Okay, thanks for your advice, Medi."
+        ],
+        "knowledge": "Surgery Surgery  After surgery, it is important to take care of yourself properly, including eating healthy foods, avoiding smoking and alcohol, getting enough rest, and following your doctor's orders.  Depending on the surgery, you may also need to do physical therapy or rehabilitation exercises to help your body recover.  Your doctor will let you know when it is safe to resume physical activity. Surgery Surgery",
+        "response": "After surgery, it's important to take care of yourself properly. You need to eat healthy foods, avoid smoking and alcohol, get enough rest, and follow your doctor's orders. You should consume more fruits, vegetables, lean protein, and whole grains. It's also important to drink plenty of water to stay hydrated. It depends on the type of surgery you had. Your doctor will let you know when it's safe to start exercising again."
+    },
+    {
+        "dialog": [
+            "Hi Medi, I think I have some symptoms of infection and I don't know what to do",
+            "Hello, I'm here to help you. Can you please tell me more about your symptoms?",
+            "I have a fever, headache and my throat is sore. I feel very tired and weak",
+            "Okay, based on your symptoms it sounds like you might have an infection. I advise you to rest and drink plenty of fluids. You may also take some over-the-counter medication for fever and pain relief. If your symptoms worsen or persist for more than a few days, please seek medical attention",
+            "Thank you for your advice. Is there anything else I should know?",
+            "Yes, it's important to practice good hygiene such as washing your hands frequently and covering your mouth when you cough or sneeze. This will help prevent the spread of infection",
+            "I understand. Thank you for your help, Medi",
+            "You're welcome. Take care!",
+            "Can you please tell me more about infectious diseases and how they are diagnosed? "
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Additionally, the expression of symptoms is often atypical, making a clinical diagnosis based on presentation more difficult.  Thirdly, diagnostic methods that rely on the detection of antibodies are more likely to fail.  A rapid, sensitive, specific, and untargeted test for all known human pathogens that detects the presence of the organism's DNA rather than antibodies is therefore highly desirable. There is usually an indication for a specific identification of an infectious agent only when such identification can aid in the treatment or prevention of the disease, or to advance knowledge of the course of an illness prior to the development of effective therapeutic or preventative measures.  For example, in the early 1980s, prior to the appearance of AZT for the treatment of AIDS, the course of the disease was closely followed by monitoring the composition of patient blood samples, even though the outcome would not offer the patient any further treatment options.  In part, these studies on the appearance of HIV in specific communities permitted the advancement of hypotheses as to the route of transmission of the virus.  By understanding how the disease was transmitted, resources could be targeted to the communities at greatest risk in campaigns aimed at reducing the number of new infections Infectious diseases Infectious diseases",
+        "response": "Infectious diseases can be diagnosed through a combination of physical examination, blood tests, and imaging studies. However, the expression of symptoms is often atypical, making a clinical diagnosis based on presentation more difficult. Additionally, diagnostic methods that rely on the detection of antibodies are more likely to fail. A rapid, sensitive, specific, and untargeted test for all known human pathogens that detects the presence of the organism's DNA rather than antibodies is highly desirable"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I just had a medical procedure and I'm not sure what I can or can't do now",
+            "Hello, I'm here to help you. Can you please tell me more about the procedure you had?",
+            "I had a colonoscopy yesterday",
+            "Okay, after a colonoscopy, it's important to follow a soft and bland diet for the first 24 hours and then gradually return to your normal diet as your bowel movements return to normal. You should drink plenty of fluids, avoid alcohol and caffeine, and avoid strenuous activities for a few days. You may also experience some mild cramping or bloating, which can be relieved with over-the-counter medication",
+            "Thank you for your advice. Can I exercise?",
+            "It's best to avoid any strenuous exercises for at least 24 hours after the procedure. After that, you may gradually resume your normal activities as long as you feel comfortable. However, if you experience any discomfort or pain, please consult your doctor first",
+            "Okay, I understand. Thank you for your help, Medi",
+            "You're welcome. Take care!",
+            "Can you tell me more about how lifestyle changes can help prevent infectious diseases?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Additionally, the expression of symptoms is often atypical, making a clinical diagnosis based on presentation more difficult.  Thirdly, diagnostic methods that rely on the detection of antibodies are more likely to fail.  A rapid, sensitive, specific, and untargeted test for all known human pathogens that detects the presence of the organism's DNA rather than antibodies is therefore highly desirable. There is usually an indication for a specific identification of an infectious agent only when such identification can aid in the treatment or prevention of the disease, or to advance knowledge of the course of an illness prior to the development of effective therapeutic or preventative measures.  For example, in the early 1980s, prior to the appearance of AZT for the treatment of AIDS, the course of the disease was closely followed by monitoring the composition of patient blood samples, even though the outcome would not offer the patient any further treatment options.  In part, these studies on the appearance of HIV in specific communities permitted the advancement of hypotheses as to the route of transmission of the virus.  By understanding how the disease was transmitted, resources could be targeted to the communities at greatest risk in campaigns aimed at reducing the number of new infections Infectious diseases Infectious diseases",
+        "response": "Lifestyle changes such as practicing good hygiene, avoiding close contact with sick people, and maintaining a healthy diet and exercise routine can help prevent infectious diseases. It's also important to stay up-to-date on vaccinations and to follow any specific recommendations from your healthcare provider"
+    },
+    {
+        "dialog": [
+            "Hi Medi, I have a question about infectious diseases",
+            "Hello, I'm here to help you. What's your question?",
+            "How can we tell if we have an infectious disease or if it's just a normal illness?",
+            "Infectious diseases are caused by microorganisms such as bacteria, viruses, fungi, and parasites. They often have characteristic symptoms such as fever, cough, body aches, and fatigue. However, the expression of symptoms can be atypical, making a clinical diagnosis based on presentation more difficult. If you suspect you might have an infectious disease, it's best to seek medical attention to confirm the diagnosis and receive appropriate treatment",
+            "Thank you for your explanation. Can you tell me more about how infectious diseases are treated?",
+            "The treatment of an infectious disease depends on the specific microorganism causing the infection. Antibiotics, antivirals, and antifungals are commonly used to treat bacterial, viral, and fungal infections, respectively. In some cases, supportive care such as rest and hydration may be all that's needed. Your doctor will be able to determine the appropriate treatment based on the type and severity of the infection",
+            "I see. Thank you for your help, Medi",
+            "You're welcome. Take care!",
+            "Can you tell me more about the symptoms of infectious diseases?"
+        ],
+        "knowledge": "Infectious diseases Infectious diseases  Additionally, the expression of symptoms is often atypical, making a clinical diagnosis based on presentation more difficult.  Thirdly, diagnostic methods that rely on the detection of antibodies are more likely to fail.  A rapid, sensitive, specific, and untargeted test for all known human pathogens that detects the presence of the organism's DNA rather than antibodies is therefore highly desirable. There is usually an indication for a specific identification of an infectious agent only when such identification can aid in the treatment or prevention of the disease, or to advance knowledge of the course of an illness prior to the development of effective therapeutic or preventative measures.  For example, in the early 1980s, prior to the appearance of AZT for the treatment of AIDS, the course of the disease was closely followed by monitoring the composition of patient blood samples, even though the outcome would not offer the patient any further treatment options.  In part, these studies on the appearance of HIV in specific communities permitted the advancement of hypotheses as to the route of transmission of the virus.  By understanding how the disease was transmitted, resources could be targeted to the communities at greatest risk in campaigns aimed at reducing the number of new infections Infectious diseases Infectious diseases",
+        "response": "The symptoms of infectious diseases can vary depending on the type of microorganism causing the infection. Common symptoms include fever, cough, body aches, fatigue, sore throat, and gastrointestinal distress. However, the expression of symptoms can be atypical, making a clinical diagnosis based on presentation more difficult"
+    }
+]
