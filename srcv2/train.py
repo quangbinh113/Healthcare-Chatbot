@@ -85,9 +85,9 @@ def train(args: Config,
             steps_trained_in_current_epoch = global_step % (len(train_dataloader) // args.gradient_accumulation_steps)
 
             print("  Continuing training from checkpoint, will skip to saved global_step")
-            print("  Continuing training from epoch %d", epochs_trained)
-            print("  Continuing training from global step %d", global_step)
-            print("  Will skip the first %d steps in the first epoch", steps_trained_in_current_epoch)
+            print(f"  Continuing training from epoch {epochs_trained}")
+            print(f"  Continuing training from global step {global_step}")
+            print(f"  Will skip the first {steps_trained_in_current_epoch} steps in the first epoch")
         except ValueError:
             print("  Starting fine-tuning.")
 
@@ -146,13 +146,13 @@ def train(args: Config,
             tokenizer.save_pretrained(output_dir)
 
             torch.save(args, os.path.join(output_dir, "training_args.bin"))
-            print("Saving the best model checkpoint to %s", output_dir)
+            print(f"Saving the best model checkpoint to {output_dir}")
 
             # _rotate_checkpoints(args, checkpoint_prefix)
 
             torch.save(optimizer.state_dict(), os.path.join(output_dir, "optimizer.pt"))
             torch.save(scheduler.state_dict(), os.path.join(output_dir, "scheduler.pt"))
-            print("Saving optimizer and scheduler states to %s", output_dir)
+            print(f"Saving optimizer and scheduler states to {output_dir}")
         epoch = i + 1
         avg_train_loss = total_train_loss / len(train_dataloader)
         print(f"Epoch {epoch}/{args.num_train_epochs} train loss: {avg_train_loss:.4f}, val loss: {val_loss},val perplexity: {epoch_perplexity:.4f}")

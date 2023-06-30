@@ -27,7 +27,7 @@ class Config():
         self.weight_decay = 0.0
         self.adam_epsilon = 1e-8
         self.max_grad_norm = 1.0
-        self.num_train_epochs = 3
+        self.num_train_epochs = 1
         self.max_steps = -1
         self.warmup_steps = 0
         self.logging_steps = 1000
