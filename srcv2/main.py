@@ -6,7 +6,6 @@ from transformers import (
     AutoConfig,
     AutoTokenizer,
     AutoModelWithLMHead,
-    WEIGHTS_NAME
 )
 import torch
 from train import train, evaluate 

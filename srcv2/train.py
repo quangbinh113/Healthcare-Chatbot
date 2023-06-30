@@ -2,14 +2,13 @@ from config import Config
 import torch
 from typing import Dict, List, Tuple
 from torch.nn.utils.rnn import pad_sequence
-from torch.utils.data import DataLoader, Dataset, RandomSampler, SequentialSampler
-from torch.utils.data.distributed import DistributedSampler
+from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
 import os
-from utils import set_seed, load_and_cache_examples, _rotate_checkpoints
+from utils import set_seed, load_and_cache_examples
 from tqdm.notebook import tqdm, trange
 from pandas import DataFrame
 
-from transformers import MODEL_WITH_LM_HEAD_MAPPING, WEIGHTS_NAME, AdamW, AutoConfig, AutoModelWithLMHead, AutoTokenizer, PreTrainedModel, PreTrainedTokenizer, get_linear_schedule_with_warmup
+from transformers import AdamW, PreTrainedModel, PreTrainedTokenizer, get_linear_schedule_with_warmup
 
 
 def train(args: Config,
@@ -66,11 +65,11 @@ def train(args: Config,
 
     # Train!
     print("***** Running training *****")
-    print("  Num examples = %d", len(train_dataset))
-    print("  Num Epochs = %d", args.num_train_epochs)
-    print("  Batch size per GPU = %d", args.train_batch_size)
-    print("  Gradient Accumulation steps = %d", args.gradient_accumulation_steps)
-    print("  Total optimization steps = %d", t_total)
+    print(f"  Num examples = {len(train_dataset)}")
+    print(f"  Num Epochs = {args.num_train_epochs}")
+    print(f"  Batch size = {args.train_batch_size}", )
+    print(f"  Gradient Accumulation steps = {args.gradient_accumulation_steps}")
+    print(f"  Total optimization steps = {t_total}")
 
     global_step = 0
     epochs_trained = 0
@@ -155,7 +154,7 @@ def train(args: Config,
             print(f"Saving optimizer and scheduler states to {output_dir}")
         epoch = i + 1
         avg_train_loss = total_train_loss / len(train_dataloader)
-        print(f"Epoch {epoch}/{args.num_train_epochs} train loss: {avg_train_loss:.4f}, val loss: {val_loss},val perplexity: {epoch_perplexity:.4f}")
+        print(f"Epoch {epoch}/{args.num_train_epochs} train loss: {avg_train_loss:.4f}, val loss: {val_loss:.4f},val perplexity: {epoch_perplexity:.4f}")
         
 
 # Evaluation of some model
