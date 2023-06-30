@@ -136,7 +136,7 @@ def train(args: Config,
             break
         # eval phase 
         epoch_perplexity = evaluate(args, model, tokenizer, df_val)['perplexity'].item()
-        val_loss = evaluate(args, model, tokenizer, df_val)['loss'].item()
+        val_loss = evaluate(args, model, tokenizer, df_val)['loss']
         if epoch_perplexity < best_perplexity:
             best_perplexity = epoch_perplexity 
             # Save model checkpoint
@@ -182,10 +182,6 @@ def evaluate(args: Config,
     eval_dataloader = DataLoader(
         eval_dataset, sampler=eval_sampler, batch_size=args.eval_batch_size, collate_fn=collate, drop_last = True
     )
-    # Eval!
-    print("***** Running evaluation {} *****".format(prefix))
-    print("  Num examples = %d", len(eval_dataset))
-    print("  Batch size = %d", args.eval_batch_size)
     eval_loss = 0.0
     nb_eval_steps = 0
     model.eval()
@@ -205,12 +201,4 @@ def evaluate(args: Config,
     perplexity = torch.exp(torch.tensor(eval_loss))
 
     result = {"perplexity": perplexity, "loss": eval_loss}
-
-    output_eval_file = os.path.join(eval_output_dir, prefix, "eval_results.txt")
-    with open(output_eval_file, "w") as writer:
-        print("***** Eval results {} *****".format(prefix))
-        for key in sorted(result.keys()):
-            print("  %s = %s", key, str(result[key]))
-            print("%s = %s\n" % (key, str(result[key])))
-
     return result
