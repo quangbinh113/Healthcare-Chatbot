@@ -19,7 +19,7 @@ class ConversationDataset(Dataset):
                  df: DataFrame, 
                  block_size=512):
 
-        block_size = block_size - (tokenizer.max_len - tokenizer.max_len_single_sentence)
+        block_size = block_size - (tokenizer.model_max_length - tokenizer.max_len_single_sentence)
 
         directory = args.cache_dir
         cached_features_file = os.path.join(
