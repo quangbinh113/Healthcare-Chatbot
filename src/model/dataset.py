@@ -61,3 +61,4 @@ class ConversationDataset(Dataset):
 
     def __getitem__(self, item):
         return torch.tensor(self.examples[item], dtype=torch.long)
+        
