@@ -7,6 +7,7 @@ import os
 from utils import set_seed, load_and_cache_examples, save_model
 from tqdm.notebook import tqdm, trange
 from pandas import DataFrame
+import wandb 
 
 from transformers import AdamW, PreTrainedModel, PreTrainedTokenizer, get_linear_schedule_with_warmup
 
