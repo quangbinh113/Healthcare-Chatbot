@@ -92,6 +92,7 @@ def train(args: Config,
             print("  Starting fine-tuning.")
 
     best_perplexity = 100000
+    best_epoch = 0
     
     model.zero_grad()
     train_iterator = trange(
@@ -139,12 +140,15 @@ def train(args: Config,
         val_loss = evaluate(args, model, tokenizer, df_val)['loss']
         if epoch_perplexity < best_perplexity:
             best_perplexity = epoch_perplexity 
+            best_epoch = i
             # Save model checkpoint
             save_model(args, model, tokenizer, optimizer, scheduler)
         epoch = i + 1
         avg_train_loss = total_train_loss / len(train_dataloader)
         print(f"Epoch {epoch}/{args.num_train_epochs} train loss: {avg_train_loss:.4f}, val loss: {val_loss:.4f},val perplexity: {epoch_perplexity:.4f}")
-        
+    print(f"Best epoch: {best_epoch}, best perplexity: {best_perplexity:.4f}")   
+    # remove cache dir
+    os.remove(args.cache_dir)
 
 # Evaluation of some model
 
