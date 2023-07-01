@@ -147,8 +147,6 @@ def train(args: Config,
         avg_train_loss = total_train_loss / len(train_dataloader)
         print(f"Epoch {epoch}/{args.num_train_epochs} train loss: {avg_train_loss:.4f}, val loss: {val_loss:.4f},val perplexity: {epoch_perplexity:.4f}")
     print(f"Best epoch: {best_epoch + i}, best perplexity: {best_perplexity:.4f}")   
-    # remove cache dir
-    os.remove(args.cache_dir)
 
 # Evaluation of some model
 
