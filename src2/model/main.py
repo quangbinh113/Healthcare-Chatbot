@@ -60,9 +60,9 @@ def main(args: Config, df_train: DataFrame, df_val: DataFrame, df_test: DataFram
     
 if __name__ == "__main__":
     args = Config()
-    df_train = pd.read_csv('../../data/train.csv')
+    df_train = pd.read_csv('../../data/train_.csv')
     df_train = df_train.drop(columns='Unnamed: 0')
-    df_val = pd.read_csv('../../data/val.csv')
+    df_val = pd.read_csv('../../data/val_.csv')
     df_val = df_val.drop(columns='Unnamed: 0')
     df_train = df_train.dropna()
     df_val = df_val.dropna()

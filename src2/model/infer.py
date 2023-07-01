@@ -4,7 +4,7 @@ import torch
 
 # Let's chat for 5 lines
 def infer(model, tokenizer):
-    for step in range(5):
+    for step in range(15):
         # encode the new user input, add the eos_token and return a tensor in Pytorch
         new_user_input_ids = tokenizer.encode(input(">> User:") + tokenizer.eos_token, return_tensors='pt')
         # print(new_user_input_ids)
@@ -28,6 +28,6 @@ def infer(model, tokenizer):
 
 if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained('microsoft/DialoGPT-small')
-    model = AutoModelWithLMHead.from_pretrained("./results/best_model")
+    model = AutoModelWithLMHead.from_pretrained("./results/best_model_dialogpt_small_28k")
 
     infer(model, tokenizer)
