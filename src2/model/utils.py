@@ -21,6 +21,25 @@ def set_seed(args: Config):
     np.random.seed(args.seed)
     torch.manual_seed(args.seed)
 
+def _sorted_checkpoints(args, checkpoint_prefix="checkpoint", use_mtime=False) -> List[str]:
+    ordering_and_checkpoint_path = []
+
+    glob_checkpoints = glob.glob(os.path.join(args.output_dir, "{}-*".format(checkpoint_prefix)))
+
+    for path in glob_checkpoints:
+        if use_mtime:
+            ordering_and_checkpoint_path.append((os.path.getmtime(path), path))
+        else:
+            regex_match = re.match(".*{}-([0-9]+)".format(checkpoint_prefix), path)
+            if regex_match and regex_match.groups():
+                ordering_and_checkpoint_path.append((int(regex_match.groups()[0]), path))
+
+    checkpoints_sorted = sorted(ordering_and_checkpoint_path)
+    checkpoints_sorted = [checkpoint[1] for checkpoint in checkpoints_sorted]
+    return checkpoints_sorted
+
+
+
 def save_model(args: Config, model: PreTrainedModel, tokenizer: PreTrainedTokenizer, optimizer, scheduler):
     output_dir = os.path.join(args.output_dir, f"{args.name}_best_model")
     os.makedirs(output_dir, exist_ok=True)
