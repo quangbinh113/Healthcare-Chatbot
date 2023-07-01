@@ -28,6 +28,6 @@ def infer(model, tokenizer):
 
 if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained('microsoft/DialoGPT-small')
-    model = AutoModelWithLMHead.from_pretrained("./results/best_model_dialogpt_small_28k")
+    model = AutoModelWithLMHead.from_pretrained("./results/best_model_dialogpt_small_7k")
 
     infer(model, tokenizer)
