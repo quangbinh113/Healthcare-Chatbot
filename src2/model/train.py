@@ -17,6 +17,13 @@ def train(args: Config,
           df_val: DataFrame, 
           model: PreTrainedModel, 
           tokenizer: PreTrainedTokenizer) -> Tuple[int, float]:
+    """ Wandb init """
+    wandb.init(
+    # set the wandb project where this run will be logged
+        project="health-care chatbot",
+        name="DialogGPT-small-model 7k",
+)
+    
     """ Train the model """
 
     def collate(examples: List[torch.Tensor]):
@@ -99,7 +106,7 @@ def train(args: Config,
         epochs_trained, int(args.num_train_epochs), desc="Epoch", disable=args.local_rank not in [-1, 0]
     )
     set_seed(args)  # Added here for reproducibility
-    for i, _ in enumerate(train_iterator):
+    for i in train_iterator:
         epoch_iterator = tqdm(train_dataloader, desc="Iteration", disable=args.local_rank not in [-1, 0])
         total_train_loss = 0
         for step, batch in enumerate(epoch_iterator):
@@ -118,6 +125,7 @@ def train(args: Config,
 
             loss.backward()
 
+            avg_loss = loss.mean().item()
             total_train_loss += loss.mean().item()
 
             torch.nn.utils.clip_grad_norm_(model.parameters(), args.max_grad_norm)
@@ -132,20 +140,28 @@ def train(args: Config,
             if args.max_steps > 0 and global_step > args.max_steps:
                 epoch_iterator.close()
                 break
+            
+            wandb.log({"train_step_loss": avg_loss})
         if args.max_steps > 0 and global_step > args.max_steps:
             train_iterator.close()
             break
         # eval phase 
-        epoch_perplexity = evaluate(args, model, tokenizer, df_val)['perplexity'].item()
+        val_perplexity = evaluate(args, model, tokenizer, df_val)['perplexity'].item()
         val_loss = evaluate(args, model, tokenizer, df_val)['loss']
-        if epoch_perplexity < best_perplexity:
-            best_perplexity = epoch_perplexity 
+        if val_perplexity < best_perplexity:
+            best_perplexity = val_perplexity 
             best_epoch = i
             # Save model checkpoint
             save_model(args, model, tokenizer, optimizer, scheduler)
         epoch = i + 1
         avg_train_loss = total_train_loss / len(train_dataloader)
-        print(f"Epoch {epoch}/{args.num_train_epochs} train loss: {avg_train_loss:.4f}, val loss: {val_loss:.4f},val perplexity: {epoch_perplexity:.4f}")
+        train_perplexity = torch.exp(torch.tensor(avg_train_loss))
+        wandb.log({"train_epoch_loss": avg_train_loss, 
+                   "val_epoch_loss": val_loss,
+                   "train_perplexity": train_perplexity, 
+                   "val_perplexity": val_perplexity})
+        print(f"Epoch {epoch}/{args.num_train_epochs} train loss: {avg_train_loss:.4f}, val loss: {val_loss:.4f},val perplexity: {val_perplexity:.4f}")
+    wandb.finish()
     print(f"Best epoch: {best_epoch + i}, best perplexity: {best_perplexity:.4f}")   
 
 # Evaluation of some model
