@@ -7,26 +7,27 @@ from datasets import load_dataset
 import accelerate
 import evaluate
 import torch
+import json
 nltk.download('punkt')
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, Seq2SeqTrainingArguments,TrainingArguments, Seq2SeqTrainer, DataCollatorForSeq2Seq
 
-tokenizer = AutoTokenizer.from_pretrained("microsoft/GODEL-v1_1-base-seq2seq")
-model = AutoModelForSeq2SeqLM.from_pretrained("microsoft/GODEL-v1_1-base-seq2seq")
-
-
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 parser = argparse.ArgumentParser(description='Transformation my dataset to group dataset type')
-parser.add_argument('--train', type=str,default="",
-                    help='train file path ')
-parser.add_argument('--dev', type=str,default="",
-                    help='validation file path ')
-parser.add_argument('--test', type=str,default="",
-                    help='test file path ')
-parser.add_argument('--save_path', type=str,default="",
-                    help='save path for model')
-parser.add_argument('--length', type=int,default=320,
-                    help='length of tokenizer')
-
+parser.add_argument('--config', type=str,default="",
+                    help='config file path ')
 args = parser.parse_args()
+
+with open(args.config, "rb") as f:
+  config = json.load(f)
+
+if len(list(os.listdir(config["save_path"])))>0:
+  tokenizer = AutoTokenizer.from_pretrained(os.path.join(config["save_path"],os.listdir(config["save_path"])[0]))
+  model = AutoModelForSeq2SeqLM.from_pretrained(os.path.join(config["save_path"],os.listdir(config["save_path"])[0]))
+
+else:
+  tokenizer = AutoTokenizer.from_pretrained("microsoft/GODEL-v1_1-base-seq2seq")
+  model = AutoModelForSeq2SeqLM.from_pretrained("microsoft/GODEL-v1_1-base-seq2seq")
+
 
 def tokenize_function(examples):
 
@@ -35,10 +36,10 @@ def tokenize_function(examples):
     inputs = [f"{instruction_k} [CONTEXT] {' EOS '.join(dialog)} [KNOWLEDGE] {knowledge}" if knowledge != "" else\
               f"{instruction_nk} [CONTEXT] {' EOS '.join(dialog)}" for dialog, knowledge in zip(examples["dialog"], examples["knowledge"])]
     targets = [ex for ex in examples["response"]]
-    model_inputs = tokenizer(inputs, max_length=args.length, truncation=True)
+    model_inputs = tokenizer(inputs, max_length=config["length"], truncation=True)
 
     # Setup the tokenizer for targets
-    labels = tokenizer(text_target= targets, max_length=args.length, truncation=True)
+    labels = tokenizer(text_target= targets, max_length=config["length"], truncation=True)
     model_inputs["labels"] = labels["input_ids"]
     return model_inputs
 
@@ -56,7 +57,6 @@ class f1:
       for j in " ".join(references[i][0]).split():
         if j in " ".join(predictions[i]).split():
           recall += 1
-      print((len(" ".join(predictions[i]).split())+1),len(" ".join(references[i][0]).split()))
       p = precision/(len(" ".join(predictions[i]).split())+1)
       r = recall/(len(" ".join(references[i][0]).split())+1)
       e = (1e-5)/(len(" ".join(predictions[i]).split())+len(" ".join(references[i][0]).split())+2)
@@ -111,31 +111,36 @@ def compute_metrics(eval_pred):
 
 if __name__  == "__main__":
     root = os.getcwd()
-    dataset = load_dataset("json", data_files={"train": args.train, "validation":args.dev,"test":args.test})
+    dataset = load_dataset("json", data_files={"train": config["train"], "validation":config["dev"],"test":config["test"]})
     metric1 = evaluate.load("bleu")
     metric2 = evaluate.load("rouge")
     metric3 = evaluate.load("meteor")
     metric4 = evaluate.load("perplexity", module_type="metric")
     metric5 = f1()
 
-    tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size = 32)
+    tokenized_datasets = dataset.map(tokenize_function, batched=True)
 
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
-    training_args = Seq2SeqTrainingArguments(output_dir="content",
+    training_args = Seq2SeqTrainingArguments(output_dir=config["save_path"],
                                   report_to="tensorboard",
                                   load_best_model_at_end = True,
                                   save_strategy="epoch",
                                   evaluation_strategy="epoch",
-                                  per_device_train_batch_size=32,
-                                  per_device_eval_batch_size=128,
+                                  per_device_train_batch_size=config["batch_size"],
+                                  per_device_eval_batch_size=config["batch_size_eval"],
                                   dataloader_num_workers=2,
                                   fp16=True,
                                   save_total_limit=1,
                                   logging_strategy="epoch",
                                   predict_with_generate=True,
-                                  num_train_epochs=20,
-                                  learning_rate=2e-5,
-                                  weight_decay=1e-3)
+                                  num_train_epochs=config["epoch"],
+                                  learning_rate=config["lr"],
+                                  weight_decay=config["weight_decay"],
+		  local_rank = config["gpu"],
+		  torch_compile = True,
+		  optim = config["optim"],
+		  gradient_accumulation_steps = config["gradient_accumulation_steps"]
+)
     trainer =  Seq2SeqTrainer(
         model=model,
         args=training_args,
@@ -146,5 +151,6 @@ if __name__  == "__main__":
         compute_metrics=compute_metrics
     )
     trainer.train()
-    trainer.save_model(args.save_path+"/model-v1.0.0")
-    trainer.evaluate(tokenized_datasets["test"])
+    trainer.save_model(config["save_path"]+"/model-v1.0.0")
+    with open(config["save_path"]+"/test_results.txt","w") as f:
+         f.write(str(trainer.evaluate(tokenized_datasets["test"])))

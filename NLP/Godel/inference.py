@@ -23,6 +23,8 @@ parser.add_argument('--type', type=str,default="bm25",
                     help='algorithm type of choosing relevant document')
 parser.add_argument('--model_path', type=str,default="",
                     help='path to the finetune model')
+parser.add_argument('--document_file', type=str,default="",
+                    help='path to the document source')
 parser.add_argument('--strategy', type=str,default="combine",
                     help='"combine" all the relevant document found or \
                       "best-fit" for choosing the document with highest score or\
@@ -150,8 +152,8 @@ def generate(knowledge, dialog):
 if __name__ =="__main__":
     document_list = []
     dialog = ["Hello, I am Medi, an online healcare chatbot. How can I help you today?"]
-    for i in os.listdir(os.path.join(root,"chunking")):
-        with open(os.path.join(root,"chunking",i),"r") as f:
+    for i in os.listdir(os.path.join(args.document_file,"chunking")):
+        with open(os.path.join(args.document_file,"chunking",i),"r") as f:
             document_list.append(f.read())
     print("Medi: Hello, I am Medi, an online healcare chatbot. How can I help you today?")
     while True:
