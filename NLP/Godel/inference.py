@@ -156,19 +156,29 @@ if __name__ =="__main__":
         with open(os.path.join(args.document_file,"chunking",i),"r") as f:
             document_list.append(f.read())
     print("Medi: Hello, I am Medi, an online healcare chatbot. How can I help you today?")
+    topic = ""
+    temp = ""
     while True:
+        
         question = input("You: ").replace("Medi","").replace("medi","")
         if question.lower() == "quit":
             break
         dialog.append(question)
-        relevant_doc = document_search(question, document_list,num = args.num, thres = args.thres,type= args.type)
-        print("Document: "+ str(relevant_doc[0][1]))
+        if " this " in question or " these " in question or " those " in question:
+          topic = temp
+        else:
+          topic = ""
+          temp = ""
+        print("Search query:", topic+question)
+        relevant_doc = document_search(topic+question, document_list,num = args.num, thres = args.thres,type= args.type)
         if args.strategy == "combine":
            knowledge = " ".join([i[1] for i in relevant_doc])
         if args.strategy == "best-fit":
            knowledge = relevant_doc[0][1]
         if args.strategy == "random":
            knowledge = random.choice(relevant_doc)[1]
+        print("Document: "+ str(knowledge))
+        temp = " ".join(knowledge.split()[:2]) + " "
         answer = generate(knowledge, dialog)
         print("Medi: "+ str(answer))
         dialog.append(answer)
