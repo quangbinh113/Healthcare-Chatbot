@@ -20,6 +20,7 @@ with open(args.config, "rb") as f:
     config = json.load(f)
 
 tokenizer = AutoTokenizer.from_pretrained('microsoft/DialoGPT-small')
+tokenizer.pad_token = tokenizer.eos_token
 model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-small")
 
 
