@@ -30,18 +30,18 @@ def tokenize_function(examples):
     targets = [ex for ex in examples["response"]]
     model_inputs = tokenizer(inputs, 
                              max_length=config["length"], 
-                            #  padding=True, 
+                             padding=True, 
                              truncation=True,
                              return_tensors="pt",
         )
 
     # Setup the tokenizer for targets
-    # labels = tokenizer(text_target= targets, 
-    #                    max_length=config["length"], 
-    #                    padding=True, 
-    #                    truncation=True,
-    #                    return_tensors="pt",
-    #                    )
+    labels = tokenizer(text_target= targets, 
+                       max_length=config["length"], 
+                       padding=True, 
+                       truncation=True,
+                       return_tensors="pt",
+                       )
     
     # output = {}
     # output["input_ids"] = model_inputs["input_ids"]
@@ -49,7 +49,6 @@ def tokenize_function(examples):
     # output["labels"] = labels["input_ids"]
     
     # Setup the tokenizer for targets
-    labels = tokenizer(text_target= targets, max_length=config["length"], truncation=True)
     model_inputs["labels"] = labels["input_ids"]
     
     
