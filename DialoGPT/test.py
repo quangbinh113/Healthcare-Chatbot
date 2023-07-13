@@ -129,7 +129,7 @@ if __name__  == "__main__":
     metric4 = evaluate.load("perplexity", module_type="metric")
     metric5 = f1()
 
-    tokenized_datasets = dataset.map(tokenize_function, batched=True)
+    tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size=16)
     # print(tokenized_datasets['train'][0])
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
     training_args = Seq2SeqTrainingArguments(output_dir=config["save_path"],
