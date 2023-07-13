@@ -41,6 +41,8 @@ def tokenize_function(examples):
     # Setup the tokenizer for targets
     labels = tokenizer(text_target= targets, max_length=config["length"], truncation=True)
     model_inputs["labels"] = labels["input_ids"]
+    
+    
     return model_inputs
 
 class f1:

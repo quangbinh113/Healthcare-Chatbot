@@ -30,8 +30,12 @@ def tokenize_function(examples):
 
     # Setup the tokenizer for targets
     labels = tokenizer(text_target= targets, max_length=config["length"], truncation=True)
-    model_inputs["labels"] = labels["input_ids"]
-    return model_inputs
+    
+    output = {}
+    output["input_ids"] = model_inputs["input_ids"]
+    output["attention_mask"] = model_inputs["attention_mask"]
+    output["labels"] = labels["input_ids"]
+    return output
 
 class f1:
   def compute(self,predictions, references, type = 'marco'):
@@ -102,6 +106,7 @@ def compute_metrics(eval_pred):
 if __name__  == "__main__":
     root = os.getcwd()
     dataset = load_dataset("json", data_files={"train": config["train"], "validation":config["dev"],"test":config["test"]})
+    # print(dataset['train'][0])
     metric1 = evaluate.load("bleu")
     metric2 = evaluate.load("rouge")
     metric3 = evaluate.load("meteor")
@@ -109,7 +114,7 @@ if __name__  == "__main__":
     metric5 = f1()
 
     tokenized_datasets = dataset.map(tokenize_function, batched=True)
-
+    # print(tokenized_datasets['train'][0])
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
     training_args = Seq2SeqTrainingArguments(output_dir=config["save_path"],
                                 #   report_to="tensorboard",
