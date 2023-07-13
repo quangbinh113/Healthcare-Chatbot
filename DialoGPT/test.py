@@ -22,7 +22,7 @@ with open(args.config, "rb") as f:
 tokenizer = AutoTokenizer.from_pretrained('microsoft/DialoGPT-small')
 tokenizer.pad_token_id = tokenizer.eos_token_id 
 
-model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-small")
+model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-small", pad_token_id=tokenizer.eos_token_id, max_length=config["length"])
 
 
 def tokenize_function(examples):
