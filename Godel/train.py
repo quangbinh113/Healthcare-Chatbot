@@ -113,7 +113,8 @@ def compute_metrics(eval_pred):
 
 if __name__  == "__main__":
     root = os.getcwd()
-    dataset = load_dataset("json", data_files={"train": config["train"], "validation":config["dev"],"test":config["test"]})
+    data_files = {"train": config["train"], "validation":config["dev"],"test":config["test"]}
+    dataset = load_dataset("json", data_files=data_files)
     metric1 = evaluate.load("bleu")
     metric2 = evaluate.load("rouge")
     metric3 = evaluate.load("meteor")
