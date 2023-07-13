@@ -22,7 +22,7 @@ with open(args.config, "rb") as f:
 tokenizer = AutoTokenizer.from_pretrained('microsoft/DialoGPT-small')
 tokenizer.pad_token_id = tokenizer.eos_token_id 
 
-model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-small", pad_token_id=tokenizer.eos_token_id, max_length=config["length"])
+model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-small")
 
 
 def tokenize_function(examples):
@@ -30,24 +30,30 @@ def tokenize_function(examples):
     targets = [ex for ex in examples["response"]]
     model_inputs = tokenizer(inputs, 
                              max_length=config["length"], 
-                             padding=True, 
+                            #  padding=True, 
                              truncation=True,
                              return_tensors="pt",
         )
 
     # Setup the tokenizer for targets
-    labels = tokenizer(text_target= targets, 
-                       max_length=config["length"], 
-                       padding=True, 
-                       truncation=True,
-                       return_tensors="pt",
-                       )
+    # labels = tokenizer(text_target= targets, 
+    #                    max_length=config["length"], 
+    #                    padding=True, 
+    #                    truncation=True,
+    #                    return_tensors="pt",
+    #                    )
     
-    output = {}
-    output["input_ids"] = model_inputs["input_ids"]
-    output["attention_mask"] = model_inputs["attention_mask"]
-    output["labels"] = labels["input_ids"]
-    return output
+    # output = {}
+    # output["input_ids"] = model_inputs["input_ids"]
+    # output["attention_mask"] = model_inputs["attention_mask"]
+    # output["labels"] = labels["input_ids"]
+    
+    # Setup the tokenizer for targets
+    labels = tokenizer(text_target= targets, max_length=config["length"], truncation=True)
+    model_inputs["labels"] = labels["input_ids"]
+    
+    
+    return model_inputs
 
 class f1:
   def compute(self,predictions, references, type = 'marco'):
@@ -118,7 +124,7 @@ def compute_metrics(eval_pred):
 if __name__  == "__main__":
     root = os.getcwd()
     dataset = load_dataset("json", data_files={"train": config["train"], "validation":config["dev"],"test":config["test"]})
-    # print(dataset['train'][0])
+   
     metric1 = evaluate.load("bleu")
     metric2 = evaluate.load("rouge")
     metric3 = evaluate.load("meteor")
@@ -126,6 +132,9 @@ if __name__  == "__main__":
     metric5 = f1()
 
     tokenized_datasets = dataset.map(tokenize_function, batched=True)
+    print(tokenized_datasets['train'][0]["input_ids"].shape) 
+    print(tokenized_datasets['train'][0]["attention_mask"].shape)
+    print(tokenized_datasets['train'][0]["labels"].shape)
     # print(tokenized_datasets['train'][0])
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
     training_args = Seq2SeqTrainingArguments(output_dir=config["save_path"],
