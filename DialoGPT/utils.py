@@ -42,9 +42,9 @@ def _sorted_checkpoints(args, checkpoint_prefix="checkpoint", use_mtime=False) -
 
 def read_file(path: dict):
     df_train = pd.read_csv(path['train'])
-    df_train = df_train.drop(columns='Unnamed: 0')
+    # df_train = df_train.drop(columns='Unnamed: 0')
     df_val = pd.read_csv(path['val'])
-    df_val = df_val.drop(columns='Unnamed: 0')
+    # df_val = df_val.drop(columns='Unnamed: 0')
     df_train = df_train.dropna()
     df_val = df_val.dropna()
     return df_train, df_val
