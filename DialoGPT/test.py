@@ -20,7 +20,8 @@ with open(args.config, "rb") as f:
     config = json.load(f)
 
 tokenizer = AutoTokenizer.from_pretrained('microsoft/DialoGPT-small')
-tokenizer.pad_token_id = tokenizer.eos_token_id
+tokenizer.pad_token_id = tokenizer.eos_token_id 
+
 model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-small")
 
 
@@ -32,7 +33,7 @@ def tokenize_function(examples):
                              padding=True, 
                              truncation=True,
                              return_tensors="pt",
-                             max_new_tokens = 1000)
+        )
 
     # Setup the tokenizer for targets
     labels = tokenizer(text_target= targets, 
@@ -40,7 +41,7 @@ def tokenize_function(examples):
                        padding=True, 
                        truncation=True,
                        return_tensors="pt",
-                       max_new_tokens = 1000)
+                       )
     
     output = {}
     output["input_ids"] = model_inputs["input_ids"]
