@@ -4,7 +4,7 @@ from typing import Dict, List, Tuple
 from torch.nn.utils.rnn import pad_sequence
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
 import os
-from utils import set_seed, load_and_cache_examples, save_model
+from utils import set_seed, load_and_cache_examples, save_model, read_file
 from tqdm.notebook import tqdm, trange
 from pandas import DataFrame
 import wandb 
@@ -13,16 +13,17 @@ from transformers import AdamW, PreTrainedModel, PreTrainedTokenizer, get_linear
 
 
 def train(args: Config,
-          df_train: DataFrame,
-          df_val: DataFrame, 
           model: PreTrainedModel, 
           tokenizer: PreTrainedTokenizer) -> Tuple[int, float]:
     """ Wandb init """
     wandb.init(
     # set the wandb project where this run will be logged
         project="health-care chatbot",
-        name="DialogGPT-small-model 7k",
+        name=args.experiment_name,
 )
+    """Read data"""
+    
+    df_train, df_val = read_file(args.data_path)
     
     """ Train the model """
 

@@ -5,6 +5,11 @@
 
 class Config():
     def __init__(self):
+        self.data_path = {
+                            'train': '../data/train_.csv', 
+                            'val': '../data/val_.csv'
+                        }
+        self.experiment_name = ''
         self.output_dir = 'results'
         self.model_type = 'gpt2'
         self.name = 'DialogGPT-small'

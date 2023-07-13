@@ -9,7 +9,9 @@ import os
 from typing import List
 import re
 from pandas import DataFrame
+import pandas as pd
 from transformers import PreTrainedModel, PreTrainedTokenizer
+
 
 
 def load_and_cache_examples(args: Config, tokenizer, df: DataFrame):
@@ -38,7 +40,14 @@ def _sorted_checkpoints(args, checkpoint_prefix="checkpoint", use_mtime=False) -
     checkpoints_sorted = [checkpoint[1] for checkpoint in checkpoints_sorted]
     return checkpoints_sorted
 
-
+def read_file(path: dict):
+    df_train = pd.read_csv(path['train'])
+    df_train = df_train.drop(columns='Unnamed: 0')
+    df_val = pd.read_csv(path['val'])
+    df_val = df_val.drop(columns='Unnamed: 0')
+    df_train = df_train.dropna()
+    df_val = df_val.dropna()
+    return df_train, df_val
 
 def save_model(args: Config, model: PreTrainedModel, tokenizer: PreTrainedTokenizer, optimizer, scheduler):
     output_dir = os.path.join(args.output_dir, f"{args.name}_best_model")

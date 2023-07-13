@@ -2,6 +2,8 @@ from config import Config
 from utils import set_seed, _sorted_checkpoints
 import os
 import glob
+import argparse
+
 from transformers import (
     AutoConfig,
     AutoTokenizer,
@@ -12,7 +14,7 @@ from train import train, evaluate
 import pandas as pd
 from pandas import DataFrame
 
-def main(args: Config, df_train: DataFrame, df_val: DataFrame, df_test: DataFrame = None):
+def main(args: Config):
     if args.should_continue:
         sorted_checkpoints = _sorted_checkpoints(args)
         if len(sorted_checkpoints) == 0:
@@ -54,18 +56,34 @@ def main(args: Config, df_train: DataFrame, df_val: DataFrame, df_test: DataFram
 
     # Training
     if args.do_train:
-        train(args, df_train, df_val, model, tokenizer)
+        train(args, model, tokenizer)
 
     # Evaluation
     
 if __name__ == "__main__":
-    args = Config()
-    df_train = pd.read_csv('../../data/train_.csv')
-    df_train = df_train.drop(columns='Unnamed: 0')
-    df_val = pd.read_csv('../../data/val_.csv')
-    df_val = df_val.drop(columns='Unnamed: 0')
-    df_train = df_train.dropna()
-    df_val = df_val.dropna()
+    parser = argparse.ArgumentParser()
+                        
+    parser.add_argument('--num_epochs', type=int, default=10)
+    parser.add_argument('--model', type=str, default="DialoGPT-small")
+    parser.add_argument('--experiment_name', type=str, default="")
+    parser.add_argument('--train_path', type=str, default="../data/train_.csv")
+    parser.add_argument('--val_path', type=str, default="../data/train_.csv")
     
-    main(args, df_train, df_val)
+    parse = parser.parse_args()
+    
+    data_path = {
+                    'train': parse.train_path,
+                    'val': parse.val_path
+                }
+    args = Config()
+    
+    args.data_path = data_path
+    args.num_train_epochs = parse.num_epochs
+    args.experiment_name = parse.experiment_name
+    args.name = parse.model
+    args.model_name_or_path = 'microsoft/' + parse.model
+    args.config_name = 'microsoft/' + parse.model
+    args.tokenizer_name = 'microsoft/' + parse.model
+    
+    main(args)
     print("Done!")
