@@ -131,9 +131,6 @@ if __name__  == "__main__":
     metric5 = f1()
 
     tokenized_datasets = dataset.map(tokenize_function, batched=True)
-    print(tokenized_datasets['train'][0]["input_ids"].shape) 
-    print(tokenized_datasets['train'][0]["attention_mask"].shape)
-    print(tokenized_datasets['train'][0]["labels"].shape)
     # print(tokenized_datasets['train'][0])
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
     training_args = Seq2SeqTrainingArguments(output_dir=config["save_path"],
