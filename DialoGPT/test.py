@@ -26,10 +26,18 @@ model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-small")
 def tokenize_function(examples):
     inputs = [tokenizer.eos_token.join(dialog) + tokenizer.eos_token for dialog in examples["dialog"]]
     targets = [ex for ex in examples["response"]]
-    model_inputs = tokenizer(inputs, max_length=config["length"], truncation=True)
+    model_inputs = tokenizer(inputs, 
+                             max_length=config["length"], 
+                             padding=True, 
+                             truncation=True,
+                             return_tensors="pt")
 
     # Setup the tokenizer for targets
-    labels = tokenizer(text_target= targets, max_length=config["length"], truncation=True)
+    labels = tokenizer(text_target= targets, 
+                       max_length=config["length"], 
+                       padding=True, 
+                       truncation=True,
+                       return_tensors="pt")
     
     output = {}
     output["input_ids"] = model_inputs["input_ids"]
