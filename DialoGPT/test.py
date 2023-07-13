@@ -9,11 +9,12 @@ from torch.nn.utils.rnn import pad_sequence
 from torch.utils.data import DataLoader,SequentialSampler
 from tqdm.notebook import tqdm, trange
 import os
+import pandas as pd
 
 def evaluate(args: Config, 
              model: PreTrainedModel, 
              tokenizer: PreTrainedTokenizer, 
-             df: DataFrame, 
+             df_test: DataFrame, 
              prefix="") -> Dict:
     # Loop to handle MNLI double evaluation (matched, mis-matched)
     eval_output_dir = args.output_dir
@@ -64,6 +65,7 @@ if __name__ == "__main__":
     args = Config()
     model = None
     tokenizer = None
-    df = 'E:/Workspace/NLP.2022.2.Generative-Based-Chatbot/data/test.csv'
-    evaluate(args, model, tokenizer, df)
+    path= "data/DialoGPT_format/csv_data/test.csv"
+    df_test = pd.read_csv(path)
+    evaluate(args, model, tokenizer, df_test)
     print("Done!")
