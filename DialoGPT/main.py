@@ -66,8 +66,8 @@ if __name__ == "__main__":
     parser.add_argument('--num_epochs', type=int, default=10)
     parser.add_argument('--model', type=str, default="DialoGPT-small")
     parser.add_argument('--experiment_name', type=str, default="")
-    parser.add_argument('--train_path', type=str, default="../data/train_.csv")
-    parser.add_argument('--val_path', type=str, default="../data/train_.csv")
+    parser.add_argument('--train_path', type=str, default="../data/DialoGPT_format/csv_data/train.csv")
+    parser.add_argument('--val_path', type=str, default="../data/DialoGPT_format/csv_data/validation.csv")
     
     parse = parser.parse_args()
     

@@ -6,8 +6,8 @@
 class Config():
     def __init__(self):
         self.data_path = {
-                            'train': '../data/train_.csv', 
-                            'val': '../data/val_.csv'
+                            'train': '../data/DialoGPT_format/csv_data/train.csv', 
+                            'val': '../data/DialoGPT_format/csv_data/validation.csv'
                         }
         self.experiment_name = ''
         self.output_dir = 'results'
