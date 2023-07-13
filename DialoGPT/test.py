@@ -31,14 +31,16 @@ def tokenize_function(examples):
                              max_length=config["length"], 
                              padding=True, 
                              truncation=True,
-                             return_tensors="pt")
+                             return_tensors="pt",
+                             max_new_tokens = 1000)
 
     # Setup the tokenizer for targets
     labels = tokenizer(text_target= targets, 
                        max_length=config["length"], 
                        padding=True, 
                        truncation=True,
-                       return_tensors="pt")
+                       return_tensors="pt",
+                       max_new_tokens = 1000)
     
     output = {}
     output["input_ids"] = model_inputs["input_ids"]
