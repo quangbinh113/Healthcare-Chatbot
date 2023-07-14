@@ -1,4 +1,4 @@
-from transformers import AutoModelWithLMHead, AutoTokenizer
+from transformers import AutoModelWithLMHead, AutoTokenizer, AutoModelForCausalLM, AutoModelForSeq2SeqLM
 import torch
 
 
@@ -22,13 +22,11 @@ def infer(model, tokenizer):
             top_p=0.7,
             temperature = 0.8
         )
-        output = model(bot_input_ids) 
-        print(output)
         # pretty print last ouput tokens from bot
         print("Medi: {}".format(tokenizer.decode(chat_history_ids[:, bot_input_ids.shape[-1]:][0], skip_special_tokens=True)))
 
 if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained('microsoft/DialoGPT-small')
-    model = AutoModelWithLMHead.from_pretrained("E:/Workspace/NLP.2022.2.Generative-Based-Chatbot\DialoGPT/results/best_model_dialogpt_small_7k")
+    model = AutoModelForSeq2SeqLM.from_pretrained("microsoft/DialoGPT-small")
 
     infer(model, tokenizer)
