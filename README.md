@@ -1,20 +1,11 @@
-# NLP.2022.2.Generative-Based-Chatbot
+# Health-care Chatbot
 
 The objective is to create a HealthCare-Domain chatbot that can generate answers itself.
-Our Project focuses on various domains (Simple chitchat, Question & Answering, Disease Prediction, etc..)
 
-# For Data Generator
+## The data for training Health-care Chatbot 
 
-In the ./data_crawler/data/src/context_url.txt paste some specific links of the topic. 
-Next, go to run_spider.py and run. It will access the topic url and retrieve all the strings within it, and perform the same process with 100 links contained within the topic link. Finally, save them to separate files within a folder named after the topic of the original link. 
+You can generate the data by visit the `data` folder under the `root` folder
 
-We aim to use ChatGPT-API to generate Questions and Answering from the contexts scrapted from the webs.
+- **Folder `get_data`**: Contains the python file to crawl data from Wikipedia and then transform it into dialogues by the power of OpenAI API.
 
-Our dataset will contain several features (Question, Answer, Context, Dialog, intent_tag, action_tag).
-
-## The data for training Health-care Chatbot
-
-- **Folder `raw_data`**: Contains the corpus about 28 types of diseases from Wiki.
-
-- **Folder `conversation_data`**: Contains the corpus about conversations generated from the corpus in `raw_data` using ChatGPT.
 
