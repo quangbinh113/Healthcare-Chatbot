@@ -1,0 +1,14 @@
+{
+"save_path": "./result",
+"length": 1600,
+"train":"../data/final_data/train.json",
+"dev":"../data/final_data/validation.json",
+"test":"../data/final_data/test.json",
+"batch_size": 4,
+"batch_size_eval": 4,
+"epoch": 10,
+"lr": 5e-5,
+"weight_decay": 0,
+"gpu":-1,
+" gradient_accumulation_steps": 1
+}
