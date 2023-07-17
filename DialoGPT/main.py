@@ -81,9 +81,14 @@ if __name__ == "__main__":
     args.num_train_epochs = parse.num_epochs
     args.experiment_name = parse.experiment_name
     args.name = parse.model
-    args.model_name_or_path = 'microsoft/' + parse.model
-    args.config_name = 'microsoft/' + parse.model
-    args.tokenizer_name = 'microsoft/' + parse.model
+    if parse.model.startswith("DialoGPT"):
+        args.model_name_or_path = 'microsoft/' + parse.model
+        args.config_name = 'microsoft/' + parse.model
+        args.tokenizer_name = 'microsoft/' + parse.model
+    else :
+        args.model_name_or_path = parse.model
+        args.config_name = parse.model
+        args.tokenizer_name = parse.model
     
     main(args)
     print("Done!")

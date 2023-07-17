@@ -207,6 +207,7 @@ def evaluate(args: Config,
     eval_loss = eval_loss / nb_eval_steps
     perplexity = torch.exp(torch.tensor(eval_loss))
     
+    
     try:
         with open(os.path.join(eval_output_dir, "eval_results.txt"), "w") as writer:
             writer.write(f"perplexity: {perplexity}\n loss: {eval_loss}")

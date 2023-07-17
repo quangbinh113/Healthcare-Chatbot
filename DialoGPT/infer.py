@@ -26,7 +26,9 @@ def infer(model, tokenizer):
         print("Medi: {}".format(tokenizer.decode(chat_history_ids[:, bot_input_ids.shape[-1]:][0], skip_special_tokens=True)))
 
 if __name__ == "__main__":
-    tokenizer = AutoTokenizer.from_pretrained('microsoft/DialoGPT-small')
-    model = AutoModelForSeq2SeqLM.from_pretrained("microsoft/DialoGPT-small")
-
+    # tokenizer = AutoTokenizer.from_pretrained('microsoft/DialoGPT-medium')
+    # model = AutoModelWithLMHead.from_pretrained("./results/DialoGPT-medium_best_model")
+    tokenizer = AutoTokenizer.from_pretrained("gpt2")
+    model = AutoModelWithLMHead.from_pretrained("gpt2")
+    # print(model)
     infer(model, tokenizer)
