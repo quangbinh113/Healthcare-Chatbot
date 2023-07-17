@@ -35,7 +35,10 @@ def convert_to_csv(source_path):
 
         # Create the dataframe from the list of rows
         df = pd.DataFrame(rows)
-
+        # Replace the empty strings with special value
+        df = df.replace(r'^\s*$', 'EMPTY', regex=True)
+        # count the number of row has NA value
+        count = df.isna().sum().sum()
         # Save the dataframe to CSV format
         df.to_csv(f"./{filename}", index=False)
 

@@ -8,7 +8,7 @@ from pandas import DataFrame
 
 def construct_conv(row, tokenizer, eos = True):
     flatten = lambda l: [item for sublist in l for item in sublist]
-    conv = list(reversed([tokenizer.encode(x) + [tokenizer.eos_token_id] for x in row if x != ""]))
+    conv = list(reversed([tokenizer.encode(x) + [tokenizer.eos_token_id] for x in row if x != "EMPTY"]))
     conv = flatten(conv)
     return conv
 
