@@ -122,6 +122,7 @@ def train(args: Config,
             labels = labels.to(args.device)
             model.train()
             outputs = model(inputs, labels=labels)
+
             loss = outputs[0]  # model outputs are always tuple in transformers (see doc)
 
             loss.backward()
