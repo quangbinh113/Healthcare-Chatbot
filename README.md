@@ -24,6 +24,9 @@ In  **Folder `views`** you can see a "Chatbot.py" file. Open your cmd and run co
 
 ![alt text](https://github.com/quangbinh113/healthcare-chatbot/blob/main/data/images/medi.png?raw=true)
 
+# Lisense
+GPL-3.0 License
+
 # Contributors
 
 - [Truong Quang Binh](https://github.com/quangbinh113)
